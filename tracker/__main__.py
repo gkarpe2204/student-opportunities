@@ -13,8 +13,9 @@ from datetime import date
 from urllib.parse import urlparse
 
 from . import sources
+from .geo import country_of
 from .models import SOURCE_PRIORITY, Conference, slugify
-from .render import update_readme
+from .render import update_readme, write_region_pages
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
 log = logging.getLogger("tracker")
@@ -64,6 +65,9 @@ def main() -> None:
 
     confs = [c for c in dedupe(confs) if c.url and sources.is_upcoming(c)]
 
+    for c in confs:
+        c.country = c.country or country_of(c.location, c.online)
+
     prev = load_previous()
     for c in confs:
         c.first_seen = prev.get(c.id, {}).get("first_seen") or today.isoformat()
@@ -75,6 +79,7 @@ def main() -> None:
         with open(path, "w") as f:
             json.dump(payload, f, indent=1, ensure_ascii=False)
     update_readme("README.md", confs, today)
+    write_region_pages("regions", confs, today)
     log.info("wrote %d upcoming conferences", len(confs))
 
 
