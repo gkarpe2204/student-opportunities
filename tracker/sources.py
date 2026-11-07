@@ -201,6 +201,21 @@ def pick_event_dates(head: str, body: str) -> dict:
 
 
 # ---------------------------------------------------------------- watchlist
+def next_deadline(e: dict, today) -> tuple:
+    """Earliest deadline on or after today from `deadlines:` (list) or the single `deadline:` field."""
+    items = list(e.get("deadlines") or [])
+    if e.get("deadline"):
+        items.append({"date": e["deadline"], "label": e.get("deadline_label", ""), "url": e.get("deadline_url", "")})
+    upcoming = sorted(
+        ((to_date(d.get("date")), d.get("label", ""), d.get("url", "") or e.get("deadline_url", "")) for d in items),
+        key=lambda t: t[0] or today,
+    )
+    for d, label, url in upcoming:
+        if d and d >= today:
+            return d, label, url
+    return None, "", ""
+
+
 def watchlist(path: str = "data/watchlist.yml") -> list[Conference]:
     """Hand-curated student conferences. Manual dates win; otherwise scrape the site."""
     with open(path) as f:
@@ -211,14 +226,11 @@ def watchlist(path: str = "data/watchlist.yml") -> list[Conference]:
             name=e["name"], url=e["url"], category=e.get("category", "student"), source="watchlist",
             start=to_date(e.get("start")), end=to_date(e.get("end")),
             location=e.get("location", ""), online=bool(e.get("online", False)),
-            deadline=to_date(e.get("deadline")), deadline_label=e.get("deadline_label", ""),
-            deadline_url=e.get("deadline_url", ""), topics=e.get("topics", []),
-            notes=e.get("notes", ""),
+            topics=e.get("topics", []), notes=e.get("notes", ""),
         )
+        c.deadline, c.deadline_label, c.deadline_url = next_deadline(e, TODAY)
         if c.end and c.end < TODAY:      # manual dates are stale -> re-scrape
             c.start = c.end = None
-        if c.deadline and c.deadline < TODAY:
-            c.deadline, c.deadline_label = None, ""
         if not c.start:
             try:
                 ev = extract_event(e.get("dates_url") or c.url)
