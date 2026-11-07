@@ -18,6 +18,8 @@ A list of **upcoming conferences students can attend, present at, or get scholar
 - **[📚 Academic CS Conferences (paper deadlines)](#-academic-cs-conferences-paper-deadlines)** — 264
 - **[💻 Industry & Developer Conferences](#-industry--developer-conferences)** — 132
 
+🌍 **Only want one part of the world?** [North America](regions/north-america.md) (111) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (165) · [Asia](regions/asia.md) (89) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (16) · [Online](regions/online.md) (7) · [Location TBA](regions/location-tba.md) (18)
+
 _Last updated: November 7, 2026_
 
 ## 🎓 Student & Diversity Conferences

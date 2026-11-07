@@ -10,6 +10,7 @@
    "start": "2026-11-05",
    "end": "2026-11-08",
    "location": "Hengqin, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -21,7 +22,8 @@
    "notes": "National Conference on Man-Machine Speech Communication",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ncmmsc-2026"
+   "id": "ncmmsc-2026",
+   "region": "Asia"
   },
   {
    "name": "IJCNLP 2026",
@@ -31,6 +33,7 @@
    "start": "2026-11-06",
    "end": "2026-11-10",
    "location": "Hengqin, Zhuhai, China (Hybrid)",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -42,7 +45,8 @@
    "notes": "International Joint Conference on Natural Language Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ijcnlp-2026"
+   "id": "ijcnlp-2026",
+   "region": "Asia"
   },
   {
    "name": "Moldova DevCon",
@@ -52,6 +56,7 @@
    "start": "2026-11-06",
    "end": "2026-11-07",
    "location": "Chișinău, Moldova",
+   "country": "Moldova",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -63,7 +68,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "moldova-devcon-2026"
+   "id": "moldova-devcon-2026",
+   "region": "Europe"
   },
   {
    "name": "INSCRYPT 2026",
@@ -73,6 +79,7 @@
    "start": "2026-11-07",
    "end": "2026-11-09",
    "location": "Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -84,7 +91,8 @@
    "notes": "International Conference on Information Security and Cryptology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "inscrypt-2026"
+   "id": "inscrypt-2026",
+   "region": "Asia"
   },
   {
    "name": "FOCS 2026",
@@ -94,6 +102,7 @@
    "start": "2026-11-08",
    "end": "2026-11-11",
    "location": "New York City, NY, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -105,7 +114,8 @@
    "notes": "IEEE Symposium on Foundations of Computer Science",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "focs-2026"
+   "id": "focs-2026",
+   "region": "North America"
   },
   {
    "name": "ICCAD 2026",
@@ -115,6 +125,7 @@
    "start": "2026-11-08",
    "end": "2026-11-12",
    "location": "San Jose, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -126,7 +137,8 @@
    "notes": "IEEE/ACM International Conference on Computer-Aided Design",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iccad-2026"
+   "id": "iccad-2026",
+   "region": "North America"
   },
   {
    "name": "CIKM 2026",
@@ -136,6 +148,7 @@
    "start": "2026-11-09",
    "end": "2026-11-11",
    "location": "Rome, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -147,7 +160,8 @@
    "notes": "ACM International Conference on Information and Knowledge Management",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cikm-2026"
+   "id": "cikm-2026",
+   "region": "Europe"
   },
   {
    "name": "CoRL 2026",
@@ -157,6 +171,7 @@
    "start": "2026-11-09",
    "end": "2026-11-11",
    "location": "Austin, Texas, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -168,7 +183,8 @@
    "notes": "The Conference on Robot Learning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "corl-2026"
+   "id": "corl-2026",
+   "region": "North America"
   },
   {
    "name": "Gerrit User Summit",
@@ -178,6 +194,7 @@
    "start": "2026-11-09",
    "end": "2026-11-10",
    "location": "San Francisco, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -189,7 +206,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gerrit-user-summit-2026"
+   "id": "gerrit-user-summit-2026",
+   "region": "North America"
   },
   {
    "name": "LeadDev Berlin",
@@ -199,6 +217,7 @@
    "start": "2026-11-09",
    "end": "2026-11-10",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -211,7 +230,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "leaddev-berlin-2026"
+   "id": "leaddev-berlin-2026",
+   "region": "Europe"
   },
   {
    "name": "Unhacked 360 Germany: FutureSec Summit",
@@ -221,6 +241,7 @@
    "start": "2026-11-09",
    "end": "2026-11-10",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -232,7 +253,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "unhacked-360-germany-futuresec-summit-2026"
+   "id": "unhacked-360-germany-futuresec-summit-2026",
+   "region": "Europe"
   },
   {
    "name": "IEEE VIS 2026",
@@ -242,6 +264,7 @@
    "start": "2026-11-10",
    "end": "2026-11-13",
    "location": "Boston, Massachusetts, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -253,7 +276,8 @@
    "notes": "IEEE Visualization Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ieee-vis-2026"
+   "id": "ieee-vis-2026",
+   "region": "North America"
   },
   {
    "name": "Porto Tech Hub Conference",
@@ -263,6 +287,7 @@
    "start": "2026-11-10",
    "end": "2026-11-10",
    "location": "Porto, Portugal",
+   "country": "Portugal",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -274,7 +299,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "porto-tech-hub-conference-2026"
+   "id": "porto-tech-hub-conference-2026",
+   "region": "Europe"
   },
   {
    "name": "TCC 2026",
@@ -284,6 +310,7 @@
    "start": "2026-11-10",
    "end": "2026-11-13",
    "location": "New York City, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -295,7 +322,8 @@
    "notes": "Theory of Cryptography Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "tcc-2026"
+   "id": "tcc-2026",
+   "region": "North America"
   },
   {
    "name": "ACM MM 2026",
@@ -305,6 +333,7 @@
    "start": "2026-11-11",
    "end": "2026-11-14",
    "location": "Rio de Janeiro, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -316,7 +345,8 @@
    "notes": "ACM International Conference on Multimedia",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acm-mm-2026"
+   "id": "acm-mm-2026",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "CLC",
@@ -326,6 +356,7 @@
    "start": "2026-11-11",
    "end": "2026-11-12",
    "location": "Mannheim, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -337,7 +368,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "clc-2026"
+   "id": "clc-2026",
+   "region": "Europe"
   },
   {
    "name": "CMS Conf",
@@ -347,6 +379,7 @@
    "start": "2026-11-12",
    "end": "2026-11-14",
    "location": "Gdynia, Poland",
+   "country": "Poland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -358,7 +391,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cms-conf-2026"
+   "id": "cms-conf-2026",
+   "region": "Europe"
   },
   {
    "name": "SpiceWorld",
@@ -368,6 +402,7 @@
    "start": "2026-11-12",
    "end": "2026-11-13",
    "location": "Austin, TX, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -379,7 +414,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "spiceworld-2026"
+   "id": "spiceworld-2026",
+   "region": "North America"
   },
   {
    "name": "Ubuntu Summit",
@@ -389,6 +425,7 @@
    "start": "2026-11-12",
    "end": "2026-11-13",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -400,7 +437,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ubuntu-summit-2026"
+   "id": "ubuntu-summit-2026",
+   "region": "Online"
   },
   {
    "name": "ADMA 2026",
@@ -410,6 +448,7 @@
    "start": "2026-11-13",
    "end": "2026-11-15",
    "location": "Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -421,7 +460,8 @@
    "notes": "The International Conference on Advanced Data Mining and Applications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "adma-2026"
+   "id": "adma-2026",
+   "region": "Asia"
   },
   {
    "name": "ICDM 2026",
@@ -431,6 +471,7 @@
    "start": "2026-11-13",
    "end": "2026-11-15",
    "location": "Shenyang, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -442,7 +483,8 @@
    "notes": "IEEE International Conference on Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdm-2026"
+   "id": "icdm-2026",
+   "region": "Asia"
   },
   {
    "name": "VIC AI Boom",
@@ -452,6 +494,7 @@
    "start": "2026-11-13",
    "end": "2026-11-13",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -465,7 +508,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vic-ai-boom-2026"
+   "id": "vic-ai-boom-2026",
+   "region": "Oceania"
   },
   {
    "name": "CollaborateCom 2026",
@@ -475,6 +519,7 @@
    "start": "2026-11-14",
    "end": "2026-11-15",
    "location": "Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -486,7 +531,8 @@
    "notes": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "collaboratecom-2026"
+   "id": "collaboratecom-2026",
+   "region": "Asia"
   },
   {
    "name": "AI Coding Summit New York Edition",
@@ -496,6 +542,7 @@
    "start": "2026-11-16",
    "end": "2026-11-19",
    "location": "New York, NY, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -507,7 +554,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-coding-summit-new-york-edition-2026"
+   "id": "ai-coding-summit-new-york-edition-2026",
+   "region": "North America"
   },
   {
    "name": "AI Engineering Summit",
@@ -517,6 +565,7 @@
    "start": "2026-11-16",
    "end": "2026-11-20",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -528,7 +577,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-engineering-summit-2026"
+   "id": "ai-engineering-summit-2026",
+   "region": "Europe"
   },
   {
    "name": "API Conference Berlin",
@@ -538,6 +588,7 @@
    "start": "2026-11-16",
    "end": "2026-11-20",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -551,7 +602,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "api-conference-berlin-2026"
+   "id": "api-conference-berlin-2026",
+   "region": "Europe"
   },
   {
    "name": "CCS 2026",
@@ -561,6 +613,7 @@
    "start": "2026-11-16",
    "end": "2026-11-18",
    "location": "World Forum, Hague, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -572,7 +625,8 @@
    "notes": "ACM Conference on Computer and Communications Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ccs-2026"
+   "id": "ccs-2026",
+   "region": "Europe"
   },
   {
    "name": "HalfStack Vienna",
@@ -582,6 +636,7 @@
    "start": "2026-11-16",
    "end": "2026-11-16",
    "location": "Vienna, Austria",
+   "country": "Austria",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -593,7 +648,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "halfstack-vienna-2026"
+   "id": "halfstack-vienna-2026",
+   "region": "Europe"
   },
   {
    "name": "HotNets 2026",
@@ -603,6 +659,7 @@
    "start": "2026-11-16",
    "end": "2026-11-17",
    "location": "Salt Lake City, Utah, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -614,7 +671,8 @@
    "notes": "ACM Workshop on Hot Topics in Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hotnets-2026"
+   "id": "hotnets-2026",
+   "region": "North America"
   },
   {
    "name": "ICAIF 2026",
@@ -624,6 +682,7 @@
    "start": "2026-11-16",
    "end": "2026-11-17",
    "location": "Milan, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -635,7 +694,8 @@
    "notes": "International Conference on AI in Finance",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icaif-2026"
+   "id": "icaif-2026",
+   "region": "Europe"
   },
   {
    "name": "ICCD 2026",
@@ -645,6 +705,7 @@
    "start": "2026-11-16",
    "end": "2026-11-18",
    "location": "Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -656,7 +717,8 @@
    "notes": "International Conference on Computer Design",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iccd-2026"
+   "id": "iccd-2026",
+   "region": "Asia"
   },
   {
    "name": "JSNation US",
@@ -666,6 +728,7 @@
    "start": "2026-11-16",
    "end": "2026-11-19",
    "location": "New York, NY, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -677,7 +740,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jsnation-us-2026"
+   "id": "jsnation-us-2026",
+   "region": "North America"
   },
   {
    "name": "MLCon Berlin",
@@ -687,6 +751,7 @@
    "start": "2026-11-16",
    "end": "2026-11-20",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -698,7 +763,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mlcon-berlin-2026"
+   "id": "mlcon-berlin-2026",
+   "region": "Europe"
   },
   {
    "name": "NextGen Intelligence Conference: Data, Cloud & AI",
@@ -708,6 +774,7 @@
    "start": "2026-11-16",
    "end": "2026-11-17",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -719,7 +786,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "nextgen-intelligence-conference-data-cloud-ai-2026"
+   "id": "nextgen-intelligence-conference-data-cloud-ai-2026",
+   "region": "Europe"
   },
   {
    "name": "SC 2026",
@@ -729,6 +797,7 @@
    "start": "2026-11-16",
    "end": "2026-11-20",
    "location": "McCormick Place, Chicago, Illinois, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -740,7 +809,8 @@
    "notes": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sc-2026"
+   "id": "sc-2026",
+   "region": "North America"
   },
   {
    "name": "SIGOPS ATC 2026",
@@ -750,6 +820,7 @@
    "start": "2026-11-16",
    "end": "2026-11-18",
    "location": "Hyatt Hotel, Shatin, Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -761,7 +832,8 @@
    "notes": "ACM SIGOPS Annual Technical Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigops-atc-2026"
+   "id": "sigops-atc-2026",
+   "region": "Asia"
   },
   {
    "name": "Software Architecture Gathering",
@@ -771,6 +843,7 @@
    "start": "2026-11-16",
    "end": "2026-11-19",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -782,7 +855,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "software-architecture-gathering-2026"
+   "id": "software-architecture-gathering-2026",
+   "region": "Europe"
   },
   {
    "name": "VibeKode Berlin",
@@ -792,6 +866,7 @@
    "start": "2026-11-16",
    "end": "2026-11-20",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -803,7 +878,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vibekode-berlin-2026"
+   "id": "vibekode-berlin-2026",
+   "region": "Europe"
   },
   {
    "name": "betterCode() .NET 11.0",
@@ -813,6 +889,7 @@
    "start": "2026-11-17",
    "end": "2026-11-17",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -824,7 +901,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bettercode-net-11-0-2026"
+   "id": "bettercode-net-11-0-2026",
+   "region": "Online"
   },
   {
    "name": "Open Source Monitoring conference",
@@ -834,6 +912,7 @@
    "start": "2026-11-17",
    "end": "2026-11-19",
    "location": "Nürnberg, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -845,7 +924,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "open-source-monitoring-conference-2026"
+   "id": "open-source-monitoring-conference-2026",
+   "region": "Europe"
   },
   {
    "name": "React Summit US",
@@ -855,6 +935,7 @@
    "start": "2026-11-17",
    "end": "2026-11-20",
    "location": "New York, NY, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -866,7 +947,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "react-summit-us-2026"
+   "id": "react-summit-us-2026",
+   "region": "North America"
   },
   {
    "name": "ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)",
@@ -876,6 +958,7 @@
    "start": "2026-11-18",
    "end": "2026-11-21",
    "location": "Seattle, WA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -888,7 +971,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "abrcms-annual-biomedical-research-conference-for-minoritized-scientists-2026"
+   "id": "abrcms-annual-biomedical-research-conference-for-minoritized-scientists-2026",
+   "region": "North America"
   },
   {
    "name": "ASF Community Over Code / ChurConf",
@@ -898,6 +982,7 @@
    "start": "2026-11-18",
    "end": "2026-11-19",
    "location": "Sidney, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -910,7 +995,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "asf-community-over-code-churconf-2026"
+   "id": "asf-community-over-code-churconf-2026",
+   "region": "Oceania"
   },
   {
    "name": "Community Over Code Sydney",
@@ -920,6 +1006,7 @@
    "start": "2026-11-18",
    "end": "2026-11-19",
    "location": "Sydney, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -933,7 +1020,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "community-over-code-sydney-2026"
+   "id": "community-over-code-sydney-2026",
+   "region": "Oceania"
   },
   {
    "name": "ICFEM 2026",
@@ -943,6 +1031,7 @@
    "start": "2026-11-18",
    "end": "2026-11-20",
    "location": "Southampton, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -954,7 +1043,8 @@
    "notes": "International Conference on Formal Engineering Methods",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icfem-2026"
+   "id": "icfem-2026",
+   "region": "Europe"
   },
   {
    "name": "PRICAI 2026",
@@ -964,6 +1054,7 @@
    "start": "2026-11-18",
    "end": "2026-11-20",
    "location": "Guangzhou, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -975,7 +1066,8 @@
    "notes": "Pacific Rim International Conference on Artificial Intelligence",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pricai-2026"
+   "id": "pricai-2026",
+   "region": "Asia"
   },
   {
    "name": "SoCC 2026",
@@ -985,6 +1077,7 @@
    "start": "2026-11-18",
    "end": "2026-11-20",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -996,7 +1089,8 @@
    "notes": "ACM Symposium on Cloud Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "socc-2026"
+   "id": "socc-2026",
+   "region": "Asia"
   },
   {
    "name": "inside agile Product Owner Day",
@@ -1006,6 +1100,7 @@
    "start": "2026-11-19",
    "end": "2026-11-19",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1017,7 +1112,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "inside-agile-product-owner-day-2026"
+   "id": "inside-agile-product-owner-day-2026",
+   "region": "Online"
   },
   {
    "name": "SDM 2026",
@@ -1027,6 +1123,7 @@
    "start": "2026-11-19",
    "end": "2026-11-20",
    "location": "Salt Lake City, Utah, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1038,7 +1135,8 @@
    "notes": "SIAM International Conference on Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sdm-2026"
+   "id": "sdm-2026",
+   "region": "North America"
   },
   {
    "name": "X-Ops Conference Madrid",
@@ -1048,6 +1146,7 @@
    "start": "2026-11-19",
    "end": "2026-11-21",
    "location": "Madrid, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1060,7 +1159,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "x-ops-conference-madrid-2026"
+   "id": "x-ops-conference-madrid-2026",
+   "region": "Europe"
   },
   {
    "name": "Agentic Engineering Days Zurich",
@@ -1070,6 +1170,7 @@
    "start": "2026-11-20",
    "end": "2026-11-20",
    "location": "Zurich, Switzerland",
+   "country": "Switzerland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1081,7 +1182,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "agentic-engineering-days-zurich-2026"
+   "id": "agentic-engineering-days-zurich-2026",
+   "region": "Europe"
   },
   {
    "name": "droidCon India",
@@ -1091,6 +1193,7 @@
    "start": "2026-11-20",
    "end": "2026-11-20",
    "location": "Bengaluru, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1103,7 +1206,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "droidcon-india-2026"
+   "id": "droidcon-india-2026",
+   "region": "Asia"
   },
   {
    "name": "LOG 2026",
@@ -1113,6 +1217,7 @@
    "start": "2026-11-20",
    "end": "2026-11-22",
    "location": "Northeastern University, Boston, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1124,7 +1229,8 @@
    "notes": "Learning on Graphs Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "log-2026"
+   "id": "log-2026",
+   "region": "North America"
   },
   {
    "name": "flutterCon India",
@@ -1134,6 +1240,7 @@
    "start": "2026-11-21",
    "end": "2026-11-21",
    "location": "Bangalore, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1145,7 +1252,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fluttercon-india-2026"
+   "id": "fluttercon-india-2026",
+   "region": "Asia"
   },
   {
    "name": "ICPADS 2026",
@@ -1155,6 +1263,7 @@
    "start": "2026-11-22",
    "end": "2026-11-26",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1166,7 +1275,8 @@
    "notes": "IEEE International Conference on Parallel and Distributed Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icpads-2026"
+   "id": "icpads-2026",
+   "region": "Asia"
   },
   {
    "name": "BMVC 2026",
@@ -1176,6 +1286,7 @@
    "start": "2026-11-23",
    "end": "2026-11-26",
    "location": "Lancaster, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1187,7 +1298,8 @@
    "notes": "British Machine Vision Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bmvc-2026"
+   "id": "bmvc-2026",
+   "region": "Europe"
   },
   {
    "name": "DDC .NET Developer Conference",
@@ -1197,6 +1309,7 @@
    "start": "2026-11-23",
    "end": "2026-11-26",
    "location": "Cologne, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1208,7 +1321,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ddc-net-developer-conference-2026"
+   "id": "ddc-net-developer-conference-2026",
+   "region": "Europe"
   },
   {
    "name": "ICECCS 2026",
@@ -1218,6 +1332,7 @@
    "start": "2026-11-23",
    "end": "2026-11-24",
    "location": "Brisbane, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1229,7 +1344,8 @@
    "notes": "International Conference on Engineering of Complex Computer Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iceccs-2026"
+   "id": "iceccs-2026",
+   "region": "Oceania"
   },
   {
    "name": "ICONIP 2026",
@@ -1239,6 +1355,7 @@
    "start": "2026-11-23",
    "end": "2026-11-27",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1250,7 +1367,8 @@
    "notes": "International Conference on Neural Information Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iconip-2026"
+   "id": "iconip-2026",
+   "region": "Oceania"
   },
   {
    "name": "ISS 2026",
@@ -1260,6 +1378,7 @@
    "start": "2026-11-23",
    "end": "2026-11-26",
    "location": "Turin, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1271,7 +1390,8 @@
    "notes": "ACM International Conference on Interactive Surfaces and Spaces",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iss-2026"
+   "id": "iss-2026",
+   "region": "Europe"
   },
   {
    "name": "MobiHoc 2026",
@@ -1281,6 +1401,7 @@
    "start": "2026-11-23",
    "end": "2026-11-25",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1292,7 +1413,8 @@
    "notes": "International Symposium on Mobile Ad Hoc Networking and Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mobihoc-2026"
+   "id": "mobihoc-2026",
+   "region": "Asia"
   },
   {
    "name": "Big Data Europe",
@@ -1302,6 +1424,7 @@
    "start": "2026-11-24",
    "end": "2026-11-27",
    "location": "Vilnius, Lithuania",
+   "country": "Lithuania",
    "online": true,
    "deadline": "2026-11-23",
    "deadline_label": "CFP",
@@ -1313,7 +1436,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "big-data-europe-2026"
+   "id": "big-data-europe-2026",
+   "region": "Europe"
   },
   {
    "name": "AI World Congress",
@@ -1323,6 +1447,7 @@
    "start": "2026-11-25",
    "end": "2026-11-26",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1334,7 +1459,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-world-congress-2026"
+   "id": "ai-world-congress-2026",
+   "region": "Europe"
   },
   {
    "name": "WeAreDevelopers Conference India",
@@ -1344,6 +1470,7 @@
    "start": "2026-11-25",
    "end": "2026-11-26",
    "location": "Bengaluru, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1355,7 +1482,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wearedevelopers-conference-india-2026"
+   "id": "wearedevelopers-conference-india-2026",
+   "region": "Asia"
   },
   {
    "name": "EdTech Conference",
@@ -1365,6 +1493,7 @@
    "start": "2026-11-26",
    "end": "2026-11-27",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1376,7 +1505,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "edtech-conference-2026"
+   "id": "edtech-conference-2026",
+   "region": "Europe"
   },
   {
    "name": "Workplace Ninjas India",
@@ -1386,6 +1516,7 @@
    "start": "2026-11-27",
    "end": "2026-11-28",
    "location": "Delhi, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1397,7 +1528,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "workplace-ninjas-india-2026"
+   "id": "workplace-ninjas-india-2026",
+   "region": "Asia"
   },
   {
    "name": "FOSS for All Conference",
@@ -1407,6 +1539,7 @@
    "start": "2026-11-28",
    "end": "2026-11-28",
    "location": "Seoul, South Korea",
+   "country": "South Korea",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1419,7 +1552,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "foss-for-all-conference-2026"
+   "id": "foss-for-all-conference-2026",
+   "region": "Asia"
   },
   {
    "name": "APIConf",
@@ -1429,6 +1563,7 @@
    "start": "2026-11-30",
    "end": "2026-12-02",
    "location": "Clear Water, FL, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1440,7 +1575,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "apiconf-2026"
+   "id": "apiconf-2026",
+   "region": "North America"
   },
   {
    "name": "DAI 2026",
@@ -1450,6 +1586,7 @@
    "start": "2026-11-30",
    "end": "2026-12-01",
    "location": "Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1461,7 +1598,8 @@
    "notes": "International Conference on Distributed Artificial Intelligence",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dai-2026"
+   "id": "dai-2026",
+   "region": "Asia"
   },
   {
    "name": "DevOpsCon Munich",
@@ -1471,6 +1609,7 @@
    "start": "2026-11-30",
    "end": "2026-12-04",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1482,7 +1621,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devopscon-munich-2026"
+   "id": "devopscon-munich-2026",
+   "region": "Europe"
   },
   {
    "name": "ESPC",
@@ -1492,6 +1632,7 @@
    "start": "2026-11-30",
    "end": "2026-12-03",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1505,7 +1646,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "espc-2026"
+   "id": "espc-2026",
+   "region": "Europe"
   },
   {
    "name": "IT Security Summit Munich",
@@ -1515,6 +1657,7 @@
    "start": "2026-11-30",
    "end": "2026-12-04",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1527,7 +1670,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "it-security-summit-munich-2026"
+   "id": "it-security-summit-munich-2026",
+   "region": "Europe"
   },
   {
    "name": "ACM SIGGRAPH ASIA 2026",
@@ -1537,6 +1681,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "KLCC, Kuala Lumpur, Malaysia",
+   "country": "Malaysia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1548,7 +1693,8 @@
    "notes": "ACM SIGGRAPH Annual Conference in Asia",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acm-siggraph-asia-2026"
+   "id": "acm-siggraph-asia-2026",
+   "region": "Asia"
   },
   {
    "name": "ACML 2026",
@@ -1558,6 +1704,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1569,7 +1716,8 @@
    "notes": "Asian Conference on Machine Learning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acml-2026"
+   "id": "acml-2026",
+   "region": "Oceania"
   },
   {
    "name": "APLAS 2026",
@@ -1579,6 +1727,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1590,7 +1739,8 @@
    "notes": "Asian Symposium on Programming Languages and Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "aplas-2026"
+   "id": "aplas-2026",
+   "region": "Asia"
   },
   {
    "name": "ATS 2026",
@@ -1600,6 +1750,7 @@
    "start": "2026-12-01",
    "end": "2026-12-03",
    "location": "Kaohsiung, Taiwan",
+   "country": "Taiwan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1611,7 +1762,8 @@
    "notes": "IEEE Asian Test Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ats-2026"
+   "id": "ats-2026",
+   "region": "Asia"
   },
   {
    "name": "ATVA 2026",
@@ -1621,6 +1773,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1632,7 +1785,8 @@
    "notes": "International Symposium on Automated Technology for Verification and Analysis",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "atva-2026"
+   "id": "atva-2026",
+   "region": "Asia"
   },
   {
    "name": "BIBM 2026",
@@ -1642,6 +1796,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Dallas, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1653,7 +1808,8 @@
    "notes": "IEEE International Conference on Bioinformatics and Biomedicine",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bibm-2026"
+   "id": "bibm-2026",
+   "region": "North America"
   },
   {
    "name": "Build It Summit",
@@ -1663,6 +1819,7 @@
    "start": "2026-12-01",
    "end": "2026-12-03",
    "location": "Paris, France",
+   "country": "France",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1676,7 +1833,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "build-it-summit-2026"
+   "id": "build-it-summit-2026",
+   "region": "Europe"
   },
   {
    "name": "ICSOC 2026",
@@ -1686,6 +1844,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Lodz, Poland",
+   "country": "Poland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1697,7 +1856,8 @@
    "notes": "International Conference on Service Oriented Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icsoc-2026"
+   "id": "icsoc-2026",
+   "region": "Europe"
   },
   {
    "name": "inside agile: Agile Leadership Conference",
@@ -1707,6 +1867,7 @@
    "start": "2026-12-01",
    "end": "2026-12-02",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1718,7 +1879,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "inside-agile-agile-leadership-conference-2026"
+   "id": "inside-agile-agile-leadership-conference-2026",
+   "region": "Online"
   },
   {
    "name": "WINE 2026",
@@ -1728,6 +1890,7 @@
    "start": "2026-12-01",
    "end": "2026-12-04",
    "location": "Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1739,7 +1902,8 @@
    "notes": "Conference on Web and Internet Economics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wine-2026"
+   "id": "wine-2026",
+   "region": "Asia"
   },
   {
    "name": "SETTA 2026",
@@ -1749,6 +1913,7 @@
    "start": "2026-12-02",
    "end": "2026-12-04",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1760,7 +1925,8 @@
    "notes": "Symposium on Dependable Software Engineering: Theories, Tools and Applications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "setta-2026"
+   "id": "setta-2026",
+   "region": "Asia"
   },
   {
    "name": "Tech Leader Summit",
@@ -1770,6 +1936,7 @@
    "start": "2026-12-02",
    "end": "2026-12-04",
    "location": "Clearwater, FL, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1781,7 +1948,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "tech-leader-summit-2026"
+   "id": "tech-leader-summit-2026",
+   "region": "North America"
   },
   {
    "name": "WiCON 2026",
@@ -1791,6 +1959,7 @@
    "start": "2026-12-02",
    "end": "2026-12-04",
    "location": "Bratislava, Slovakia (Hybrid)",
+   "country": "Slovakia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1802,7 +1971,8 @@
    "notes": "International Wireless Internet Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wicon-2026"
+   "id": "wicon-2026",
+   "region": "Europe"
   },
   {
    "name": "Write the Docs Australia",
@@ -1812,6 +1982,7 @@
    "start": "2026-12-03",
    "end": "2026-12-04",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1823,7 +1994,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "write-the-docs-australia-2026"
+   "id": "write-the-docs-australia-2026",
+   "region": "Oceania"
   },
   {
    "name": "AI Coding Summit Berlin Edition",
@@ -1833,6 +2005,7 @@
    "start": "2026-12-04",
    "end": "2026-12-07",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1844,7 +2017,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-coding-summit-berlin-edition-2026"
+   "id": "ai-coding-summit-berlin-edition-2026",
+   "region": "Europe"
   },
   {
    "name": "PDCAT 2026",
@@ -1854,6 +2028,7 @@
    "start": "2026-12-04",
    "end": "2026-12-06",
    "location": "Changsha, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1865,7 +2040,8 @@
    "notes": "International Conference on Parallel and Distributed Computing, Applications and Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pdcat-2026"
+   "id": "pdcat-2026",
+   "region": "Asia"
   },
   {
    "name": "PyConf",
@@ -1875,6 +2051,7 @@
    "start": "2026-12-04",
    "end": "2026-12-06",
    "location": "San Francisco, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1886,7 +2063,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pyconf-2026"
+   "id": "pyconf-2026",
+   "region": "North America"
   },
   {
    "name": "React Day Berlin",
@@ -1896,6 +2074,7 @@
    "start": "2026-12-04",
    "end": "2026-12-07",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -1907,7 +2086,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "react-day-berlin-2026"
+   "id": "react-day-berlin-2026",
+   "region": "Europe"
   },
   {
    "name": "DevFestMN",
@@ -1917,6 +2097,7 @@
    "start": "2026-12-05",
    "end": "2026-12-05",
    "location": "Minneapolis, MN, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1928,7 +2109,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devfestmn-2026"
+   "id": "devfestmn-2026",
+   "region": "North America"
   },
   {
    "name": "ACSAC 2026",
@@ -1938,6 +2120,7 @@
    "start": "2026-12-07",
    "end": "2026-12-11",
    "location": "Los Angeles, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1949,7 +2132,8 @@
    "notes": "Annual Computer Security Applications Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acsac-2026"
+   "id": "acsac-2026",
+   "region": "North America"
   },
   {
    "name": "APSEC 2026",
@@ -1959,6 +2143,7 @@
    "start": "2026-12-07",
    "end": "2026-12-10",
    "location": "Bali, Indonesia",
+   "country": "Indonesia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1970,7 +2155,8 @@
    "notes": "Asia-Pacific Software Engineering Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "apsec-2026"
+   "id": "apsec-2026",
+   "region": "Asia"
   },
   {
    "name": "ArchConf",
@@ -1980,6 +2166,7 @@
    "start": "2026-12-07",
    "end": "2026-12-10",
    "location": "Clearwater, FL, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -1991,7 +2178,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "archconf-2026"
+   "id": "archconf-2026",
+   "region": "North America"
   },
   {
    "name": "ASIACRYPT 2026",
@@ -2001,6 +2189,7 @@
    "start": "2026-12-07",
    "end": "2026-12-11",
    "location": "Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2012,7 +2201,8 @@
    "notes": "International Conference on the Theory and Application of Cryptology and Information Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "asiacrypt-2026"
+   "id": "asiacrypt-2026",
+   "region": "Asia"
   },
   {
    "name": "CoNEXT 2026",
@@ -2022,6 +2212,7 @@
    "start": "2026-12-07",
    "end": "2026-12-10",
    "location": "Utrecht, The Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2033,7 +2224,8 @@
    "notes": "International Conference on Emerging Networking Experiments and Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "conext-2026"
+   "id": "conext-2026",
+   "region": "Europe"
   },
   {
    "name": "GLOBECOM 2026",
@@ -2043,6 +2235,7 @@
    "start": "2026-12-07",
    "end": "2026-12-11",
    "location": "Macao, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2054,7 +2247,8 @@
    "notes": "IEEE Global Communications Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "globecom-2026"
+   "id": "globecom-2026",
+   "region": "Asia"
   },
   {
    "name": "ISAAC 2026",
@@ -2064,6 +2258,7 @@
    "start": "2026-12-07",
    "end": "2026-12-09",
    "location": "Hangzhou, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2075,7 +2270,8 @@
    "notes": "International Symposium on Algorithms and Computation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "isaac-2026"
+   "id": "isaac-2026",
+   "region": "Asia"
   },
   {
    "name": "IT-Tage",
@@ -2085,6 +2281,7 @@
    "start": "2026-12-07",
    "end": "2026-12-10",
    "location": "Frankfurt am Main, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2098,7 +2295,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "it-tage-2026"
+   "id": "it-tage-2026",
+   "region": "Europe"
   },
   {
    "name": "Conversations Roadshow: New York by CTO Craft",
@@ -2108,6 +2306,7 @@
    "start": "2026-12-08",
    "end": "2026-12-09",
    "location": "New York, NY, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2119,7 +2318,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "conversations-roadshow-new-york-by-cto-craft-2026"
+   "id": "conversations-roadshow-new-york-by-cto-craft-2026",
+   "region": "North America"
   },
   {
    "name": "FPT 2026",
@@ -2129,6 +2329,7 @@
    "start": "2026-12-08",
    "end": "2026-12-10",
    "location": "Honolulu, Hawaii, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2140,7 +2341,8 @@
    "notes": "International Conference on Field Programmable Technology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fpt-2026"
+   "id": "fpt-2026",
+   "region": "North America"
   },
   {
    "name": "droidcon London",
@@ -2150,6 +2352,7 @@
    "start": "2026-12-09",
    "end": "2026-12-10",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2162,7 +2365,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "droidcon-london-2026"
+   "id": "droidcon-london-2026",
+   "region": "Europe"
   },
   {
    "name": "Great International AI Native Summit (GAINS)",
@@ -2172,6 +2376,7 @@
    "start": "2026-12-09",
    "end": "2026-12-10",
    "location": "Bangalore, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2183,7 +2388,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "great-international-ai-native-summit-gains-2026"
+   "id": "great-international-ai-native-summit-gains-2026",
+   "region": "Asia"
   },
   {
    "name": "RTSS 2026",
@@ -2193,6 +2399,7 @@
    "start": "2026-12-09",
    "end": "2026-12-11",
    "location": "Yokohama, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2204,7 +2411,8 @@
    "notes": "The IEEE Real-Time Systems Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "rtss-2026"
+   "id": "rtss-2026",
+   "region": "Asia"
   },
   {
    "name": "INDOCRYPT 2026",
@@ -2214,6 +2422,7 @@
    "start": "2026-12-13",
    "end": "2026-12-16",
    "location": "Bengaluru, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2225,7 +2434,8 @@
    "notes": "International Conference on Cryptology in India",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "indocrypt-2026"
+   "id": "indocrypt-2026",
+   "region": "Asia"
   },
   {
    "name": "SIGIR-AP 2026",
@@ -2235,6 +2445,7 @@
    "start": "2026-12-13",
    "end": "2026-12-15",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2246,7 +2457,8 @@
    "notes": "International ACM SIGIR Conference on Information Retrieval in the Asia Pacific",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigir-ap-2026"
+   "id": "sigir-ap-2026",
+   "region": "Asia"
   },
   {
    "name": "SLT 2026",
@@ -2256,6 +2468,7 @@
    "start": "2026-12-13",
    "end": "2026-12-16",
    "location": "Palermo, Sicily, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2267,7 +2480,8 @@
    "notes": "IEEE Spoken Language Technology (SLT) Workshop",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "slt-2026"
+   "id": "slt-2026",
+   "region": "Europe"
   },
   {
    "name": "BigData 2026",
@@ -2277,6 +2491,7 @@
    "start": "2026-12-14",
    "end": "2026-12-17",
    "location": "Phoenix, Arizona, United State",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2288,7 +2503,8 @@
    "notes": "IEEE International Conference on Big Data",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bigdata-2026"
+   "id": "bigdata-2026",
+   "region": "North America"
   },
   {
    "name": "Middleware 2026",
@@ -2298,6 +2514,7 @@
    "start": "2026-12-14",
    "end": "2026-12-18",
    "location": "Universitat Rovira i Virgili, Tarragona, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2309,7 +2526,8 @@
    "notes": "International Middleware Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "middleware-2026"
+   "id": "middleware-2026",
+   "region": "Europe"
   },
   {
    "name": "MMAsia 2026",
@@ -2319,6 +2537,7 @@
    "start": "2026-12-15",
    "end": "2026-12-18",
    "location": "VinUniversity, Hanoi, Vietnam",
+   "country": "Vietnam",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2330,7 +2549,8 @@
    "notes": "ACM Multimedia Asia",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mmasia-2026"
+   "id": "mmasia-2026",
+   "region": "Asia"
   },
   {
    "name": "ACCV 2026",
@@ -2340,6 +2560,7 @@
    "start": "2026-12-16",
    "end": "2026-12-18",
    "location": "Osaka, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2351,7 +2572,8 @@
    "notes": "Asian Conference on Computer Vision",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "accv-2026"
+   "id": "accv-2026",
+   "region": "Asia"
   },
   {
    "name": "AI for Developers",
@@ -2361,6 +2583,7 @@
    "start": "2026-12-17",
    "end": "2026-12-18",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -2372,7 +2595,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-for-developers-2026"
+   "id": "ai-for-developers-2026",
+   "region": "Online"
   },
   {
    "name": "ICVRV 2026",
@@ -2382,6 +2606,7 @@
    "start": "2026-12-18",
    "end": "2026-12-20",
    "location": "ValparaÃ­so, Chile",
+   "country": "Chile",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2393,7 +2618,8 @@
    "notes": "International Conference on Virtual Reality and Visualization",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icvrv-2026"
+   "id": "icvrv-2026",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "MSN 2026",
@@ -2403,6 +2629,7 @@
    "start": "2026-12-18",
    "end": "2026-12-20",
    "location": "Ningbo, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2414,7 +2641,8 @@
    "notes": "International Conference on Mobility, Sensing and Networking",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "msn-2026"
+   "id": "msn-2026",
+   "region": "Asia"
   },
   {
    "name": "CSCloud 2026",
@@ -2424,6 +2652,7 @@
    "start": "2026-12-19",
    "end": "2026-12-21",
    "location": "Shanghai, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2435,7 +2664,8 @@
    "notes": "IEEE International Conference on Cyber Security and Cloud Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cscloud-2026"
+   "id": "cscloud-2026",
+   "region": "Asia"
   },
   {
    "name": "SciPy India",
@@ -2445,6 +2675,7 @@
    "start": "2026-12-19",
    "end": "2026-12-20",
    "location": "Chennai, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2458,7 +2689,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "scipy-india-2026"
+   "id": "scipy-india-2026",
+   "region": "Asia"
   },
   {
    "name": "ISPA 2026",
@@ -2468,6 +2700,7 @@
    "start": "2026-12-27",
    "end": "2026-12-30",
    "location": "Kuala Lumpur, Malaysia",
+   "country": "Malaysia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2479,7 +2712,8 @@
    "notes": "IEEE International Symposium on Parallel and Distributed Processing with Applications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ispa-2026"
+   "id": "ispa-2026",
+   "region": "Asia"
   },
   {
    "name": "WACV 2027",
@@ -2489,6 +2723,7 @@
    "start": "2027-01-04",
    "end": "2027-01-08",
    "location": "Disney Springs, Buena Vista, FL, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2500,7 +2735,8 @@
    "notes": "IEEE/CVF Winter Conference on Applications of Computer Vision",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wacv-2027"
+   "id": "wacv-2027",
+   "region": "North America"
   },
   {
    "name": "HICSS 2027",
@@ -2510,6 +2746,7 @@
    "start": "2027-01-05",
    "end": "2027-01-08",
    "location": "Big Island, Hawaii, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2521,7 +2758,8 @@
    "notes": "Hawaii International Conference on System Sciences",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hicss-2027"
+   "id": "hicss-2027",
+   "region": "North America"
   },
   {
    "name": "MMM 2027",
@@ -2531,6 +2769,7 @@
    "start": "2027-01-05",
    "end": "2027-01-08",
    "location": "Siem Reap, Cambodia",
+   "country": "Cambodia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2542,7 +2781,8 @@
    "notes": "International Conference on Multimedia Modeling",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mmm-2027"
+   "id": "mmm-2027",
+   "region": "Asia"
   },
   {
    "name": "IFIP WG 11.9 2027",
@@ -2552,6 +2792,7 @@
    "start": "2027-01-07",
    "end": "2027-01-08",
    "location": "New Delhi, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2563,7 +2804,8 @@
    "notes": "IFIP WG 11.9 International Conference on Digital Forensics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ifip-wg-11-9-2027"
+   "id": "ifip-wg-11-9-2027",
+   "region": "Asia"
   },
   {
    "name": "AI Conf Asia",
@@ -2573,6 +2815,7 @@
    "start": "2027-01-09",
    "end": "2027-01-10",
    "location": "Kathmandu, Nepal",
+   "country": "Nepal",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2584,7 +2827,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-conf-asia-2027"
+   "id": "ai-conf-asia-2027",
+   "region": "Asia"
   },
   {
    "name": "GROUP 2027",
@@ -2594,6 +2838,7 @@
    "start": "2027-01-10",
    "end": "2027-01-13",
    "location": "St Simons Island, Georgia, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2605,7 +2850,8 @@
    "notes": "ACM International Conference on Supporting Group Work",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "group-2027"
+   "id": "group-2027",
+   "region": "North America"
   },
   {
    "name": "POPL 2027",
@@ -2615,6 +2861,7 @@
    "start": "2027-01-10",
    "end": "2027-01-16",
    "location": "Mexico City",
+   "country": "Mexico",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2626,7 +2873,8 @@
    "notes": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "popl-2027"
+   "id": "popl-2027",
+   "region": "North America"
   },
   {
    "name": "VMCAI 2027",
@@ -2636,6 +2884,7 @@
    "start": "2027-01-11",
    "end": "2027-01-12",
    "location": "Mexico City, Mexico",
+   "country": "Mexico",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2647,7 +2896,8 @@
    "notes": "International Conference on Verification, Model Checking, and Abstract Interpretation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vmcai-2027"
+   "id": "vmcai-2027",
+   "region": "North America"
   },
   {
    "name": "PEPM 2027",
@@ -2657,6 +2907,7 @@
    "start": "2027-01-12",
    "end": "2027-01-12",
    "location": "Mexico City, Mexico",
+   "country": "Mexico",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2668,7 +2919,8 @@
    "notes": "ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pepm-2027"
+   "id": "pepm-2027",
+   "region": "North America"
   },
   {
    "name": "HiPEAC 2027",
@@ -2678,6 +2930,7 @@
    "start": "2027-01-18",
    "end": "2027-01-20",
    "location": "Glasgow, Scotland, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2689,7 +2942,8 @@
    "notes": "International Conference on High Performance and Embedded Architectures and Compilers",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hipeac-2027"
+   "id": "hipeac-2027",
+   "region": "Europe"
   },
   {
    "name": "JChampions Conference",
@@ -2699,6 +2953,7 @@
    "start": "2027-01-21",
    "end": "2027-01-26",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -2710,7 +2965,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jchampions-conference-2027"
+   "id": "jchampions-conference-2027",
+   "region": "Online"
   },
   {
    "name": "CIDR 2027",
@@ -2720,6 +2976,7 @@
    "start": "2027-01-24",
    "end": "2027-01-27",
    "location": "Amsterdam, The Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2731,7 +2988,8 @@
    "notes": "International Conference on Innovative Data Systems Research",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cidr-2027"
+   "id": "cidr-2027",
+   "region": "Europe"
   },
   {
    "name": "SODA 2027",
@@ -2741,6 +2999,7 @@
    "start": "2027-01-24",
    "end": "2027-01-27",
    "location": "Philadelphia, Pennsylvania, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2752,7 +3011,8 @@
    "notes": "ACM-SIAM Symposium on Discrete Algorithms",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "soda-2027"
+   "id": "soda-2027",
+   "region": "North America"
   },
   {
    "name": "ASP-DAC 2027",
@@ -2762,6 +3022,7 @@
    "start": "2027-01-25",
    "end": "2027-01-28",
    "location": "Hitotsubashi Hall, Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2773,7 +3034,8 @@
    "notes": "Asia and South Pacific Design Automation Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "asp-dac-2027"
+   "id": "asp-dac-2027",
+   "region": "Asia"
   },
   {
    "name": "FUN OCaml",
@@ -2783,6 +3045,7 @@
    "start": "2027-01-25",
    "end": "2027-01-26",
    "location": "Bangalore, India",
+   "country": "India",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -2794,7 +3057,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fun-ocaml-2027"
+   "id": "fun-ocaml-2027",
+   "region": "Asia"
   },
   {
    "name": "3rd International Conference on Artificial Intelligence and Data Science",
@@ -2804,6 +3068,7 @@
    "start": "2027-02-01",
    "end": "2027-02-03",
    "location": "Dubai, United Arab Emirates",
+   "country": "United Arab Emirates",
    "online": false,
    "deadline": "2027-01-18",
    "deadline_label": "CFP",
@@ -2815,7 +3080,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "3rd-international-conference-on-artificial-intelligence-and-data-science-2027"
+   "id": "3rd-international-conference-on-artificial-intelligence-and-data-science-2027",
+   "region": "Middle East & Africa"
   },
   {
    "name": "ARCtic Conference",
@@ -2825,6 +3091,7 @@
    "start": "2027-02-02",
    "end": "2027-02-04",
    "location": "Oulu, Finland",
+   "country": "Finland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2837,7 +3104,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "arctic-conference-2027"
+   "id": "arctic-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "Daytona Compute",
@@ -2847,6 +3115,7 @@
    "start": "2027-02-03",
    "end": "2027-02-04",
    "location": "San Francisco, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2860,7 +3129,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "daytona-compute-2027"
+   "id": "daytona-compute-2027",
+   "region": "North America"
   },
   {
    "name": "TechEx Global",
@@ -2870,6 +3140,7 @@
    "start": "2027-02-03",
    "end": "2027-02-04",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2882,7 +3153,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "techex-global-2027"
+   "id": "techex-global-2027",
+   "region": "Europe"
   },
   {
    "name": "HalfStack Phoenix",
@@ -2892,6 +3164,7 @@
    "start": "2027-02-05",
    "end": "2027-02-05",
    "location": "Phoenix, AZ, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2903,7 +3176,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "halfstack-phoenix-2027"
+   "id": "halfstack-phoenix-2027",
+   "region": "North America"
   },
   {
    "name": "FC 2027",
@@ -2913,6 +3187,7 @@
    "start": "2027-02-08",
    "end": "2027-02-12",
    "location": "Barbados",
+   "country": "Barbados",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2924,7 +3199,8 @@
    "notes": "Financial Cryptography and Data Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fc-2027"
+   "id": "fc-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "IUI 2027",
@@ -2934,6 +3210,7 @@
    "start": "2027-02-08",
    "end": "2027-02-11",
    "location": "Helsinki, Finland",
+   "country": "Finland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2945,7 +3222,8 @@
    "notes": "ACM Conference on Intelligent User Interfaces",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iui-2027"
+   "id": "iui-2027",
+   "region": "Europe"
   },
   {
    "name": "Developer Week",
@@ -2955,6 +3233,7 @@
    "start": "2027-02-09",
    "end": "2027-02-11",
    "location": "Santa Clara, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -2966,7 +3245,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "developer-week-2027"
+   "id": "developer-week-2027",
+   "region": "North America"
   },
   {
    "name": "WSDM 2027",
@@ -2976,6 +3256,7 @@
    "start": "2027-02-15",
    "end": "2027-02-19",
    "location": "Cordis, Hong Kong SAR, China",
+   "country": "China",
    "online": false,
    "deadline": "2026-11-17",
    "deadline_label": "Paper",
@@ -2987,7 +3268,8 @@
    "notes": "International Conference on Web Search and Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wsdm-2027"
+   "id": "wsdm-2027",
+   "region": "Asia"
   },
   {
    "name": "AAAI 2027",
@@ -2997,6 +3279,7 @@
    "start": "2027-02-16",
    "end": "2027-02-23",
    "location": "MontrÃ©al, QuÃ©bec, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3008,7 +3291,8 @@
    "notes": "AAAI Conference on Artificial Intelligence",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "aaai-2027"
+   "id": "aaai-2027",
+   "region": "North America"
   },
   {
    "name": "SIGCSE 2027",
@@ -3018,6 +3302,7 @@
    "start": "2027-02-17",
    "end": "2027-02-20",
    "location": "Sacramento, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3029,7 +3314,8 @@
    "notes": "Technical Symposium on Computer Science Education Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigcse-2027"
+   "id": "sigcse-2027",
+   "region": "North America"
   },
   {
    "name": "SIGCSE Technical Symposium",
@@ -3039,6 +3325,7 @@
    "start": "2027-02-17",
    "end": "2027-02-20",
    "location": "Sacramento, CA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3050,7 +3337,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigcse-technical-symposium-2027"
+   "id": "sigcse-technical-symposium-2027",
+   "region": "North America"
   },
   {
    "name": "FAST 2027",
@@ -3060,6 +3348,7 @@
    "start": "2027-02-23",
    "end": "2027-02-25",
    "location": "Renton, WA, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3071,7 +3360,8 @@
    "notes": "USENIX Conference on File and Storage Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fast-2027"
+   "id": "fast-2027",
+   "region": "North America"
   },
   {
    "name": "ConFoo Montreal",
@@ -3081,6 +3371,7 @@
    "start": "2027-02-24",
    "end": "2027-02-26",
    "location": "Montreal, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3092,7 +3383,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "confoo-montreal-2027"
+   "id": "confoo-montreal-2027",
+   "region": "North America"
   },
   {
    "name": "IEEE VR 2027",
@@ -3102,6 +3394,7 @@
    "start": "2027-02-27",
    "end": "2027-03-03",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3113,7 +3406,8 @@
    "notes": "IEEE Virtual Reality",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ieee-vr-2027"
+   "id": "ieee-vr-2027",
+   "region": "Oceania"
   },
   {
    "name": "BASTA! Spring",
@@ -3123,6 +3417,7 @@
    "start": "2027-03-01",
    "end": "2027-03-05",
    "location": "Frankfurt am Main, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -3136,7 +3431,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "basta-spring-2027"
+   "id": "basta-spring-2027",
+   "region": "Europe"
   },
   {
    "name": "PKC 2027",
@@ -3146,6 +3442,7 @@
    "start": "2027-03-01",
    "end": "2027-03-04",
    "location": "Taipei, Taiwan",
+   "country": "Taiwan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3157,7 +3454,8 @@
    "notes": "International Conference on Practice and Theory of Public-Key Cryptography",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pkc-2027"
+   "id": "pkc-2027",
+   "region": "Asia"
   },
   {
    "name": "Mountain Camp",
@@ -3167,6 +3465,7 @@
    "start": "2027-03-02",
    "end": "2027-03-04",
    "location": "Davos, Switzerland",
+   "country": "Switzerland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3179,7 +3478,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mountain-camp-2027"
+   "id": "mountain-camp-2027",
+   "region": "Europe"
   },
   {
    "name": "CHIIR 2027",
@@ -3189,6 +3489,7 @@
    "start": "2027-03-07",
    "end": "2027-03-11",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3200,7 +3501,8 @@
    "notes": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "chiir-2027"
+   "id": "chiir-2027",
+   "region": "Europe"
   },
   {
    "name": "UCSF Fresno ROAD Conference (Pre-Medical Student Day)",
@@ -3210,6 +3512,7 @@
    "start": "2027-03-07",
    "end": "2027-03-07",
    "location": "Fresno, CA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3222,7 +3525,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ucsf-fresno-road-conference-pre-medical-student-day-2027"
+   "id": "ucsf-fresno-road-conference-pre-medical-student-day-2027",
+   "region": "North America"
   },
   {
    "name": "Annual Global Summit on Artificial Intelligence and Machine Learning",
@@ -3232,6 +3536,7 @@
    "start": "2027-03-08",
    "end": "2027-03-10",
    "location": "Barcelona, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3243,7 +3548,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "annual-global-summit-on-artificial-intelligence-and-machine-learning-2027"
+   "id": "annual-global-summit-on-artificial-intelligence-and-machine-learning-2027",
+   "region": "Europe"
   },
   {
    "name": "PerCom 2027",
@@ -3253,6 +3559,7 @@
    "start": "2027-03-08",
    "end": "2027-03-12",
    "location": "Goa, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3264,7 +3571,8 @@
    "notes": "IEEE International Conference on Pervasive Computing and Communications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "percom-2027"
+   "id": "percom-2027",
+   "region": "Asia"
   },
   {
    "name": "ALT 2027",
@@ -3274,6 +3582,7 @@
    "start": "2027-03-09",
    "end": "2027-03-12",
    "location": "Leiden, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3285,7 +3594,8 @@
    "notes": "International Conference on Algorithmic Learning Theory",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "alt-2027"
+   "id": "alt-2027",
+   "region": "Europe"
   },
   {
    "name": "EACL 2027",
@@ -3295,6 +3605,7 @@
    "start": "2027-03-09",
    "end": "2027-03-14",
    "location": "Athens, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3306,7 +3617,8 @@
    "notes": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eacl-2027"
+   "id": "eacl-2027",
+   "region": "Europe"
   },
   {
    "name": "INTED",
@@ -3316,6 +3628,7 @@
    "start": "2027-03-09",
    "end": "2027-03-11",
    "location": "Valencia, Spain",
+   "country": "Spain",
    "online": true,
    "deadline": "2026-11-19",
    "deadline_label": "CFP",
@@ -3327,7 +3640,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "inted-2027"
+   "id": "inted-2027",
+   "region": "Europe"
   },
   {
    "name": "SANER 2027",
@@ -3337,6 +3651,7 @@
    "start": "2027-03-09",
    "end": "2027-03-12",
    "location": "Richmond, Virginia, United States",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3348,7 +3663,8 @@
    "notes": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "saner-2027"
+   "id": "saner-2027",
+   "region": "North America"
   },
   {
    "name": "Voxxed Days Zürich",
@@ -3358,6 +3674,7 @@
    "start": "2027-03-09",
    "end": "2027-03-09",
    "location": "Zurich, Switzerland",
+   "country": "Switzerland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3369,7 +3686,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "voxxed-days-z-rich-2027"
+   "id": "voxxed-days-z-rich-2027",
+   "region": "Europe"
   },
   {
    "name": "inside agile: Product Owner Days",
@@ -3379,6 +3697,7 @@
    "start": "2027-03-10",
    "end": "2027-03-11",
    "location": "Cologne, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3390,7 +3709,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "inside-agile-product-owner-days-2027"
+   "id": "inside-agile-product-owner-days-2027",
+   "region": "Europe"
   },
   {
    "name": "Vuejs Amsterdam",
@@ -3400,6 +3720,7 @@
    "start": "2027-03-11",
    "end": "2027-03-12",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3411,7 +3732,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vuejs-amsterdam-2027"
+   "id": "vuejs-amsterdam-2027",
+   "region": "Europe"
   },
   {
    "name": "JSWorld Conference",
@@ -3421,6 +3743,7 @@
    "start": "2027-03-12",
    "end": "2027-03-12",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -3432,7 +3755,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jsworld-conference-2027"
+   "id": "jsworld-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "FPGA 2027",
@@ -3442,6 +3766,7 @@
    "start": "2027-03-14",
    "end": "2027-03-16",
    "location": "Monterey, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3453,7 +3778,8 @@
    "notes": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fpga-2027"
+   "id": "fpga-2027",
+   "region": "North America"
   },
   {
    "name": "CTO Craft Con: London",
@@ -3463,6 +3789,7 @@
    "start": "2027-03-15",
    "end": "2027-03-17",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3474,7 +3801,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cto-craft-con-london-2027"
+   "id": "cto-craft-con-london-2027",
+   "region": "Europe"
   },
   {
    "name": "Appdevcon",
@@ -3484,6 +3812,7 @@
    "start": "2027-03-16",
    "end": "2027-03-18",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-12-18",
    "deadline_label": "CFP",
@@ -3497,7 +3826,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "appdevcon-2027"
+   "id": "appdevcon-2027",
+   "region": "Europe"
   },
   {
    "name": "Dutch AI Conference",
@@ -3507,6 +3837,7 @@
    "start": "2027-03-16",
    "end": "2027-03-18",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-12-18",
    "deadline_label": "CFP",
@@ -3518,7 +3849,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dutch-ai-conference-2027"
+   "id": "dutch-ai-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "GITEX AI LATAM",
@@ -3528,6 +3860,7 @@
    "start": "2027-03-16",
    "end": "2027-03-17",
    "location": "São Paulo, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3539,7 +3872,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gitex-ai-latam-2027"
+   "id": "gitex-ai-latam-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "Webdevcon",
@@ -3549,6 +3883,7 @@
    "start": "2027-03-16",
    "end": "2027-03-19",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-12-18",
    "deadline_label": "CFP",
@@ -3560,7 +3895,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "webdevcon-2027"
+   "id": "webdevcon-2027",
+   "region": "Europe"
   },
   {
    "name": "betterCode() ArchDoc",
@@ -3570,6 +3906,7 @@
    "start": "2027-03-17",
    "end": "2027-03-17",
    "location": "Online",
+   "country": "Online",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -3581,7 +3918,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bettercode-archdoc-2027"
+   "id": "bettercode-archdoc-2027",
+   "region": "Online"
   },
   {
    "name": "HPCA 2027",
@@ -3591,6 +3929,7 @@
    "start": "2027-03-20",
    "end": "2027-03-24",
    "location": "Salt Lake City, Utah",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3602,7 +3941,8 @@
    "notes": "IEEE International Symposium on High-Performance Computer Architecture",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hpca-2027"
+   "id": "hpca-2027",
+   "region": "North America"
   },
   {
    "name": "IEEE/ACM CGO 2027",
@@ -3612,6 +3952,7 @@
    "start": "2027-03-20",
    "end": "2027-03-24",
    "location": "Salt Lake City, Utah, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3623,7 +3964,8 @@
    "notes": "The International Symposium on Code Generation and Optimization",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ieee-acm-cgo-2027"
+   "id": "ieee-acm-cgo-2027",
+   "region": "North America"
   },
   {
    "name": "International Conference on Artificial Intelligence and Machine Learning",
@@ -3633,6 +3975,7 @@
    "start": "2027-03-20",
    "end": "2027-03-21",
    "location": "Barcelona, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3644,7 +3987,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-conference-on-artificial-intelligence-and-machine-learning-2027"
+   "id": "international-conference-on-artificial-intelligence-and-machine-learning-2027",
+   "region": "Europe"
   },
   {
    "name": "PPoPP 2027",
@@ -3654,6 +3998,7 @@
    "start": "2027-03-20",
    "end": "2027-03-24",
    "location": "Salt Lake City, Utah, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3665,7 +4010,8 @@
    "notes": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ppopp-2027"
+   "id": "ppopp-2027",
+   "region": "North America"
   },
   {
    "name": "PyCascades",
@@ -3675,6 +4021,7 @@
    "start": "2027-03-20",
    "end": "2027-03-21",
    "location": "Seattle, WA, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -3686,7 +4033,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pycascades-2027"
+   "id": "pycascades-2027",
+   "region": "North America"
   },
   {
    "name": "DATE 2027",
@@ -3696,6 +4044,7 @@
    "start": "2027-03-22",
    "end": "2027-03-24",
    "location": "Dresden, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3707,7 +4056,8 @@
    "notes": "Design, Automation & Test in Europe",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "date-2027"
+   "id": "date-2027",
+   "region": "Europe"
   },
   {
    "name": "ECIR 2027",
@@ -3717,6 +4067,7 @@
    "start": "2027-03-22",
    "end": "2027-03-24",
    "location": "Southampton, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3728,7 +4079,8 @@
    "notes": "European Conference on Information Retrieval",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ecir-2027"
+   "id": "ecir-2027",
+   "region": "Europe"
   },
   {
    "name": "FOSS-LÄND x OpenChain",
@@ -3738,6 +4090,7 @@
    "start": "2027-03-22",
    "end": "2027-03-24",
    "location": "Stuttgart, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3749,7 +4102,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "foss-l-nd-x-openchain-2027"
+   "id": "foss-l-nd-x-openchain-2027",
+   "region": "Europe"
   },
   {
    "name": "NDSS 2027",
@@ -3759,6 +4113,7 @@
    "start": "2027-03-22",
    "end": "2027-03-26",
    "location": "Seoul, Republic of Korea",
+   "country": "South Korea",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3770,7 +4125,8 @@
    "notes": "Network and Distributed System Security (NDSS) Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ndss-2027"
+   "id": "ndss-2027",
+   "region": "Asia"
   },
   {
    "name": "CPAL 2027",
@@ -3780,6 +4136,7 @@
    "start": "2027-03-23",
    "end": "2027-03-26",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2026-11-25",
    "deadline_label": "Paper",
@@ -3791,7 +4148,8 @@
    "notes": "The Conference on Parsimony and Learning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cpal-2027"
+   "id": "cpal-2027",
+   "region": "Asia"
   },
   {
    "name": "DCC 2027",
@@ -3801,6 +4159,7 @@
    "start": "2027-03-23",
    "end": "2027-03-26",
    "location": "Snowbird, Utah, United States",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3812,7 +4171,8 @@
    "notes": "Data Compression Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dcc-2027"
+   "id": "dcc-2027",
+   "region": "North America"
   },
   {
    "name": "SNMA Annual Medical Education Conference (AMEC)",
@@ -3822,6 +4182,7 @@
    "start": "2027-03-24",
    "end": "2027-03-28",
    "location": "Las Vegas, NV",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3834,7 +4195,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "snma-annual-medical-education-conference-amec-2027"
+   "id": "snma-annual-medical-education-conference-amec-2027",
+   "region": "North America"
   },
   {
    "name": "DFRWS 2027",
@@ -3844,6 +4206,7 @@
    "start": "2027-03-30",
    "end": "2027-04-02",
    "location": "Edinburgh, Scotland",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3855,7 +4218,8 @@
    "notes": "Digital Forensic Research Workshop",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dfrws-2027"
+   "id": "dfrws-2027",
+   "region": "Europe"
   },
   {
    "name": "ISPD 2027",
@@ -3865,6 +4229,7 @@
    "start": "2027-03-30",
    "end": "2027-04-02",
    "location": "Taipei, Taiwan",
+   "country": "Taiwan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -3876,7 +4241,8 @@
    "notes": "International Symposium on Physical Design",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ispd-2027"
+   "id": "ispd-2027",
+   "region": "Asia"
   },
   {
    "name": "MMSys 2027",
@@ -3886,6 +4252,7 @@
    "start": "2027-03-30",
    "end": "2027-04-02",
    "location": "Ghent, Belgium",
+   "country": "Belgium",
    "online": false,
    "deadline": "2026-11-19",
    "deadline_label": "Paper",
@@ -3897,7 +4264,8 @@
    "notes": "ACM International Conference on Multimedia Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mmsys-2027"
+   "id": "mmsys-2027",
+   "region": "Europe"
   },
   {
    "name": "EuroGP 2027",
@@ -3907,6 +4275,7 @@
    "start": "2027-03-31",
    "end": "2027-04-02",
    "location": "Mainz, Germany (hybrid)",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -3918,7 +4287,8 @@
    "notes": "European Conference on Genetic Programming",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eurogp-2027"
+   "id": "eurogp-2027",
+   "region": "Europe"
   },
   {
    "name": "EvoApplications 2027",
@@ -3928,6 +4298,7 @@
    "start": "2027-03-31",
    "end": "2027-04-02",
    "location": "Mainz, Germany (hybrid)",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -3939,7 +4310,8 @@
    "notes": "International Conference on the Applications of Evolutionary Computation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "evoapplications-2027"
+   "id": "evoapplications-2027",
+   "region": "Europe"
   },
   {
    "name": "EvoCOP 2027",
@@ -3949,6 +4321,7 @@
    "start": "2027-03-31",
    "end": "2027-04-02",
    "location": "Mainz, Germany (hybrid)",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -3960,7 +4333,8 @@
    "notes": "European Conference on Evolutionary Computation in Combinatorial Optimisation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "evocop-2027"
+   "id": "evocop-2027",
+   "region": "Europe"
   },
   {
    "name": "EvoMUSART 2027",
@@ -3970,6 +4344,7 @@
    "start": "2027-03-31",
    "end": "2027-04-02",
    "location": "Mainz, Germany (hybrid)",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -3981,7 +4356,8 @@
    "notes": "International Conference on Artificial Intelligence in Music, Sound, Art and Design",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "evomusart-2027"
+   "id": "evomusart-2027",
+   "region": "Europe"
   },
   {
    "name": "NSBE Annual Convention",
@@ -3991,6 +4367,7 @@
    "start": "2027-03-31",
    "end": "2027-04-04",
    "location": "Boston, MA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4003,7 +4380,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "nsbe-annual-convention-2027"
+   "id": "nsbe-annual-convention-2027",
+   "region": "North America"
   },
   {
    "name": "Voxxed Days Amsterdam",
@@ -4013,6 +4391,7 @@
    "start": "2027-03-31",
    "end": "2027-04-01",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-11-14",
    "deadline_label": "CFP",
@@ -4025,7 +4404,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "voxxed-days-amsterdam-2027"
+   "id": "voxxed-days-amsterdam-2027",
+   "region": "Europe"
   },
   {
    "name": "SCaLE",
@@ -4035,6 +4415,7 @@
    "start": "2027-04-01",
    "end": "2027-04-04",
    "location": "Pasadena, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4047,7 +4428,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "scale-2027"
+   "id": "scale-2027",
+   "region": "North America"
   },
   {
    "name": "SunSecCon",
@@ -4057,6 +4439,7 @@
    "start": "2027-04-01",
    "end": "2027-04-02",
    "location": "Pasadena, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-15",
    "deadline_label": "CFP",
@@ -4068,7 +4451,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sunseccon-2027"
+   "id": "sunseccon-2027",
+   "region": "North America"
   },
   {
    "name": "CT-RSA 2027",
@@ -4078,6 +4462,7 @@
    "start": "2027-04-05",
    "end": "2027-04-08",
    "location": "San Francisco, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4089,7 +4474,8 @@
    "notes": "Cryptographer's Track at RSA Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ct-rsa-2027"
+   "id": "ct-rsa-2027",
+   "region": "North America"
   },
   {
    "name": "WCNC 2027",
@@ -4099,6 +4485,7 @@
    "start": "2027-04-05",
    "end": "2027-04-08",
    "location": "Panama City, Panama",
+   "country": "Panama",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4110,7 +4497,8 @@
    "notes": "IEEE Wireless Communications and Networking Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wcnc-2027"
+   "id": "wcnc-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "3DV 2027",
@@ -4120,6 +4508,7 @@
    "start": "2027-04-06",
    "end": "2027-04-09",
    "location": "Thessaloniki, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4131,7 +4520,8 @@
    "notes": "International Conference on 3D Vision",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "3dv-2027"
+   "id": "3dv-2027",
+   "region": "Europe"
   },
   {
    "name": "EDBT 2027",
@@ -4141,6 +4531,7 @@
    "start": "2027-04-06",
    "end": "2027-04-09",
    "location": "Lille, France",
+   "country": "France",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4152,7 +4543,8 @@
    "notes": "International Conference on Extending Database Technology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "edbt-2027"
+   "id": "edbt-2027",
+   "region": "Europe"
   },
   {
    "name": "ICDT 2027",
@@ -4162,6 +4554,7 @@
    "start": "2027-04-06",
    "end": "2027-04-09",
    "location": "Lille, France",
+   "country": "France",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4173,7 +4566,8 @@
    "notes": "International Conference on Database Theory",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdt-2027"
+   "id": "icdt-2027",
+   "region": "Europe"
   },
   {
    "name": "BSides Prague",
@@ -4183,6 +4577,7 @@
    "start": "2027-04-07",
    "end": "2027-04-08",
    "location": "Prague, Czech Republic",
+   "country": "Czech Republic",
    "online": false,
    "deadline": "2026-12-31",
    "deadline_label": "CFP",
@@ -4194,7 +4589,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bsides-prague-2027"
+   "id": "bsides-prague-2027",
+   "region": "Europe"
   },
   {
    "name": "BlockSys 2027",
@@ -4204,6 +4600,7 @@
    "start": "2027-04-09",
    "end": "2027-04-11",
    "location": "Foshan, China",
+   "country": "China",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "Paper",
@@ -4215,7 +4612,8 @@
    "notes": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "blocksys-2027"
+   "id": "blocksys-2027",
+   "region": "Asia"
   },
   {
    "name": "CVM 2027",
@@ -4225,6 +4623,7 @@
    "start": "2027-04-09",
    "end": "2027-04-11",
    "location": "Nanyang Technological University, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4236,7 +4635,8 @@
    "notes": "The international conference on Computational Visual Media",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cvm-2027"
+   "id": "cvm-2027",
+   "region": "Asia"
   },
   {
    "name": "ETAPS 2027",
@@ -4246,6 +4646,7 @@
    "start": "2027-04-10",
    "end": "2027-04-15",
    "location": "Copenhagen, Denmark",
+   "country": "Denmark",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4257,7 +4658,8 @@
    "notes": "European Joint Conferences on Theory and Practice of Software",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "etaps-2027"
+   "id": "etaps-2027",
+   "region": "Europe"
   },
   {
    "name": "ASPLOS 2027",
@@ -4267,6 +4669,7 @@
    "start": "2027-04-11",
    "end": "2027-04-15",
    "location": "Crete, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4278,7 +4681,8 @@
    "notes": "International Conference on Architectural Support for Programming Languages and Operating Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "asplos-2027"
+   "id": "asplos-2027",
+   "region": "Europe"
   },
   {
    "name": "EUROCRYPT 2027",
@@ -4288,6 +4692,7 @@
    "start": "2027-04-11",
    "end": "2027-04-15",
    "location": "Eindhoven, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4299,7 +4704,8 @@
    "notes": "European Cryptology Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eurocrypt-2027"
+   "id": "eurocrypt-2027",
+   "region": "Europe"
   },
   {
    "name": "NCUR (National Conference on Undergraduate Research)",
@@ -4309,6 +4715,7 @@
    "start": "2027-04-12",
    "end": "2027-04-14",
    "location": "Grand Rapids, MI",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4321,7 +4728,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ncur-national-conference-on-undergraduate-research-2027"
+   "id": "ncur-national-conference-on-undergraduate-research-2027",
+   "region": "North America"
   },
   {
    "name": "REFSQ 2027",
@@ -4331,6 +4739,7 @@
    "start": "2027-04-12",
    "end": "2027-04-15",
    "location": "Basel, Switzerland",
+   "country": "Switzerland",
    "online": false,
    "deadline": "2026-11-12",
    "deadline_label": "Paper",
@@ -4342,7 +4751,8 @@
    "notes": "Requirements Engineering: Foundation for Software Quality",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "refsq-2027"
+   "id": "refsq-2027",
+   "region": "Europe"
   },
   {
    "name": "AI Coding Summit Asia",
@@ -4352,6 +4762,7 @@
    "start": "2027-04-15",
    "end": "2027-04-19",
    "location": "Singapore, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-01-12",
    "deadline_label": "CFP",
@@ -4363,7 +4774,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-coding-summit-asia-2027"
+   "id": "ai-coding-summit-asia-2027",
+   "region": "Asia"
   },
   {
    "name": "CVC 2027",
@@ -4373,6 +4785,7 @@
    "start": "2027-04-15",
    "end": "2027-04-16",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-11-15",
    "deadline_label": "Paper",
@@ -4384,7 +4797,8 @@
    "notes": "Computer Vision Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cvc-2027"
+   "id": "cvc-2027",
+   "region": "Europe"
   },
   {
    "name": "GENAIX: Global Generative & Agentic AI Summit",
@@ -4394,6 +4808,7 @@
    "start": "2027-04-15",
    "end": "2027-04-16",
    "location": "Singapore, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4405,7 +4820,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "genaix-global-generative-agentic-ai-summit-2027"
+   "id": "genaix-global-generative-agentic-ai-summit-2027",
+   "region": "Asia"
   },
   {
    "name": "React Summit Asia",
@@ -4415,6 +4831,7 @@
    "start": "2027-04-15",
    "end": "2027-04-19",
    "location": "Singapore, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-01-04",
    "deadline_label": "CFP",
@@ -4426,7 +4843,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "react-summit-asia-2027"
+   "id": "react-summit-asia-2027",
+   "region": "Asia"
   },
   {
    "name": "Digital Crafts Day",
@@ -4436,6 +4854,7 @@
    "start": "2027-04-16",
    "end": "2027-04-16",
    "location": "Weiden, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4447,7 +4866,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "digital-crafts-day-2027"
+   "id": "digital-crafts-day-2027",
+   "region": "Europe"
   },
   {
    "name": "Java Day Istanbul",
@@ -4457,6 +4877,7 @@
    "start": "2027-04-17",
    "end": "2027-04-17",
    "location": "Istanbul, Turkey",
+   "country": "Turkey",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4470,7 +4891,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "java-day-istanbul-2027"
+   "id": "java-day-istanbul-2027",
+   "region": "Europe"
   },
   {
    "name": "EuroSys 2027",
@@ -4480,6 +4902,7 @@
    "start": "2027-04-19",
    "end": "2027-04-23",
    "location": "Rabat, Morocco",
+   "country": "Morocco",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4491,7 +4914,8 @@
    "notes": "European Conference on Computer Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eurosys-2027"
+   "id": "eurosys-2027",
+   "region": "Middle East & Africa"
   },
   {
    "name": "PacificVis 2027",
@@ -4501,6 +4925,7 @@
    "start": "2027-04-19",
    "end": "2027-04-22",
    "location": "Busan, South Korea",
+   "country": "South Korea",
    "online": false,
    "deadline": "2026-11-09",
    "deadline_label": "Paper",
@@ -4512,7 +4937,8 @@
    "notes": "IEEE Pacific Visualization Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pacificvis-2027"
+   "id": "pacificvis-2027",
+   "region": "Asia"
   },
   {
    "name": "AiX Conference",
@@ -4522,6 +4948,7 @@
    "start": "2027-04-21",
    "end": "2027-04-21",
    "location": "Newcastle-Upon-Tyne, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4534,7 +4961,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "aix-conference-2027"
+   "id": "aix-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "ESANN 2027",
@@ -4544,6 +4972,7 @@
    "start": "2027-04-21",
    "end": "2027-04-23",
    "location": "Bruges, Belgium and Online",
+   "country": "Belgium",
    "online": false,
    "deadline": "2026-11-19",
    "deadline_label": "Paper",
@@ -4555,7 +4984,8 @@
    "notes": "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "esann-2027"
+   "id": "esann-2027",
+   "region": "Europe"
   },
   {
    "name": "GITEX AI MEDITERRANEAN",
@@ -4565,6 +4995,7 @@
    "start": "2027-04-21",
    "end": "2027-04-22",
    "location": "Rome, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4576,7 +5007,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gitex-ai-mediterranean-2027"
+   "id": "gitex-ai-mediterranean-2027",
+   "region": "Europe"
   },
   {
    "name": "Strategy Ateliers",
@@ -4586,6 +5018,7 @@
    "start": "2027-04-21",
    "end": "2027-04-22",
    "location": "Lisbon, Portugal",
+   "country": "Portugal",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4597,7 +5030,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "strategy-ateliers-2027"
+   "id": "strategy-ateliers-2027",
+   "region": "Europe"
   },
   {
    "name": "ELC Conference",
@@ -4607,6 +5041,7 @@
    "start": "2027-04-22",
    "end": "2027-04-22",
    "location": "Prague, Czech Republic",
+   "country": "Czech Republic",
    "online": false,
    "deadline": "2027-03-17",
    "deadline_label": "CFP",
@@ -4618,7 +5053,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "elc-conference-2027"
+   "id": "elc-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "ICPC 2027",
@@ -4628,6 +5064,7 @@
    "start": "2027-04-25",
    "end": "2027-04-26",
    "location": "Dublin, Ireland",
+   "country": "Ireland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4639,7 +5076,8 @@
    "notes": "IEEE International Conference on Program Comprehension",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icpc-2027"
+   "id": "icpc-2027",
+   "region": "Europe"
   },
   {
    "name": "ICSE 2027",
@@ -4649,6 +5087,7 @@
    "start": "2027-04-25",
    "end": "2027-05-01",
    "location": "Dublin, Ireland",
+   "country": "Ireland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4660,7 +5099,8 @@
    "notes": "International Conference on Software Engineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icse-2027"
+   "id": "icse-2027",
+   "region": "Europe"
   },
   {
    "name": "FG 2027",
@@ -4670,6 +5110,7 @@
    "start": "2027-04-26",
    "end": "2027-04-30",
    "location": "Marrakesh, Morocco",
+   "country": "Morocco",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4681,7 +5122,8 @@
    "notes": "International Conference on Automatic Face and Gesture Recognition",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fg-2027"
+   "id": "fg-2027",
+   "region": "Middle East & Africa"
   },
   {
    "name": "ICLR 2027",
@@ -4691,6 +5133,7 @@
    "start": "2027-04-26",
    "end": "2027-04-30",
    "location": "San Francisco, CA, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4702,7 +5145,8 @@
    "notes": "International Conference on Learning Representations",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iclr-2027"
+   "id": "iclr-2027",
+   "region": "North America"
   },
   {
    "name": "JCON EUROPE",
@@ -4712,6 +5156,7 @@
    "start": "2027-04-26",
    "end": "2027-04-29",
    "location": "Cologne, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4723,7 +5168,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jcon-europe-2027"
+   "id": "jcon-europe-2027",
+   "region": "Europe"
   },
   {
    "name": "MSR 2027",
@@ -4733,6 +5179,7 @@
    "start": "2027-04-26",
    "end": "2027-04-27",
    "location": "Dublin, Ireland",
+   "country": "Ireland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4744,7 +5191,8 @@
    "notes": "International Conference on Mining Software Repositories",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "msr-2027"
+   "id": "msr-2027",
+   "region": "Europe"
   },
   {
    "name": "Great International Developer Summit (GIDS)",
@@ -4754,6 +5202,7 @@
    "start": "2027-04-27",
    "end": "2027-04-30",
    "location": "Bangalore, India",
+   "country": "India",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4765,7 +5214,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "great-international-developer-summit-gids-2027"
+   "id": "great-international-developer-summit-gids-2027",
+   "region": "Asia"
   },
   {
    "name": "Mobile Makers",
@@ -4775,6 +5225,7 @@
    "start": "2027-04-30",
    "end": "2027-04-30",
    "location": "Paris, France",
+   "country": "France",
    "online": false,
    "deadline": "2027-01-18",
    "deadline_label": "CFP",
@@ -4787,7 +5238,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mobile-makers-2027"
+   "id": "mobile-makers-2027",
+   "region": "Europe"
   },
   {
    "name": "AAMAS 2027",
@@ -4797,6 +5249,7 @@
    "start": "2027-05-03",
    "end": "2027-05-07",
    "location": "Hanoi, Vietnam",
+   "country": "Vietnam",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4808,7 +5261,8 @@
    "notes": "International Conference on Autonomous Agents and Multiagent Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "aamas-2027"
+   "id": "aamas-2027",
+   "region": "Asia"
   },
   {
    "name": "AISTATS 2027",
@@ -4818,6 +5272,7 @@
    "start": "2027-05-03",
    "end": "2027-05-06",
    "location": "MontrÃ©al, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4829,7 +5284,8 @@
    "notes": "International Conference on Artificial Intelligence and Statistics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "aistats-2027"
+   "id": "aistats-2027",
+   "region": "North America"
   },
   {
    "name": "Re:Build",
@@ -4839,6 +5295,7 @@
    "start": "2027-05-05",
    "end": "2027-05-06",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4850,7 +5307,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "re-build-2027"
+   "id": "re-build-2027",
+   "region": "Europe"
   },
   {
    "name": "SECON 2027",
@@ -4860,6 +5318,7 @@
    "start": "2027-05-05",
    "end": "2027-05-07",
    "location": "Lisbon, Portugal",
+   "country": "Portugal",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "Paper",
@@ -4871,7 +5330,8 @@
    "notes": "IEEE International Conference on Sensing, Communication, and Networking",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "secon-2027"
+   "id": "secon-2027",
+   "region": "Europe"
   },
   {
    "name": "CHI 2027",
@@ -4881,6 +5341,7 @@
    "start": "2027-05-10",
    "end": "2027-05-14",
    "location": "David L. Lawrence Convention Center, Pittsburgh, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4892,7 +5353,8 @@
    "notes": "ACM Conference on Human Factors in Computing Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "chi-2027"
+   "id": "chi-2027",
+   "region": "North America"
   },
   {
    "name": "Eurographics 2027",
@@ -4902,6 +5364,7 @@
    "start": "2027-05-10",
    "end": "2027-05-14",
    "location": "Lucca, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4913,7 +5376,8 @@
    "notes": "Eurographics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eurographics-2027"
+   "id": "eurographics-2027",
+   "region": "Europe"
   },
   {
    "name": "JAX",
@@ -4923,6 +5387,7 @@
    "start": "2027-05-10",
    "end": "2027-05-14",
    "location": "Mainz, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -4934,7 +5399,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jax-2027"
+   "id": "jax-2027",
+   "region": "Europe"
   },
   {
    "name": "NOMS 2027",
@@ -4944,6 +5410,7 @@
    "start": "2027-05-10",
    "end": "2027-05-14",
    "location": "Montreal, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": "2026-11-09",
    "deadline_label": "Paper",
@@ -4955,7 +5422,8 @@
    "notes": "IEEE/IFIP Network Operations and Management Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "noms-2027"
+   "id": "noms-2027",
+   "region": "North America"
   },
   {
    "name": "WWW 2027",
@@ -4965,6 +5433,7 @@
    "start": "2027-05-10",
    "end": "2027-05-14",
    "location": "Dublin, Ireland",
+   "country": "Ireland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4976,7 +5445,8 @@
    "notes": "International World Wide Web Conferences",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "www-2027"
+   "id": "www-2027",
+   "region": "Europe"
   },
   {
    "name": "NSDI 2027",
@@ -4986,6 +5456,7 @@
    "start": "2027-05-11",
    "end": "2027-05-13",
    "location": "Providence, RI, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -4997,7 +5468,8 @@
    "notes": "USENIX Symposium on Networked Systems Design and Implementation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "nsdi-2027"
+   "id": "nsdi-2027",
+   "region": "North America"
   },
   {
    "name": "UXLx: User Experience Lisbon",
@@ -5007,6 +5479,7 @@
    "start": "2027-05-11",
    "end": "2027-05-14",
    "location": "Lisbon, Portugal",
+   "country": "Portugal",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "CFP",
@@ -5018,7 +5491,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "uxlx-user-experience-lisbon-2027"
+   "id": "uxlx-user-experience-lisbon-2027",
+   "region": "Europe"
   },
   {
    "name": "Agentic Ateliers",
@@ -5028,6 +5502,7 @@
    "start": "2027-05-13",
    "end": "2027-05-14",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5039,7 +5514,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "agentic-ateliers-2027"
+   "id": "agentic-ateliers-2027",
+   "region": "Europe"
   },
   {
    "name": "ICASSP 2027",
@@ -5049,6 +5525,7 @@
    "start": "2027-05-16",
    "end": "2027-05-21",
    "location": "Toronto, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5060,7 +5537,8 @@
    "notes": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icassp-2027"
+   "id": "icassp-2027",
+   "region": "North America"
   },
   {
    "name": "HSCC 2027",
@@ -5070,6 +5548,7 @@
    "start": "2027-05-17",
    "end": "2027-05-20",
    "location": "Boulder, Colorado, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5081,7 +5560,8 @@
    "notes": "International Conference on Hybrid Systems: Computation and Control",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hscc-2027"
+   "id": "hscc-2027",
+   "region": "North America"
   },
   {
    "name": "ICDE 2027",
@@ -5091,6 +5571,7 @@
    "start": "2027-05-17",
    "end": "2027-05-21",
    "location": "Copenhagen, Denmark",
+   "country": "Denmark",
    "online": false,
    "deadline": "2026-11-11",
    "deadline_label": "Paper",
@@ -5102,7 +5583,8 @@
    "notes": "IEEE International Conference on Data Engineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icde-2027"
+   "id": "icde-2027",
+   "region": "Europe"
   },
   {
    "name": "ICST 2027",
@@ -5112,6 +5594,7 @@
    "start": "2027-05-17",
    "end": "2027-05-21",
    "location": "San Sebastian, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5123,7 +5606,8 @@
    "notes": "IEEE International Conference on Software Testing, Verification and Validation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icst-2027"
+   "id": "icst-2027",
+   "region": "Europe"
   },
   {
    "name": "MSST 2027",
@@ -5133,6 +5617,7 @@
    "start": "2027-05-17",
    "end": "2027-05-21",
    "location": "TBD",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5144,7 +5629,8 @@
    "notes": "International Conference on Massive Storage Systems and Technology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "msst-2027"
+   "id": "msst-2027",
+   "region": "Location TBA"
   },
   {
    "name": "RECOMB 2027",
@@ -5154,6 +5640,7 @@
    "start": "2027-05-17",
    "end": "2027-05-20",
    "location": "Toronto, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5165,7 +5652,8 @@
    "notes": "International Conference on Research inComputational Molecular Biology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "recomb-2027"
+   "id": "recomb-2027",
+   "region": "North America"
   },
   {
    "name": "RTAS 2027",
@@ -5175,6 +5663,7 @@
    "start": "2027-05-17",
    "end": "2027-05-20",
    "location": "Boulder, Colorado",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5186,7 +5675,8 @@
    "notes": "IEEE Real-Time and Embedded Technology and Applications Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "rtas-2027"
+   "id": "rtas-2027",
+   "region": "North America"
   },
   {
    "name": "S&P 2027",
@@ -5196,6 +5686,7 @@
    "start": "2027-05-17",
    "end": "2027-05-19",
    "location": "MONTREAL, CANADA",
+   "country": "Canada",
    "online": false,
    "deadline": "2026-11-17",
    "deadline_label": "Paper",
@@ -5207,7 +5698,8 @@
    "notes": "IEEE Symposium on Security and Privacy",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "s-p-2027"
+   "id": "s-p-2027",
+   "region": "North America"
   },
   {
    "name": "SenSys 2027",
@@ -5217,6 +5709,7 @@
    "start": "2027-05-17",
    "end": "2027-05-20",
    "location": "Boulder, CO, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5228,7 +5721,8 @@
    "notes": "ACM Conference on Embedded Networked Sensor Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sensys-2027"
+   "id": "sensys-2027",
+   "region": "North America"
   },
   {
    "name": "Leadership Ateliers",
@@ -5238,6 +5732,7 @@
    "start": "2027-05-20",
    "end": "2027-05-21",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5249,7 +5744,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "leadership-ateliers-2027"
+   "id": "leadership-ateliers-2027",
+   "region": "Europe"
   },
   {
    "name": "JSNation",
@@ -5259,6 +5755,7 @@
    "start": "2027-05-21",
    "end": "2027-05-25",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2027-03-01",
    "deadline_label": "CFP",
@@ -5270,7 +5767,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "jsnation-2027"
+   "id": "jsnation-2027",
+   "region": "Europe"
   },
   {
    "name": "React Summit",
@@ -5280,6 +5778,7 @@
    "start": "2027-05-21",
    "end": "2027-05-25",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2027-02-05",
    "deadline_label": "CFP",
@@ -5291,7 +5790,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "react-summit-2027"
+   "id": "react-summit-2027",
+   "region": "Europe"
   },
   {
    "name": "ESWC 2027",
@@ -5301,6 +5801,7 @@
    "start": "2027-05-23",
    "end": "2027-05-27",
    "location": "Limassol, Cyprus",
+   "country": "Cyprus",
    "online": false,
    "deadline": "2026-12-17",
    "deadline_label": "Paper",
@@ -5312,7 +5813,8 @@
    "notes": "European Semantic Web Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eswc-2027"
+   "id": "eswc-2027",
+   "region": "Europe"
   },
   {
    "name": "CCGRID 2027",
@@ -5322,6 +5824,7 @@
    "start": "2027-05-24",
    "end": "2027-05-27",
    "location": "Dallas-Fort Worth, Texas, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-01",
    "deadline_label": "Paper",
@@ -5333,7 +5836,8 @@
    "notes": "IEEE International Symposium on Cluster, Cloud and Internet Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ccgrid-2027"
+   "id": "ccgrid-2027",
+   "region": "North America"
   },
   {
    "name": "DevOpsCon San Diego",
@@ -5343,6 +5847,7 @@
    "start": "2027-05-24",
    "end": "2027-05-28",
    "location": "San Diego, CA, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5354,7 +5859,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devopscon-san-diego-2027"
+   "id": "devopscon-san-diego-2027",
+   "region": "North America"
   },
   {
    "name": "ETS 2027",
@@ -5364,6 +5870,7 @@
    "start": "2027-05-24",
    "end": "2027-05-28",
    "location": "London, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2026-12-15",
    "deadline_label": "Paper",
@@ -5375,7 +5882,8 @@
    "notes": "IEEE European Test Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ets-2027"
+   "id": "ets-2027",
+   "region": "Europe"
   },
   {
    "name": "FSE 2027",
@@ -5385,6 +5893,7 @@
    "start": "2027-05-24",
    "end": "2027-05-28",
    "location": "Maastricht, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-12-01",
    "deadline_label": "Paper",
@@ -5396,7 +5905,8 @@
    "notes": "Fast Software Encryption",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fse-2027"
+   "id": "fse-2027",
+   "region": "Europe"
   },
   {
    "name": "HotOS 2027",
@@ -5406,6 +5916,7 @@
    "start": "2027-05-24",
    "end": "2027-05-26",
    "location": "Burghausen, Bavaria, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": "2027-02-01",
    "deadline_label": "Paper",
@@ -5417,7 +5928,8 @@
    "notes": "USENIX Workshop on Hot Topics in Operating Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "hotos-2027"
+   "id": "hotos-2027",
+   "region": "Europe"
   },
   {
    "name": "ICRA 2027",
@@ -5427,6 +5939,7 @@
    "start": "2027-05-24",
    "end": "2027-05-28",
    "location": "Seoul, Republic of Korea",
+   "country": "South Korea",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5438,7 +5951,8 @@
    "notes": "IEEE International Conference on Robotics and Automation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icra-2027"
+   "id": "icra-2027",
+   "region": "Asia"
   },
   {
    "name": "INFOCOM 2027",
@@ -5448,6 +5962,7 @@
    "start": "2027-05-24",
    "end": "2027-05-27",
    "location": "Honolulu, HI, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5459,7 +5974,8 @@
    "notes": "IEEE International Conference on Computer Communications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "infocom-2027"
+   "id": "infocom-2027",
+   "region": "North America"
   },
   {
    "name": "International JavaScript Conference San Diego",
@@ -5469,6 +5985,7 @@
    "start": "2027-05-24",
    "end": "2027-05-28",
    "location": "San Diego, CA, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5480,7 +5997,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-javascript-conference-san-diego-2027"
+   "id": "international-javascript-conference-san-diego-2027",
+   "region": "North America"
   },
   {
    "name": "CSCWD 2027",
@@ -5490,6 +6008,7 @@
    "start": "2027-05-26",
    "end": "2027-05-28",
    "location": "Brisbane, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "Paper",
@@ -5501,7 +6020,8 @@
    "notes": "International Conference on Computer Supported Cooperative Work in Design",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cscwd-2027"
+   "id": "cscwd-2027",
+   "region": "Oceania"
   },
   {
    "name": "GITEX AI SERBIA",
@@ -5511,6 +6031,7 @@
    "start": "2027-05-26",
    "end": "2027-05-27",
    "location": "Belgrade, Serbia",
+   "country": "Serbia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5522,7 +6043,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gitex-ai-serbia-2027"
+   "id": "gitex-ai-serbia-2027",
+   "region": "Europe"
   },
   {
    "name": "DASFAA 2027",
@@ -5532,6 +6054,7 @@
    "start": "2027-05-27",
    "end": "2027-05-30",
    "location": "Shenyang, China",
+   "country": "China",
    "online": false,
    "deadline": "2026-11-25",
    "deadline_label": "Paper",
@@ -5543,7 +6066,8 @@
    "notes": "Database Systems for Advanced Applications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dasfaa-2027"
+   "id": "dasfaa-2027",
+   "region": "Asia"
   },
   {
    "name": "ICC 2027",
@@ -5553,6 +6077,7 @@
    "start": "2027-05-30",
    "end": "2027-06-03",
    "location": "Washington, DC, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5564,7 +6089,8 @@
    "notes": "IEEE International Conference on Communications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icc-2027"
+   "id": "icc-2027",
+   "region": "North America"
   },
   {
    "name": "EuroVis 2027",
@@ -5574,6 +6100,7 @@
    "start": "2027-05-31",
    "end": "2027-06-04",
    "location": "Stuttgart, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-12-02",
    "deadline_label": "Paper",
@@ -5585,7 +6112,8 @@
    "notes": "Eurographics Conference on Visualization",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eurovis-2027"
+   "id": "eurovis-2027",
+   "region": "Europe"
   },
   {
    "name": "IPDPS 2027",
@@ -5595,6 +6123,7 @@
    "start": "2027-06-01",
    "end": "2027-06-05",
    "location": "Seattle, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5606,7 +6135,8 @@
    "notes": "IEEE International Parallel and Distributed Processing Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ipdps-2027"
+   "id": "ipdps-2027",
+   "region": "North America"
   },
   {
    "name": "NAACL 2027",
@@ -5616,6 +6146,7 @@
    "start": "2027-06-01",
    "end": "2027-06-05",
    "location": "San Francisco, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-23",
    "deadline_label": "Paper",
@@ -5627,7 +6158,8 @@
    "notes": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "naacl-2027"
+   "id": "naacl-2027",
+   "region": "North America"
   },
   {
    "name": "Devworld Conference",
@@ -5637,6 +6169,7 @@
    "start": "2027-06-03",
    "end": "2027-06-04",
    "location": "Amsterdam, Netherlands",
+   "country": "Netherlands",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5648,7 +6181,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devworld-conference-2027"
+   "id": "devworld-conference-2027",
+   "region": "Europe"
   },
   {
    "name": "ISCA 2027",
@@ -5658,6 +6192,7 @@
    "start": "2027-06-05",
    "end": "2027-06-09",
    "location": "Atlanta, Georgia, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -5669,7 +6204,8 @@
    "notes": "International Symposium on Computer Architecture",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "isca-2027"
+   "id": "isca-2027",
+   "region": "North America"
   },
   {
    "name": "PLDI 2027",
@@ -5679,6 +6215,7 @@
    "start": "2027-06-05",
    "end": "2027-06-11",
    "location": "Atlanta, Georgia, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-12",
    "deadline_label": "Paper",
@@ -5690,7 +6227,8 @@
    "notes": "ACM SIGPLAN Conference on Programming Language Design & Implementation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pldi-2027"
+   "id": "pldi-2027",
+   "region": "North America"
   },
   {
    "name": "SPAA 2027",
@@ -5700,6 +6238,7 @@
    "start": "2027-06-05",
    "end": "2027-06-11",
    "location": "Atlanta, GA, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-29",
    "deadline_label": "Paper",
@@ -5711,7 +6250,8 @@
    "notes": "ACM Symposium on Parallelism in Algorithms and Architectures",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "spaa-2027"
+   "id": "spaa-2027",
+   "region": "North America"
   },
   {
    "name": "AI Con USA",
@@ -5721,6 +6261,7 @@
    "start": "2027-06-06",
    "end": "2027-06-11",
    "location": "Seattle, WA, U.S.A.",
+   "country": "United States",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5733,7 +6274,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-con-usa-2027"
+   "id": "ai-con-usa-2027",
+   "region": "North America"
   },
   {
    "name": "ISCAS 2027",
@@ -5743,6 +6285,7 @@
    "start": "2027-06-06",
    "end": "2027-06-09",
    "location": "Bordeaux, France",
+   "country": "France",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5754,7 +6297,8 @@
    "notes": "IEEE International Symposium on Circuits and Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iscas-2027"
+   "id": "iscas-2027",
+   "region": "Europe"
   },
   {
    "name": "STOC 2027",
@@ -5764,6 +6308,7 @@
    "start": "2027-06-06",
    "end": "2027-06-11",
    "location": "Atlanta, Georgia, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5775,7 +6320,8 @@
    "notes": "ACM Symposium on the Theory of Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "stoc-2027"
+   "id": "stoc-2027",
+   "region": "North America"
   },
   {
    "name": "API Conference London",
@@ -5785,6 +6331,7 @@
    "start": "2027-06-07",
    "end": "2027-06-11",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5798,7 +6345,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "api-conference-london-2027"
+   "id": "api-conference-london-2027",
+   "region": "Europe"
   },
   {
    "name": "CAiSE 2027",
@@ -5808,6 +6356,7 @@
    "start": "2027-06-07",
    "end": "2027-06-11",
    "location": "Seville, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": "2026-11-15",
    "deadline_label": "Paper",
@@ -5819,7 +6368,8 @@
    "notes": "International Conference on Advanced Information Systems Engineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "caise-2027"
+   "id": "caise-2027",
+   "region": "Europe"
   },
   {
    "name": "DevOpsCon London",
@@ -5829,6 +6379,7 @@
    "start": "2027-06-07",
    "end": "2027-06-11",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5841,7 +6392,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devopscon-london-2027"
+   "id": "devopscon-london-2027",
+   "region": "Europe"
   },
   {
    "name": "ICMR 2027",
@@ -5851,6 +6403,7 @@
    "start": "2027-06-07",
    "end": "2027-06-10",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-01-31",
    "deadline_label": "Paper",
@@ -5862,7 +6415,8 @@
    "notes": "ACM SIGMM International Conference on Multimedia Retrieval",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icmr-2027"
+   "id": "icmr-2027",
+   "region": "Asia"
   },
   {
    "name": "International JavaScript Conference London",
@@ -5872,6 +6426,7 @@
    "start": "2027-06-07",
    "end": "2027-06-11",
    "location": "London, U.K.",
+   "country": "United Kingdom",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -5883,7 +6438,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-javascript-conference-london-2027"
+   "id": "international-javascript-conference-london-2027",
+   "region": "Europe"
   },
   {
    "name": "SAIS 2027",
@@ -5893,6 +6449,7 @@
    "start": "2027-06-07",
    "end": "2027-06-08",
    "location": "Santa Clara, CA, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-02-04",
    "deadline_label": "Paper",
@@ -5904,7 +6461,8 @@
    "notes": "USENIX Conference on Secure Agentic-AI Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sais-2027"
+   "id": "sais-2027",
+   "region": "North America"
   },
   {
    "name": "SIGMETRICS 2027",
@@ -5914,6 +6472,7 @@
    "start": "2027-06-07",
    "end": "2027-06-11",
    "location": "Atlanta, Georgia, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-11",
    "deadline_label": "Paper",
@@ -5925,7 +6484,8 @@
    "notes": "ACM Special Interest Group on Measurement and Evaluation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigmetrics-2027"
+   "id": "sigmetrics-2027",
+   "region": "North America"
   },
   {
    "name": "enterJS",
@@ -5935,6 +6495,7 @@
    "start": "2027-06-09",
    "end": "2027-06-10",
    "location": "Cologne, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5946,7 +6507,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "enterjs-2027"
+   "id": "enterjs-2027",
+   "region": "Europe"
   },
   {
    "name": "International Conference on Cybersecurity, AI & Future Digital Infrastructure",
@@ -5956,6 +6518,7 @@
    "start": "2027-06-09",
    "end": "2027-06-11",
    "location": "Singapore, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5967,7 +6530,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-conference-on-cybersecurity-ai-future-digital-infrastructure-2027"
+   "id": "international-conference-on-cybersecurity-ai-future-digital-infrastructure-2027",
+   "region": "Asia"
   },
   {
    "name": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
@@ -5977,6 +6541,7 @@
    "start": "2027-06-09",
    "end": "2027-06-11",
    "location": "Singapore, Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -5988,7 +6553,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-conference-on-robotics-artificial-intelligence-and-autonomous-systems-2027"
+   "id": "international-conference-on-robotics-artificial-intelligence-and-autonomous-systems-2027",
+   "region": "Asia"
   },
   {
    "name": "AI in Production",
@@ -5998,6 +6564,7 @@
    "start": "2027-06-10",
    "end": "2027-06-11",
    "location": "Newcastle-Upon-Tyne, U.K.",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2027-01-29",
    "deadline_label": "CFP",
@@ -6010,7 +6577,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ai-in-production-2027"
+   "id": "ai-in-production-2027",
+   "region": "Europe"
   },
   {
    "name": "PODS 2027",
@@ -6020,6 +6588,7 @@
    "start": "2027-06-13",
    "end": "2027-06-19",
    "location": "Huntington Beach, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-10",
    "deadline_label": "Paper",
@@ -6031,7 +6600,8 @@
    "notes": "ACM Symposium on Principles of Database Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pods-2027"
+   "id": "pods-2027",
+   "region": "North America"
   },
   {
    "name": "SIGMOD 2027",
@@ -6041,6 +6611,7 @@
    "start": "2027-06-13",
    "end": "2027-06-19",
    "location": "Huntington Beach, CA, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6052,7 +6623,8 @@
    "notes": "ACM Conference on Management of Data",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigmod-2027"
+   "id": "sigmod-2027",
+   "region": "North America"
   },
   {
    "name": "CODASPY 2027",
@@ -6062,6 +6634,7 @@
    "start": "2027-06-14",
    "end": "2027-06-17",
    "location": "Fort Collins, Colorado, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-23",
    "deadline_label": "Paper",
@@ -6073,7 +6646,8 @@
    "notes": "ACM Conference on Data and Application Security and Privacy",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "codaspy-2027"
+   "id": "codaspy-2027",
+   "region": "North America"
   },
   {
    "name": "DevOpsCon Berlin",
@@ -6083,6 +6657,7 @@
    "start": "2027-06-14",
    "end": "2027-06-18",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -6095,7 +6670,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "devopscon-berlin-2027"
+   "id": "devopscon-berlin-2027",
+   "region": "Europe"
   },
   {
    "name": "GopherCon Europe",
@@ -6105,6 +6681,7 @@
    "start": "2027-06-14",
    "end": "2027-06-17",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6118,7 +6695,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gophercon-europe-2027"
+   "id": "gophercon-europe-2027",
+   "region": "Europe"
   },
   {
    "name": "IJCNN 2027",
@@ -6128,6 +6706,7 @@
    "start": "2027-06-14",
    "end": "2027-06-18",
    "location": "Cape Town, South Africa",
+   "country": "South Africa",
    "online": false,
    "deadline": "2027-01-31",
    "deadline_label": "Paper",
@@ -6139,7 +6718,8 @@
    "notes": "International Joint Conference on Neural Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ijcnn-2027"
+   "id": "ijcnn-2027",
+   "region": "Middle East & Africa"
   },
   {
    "name": "IT Security Summit Berlin",
@@ -6149,6 +6729,7 @@
    "start": "2027-06-14",
    "end": "2027-06-18",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -6160,7 +6741,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "it-security-summit-berlin-2027"
+   "id": "it-security-summit-berlin-2027",
+   "region": "Europe"
   },
   {
    "name": "Nürnberg Digital Festival",
@@ -6170,6 +6752,7 @@
    "start": "2027-06-14",
    "end": "2027-06-24",
    "location": "Nürnberg, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -6181,7 +6764,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "n-rnberg-digital-festival-2027"
+   "id": "n-rnberg-digital-festival-2027",
+   "region": "Europe"
   },
   {
    "name": "SEC 2027",
@@ -6191,6 +6775,7 @@
    "start": "2027-06-14",
    "end": "2027-06-16",
    "location": "LinkÃ¶ping University, LinkÃ¶ping, Sweden",
+   "country": "Sweden",
    "online": false,
    "deadline": "2026-12-15",
    "deadline_label": "Paper",
@@ -6202,7 +6787,8 @@
    "notes": "IFIP International Information Security Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sec-2027"
+   "id": "sec-2027",
+   "region": "Europe"
   },
   {
    "name": "Accelerate Tomorrow AI Summit",
@@ -6212,6 +6798,7 @@
    "start": "2027-06-15",
    "end": "2027-06-16",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": "2027-05-01",
    "deadline_label": "CFP",
@@ -6224,7 +6811,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "accelerate-tomorrow-ai-summit-2027"
+   "id": "accelerate-tomorrow-ai-summit-2027",
+   "region": "Europe"
   },
   {
    "name": "EASE 2027",
@@ -6234,6 +6822,7 @@
    "start": "2027-06-15",
    "end": "2027-06-18",
    "location": "Hanoi, Vietnam",
+   "country": "Vietnam",
    "online": false,
    "deadline": "2027-01-22",
    "deadline_label": "Paper",
@@ -6245,7 +6834,8 @@
    "notes": "International Conference on Evaluation and Assessment in Software Engineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ease-2027"
+   "id": "ease-2027",
+   "region": "Asia"
   },
   {
    "name": "GI 2027",
@@ -6255,6 +6845,7 @@
    "start": "2027-06-15",
    "end": "2027-06-18",
    "location": "Winnipeg, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": "2027-02-05",
    "deadline_label": "Paper",
@@ -6266,7 +6857,8 @@
    "notes": "Graphics Interface",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gi-2027"
+   "id": "gi-2027",
+   "region": "North America"
   },
   {
    "name": "Data Centre North America",
@@ -6276,6 +6868,7 @@
    "start": "2027-06-16",
    "end": "2027-06-17",
    "location": "San Jose, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6287,7 +6880,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "data-centre-north-america-2027"
+   "id": "data-centre-north-america-2027",
+   "region": "North America"
   },
   {
    "name": "TechEx North America",
@@ -6297,6 +6891,7 @@
    "start": "2027-06-16",
    "end": "2027-06-17",
    "location": "San Jose, CA, U.S.A.",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6308,7 +6903,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "techex-north-america-2027"
+   "id": "techex-north-america-2027",
+   "region": "North America"
   },
   {
    "name": "CVPR 2027",
@@ -6318,6 +6914,7 @@
    "start": "2027-06-20",
    "end": "2027-06-25",
    "location": "Seattle, WA, United States",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-16",
    "deadline_label": "Paper",
@@ -6329,7 +6926,8 @@
    "notes": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cvpr-2027"
+   "id": "cvpr-2027",
+   "region": "North America"
   },
   {
    "name": "GMP 2027",
@@ -6339,6 +6937,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2026-12-21",
    "deadline_label": "Paper",
@@ -6350,7 +6949,8 @@
    "notes": "International Conference on Geometric Modeling and Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gmp-2027"
+   "id": "gmp-2027",
+   "region": "Asia"
   },
   {
    "name": "IDC 2027",
@@ -6360,6 +6960,7 @@
    "start": "2027-06-21",
    "end": "2027-06-24",
    "location": "Seattle, Washington, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-25",
    "deadline_label": "Paper",
@@ -6371,7 +6972,8 @@
    "notes": "ACM Interaction Design and Children Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "idc-2027"
+   "id": "idc-2027",
+   "region": "North America"
   },
   {
    "name": "LICS 2027",
@@ -6381,6 +6983,7 @@
    "start": "2027-06-21",
    "end": "2027-06-24",
    "location": "MontrÃ©al, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6392,7 +6995,8 @@
    "notes": "IEEE Symposium on Logic in Computer Science",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "lics-2027"
+   "id": "lics-2027",
+   "region": "North America"
   },
   {
    "name": "MLSys 2027",
@@ -6402,6 +7006,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Bellevue, Washington, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6413,7 +7018,8 @@
    "notes": "Conference on Machine Learning and Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mlsys-2027"
+   "id": "mlsys-2027",
+   "region": "North America"
   },
   {
    "name": "MobiSys 2027",
@@ -6423,6 +7029,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Ho Chi Minh City, Vietnam",
+   "country": "Vietnam",
    "online": false,
    "deadline": "2026-12-04",
    "deadline_label": "Paper",
@@ -6434,7 +7041,8 @@
    "notes": "ACM International Conference on Mobile Systems, Applications, and Services",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mobisys-2027"
+   "id": "mobisys-2027",
+   "region": "Asia"
   },
   {
    "name": "SGP 2027",
@@ -6444,6 +7052,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6455,7 +7064,8 @@
    "notes": "Eurographics Symposium on Geometry Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sgp-2027"
+   "id": "sgp-2027",
+   "region": "Asia"
   },
   {
    "name": "SMI 2027",
@@ -6465,6 +7075,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-03-08",
    "deadline_label": "Paper",
@@ -6476,7 +7087,8 @@
    "notes": "Shape Modeling International",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "smi-2027"
+   "id": "smi-2027",
+   "region": "Asia"
   },
   {
    "name": "SOCG 2027",
@@ -6486,6 +7098,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Bengaluru, India",
+   "country": "India",
    "online": false,
    "deadline": "2026-12-02",
    "deadline_label": "Paper",
@@ -6497,7 +7110,8 @@
    "notes": "International Symposium on Computational Geometry",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "socg-2027"
+   "id": "socg-2027",
+   "region": "Asia"
   },
   {
    "name": "SPM 2027",
@@ -6507,6 +7121,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6518,7 +7133,8 @@
    "notes": "Symposium on Solid and Physical Modeling",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "spm-2027"
+   "id": "spm-2027",
+   "region": "Asia"
   },
   {
    "name": "VibeKode Munich",
@@ -6528,6 +7144,7 @@
    "start": "2027-06-21",
    "end": "2027-06-25",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -6539,7 +7156,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vibekode-munich-2027"
+   "id": "vibekode-munich-2027",
+   "region": "Europe"
   },
   {
    "name": "WoWMoM 2027",
@@ -6549,6 +7167,7 @@
    "start": "2027-06-21",
    "end": "2027-06-24",
    "location": "Irvine, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-01",
    "deadline_label": "Paper",
@@ -6560,7 +7179,8 @@
    "notes": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wowmom-2027"
+   "id": "wowmom-2027",
+   "region": "North America"
   },
   {
    "name": "DSN 2027",
@@ -6570,6 +7190,7 @@
    "start": "2027-06-22",
    "end": "2027-06-25",
    "location": "Berlin, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": "2026-12-02",
    "deadline_label": "Paper",
@@ -6581,7 +7202,8 @@
    "notes": "International Conference on Dependable Systems and Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dsn-2027"
+   "id": "dsn-2027",
+   "region": "Europe"
   },
   {
    "name": "BIS 2027",
@@ -6591,6 +7213,7 @@
    "start": "2027-06-23",
    "end": "2027-06-25",
    "location": "PoznaÅ, Poland",
+   "country": "Poland",
    "online": false,
    "deadline": "2027-01-11",
    "deadline_label": "Paper",
@@ -6602,7 +7225,8 @@
    "notes": "International Conference on Business Information Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "bis-2027"
+   "id": "bis-2027",
+   "region": "Europe"
   },
   {
    "name": "ICDF2C 2027",
@@ -6612,6 +7236,7 @@
    "start": "2027-06-25",
    "end": "2027-06-27",
    "location": "New York, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-15",
    "deadline_label": "Paper",
@@ -6623,7 +7248,8 @@
    "notes": "International Conference on Digital Forensics & Cyber Crime",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdf2c-2027"
+   "id": "icdf2c-2027",
+   "region": "North America"
   },
   {
    "name": "ICAPS 2027",
@@ -6633,6 +7259,7 @@
    "start": "2027-06-27",
    "end": "2027-07-02",
    "location": "Columbia, SC, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-14",
    "deadline_label": "Paper",
@@ -6644,7 +7271,8 @@
    "notes": "International Conference on Automated Planning and Scheduling",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icaps-2027"
+   "id": "icaps-2027",
+   "region": "North America"
   },
   {
    "name": "ISIT 2027",
@@ -6654,6 +7282,7 @@
    "start": "2027-06-27",
    "end": "2027-07-02",
    "location": "Sorrento, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": "2027-01-10",
    "deadline_label": "Paper",
@@ -6665,7 +7294,8 @@
    "notes": "IEEE International Symposium on Information Theory",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "isit-2027"
+   "id": "isit-2027",
+   "region": "Europe"
   },
   {
    "name": "ACNS 2027",
@@ -6675,6 +7305,7 @@
    "start": "2027-06-28",
    "end": "2027-07-01",
    "location": "Royal Holloway, Egham, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2027-01-21",
    "deadline_label": "Paper",
@@ -6686,7 +7317,8 @@
    "notes": "Applied Cryptography and Network Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acns-2027"
+   "id": "acns-2027",
+   "region": "Europe"
   },
   {
    "name": "COLT 2027",
@@ -6696,6 +7328,7 @@
    "start": "2027-06-28",
    "end": "2027-07-02",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-01-29",
    "deadline_label": "Paper",
@@ -6707,7 +7340,8 @@
    "notes": "Annual Conference on Learning Theory",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "colt-2027"
+   "id": "colt-2027",
+   "region": "Asia"
   },
   {
    "name": "DIS 2027",
@@ -6717,6 +7351,7 @@
    "start": "2027-06-28",
    "end": "2027-07-02",
    "location": "Stockholm, Sweden",
+   "country": "Sweden",
    "online": false,
    "deadline": "2027-01-18",
    "deadline_label": "Paper",
@@ -6728,7 +7363,8 @@
    "notes": "ACM Conference on Designing Interactive Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dis-2027"
+   "id": "dis-2027",
+   "region": "Europe"
   },
   {
    "name": "ECOOP 2027",
@@ -6738,6 +7374,7 @@
    "start": "2027-06-28",
    "end": "2027-07-02",
    "location": "Turin, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": "2026-11-19",
    "deadline_label": "Paper",
@@ -6749,7 +7386,8 @@
    "notes": "European Conference on Object-Oriented Programming",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ecoop-2027"
+   "id": "ecoop-2027",
+   "region": "Europe"
   },
   {
    "name": "MDM 2027",
@@ -6759,6 +7397,7 @@
    "start": "2027-06-28",
    "end": "2027-07-01",
    "location": "Hamilton, New Zealand",
+   "country": "New Zealand",
    "online": false,
    "deadline": "2027-01-25",
    "deadline_label": "Paper",
@@ -6770,7 +7409,8 @@
    "notes": "IEEE International Conference on Mobile Data Management",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mdm-2027"
+   "id": "mdm-2027",
+   "region": "Oceania"
   },
   {
    "name": "PAKDD 2027",
@@ -6780,6 +7420,7 @@
    "start": "2027-06-29",
    "end": "2027-07-02",
    "location": "Wellington, New Zealand",
+   "country": "New Zealand",
    "online": false,
    "deadline": "2026-11-20",
    "deadline_label": "Paper",
@@ -6791,7 +7432,8 @@
    "notes": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pakdd-2027"
+   "id": "pakdd-2027",
+   "region": "Oceania"
   },
   {
    "name": "CGI 2027",
@@ -6801,6 +7443,7 @@
    "start": "2027-07-05",
    "end": "2027-07-09",
    "location": "Cairns, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": "2027-04-21",
    "deadline_label": "Paper",
@@ -6812,7 +7455,8 @@
    "notes": "Computer Graphics International",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cgi-2027"
+   "id": "cgi-2027",
+   "region": "Oceania"
   },
   {
    "name": "EGSR 2027",
@@ -6822,6 +7466,7 @@
    "start": "2027-07-05",
    "end": "2027-07-07",
    "location": "UniversitÃ  della Svizzera italiana, Lugano, Switzerland",
+   "country": "Switzerland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6833,7 +7478,8 @@
    "notes": "Eurographics Symposium on Rendering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "egsr-2027"
+   "id": "egsr-2027",
+   "region": "Europe"
   },
   {
    "name": "EuroS&P 2027",
@@ -6843,6 +7489,7 @@
    "start": "2027-07-05",
    "end": "2027-07-09",
    "location": "Madrid, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": "2026-12-02",
    "deadline_label": "Paper",
@@ -6854,7 +7501,8 @@
    "notes": "IEEE European Symposium on Security and Privacy",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "euros-p-2027"
+   "id": "euros-p-2027",
+   "region": "Europe"
   },
   {
    "name": "ICALP 2027",
@@ -6864,6 +7512,7 @@
    "start": "2027-07-05",
    "end": "2027-07-09",
    "location": "KrakÃ³w, Poland",
+   "country": "Poland",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6875,7 +7524,8 @@
    "notes": "EATCS International Colloquium on Automata, Languages, and Programming",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icalp-2027"
+   "id": "icalp-2027",
+   "region": "Europe"
   },
   {
    "name": "ICDCS 2027",
@@ -6885,6 +7535,7 @@
    "start": "2027-07-05",
    "end": "2027-07-08",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -6896,7 +7547,8 @@
    "notes": "IEEE International Conference on Distributed Computing Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdcs-2027"
+   "id": "icdcs-2027",
+   "region": "Oceania"
   },
   {
    "name": "RSS 2027",
@@ -6906,6 +7558,7 @@
    "start": "2027-07-06",
    "end": "2027-07-11",
    "location": "Athens, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": "2026-12-04",
    "deadline_label": "Paper",
@@ -6917,7 +7570,8 @@
    "notes": "Robotics Science and Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "rss-2027"
+   "id": "rss-2027",
+   "region": "Europe"
   },
   {
    "name": "ACISP 2027",
@@ -6927,6 +7581,7 @@
    "start": "2027-07-07",
    "end": "2027-07-10",
    "location": "Melbourne, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "Paper",
@@ -6938,7 +7593,8 @@
    "notes": "Australasia Conference on Information Security and Privacy",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acisp-2027"
+   "id": "acisp-2027",
+   "region": "Oceania"
   },
   {
    "name": "OSDI 2027",
@@ -6948,6 +7604,7 @@
    "start": "2027-07-07",
    "end": "2027-07-09",
    "location": "Baltimore, MD, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-12-08",
    "deadline_label": "Paper",
@@ -6959,7 +7616,8 @@
    "notes": "USENIX Symposium on Operating Systems Design and Implementation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "osdi-2027"
+   "id": "osdi-2027",
+   "region": "North America"
   },
   {
    "name": "SAI 2027",
@@ -6969,6 +7627,7 @@
    "start": "2027-07-08",
    "end": "2027-07-09",
    "location": "London, United Kingdom",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2026-12-01",
    "deadline_label": "Paper",
@@ -6980,7 +7639,8 @@
    "notes": "Computing Conference (SAI)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sai-2027"
+   "id": "sai-2027",
+   "region": "Europe"
   },
   {
    "name": "DAC 2027",
@@ -6990,6 +7650,7 @@
    "start": "2027-07-11",
    "end": "2027-07-14",
    "location": "San Jose, CA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-18",
    "deadline_label": "Paper",
@@ -7001,7 +7662,8 @@
    "notes": "Design Automation Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "dac-2027"
+   "id": "dac-2027",
+   "region": "North America"
   },
   {
    "name": "AsiaCCS 2027",
@@ -7011,6 +7673,7 @@
    "start": "2027-07-12",
    "end": "2027-07-16",
    "location": "Macau, China",
+   "country": "China",
    "online": false,
    "deadline": "2026-12-11",
    "deadline_label": "Paper",
@@ -7022,7 +7685,8 @@
    "notes": "Asia Conference on Computer and Communications Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "asiaccs-2027"
+   "id": "asiaccs-2027",
+   "region": "Asia"
   },
   {
    "name": "GECCO 2027",
@@ -7032,6 +7696,7 @@
    "start": "2027-07-12",
    "end": "2027-07-16",
    "location": "KrakÃ³w, Poland",
+   "country": "Poland",
    "online": false,
    "deadline": "2027-01-25",
    "deadline_label": "Paper",
@@ -7043,7 +7708,8 @@
    "notes": "Genetic and Evolutionary Computation Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "gecco-2027"
+   "id": "gecco-2027",
+   "region": "Europe"
   },
   {
    "name": "ICCCN 2027",
@@ -7053,6 +7719,7 @@
    "start": "2027-07-12",
    "end": "2027-07-15",
    "location": "Rome, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": "2027-02-19",
    "deadline_label": "Paper",
@@ -7064,7 +7731,8 @@
    "notes": "IEEE International Conference on Computer Communications and Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icccn-2027"
+   "id": "icccn-2027",
+   "region": "Europe"
   },
   {
    "name": "WHC 2027",
@@ -7074,6 +7742,7 @@
    "start": "2027-07-12",
    "end": "2027-07-15",
    "location": "Boston, Massachusetts, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-29",
    "deadline_label": "Paper",
@@ -7085,7 +7754,8 @@
    "notes": "IEEE World Haptics Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "whc-2027"
+   "id": "whc-2027",
+   "region": "North America"
   },
   {
    "name": "COMPSAC 2027",
@@ -7095,6 +7765,7 @@
    "start": "2027-07-13",
    "end": "2027-07-16",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-01-31",
    "deadline_label": "Paper",
@@ -7106,7 +7777,8 @@
    "notes": "International Computer Software and Applications Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "compsac-2027"
+   "id": "compsac-2027",
+   "region": "Asia"
   },
   {
    "name": "ICME 2027",
@@ -7116,6 +7788,7 @@
    "start": "2027-07-13",
    "end": "2027-07-17",
    "location": "Xiamen, China",
+   "country": "China",
    "online": false,
    "deadline": "2026-12-30",
    "deadline_label": "Paper",
@@ -7127,7 +7800,8 @@
    "notes": "The IEEE International Conference on Multimedia & Expo",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icme-2027"
+   "id": "icme-2027",
+   "region": "Asia"
   },
   {
    "name": "ISMB 2027",
@@ -7137,6 +7811,7 @@
    "start": "2027-07-18",
    "end": "2027-07-22",
    "location": "Copenhagen, Denmark",
+   "country": "Denmark",
    "online": false,
    "deadline": "2027-01-14",
    "deadline_label": "Paper",
@@ -7148,7 +7823,8 @@
    "notes": "International Conference on Intelligent Systems for Molecular Biology",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ismb-2027"
+   "id": "ismb-2027",
+   "region": "Europe"
   },
   {
    "name": "SIGIR 2027",
@@ -7158,6 +7834,7 @@
    "start": "2027-07-18",
    "end": "2027-07-24",
    "location": "San Jose, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-21",
    "deadline_label": "Paper",
@@ -7169,7 +7846,8 @@
    "notes": "International Conference on Research on Development in Information Retrieval",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigir-2027"
+   "id": "sigir-2027",
+   "region": "North America"
   },
   {
    "name": "CCC 2027",
@@ -7179,6 +7857,7 @@
    "start": "2027-07-19",
    "end": "2027-07-22",
    "location": "Seattle, Washington, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7190,7 +7869,8 @@
    "notes": "Computational Complexity Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ccc-2027"
+   "id": "ccc-2027",
+   "region": "North America"
   },
   {
    "name": "PETS 2027",
@@ -7200,6 +7880,7 @@
    "start": "2027-07-19",
    "end": "2027-07-24",
    "location": "Delft, The Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2026-11-30",
    "deadline_label": "Paper",
@@ -7211,7 +7892,8 @@
    "notes": "Privacy Enhancing Technologies Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pets-2027"
+   "id": "pets-2027",
+   "region": "Europe"
   },
   {
    "name": "SACMAT 2027",
@@ -7221,6 +7903,7 @@
    "start": "2027-07-19",
    "end": "2027-07-21",
    "location": "Durham, England, United Kingdom",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2027-02-12",
    "deadline_label": "Paper",
@@ -7232,7 +7915,8 @@
    "notes": "ACM Symposium on Access Control Models and Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sacmat-2027"
+   "id": "sacmat-2027",
+   "region": "Europe"
   },
   {
    "name": "CAV 2027",
@@ -7242,6 +7926,7 @@
    "start": "2027-07-21",
    "end": "2027-07-23",
    "location": "KIT, Amsterdam, The Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2027-01-20",
    "deadline_label": "Paper",
@@ -7253,7 +7938,8 @@
    "notes": "International Conference on Computer-Aided Verification",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cav-2027"
+   "id": "cav-2027",
+   "region": "Europe"
   },
   {
    "name": "ICIC 2027",
@@ -7263,6 +7949,7 @@
    "start": "2027-07-22",
    "end": "2027-07-26",
    "location": "Jinan, China",
+   "country": "China",
    "online": false,
    "deadline": "2027-03-15",
    "deadline_label": "Paper",
@@ -7274,7 +7961,8 @@
    "notes": "International Conference on Intelligent Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icic-2027"
+   "id": "icic-2027",
+   "region": "Asia"
   },
   {
    "name": "IEEE CEC 2027",
@@ -7284,6 +7972,7 @@
    "start": "2027-07-25",
    "end": "2027-07-28",
    "location": "Edinburgh, Scotland, UK",
+   "country": "United Kingdom",
    "online": false,
    "deadline": "2027-02-28",
    "deadline_label": "Paper",
@@ -7295,7 +7984,8 @@
    "notes": "IEEE Congress on Evolutionary Computation",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ieee-cec-2027"
+   "id": "ieee-cec-2027",
+   "region": "Europe"
   },
   {
    "name": "CogSci 2027",
@@ -7305,6 +7995,7 @@
    "start": "2027-07-28",
    "end": "2027-07-31",
    "location": "Euskalduna Bilbao Convention Centre, Bilbao, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7316,7 +8007,8 @@
    "notes": "Annual Meeting of the Cognitive Science Society",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cogsci-2027"
+   "id": "cogsci-2027",
+   "region": "Europe"
   },
   {
    "name": "ICML 2027",
@@ -7326,6 +8018,7 @@
    "start": "2027-07-31",
    "end": "2027-08-06",
    "location": "Riocentro, Rio de Janeiro, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7337,7 +8030,8 @@
    "notes": "International Conference on Machine Learning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icml-2027"
+   "id": "icml-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "SIGKDD 2027",
@@ -7347,6 +8041,7 @@
    "start": "2027-08-01",
    "end": "2027-08-05",
    "location": "San Jose, California, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7358,7 +8053,8 @@
    "notes": "ACM Knowledge Discovery and Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigkdd-2027"
+   "id": "sigkdd-2027",
+   "region": "North America"
   },
   {
    "name": "IEEE CoG 2027",
@@ -7368,6 +8064,7 @@
    "start": "2027-08-02",
    "end": "2027-08-05",
    "location": "Aizuwakamatsu, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-03-01",
    "deadline_label": "Paper",
@@ -7379,7 +8076,8 @@
    "notes": "IEEE Conference on Games",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ieee-cog-2027"
+   "id": "ieee-cog-2027",
+   "region": "Asia"
   },
   {
    "name": "IJCAI 2027",
@@ -7389,6 +8087,7 @@
    "start": "2027-08-07",
    "end": "2027-08-13",
    "location": "Kyoto, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-01-11",
    "deadline_label": "Paper",
@@ -7400,7 +8099,8 @@
    "notes": "International Joint Conference on Artificial Intelligence",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ijcai-2027"
+   "id": "ijcai-2027",
+   "region": "Asia"
   },
   {
    "name": "ACM SIGGRAPH 2027",
@@ -7410,6 +8110,7 @@
    "start": "2027-08-08",
    "end": "2027-08-12",
    "location": "Anaheim, California",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-28",
    "deadline_label": "Paper",
@@ -7421,7 +8122,8 @@
    "notes": "ACM SIGGRAPH Annual Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acm-siggraph-2027"
+   "id": "acm-siggraph-2027",
+   "region": "North America"
   },
   {
    "name": "SIGCOMM 2027",
@@ -7431,6 +8133,7 @@
    "start": "2027-08-08",
    "end": "2027-08-12",
    "location": "Bangkok, Thailand",
+   "country": "Thailand",
    "online": false,
    "deadline": "2027-02-02",
    "deadline_label": "Paper",
@@ -7442,7 +8145,8 @@
    "notes": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sigcomm-2027"
+   "id": "sigcomm-2027",
+   "region": "Asia"
   },
   {
    "name": "SOUPS 2027",
@@ -7452,6 +8156,7 @@
    "start": "2027-08-08",
    "end": "2027-08-10",
    "location": "Denver, Colorado, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7463,7 +8168,8 @@
    "notes": "Symposium On Usable Privacy and Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "soups-2027"
+   "id": "soups-2027",
+   "region": "North America"
   },
   {
    "name": "USENIX Security 2027",
@@ -7473,6 +8179,7 @@
    "start": "2027-08-11",
    "end": "2027-08-13",
    "location": "Denver, CO, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2027-01-26",
    "deadline_label": "Paper",
@@ -7484,7 +8191,8 @@
    "notes": "USENIX Security Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "usenix-security-2027"
+   "id": "usenix-security-2027",
+   "region": "North America"
   },
   {
    "name": "ACL 2027",
@@ -7494,6 +8202,7 @@
    "start": "2027-08-17",
    "end": "2027-08-22",
    "location": "Kyoto, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-01-04",
    "deadline_label": "Paper",
@@ -7505,7 +8214,8 @@
    "notes": "Annual Meeting of the Association for Computational Linguistics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acl-2027"
+   "id": "acl-2027",
+   "region": "Asia"
   },
   {
    "name": "ICDAR 2027",
@@ -7515,6 +8225,7 @@
    "start": "2027-08-18",
    "end": "2027-08-22",
    "location": "Kuala Lumpur, Malaysia",
+   "country": "Malaysia",
    "online": false,
    "deadline": "2026-11-15",
    "deadline_label": "Paper",
@@ -7526,7 +8237,8 @@
    "notes": "International Conference on Document Analysis and Recognition",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdar-2027"
+   "id": "icdar-2027",
+   "region": "Asia"
   },
   {
    "name": "CADE 2027",
@@ -7536,6 +8248,7 @@
    "start": "2027-08-22",
    "end": "2027-08-25",
    "location": "Nijmegen, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2027-02-22",
    "deadline_label": "Paper",
@@ -7547,7 +8260,8 @@
    "notes": "The Conference on Automated Deduction",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cade-2027"
+   "id": "cade-2027",
+   "region": "Europe"
   },
   {
    "name": "FSCD 2027",
@@ -7557,6 +8271,7 @@
    "start": "2027-08-23",
    "end": "2027-08-26",
    "location": "Nijmegen, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7568,7 +8283,8 @@
    "notes": "International Conference on Formal Structures for Computation and Deduction",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fscd-2027"
+   "id": "fscd-2027",
+   "region": "Europe"
   },
   {
    "name": "INTERACT 2027",
@@ -7578,6 +8294,7 @@
    "start": "2027-08-23",
    "end": "2027-08-27",
    "location": "Tallinn, Estonia",
+   "country": "Estonia",
    "online": false,
    "deadline": "2027-02-01",
    "deadline_label": "Paper",
@@ -7589,7 +8306,8 @@
    "notes": "IFIP TC13 International Conference on Human-Computer Interaction",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "interact-2027"
+   "id": "interact-2027",
+   "region": "Europe"
   },
   {
    "name": "RE 2027",
@@ -7599,6 +8317,7 @@
    "start": "2027-08-23",
    "end": "2027-08-27",
    "location": "Milan, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": "2027-03-01",
    "deadline_label": "Paper",
@@ -7610,7 +8329,8 @@
    "notes": "IEEE International Requirements Engineering Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "re-2027"
+   "id": "re-2027",
+   "region": "Europe"
   },
   {
    "name": "RecSys 2027",
@@ -7620,6 +8340,7 @@
    "start": "2027-08-23",
    "end": "2027-08-27",
    "location": "Honolulu, Oâahu, Hawaii, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7631,7 +8352,8 @@
    "notes": "ACM Conference on Recommender Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "recsys-2027"
+   "id": "recsys-2027",
+   "region": "North America"
   },
   {
    "name": "VLDB 2027",
@@ -7641,6 +8363,7 @@
    "start": "2027-08-23",
    "end": "2027-08-27",
    "location": "Athens, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": "2026-12-01",
    "deadline_label": "Paper",
@@ -7652,7 +8375,8 @@
    "notes": "International Conference on Very Large Data Bases",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "vldb-2027"
+   "id": "vldb-2027",
+   "region": "Europe"
   },
   {
    "name": "APWeb-WAIM 2027",
@@ -7662,6 +8386,7 @@
    "start": "2027-08-29",
    "end": "2027-08-31",
    "location": "Guiyang, China / Online",
+   "country": "China",
    "online": false,
    "deadline": "2027-03-07",
    "deadline_label": "Paper",
@@ -7673,7 +8398,8 @@
    "notes": "APWeb-WAIM joint international conference on Web and Big Data",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "apweb-waim-2027"
+   "id": "apweb-waim-2027",
+   "region": "Asia"
   },
   {
    "name": "InterSpeech 2027",
@@ -7683,6 +8409,7 @@
    "start": "2027-08-29",
    "end": "2027-09-02",
    "location": "SÃ£o Paulo, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": "2027-02-10",
    "deadline_label": "Paper",
@@ -7694,7 +8421,8 @@
    "notes": "Conference of the International Speech Communication Association",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "interspeech-2027"
+   "id": "interspeech-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "EUSIPCO 2027",
@@ -7704,6 +8432,7 @@
    "start": "2027-08-30",
    "end": "2027-09-03",
    "location": "Darmstadt, Germany",
+   "country": "Germany",
    "online": false,
    "deadline": "2027-02-06",
    "deadline_label": "Paper",
@@ -7715,7 +8444,8 @@
    "notes": "European Signal Processing Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "eusipco-2027"
+   "id": "eusipco-2027",
+   "region": "Europe"
   },
   {
    "name": "CHES 2027",
@@ -7725,6 +8455,7 @@
    "start": "2027-09-06",
    "end": "2027-09-09",
    "location": "CancÃºn, Mexico",
+   "country": "Mexico",
    "online": false,
    "deadline": "2027-01-15",
    "deadline_label": "Paper",
@@ -7736,7 +8467,8 @@
    "notes": "International Conference on Cryptographic Hardware and Embedded Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ches-2027"
+   "id": "ches-2027",
+   "region": "North America"
   },
   {
    "name": "CONCUR 2027",
@@ -7746,6 +8478,7 @@
    "start": "2027-09-06",
    "end": "2027-09-10",
    "location": "Lucca, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7757,7 +8490,8 @@
    "notes": "International Conference on Concurrency Theory",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "concur-2027"
+   "id": "concur-2027",
+   "region": "Europe"
   },
   {
    "name": "ICSME 2027",
@@ -7767,6 +8501,7 @@
    "start": "2027-09-07",
    "end": "2027-09-11",
    "location": "Toronto, Canada",
+   "country": "Canada",
    "online": false,
    "deadline": "2027-03-05",
    "deadline_label": "Paper",
@@ -7778,7 +8513,8 @@
    "notes": "International Conference on Software Maintenance and Evolution",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icsme-2027"
+   "id": "icsme-2027",
+   "region": "North America"
   },
   {
    "name": "ISSTA 2027",
@@ -7788,6 +8524,7 @@
    "start": "2027-09-07",
    "end": "2027-09-10",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-01-11",
    "deadline_label": "Paper",
@@ -7799,7 +8536,8 @@
    "notes": "ACM SIGSOFT International Symposium on Software Testing and Analysis",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "issta-2027"
+   "id": "issta-2027",
+   "region": "Asia"
   },
   {
    "name": "CSFW 2027",
@@ -7809,6 +8547,7 @@
    "start": "2027-09-13",
    "end": "2027-09-17",
    "location": "Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": "2027-01-28",
    "deadline_label": "Paper",
@@ -7820,7 +8559,8 @@
    "notes": "IEEE Computer Security Foundations Symposium",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "csfw-2027"
+   "id": "csfw-2027",
+   "region": "Asia"
   },
   {
    "name": "IJCB 2027",
@@ -7830,6 +8570,7 @@
    "start": "2027-09-13",
    "end": "2027-09-17",
    "location": "Foz do IguaÃ§u, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": "2027-04-10",
    "deadline_label": "Paper",
@@ -7841,7 +8582,8 @@
    "notes": "International Joint Conference on Biometrics",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ijcb-2027"
+   "id": "ijcb-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "CLEF 2027",
@@ -7851,6 +8593,7 @@
    "start": "2027-09-14",
    "end": "2027-09-17",
    "location": "Bucharest, Romania",
+   "country": "Romania",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7862,7 +8605,8 @@
    "notes": "Conference and Labs of the Evaluation Forum",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "clef-2027"
+   "id": "clef-2027",
+   "region": "Europe"
   },
   {
    "name": "Annual Global Summit on Robotics, AI and Machine Learning",
@@ -7872,6 +8616,7 @@
    "start": "2027-09-15",
    "end": "2027-09-17",
    "location": "Rome, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7883,7 +8628,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "annual-global-summit-on-robotics-ai-and-machine-learning-2027"
+   "id": "annual-global-summit-on-robotics-ai-and-machine-learning-2027",
+   "region": "Europe"
   },
   {
    "name": "ECML-PKDD 2027",
@@ -7893,6 +8639,7 @@
    "start": "2027-09-20",
    "end": "2027-09-24",
    "location": "Eindhoven, The Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7904,7 +8651,8 @@
    "notes": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ecml-pkdd-2027"
+   "id": "ecml-pkdd-2027",
+   "region": "Europe"
   },
   {
    "name": "MobileHCI 2027",
@@ -7914,6 +8662,7 @@
    "start": "2027-09-20",
    "end": "2027-09-23",
    "location": "Limassol, Cyprus",
+   "country": "Cyprus",
    "online": false,
    "deadline": "2027-02-17",
    "deadline_label": "Paper",
@@ -7925,7 +8674,8 @@
    "notes": "ACM International Conference on Mobile Human-Computer Interaction",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mobilehci-2027"
+   "id": "mobilehci-2027",
+   "region": "Europe"
   },
   {
    "name": "KR 2027",
@@ -7935,6 +8685,7 @@
    "start": "2027-09-21",
    "end": "2027-09-24",
    "location": "Buenos Aires, Argentina",
+   "country": "Argentina",
    "online": false,
    "deadline": "2027-04-28",
    "deadline_label": "Paper",
@@ -7946,7 +8697,8 @@
    "notes": "International Conference on Principles of Knowledge Representation and Reasoning",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "kr-2027"
+   "id": "kr-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "ICFP 2027",
@@ -7956,6 +8708,7 @@
    "start": "2027-09-26",
    "end": "2027-10-01",
    "location": "Nijmegen, Netherlands",
+   "country": "Netherlands",
    "online": false,
    "deadline": "2027-02-25",
    "deadline_label": "Paper",
@@ -7967,7 +8720,8 @@
    "notes": "International Conference on Function Programming",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icfp-2027"
+   "id": "icfp-2027",
+   "region": "Europe"
   },
   {
    "name": "MICCAI 2027",
@@ -7977,6 +8731,7 @@
    "start": "2027-09-26",
    "end": "2027-10-01",
    "location": "Auckland, New Zealand",
+   "country": "New Zealand",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -7988,7 +8743,8 @@
    "notes": "International Conference on Medical Image Computing and Computer Assisted Intervention",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "miccai-2027"
+   "id": "miccai-2027",
+   "region": "Oceania"
   },
   {
    "name": "BASTA! Fall",
@@ -7998,6 +8754,7 @@
    "start": "2027-09-27",
    "end": "2027-10-01",
    "location": "Mainz, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -8011,7 +8768,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "basta-fall-2027"
+   "id": "basta-fall-2027",
+   "region": "Europe"
   },
   {
    "name": "IROS 2027",
@@ -8021,6 +8779,7 @@
    "start": "2027-09-27",
    "end": "2027-10-01",
    "location": "Florence, Italy",
+   "country": "Italy",
    "online": false,
    "deadline": "2027-03-01",
    "deadline_label": "Paper",
@@ -8032,7 +8791,8 @@
    "notes": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iros-2027"
+   "id": "iros-2027",
+   "region": "Europe"
   },
   {
    "name": "ECAI 2027",
@@ -8042,6 +8802,7 @@
    "start": "2027-10-02",
    "end": "2027-10-07",
    "location": "Athens, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": "2027-04-14",
    "deadline_label": "Paper",
@@ -8053,7 +8814,8 @@
    "notes": "European Conference on Artificial Intelligence",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ecai-2027"
+   "id": "ecai-2027",
+   "region": "Europe"
   },
   {
    "name": "ICCV 2027",
@@ -8063,6 +8825,7 @@
    "start": "2027-10-02",
    "end": "2027-10-08",
    "location": "Hong Kong, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8074,7 +8837,8 @@
    "notes": "IEEE International Conference on Computer Vision",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iccv-2027"
+   "id": "iccv-2027",
+   "region": "Asia"
   },
   {
    "name": "UbiComp/ISWC 2027",
@@ -8084,6 +8848,7 @@
    "start": "2027-10-03",
    "end": "2027-10-07",
    "location": "Seoul, Republic of Korea",
+   "country": "South Korea",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8095,7 +8860,8 @@
    "notes": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ubicomp-iswc-2027"
+   "id": "ubicomp-iswc-2027",
+   "region": "Asia"
   },
   {
    "name": "OOPSLA 2027",
@@ -8105,6 +8871,7 @@
    "start": "2027-10-10",
    "end": "2027-10-15",
    "location": "Prague, Czechia",
+   "country": "Czech Republic",
    "online": false,
    "deadline": "2027-04-07",
    "deadline_label": "Paper",
@@ -8116,7 +8883,8 @@
    "notes": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "oopsla-2027"
+   "id": "oopsla-2027",
+   "region": "Europe"
   },
   {
    "name": "CCS 2027",
@@ -8126,6 +8894,7 @@
    "start": "2027-10-11",
    "end": "2027-10-15",
    "location": "Atlanta, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8137,7 +8906,8 @@
    "notes": "ACM Conference on Computer and Communications Security",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ccs-2027"
+   "id": "ccs-2027",
+   "region": "North America"
   },
   {
    "name": "AISES National Conference",
@@ -8147,6 +8917,7 @@
    "start": "2027-10-14",
    "end": "2027-10-16",
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8158,7 +8929,8 @@
    "notes": "",
    "dates_auto": true,
    "first_seen": "2026-11-07",
-   "id": "aises-national-conference-2027"
+   "id": "aises-national-conference-2027",
+   "region": "Location TBA"
   },
   {
    "name": "SecureComm 2027",
@@ -8168,6 +8940,7 @@
    "start": "2027-10-15",
    "end": "2027-10-18",
    "location": "Hefei, China",
+   "country": "China",
    "online": false,
    "deadline": "2027-02-01",
    "deadline_label": "Paper",
@@ -8179,7 +8952,8 @@
    "notes": "International Conference on Security and Privacy in Communication Networks",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "securecomm-2027"
+   "id": "securecomm-2027",
+   "region": "Asia"
   },
   {
    "name": "CSCW 2027",
@@ -8189,6 +8963,7 @@
    "start": "2027-10-16",
    "end": "2027-10-20",
    "location": "Philadelphia, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8200,7 +8975,8 @@
    "notes": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "cscw-2027"
+   "id": "cscw-2027",
+   "region": "North America"
   },
   {
    "name": "Artificial Intelligence",
@@ -8210,6 +8986,7 @@
    "start": "2027-10-18",
    "end": "2027-10-19",
    "location": "Barcelona, Spain",
+   "country": "Spain",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8221,7 +8998,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "artificial-intelligence-2027"
+   "id": "artificial-intelligence-2027",
+   "region": "Europe"
   },
   {
    "name": "FM 2027",
@@ -8231,6 +9009,7 @@
    "start": "2027-10-18",
    "end": "2027-10-22",
    "location": "Athens, Greece",
+   "country": "Greece",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8242,7 +9021,8 @@
    "notes": "International Symposium on Formal Methods",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fm-2027"
+   "id": "fm-2027",
+   "region": "Europe"
   },
   {
    "name": "MobiCom 2027",
@@ -8252,6 +9032,7 @@
    "start": "2027-10-18",
    "end": "2027-10-22",
    "location": "TBD",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8263,7 +9044,8 @@
    "notes": "ACM Annual International Conference On Mobile Computing And Networking",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "mobicom-2027"
+   "id": "mobicom-2027",
+   "region": "Location TBA"
   },
   {
    "name": "ISSRE 2027",
@@ -8273,6 +9055,7 @@
    "start": "2027-10-19",
    "end": "2027-10-22",
    "location": "Taipa, Macao SAR, China",
+   "country": "China",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8284,7 +9067,8 @@
    "notes": "International Symposium on Software Reliability Engineering",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "issre-2027"
+   "id": "issre-2027",
+   "region": "Asia"
   },
   {
    "name": "ISWC 2027",
@@ -8294,6 +9078,7 @@
    "start": "2027-10-24",
    "end": "2027-10-28",
    "location": "Montevideo, Uruguay",
+   "country": "Uruguay",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8305,7 +9090,8 @@
    "notes": "International Semantic Web Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "iswc-2027"
+   "id": "iswc-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "IMC 2027",
@@ -8315,6 +9101,7 @@
    "start": "2027-10-25",
    "end": "2027-10-29",
    "location": "Atlanta, GA, USA",
+   "country": "United States",
    "online": false,
    "deadline": "2026-11-17",
    "deadline_label": "Paper",
@@ -8326,7 +9113,8 @@
    "notes": "ACM Internet Measurement Conference",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "imc-2027"
+   "id": "imc-2027",
+   "region": "North America"
   },
   {
    "name": "SWE WE27 Annual Conference",
@@ -8336,6 +9124,7 @@
    "start": "2027-11-04",
    "end": "2027-11-06",
    "location": "Denver, CO",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8348,7 +9137,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "swe-we27-annual-conference-2027"
+   "id": "swe-we27-annual-conference-2027",
+   "region": "North America"
   },
   {
    "name": "W-JAX",
@@ -8358,6 +9148,7 @@
    "start": "2027-11-08",
    "end": "2027-11-12",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -8369,7 +9160,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "w-jax-2027"
+   "id": "w-jax-2027",
+   "region": "Europe"
   },
   {
    "name": "ICDM 2027",
@@ -8379,6 +9171,7 @@
    "start": "2027-11-15",
    "end": "2027-11-18",
    "location": "Brisbane, Australia",
+   "country": "Australia",
    "online": false,
    "deadline": "2027-06-06",
    "deadline_label": "Paper",
@@ -8390,7 +9183,8 @@
    "notes": "IEEE International Conference on Data Mining",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icdm-2027"
+   "id": "icdm-2027",
+   "region": "Oceania"
   },
   {
    "name": "International JavaScript Conference Munich",
@@ -8400,6 +9194,7 @@
    "start": "2027-11-15",
    "end": "2027-11-19",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -8411,7 +9206,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "international-javascript-conference-munich-2027"
+   "id": "international-javascript-conference-munich-2027",
+   "region": "Europe"
   },
   {
    "name": "webinale Munich",
@@ -8421,6 +9217,7 @@
    "start": "2027-11-15",
    "end": "2027-11-19",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -8433,7 +9230,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "webinale-munich-2027"
+   "id": "webinale-munich-2027",
+   "region": "Europe"
   },
   {
    "name": "ICIP 2027",
@@ -8443,6 +9241,7 @@
    "start": "2027-11-29",
    "end": "2027-12-03",
    "location": "Singapore",
+   "country": "Singapore",
    "online": false,
    "deadline": "2027-03-31",
    "deadline_label": "Paper",
@@ -8454,7 +9253,8 @@
    "notes": "The IEEE International Conference on Image Processing",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "icip-2027"
+   "id": "icip-2027",
+   "region": "Asia"
   },
   {
    "name": "ACM SIGGRAPH ASIA 2027",
@@ -8464,6 +9264,7 @@
    "start": "2027-11-30",
    "end": "2027-12-03",
    "location": "Tokyo International Forum, Tokyo, Japan",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8475,7 +9276,8 @@
    "notes": "ACM SIGGRAPH Annual Conference in Asia",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "acm-siggraph-asia-2027"
+   "id": "acm-siggraph-asia-2027",
+   "region": "Asia"
   },
   {
    "name": "CoNEXT 2027",
@@ -8485,6 +9287,7 @@
    "start": "2027-12-06",
    "end": "2027-12-09",
    "location": "Rio de Janeiro, Brazil",
+   "country": "Brazil",
    "online": false,
    "deadline": "2026-12-04",
    "deadline_label": "Paper",
@@ -8496,7 +9299,8 @@
    "notes": "International Conference on Emerging Networking Experiments and Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "conext-2027"
+   "id": "conext-2027",
+   "region": "Latin America & Caribbean"
   },
   {
    "name": "IT Security Summit Munich",
@@ -8506,6 +9310,7 @@
    "start": "2027-12-06",
    "end": "2027-12-10",
    "location": "Munich, Germany",
+   "country": "Germany",
    "online": true,
    "deadline": null,
    "deadline_label": "",
@@ -8517,7 +9322,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "it-security-summit-munich-2027"
+   "id": "it-security-summit-munich-2027",
+   "region": "Europe"
   },
   {
    "name": "FAST 2028",
@@ -8527,6 +9333,7 @@
    "start": "2028-02-28",
    "end": "2028-03-01",
    "location": "Seattle, WA, USA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8538,7 +9345,8 @@
    "notes": "USENIX Conference on File and Storage Technologies",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "fast-2028"
+   "id": "fast-2028",
+   "region": "North America"
   },
   {
    "name": "AfroTech Conference",
@@ -8548,6 +9356,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8560,7 +9369,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "afrotech-conference-tba"
+   "id": "afrotech-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "AMSA Annual Convention",
@@ -8570,6 +9380,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8582,7 +9393,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "amsa-annual-convention-tba"
+   "id": "amsa-annual-convention-tba",
+   "region": "Location TBA"
   },
   {
    "name": "APAMSA National Conference",
@@ -8592,6 +9404,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8603,7 +9416,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "apamsa-national-conference-tba"
+   "id": "apamsa-national-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "ColorStack Annual Summit",
@@ -8613,6 +9427,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8624,7 +9439,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "colorstack-annual-summit-tba"
+   "id": "colorstack-annual-summit-tba",
+   "region": "Location TBA"
   },
   {
    "name": "Grace Hopper Celebration",
@@ -8634,6 +9450,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8646,7 +9463,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "grace-hopper-celebration-tba"
+   "id": "grace-hopper-celebration-tba",
+   "region": "Location TBA"
   },
   {
    "name": "Harvard WECode",
@@ -8656,6 +9474,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8668,7 +9487,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "harvard-wecode-tba"
+   "id": "harvard-wecode-tba",
+   "region": "Location TBA"
   },
   {
    "name": "KU School of Medicine Premedical Student Conference",
@@ -8678,6 +9498,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8690,7 +9511,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ku-school-of-medicine-premedical-student-conference-tba"
+   "id": "ku-school-of-medicine-premedical-student-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "LMSA National Conference",
@@ -8700,6 +9522,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8712,7 +9535,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "lmsa-national-conference-tba"
+   "id": "lmsa-national-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "oSTEM Annual Conference",
@@ -8722,6 +9546,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8733,7 +9558,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "ostem-annual-conference-tba"
+   "id": "ostem-annual-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "Out for Undergrad Tech Conference",
@@ -8743,6 +9569,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8755,7 +9582,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "out-for-undergrad-tech-conference-tba"
+   "id": "out-for-undergrad-tech-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "Pre-Health Conference at UC Davis",
@@ -8765,6 +9593,7 @@
    "start": null,
    "end": null,
    "location": "Davis, CA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8777,7 +9606,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pre-health-conference-at-uc-davis-tba"
+   "id": "pre-health-conference-at-uc-davis-tba",
+   "region": "North America"
   },
   {
    "name": "PyCon US",
@@ -8787,6 +9617,7 @@
    "start": null,
    "end": null,
    "location": "Long Beach, CA",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8799,7 +9630,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "pycon-us-tba"
+   "id": "pycon-us-tba",
+   "region": "North America"
   },
   {
    "name": "Richard Tapia Celebration of Diversity in Computing",
@@ -8809,6 +9641,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8821,7 +9654,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "richard-tapia-celebration-of-diversity-in-computing-tba"
+   "id": "richard-tapia-celebration-of-diversity-in-computing-tba",
+   "region": "Location TBA"
   },
   {
    "name": "SACNAS National Diversity in STEM Conference",
@@ -8831,6 +9665,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8843,7 +9678,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sacnas-national-diversity-in-stem-conference-tba"
+   "id": "sacnas-national-diversity-in-stem-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "SASE National Conference",
@@ -8853,6 +9689,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8864,7 +9701,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "sase-national-conference-tba"
+   "id": "sase-national-conference-tba",
+   "region": "Location TBA"
   },
   {
    "name": "SHPE National Convention",
@@ -8874,6 +9712,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8886,7 +9725,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "shpe-national-convention-tba"
+   "id": "shpe-national-convention-tba",
+   "region": "Location TBA"
   },
   {
    "name": "WiML Workshop (Women in Machine Learning)",
@@ -8896,6 +9736,7 @@
    "start": null,
    "end": null,
    "location": "",
+   "country": "Location TBA",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -8908,7 +9749,8 @@
    "notes": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
-   "id": "wiml-workshop-women-in-machine-learning-tba"
+   "id": "wiml-workshop-women-in-machine-learning-tba",
+   "region": "Location TBA"
   }
  ]
 }
