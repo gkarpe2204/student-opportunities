@@ -1,0 +1,25 @@
+name: ➕ Add a conference
+description: Suggest a student conference for the list
+title: "[New] "
+labels: [new-conference]
+body:
+  - type: input
+    id: name
+    attributes: { label: Conference name }
+    validations: { required: true }
+  - type: input
+    id: url
+    attributes: { label: Website }
+    validations: { required: true }
+  - type: input
+    id: dates
+    attributes: { label: Dates, placeholder: "Oct 6–9, 2027" }
+  - type: input
+    id: location
+    attributes: { label: Location, placeholder: "Boston, MA / Online" }
+  - type: input
+    id: deadline
+    attributes: { label: "Scholarship / registration / abstract deadline (if any)" }
+  - type: textarea
+    id: why
+    attributes: { label: Who is it for? Anything students should know? }
