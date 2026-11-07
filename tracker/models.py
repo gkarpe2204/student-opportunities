@@ -7,6 +7,7 @@ from datetime import date
 # Section keys, in the order they appear on the README / site.
 CATEGORIES = {
     "student": "🎓 Student & Diversity Conferences",
+    "premed": "🩺 Pre-Med & Health Conferences",
     "academic": "📚 Academic CS Conferences (paper deadlines)",
     "industry": "💻 Industry & Developer Conferences",
     "discovered": "🔍 Auto-discovered (unverified)",
