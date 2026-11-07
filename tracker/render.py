@@ -2,6 +2,10 @@ from __future__ import annotations
 
 from datetime import date, timedelta
 
+import os
+import re
+
+from .geo import REGION_ORDER, region_of
 from .models import CATEGORIES, Conference
 
 START, END = "<!-- TABLES:START -->", "<!-- TABLES:END -->"
@@ -59,24 +63,33 @@ TABLES = {
     "discovered": (["Conference", "Dates", "Found"],
                    lambda c, t: [name_cell(c, t), fmt_dates(c), c.first_seen]),
 }
-TABLES["premed"] = TABLES["student"]
+TABLES["premed"] = TABLES["business"] = TABLES["tech"] = TABLES["student"]
 
 
 def sort_key(c: Conference):
     return (c.start or date.max, c.name.lower())
 
 
-def render_tables(confs: list[Conference], today: date) -> str:
-    parts = []
-    counts = {k: sum(c.category == k for c in confs) for k in CATEGORIES}
-    parts.append("### Browse " + str(len(confs)) + " upcoming conferences\n")
-    for key, title in CATEGORIES.items():
-        if counts[key]:
-            anchor = title.lower().encode("ascii", "ignore").decode()
-            anchor = "".join(ch if ch.isalnum() or ch in " -" else "" for ch in anchor).replace(" ", "-")
-            parts.append(f"- **[{title}](#{anchor})** — {counts[key]}")
-    parts.append(f"\n_Last updated: {today.strftime('%B %-d, %Y')}_\n")
+def _anchor(title: str) -> str:
+    """GitHub's heading anchor: lowercase, drop punctuation/emoji, spaces -> hyphens."""
+    a = title.lower().encode("ascii", "ignore").decode()
+    return "".join(ch if ch.isalnum() or ch in " -" else "" for ch in a).replace(" ", "-")
 
+
+def region_slug(region: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", region.lower()).strip("-")
+
+
+def region_links(confs: list[Conference], prefix: str = "regions/") -> str:
+    counts = {}
+    for c in confs:
+        counts[region_of(c.country)] = counts.get(region_of(c.country), 0) + 1
+    order = [r for r in REGION_ORDER if counts.get(r)] + sorted(r for r in counts if r not in REGION_ORDER)
+    return " \u00b7 ".join(f"[{r}]({prefix}{region_slug(r)}.md) ({counts[r]})" for r in order)
+
+
+def render_sections(confs: list[Conference], today: date) -> str:
+    parts = []
     for key, title in CATEGORIES.items():
         rows = sorted((c for c in confs if c.category == key), key=sort_key)
         if not rows:
@@ -84,14 +97,39 @@ def render_tables(confs: list[Conference], today: date) -> str:
         header, row = TABLES[key]
         parts.append(f"## {title}\n")
         if key == "discovered":
-            parts.append("> Found automatically by web search. **Verify before you register** — "
+            parts.append("> Found automatically by web search. **Verify before you register** \u2014 "
                          "and open an issue to promote good ones to the curated list.\n")
         parts.append("| " + " | ".join(header) + " |")
         parts.append("|" + "---|" * len(header))
         for c in rows:
             parts.append("| " + " | ".join(row(c, today)) + " |")
-        parts.append("\n[⬆️ Back to top](#)\n")
+        parts.append("\n[\u2b06\ufe0f Back to top](#)\n")
     return "\n".join(parts)
+
+
+def render_tables(confs: list[Conference], today: date) -> str:
+    parts = ["### Browse " + str(len(confs)) + " upcoming conferences\n"]
+    counts = {k: sum(c.category == k for c in confs) for k in CATEGORIES}
+    for key, title in CATEGORIES.items():
+        if counts[key]:
+            parts.append(f"- **[{title}](#{_anchor(title)})** \u2014 {counts[key]}")
+    parts.append(f"\n\U0001f30d **Only want one part of the world?** {region_links(confs)}")
+    parts.append(f"\n_Last updated: {today.strftime('%B %-d, %Y')}_\n")
+    parts.append(render_sections(confs, today))
+    return "\n".join(parts)
+
+
+def write_region_pages(folder: str, confs: list[Conference], today: date) -> None:
+    os.makedirs(folder, exist_ok=True)
+    regions = {region_of(c.country) for c in confs} | set(REGION_ORDER)
+    for region in regions:
+        mine = [c for c in confs if region_of(c.country) == region]
+        body = render_sections(mine, today) if mine else "_No upcoming conferences here right now._\n"
+        with open(os.path.join(folder, f"{region_slug(region)}.md"), "w") as f:
+            f.write(f"# \U0001f30d Student conferences \u2014 {region}\n\n"
+                    f"{len(mine)} upcoming \u00b7 [\u2190 All regions](../README.md) \u00b7 "
+                    f"Other regions: {region_links(confs, prefix='')}\n\n"
+                    f"_Last updated: {today.strftime('%B %-d, %Y')}_\n\n{body}")
 
 
 def update_readme(path: str, confs: list[Conference], today: date) -> None:
