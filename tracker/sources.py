@@ -13,6 +13,7 @@ import yaml
 from bs4 import BeautifulSoup
 
 from .dates import find_ranges, parse_range, to_date
+from .geo import country_of
 from .models import Conference
 
 log = logging.getLogger(__name__)
@@ -114,6 +115,7 @@ def confs_tech() -> list[Conference]:
                     start=to_date(it.get("startDate")), end=to_date(it.get("endDate")),
                     location=loc or ("Online" if it.get("online") else ""),
                     online=bool(it.get("online")),
+                    country=country_of(loc, bool(it.get("online")), hint=it.get("country", "")),
                     deadline=cfp_end if cfp_end and cfp_end >= TODAY else None,
                     deadline_label="CFP" if cfp_end and cfp_end >= TODAY else "",
                     deadline_url=it.get("cfpUrl", ""),
