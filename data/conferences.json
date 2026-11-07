@@ -3399,9 +3399,9 @@
    "location": "Sacramento, CA",
    "country": "United States",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
+   "deadline": "2027-01-04",
+   "deadline_label": "Early-bird registration",
+   "deadline_url": "https://2027.sigcse-ts.acm.org/attending/registration",
    "topics": [
     "CS education"
    ],
@@ -4695,12 +4695,12 @@
    "source": "watchlist",
    "start": "2027-04-08",
    "end": "2027-04-10",
-   "location": "",
-   "country": "Location TBA",
+   "location": "New Orleans, LA",
+   "country": "United States",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
+   "deadline": "2026-11-11",
+   "deadline_label": "Case comp sign-up",
+   "deadline_url": "https://www.ama.org/collegiate-competitions-case/",
    "topics": [
     "Marketing",
     "Case competitions"
@@ -4710,7 +4710,7 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ama-international-collegiate-conference-2027",
-   "region": "Location TBA"
+   "region": "North America"
   },
   {
    "name": "BlockSys 2027",
@@ -4862,9 +4862,9 @@
    "location": "Grand Rapids, MI",
    "country": "United States",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
+   "deadline": "2026-12-04",
+   "deadline_label": "Abstracts",
+   "deadline_url": "https://ncur.secure-platform.com/2027/page/abstract-guidelines",
    "topics": [
     "Undergrad research",
     "All fields"
@@ -9940,7 +9940,7 @@
     "Student travel grants"
    ],
    "rank": "",
-   "notes": "Expected May 2027; dates not announced yet",
+   "notes": "Expected May 2027; talk proposals usually close mid-December",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pycon-us-tba",

@@ -1,6 +1,6 @@
 # 🌍 Student conferences — Latin America & Caribbean
 
-11 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (118) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (20)
+11 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (119) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (19)
 
 _Last updated: November 7, 2026_
 

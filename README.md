@@ -20,7 +20,7 @@ A list of **upcoming conferences students can attend, present at, or get scholar
 - **[📚 Academic CS Conferences (paper deadlines)](#-academic-cs-conferences-paper-deadlines)** — 264
 - **[💻 Industry & Developer Conferences](#-industry--developer-conferences)** — 132
 
-🌍 **Only want one part of the world?** [North America](regions/north-america.md) (118) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (165) · [Asia](regions/asia.md) (90) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (17) · [Online](regions/online.md) (7) · [Location TBA](regions/location-tba.md) (20)
+🌍 **Only want one part of the world?** [North America](regions/north-america.md) (119) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (165) · [Asia](regions/asia.md) (90) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (17) · [Online](regions/online.md) (7) · [Location TBA](regions/location-tba.md) (19)
 
 _Last updated: November 7, 2026_
 
@@ -29,7 +29,7 @@ _Last updated: November 7, 2026_
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
 | **[NSBE Annual Convention](https://convention.nsbe.org)** 🆕 | Mar 31 – Apr 4, 2027 | Boston, MA | — | Black engineers, Career fair |
-| **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** 🆕 | Apr 12–14, 2027 | Grand Rapids, MI | — | Undergrad research, All fields |
+| **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** 🆕 | Apr 12–14, 2027 | Grand Rapids, MI | [Abstracts: Dec 4](https://ncur.secure-platform.com/2027/page/abstract-guidelines) | Undergrad research, All fields |
 | **[SASE National Conference](https://saseconnect.org)** 🆕 | Oct 6–9, 2027 | Seattle, WA | — | Asian heritage scientists & engineers |
 | **[AISES National Conference](https://www.aises.org)** 🆕 | Oct 14–16, 2027 | Aurora, CO | — | Indigenous peoples in STEM |
 | **[SHPE National Convention](https://shpe.org)** 🆕 | Oct 27–30, 2027 | Salt Lake City, UT | — | Hispanic engineers, Career fair |
@@ -45,13 +45,13 @@ _Last updated: November 7, 2026_
 |---|---|---|---|---|
 | **[WiML Workshop (Women in Machine Learning)](https://wimlworkshop.org)** 🆕 | Dec 7, 2026 | Sydney, Australia | — | ML research, Women in ML |
 | **[Grace Hopper Celebration India (GHCI)](https://ghcindia.anitab.org)** 🆕 | Jan 20–22, 2027 | Bengaluru, India | — | Women in computing, Career fair |
-| **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | — | CS education |
+| **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | [Early-bird registration: Jan 4](https://2027.sigcse-ts.acm.org/attending/registration) | CS education |
 | **[Harvard WECode](https://www.wecodeharvard.org)** 🆕 | Feb 19–20, 2027 | Boston, MA | — | Women in CS, Student-run |
 | **[AfroTech Conference](https://afrotech.com)** 🆕 | TBA · Usually early November in Houston (2026: Nov 2–6) | — | — | Black tech professionals, Careers |
 | **[ColorStack Annual Summit](https://www.colorstack.org)** 🆕 | TBA · Stacked Up Summit, usually fall in San Francisco | — | — | Black & Latinx CS students |
 | **[Grace Hopper Celebration](https://ghc.anitab.org)** 🆕 | TBA · 2026 edition was cancelled by AnitaB.org; 2027 not announced | — | — | Women in computing, Career fair |
 | **[Out for Undergrad Tech Conference](https://outforundergrad.org)** 🆕 | TBA | — | — | LGBTQ+ undergrads, Tech careers |
-| **[PyCon US](https://us.pycon.org)** 🆕 | TBA · Expected May 2027; dates not announced yet | Long Beach, CA | — | Python, Student travel grants |
+| **[PyCon US](https://us.pycon.org)** 🆕 | TBA · Expected May 2027; talk proposals usually close mid-December | Long Beach, CA | — | Python, Student travel grants |
 | **[Richard Tapia Celebration of Diversity in Computing](https://tapiaconference.cmd-it.org)** 🆕 | TBA · Usually mid-September (2026: Sep 16–18, Atlanta) | — | — | Diversity in computing, Scholarships |
 | **[WiDS Worldwide Conference (Women in Data Science)](https://www.widsworldwide.org)** 🆕 | TBA | — | — | Data science, AI, Women in tech |
 
@@ -76,7 +76,7 @@ _Last updated: November 7, 2026_
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[AMA International Collegiate Conference](https://www.ama.org)** 🆕 | Apr 8–10, 2027 | — | — | Marketing, Case competitions |
+| **[AMA International Collegiate Conference](https://www.ama.org)** 🆕 | Apr 8–10, 2027 | New Orleans, LA | [Case comp sign-up: Nov 11](https://www.ama.org/collegiate-competitions-case/) ⏰ 4d | Marketing, Case competitions |
 | **[Collegiate DECA International Career Development Conference (ICDC)](https://www.deca.org/cicdc)** 🆕 | Apr 9–12, 2027 | Austin, TX | — | Business competitions, Marketing, Entrepreneurship |
 | **[ALPFA Convention](https://alpfa.org/event-convention)** 🆕 | TBA | — | — | Latino students & professionals, Career fair, Scholarships |
 | **[FBLA Collegiate National Leadership Conference](https://www.fbla.org/nlc-collegiate/)** 🆕 | TBA · Usually June (2026: Jun 6–8, Las Vegas) | — | — | Business competitions, Leadership |
