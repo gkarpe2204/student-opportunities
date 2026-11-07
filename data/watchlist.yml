@@ -1,0 +1,103 @@
+# Hand-curated student-focused conferences. This is the "verified" list.
+#
+# Fields (only name + url are required):
+#   name, url           conference name and homepage
+#   dates_url           page to scrape dates from, if not the homepage
+#   start, end          YYYY-MM-DD. If set, these are used as-is (no ⚠️ badge).
+#                       Once they pass, the tracker goes back to scraping the site.
+#   location, online    "Boston, MA" / true
+#   deadline            next registration / scholarship / abstract deadline (YYYY-MM-DD)
+#   deadline_label      e.g. "Scholarship", "Abstracts", "Registration"
+#   deadline_url        link to apply
+#   topics              short tags shown in the "Focus" column
+#   notes               anything else
+#
+# Without start/end, the tracker scrapes the site each day and marks the dates ⚠️ (unverified).
+
+- name: Grace Hopper Celebration
+  url: https://ghc.anitab.org
+  topics: [Women in computing, Career fair]
+
+- name: Richard Tapia Celebration of Diversity in Computing
+  url: https://tapiaconference.cmd-it.org
+  topics: [Diversity in computing, Scholarships]
+
+- name: SHPE National Convention
+  url: https://shpe.org
+  topics: [Hispanic engineers, Career fair]
+
+- name: NSBE Annual Convention
+  url: https://convention.nsbe.org
+  start: 2027-03-31
+  end: 2027-04-04
+  location: Boston, MA
+  topics: [Black engineers, Career fair]
+
+- name: SWE WE27 Annual Conference
+  url: https://swe.org
+  start: 2027-11-04
+  end: 2027-11-06
+  location: Denver, CO
+  topics: [Women in engineering, Career fair]
+
+- name: SASE National Conference
+  url: https://saseconnect.org
+  topics: [Asian heritage scientists & engineers]
+
+- name: oSTEM Annual Conference
+  url: https://ostem.org
+  topics: [LGBTQ+ in STEM]
+
+- name: SACNAS National Diversity in STEM Conference
+  url: https://www.sacnas.org/conference
+  topics: [Research, Diversity in STEM]
+
+- name: AISES National Conference
+  url: https://www.aises.org
+  topics: [Indigenous peoples in STEM]
+
+- name: ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)
+  url: https://abrcms.org
+  start: 2026-11-18
+  end: 2026-11-21
+  location: Seattle, WA
+  topics: [Undergrad research, Biomedical]
+
+- name: NCUR (National Conference on Undergraduate Research)
+  url: https://www.cur.org/what/events/students/ncur/
+  start: 2027-04-12
+  end: 2027-04-14
+  location: Grand Rapids, MI
+  topics: [Undergrad research, All fields]
+
+- name: ColorStack Annual Summit
+  url: https://www.colorstack.org
+  topics: [Black & Latinx CS students]
+
+- name: Out for Undergrad Tech Conference
+  url: https://outforundergrad.org
+  topics: [LGBTQ+ undergrads, Tech careers]
+
+- name: WiML Workshop (Women in Machine Learning)
+  url: https://wimlworkshop.org
+  topics: [ML research, Women in ML]
+
+- name: SIGCSE Technical Symposium
+  url: https://sigcse-ts.acm.org/2027/
+  start: 2027-02-17
+  end: 2027-02-20
+  location: Sacramento, CA
+  topics: [CS education]
+
+- name: PyCon US
+  url: https://us.pycon.org
+  location: Long Beach, CA
+  topics: [Python, Student travel grants]
+
+- name: AfroTech Conference
+  url: https://afrotech.com
+  topics: [Black tech professionals, Careers]
+
+- name: Harvard WECode
+  url: https://www.wecodeharvard.org
+  topics: [Women in CS, Student-run]
