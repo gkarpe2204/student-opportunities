@@ -11,9 +11,10 @@ A list of **upcoming conferences students can attend, present at, or get scholar
 ---
 
 <!-- TABLES:START -->
-### Browse 414 upcoming conferences
+### Browse 421 upcoming conferences
 
-- **[🎓 Student & Diversity Conferences](#-student--diversity-conferences)** — 18
+- **[🎓 Student & Diversity Conferences](#-student--diversity-conferences)** — 17
+- **[🩺 Pre-Med & Health Conferences](#-pre-med--health-conferences)** — 8
 - **[📚 Academic CS Conferences (paper deadlines)](#-academic-cs-conferences-paper-deadlines)** — 264
 - **[💻 Industry & Developer Conferences](#-industry--developer-conferences)** — 132
 
@@ -23,7 +24,6 @@ _Last updated: November 7, 2026_
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)](https://abrcms.org)** 🆕 | Nov 18–21, 2026 | Seattle, WA | — | Undergrad research, Biomedical |
 | **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | — | CS education |
 | **[NSBE Annual Convention](https://convention.nsbe.org)** 🆕 | Mar 31 – Apr 4, 2027 | Boston, MA | — | Black engineers, Career fair |
 | **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** 🆕 | Apr 12–14, 2027 | Grand Rapids, MI | — | Undergrad research, All fields |
@@ -41,6 +41,21 @@ _Last updated: November 7, 2026_
 | **[SASE National Conference](https://saseconnect.org)** 🆕 | TBA | — | — | Asian heritage scientists & engineers |
 | **[SHPE National Convention](https://shpe.org)** 🆕 | TBA | — | — | Hispanic engineers, Career fair |
 | **[WiML Workshop (Women in Machine Learning)](https://wimlworkshop.org)** 🆕 | TBA | — | — | ML research, Women in ML |
+
+[⬆️ Back to top](#)
+
+## 🩺 Pre-Med & Health Conferences
+
+| Conference | Dates | Location | Deadline | Focus |
+|---|---|---|---|---|
+| **[ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)](https://abrcms.org)** 🆕 | Nov 18–21, 2026 | Seattle, WA | — | Undergrad research, Biomedical |
+| **[UCSF Fresno ROAD Conference (Pre-Medical Student Day)](https://sjvpremed.ucsf.edu)** 🆕 | Mar 7, 2027 | Fresno, CA | — | Free, Pre-med advising |
+| **[SNMA Annual Medical Education Conference (AMEC)](https://snma.org)** 🆕 | Mar 24–28, 2027 | Las Vegas, NV | — | Med & pre-med students of color, Workshops |
+| **[AMSA Annual Convention](https://www.amsa.org)** 🆕 | TBA | — | — | Med & pre-med students, Career prep |
+| **[APAMSA National Conference](https://www.apamsa.org)** 🆕 | TBA | — | — | Asian Pacific American med & pre-med students |
+| **[KU School of Medicine Premedical Student Conference](https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html)** 🆕 | TBA | — | — | One-day, Pre-med advising |
+| **[LMSA National Conference](https://national.lmsa.net)** 🆕 | TBA | — | — | Latino med & pre-med students, Research symposium |
+| **[Pre-Health Conference at UC Davis](https://prehealthconference.ucdavis.edu)** 🆕 | TBA | Davis, CA | — | Largest student-run pre-health conference, Admissions workshops |
 
 [⬆️ Back to top](#)
 

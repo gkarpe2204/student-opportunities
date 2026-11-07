@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-07",
- "count": 414,
+ "count": 421,
  "conferences": [
   {
    "name": "NCMMSC 2026",
@@ -871,7 +871,7 @@
   {
    "name": "ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)",
    "url": "https://abrcms.org",
-   "category": "student",
+   "category": "premed",
    "source": "watchlist",
    "start": "2026-11-18",
    "end": "2026-11-21",
@@ -3203,6 +3203,28 @@
    "id": "chiir-2027"
   },
   {
+   "name": "UCSF Fresno ROAD Conference (Pre-Medical Student Day)",
+   "url": "https://sjvpremed.ucsf.edu",
+   "category": "premed",
+   "source": "watchlist",
+   "start": "2027-03-07",
+   "end": "2027-03-07",
+   "location": "Fresno, CA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Free",
+    "Pre-med advising"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "ucsf-fresno-road-conference-pre-medical-student-day-2027"
+  },
+  {
    "name": "Annual Global Summit on Artificial Intelligence and Machine Learning",
    "url": "https://vividglobalsummits.com/2027/artificial-intelligence",
    "category": "industry",
@@ -3791,6 +3813,28 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dcc-2027"
+  },
+  {
+   "name": "SNMA Annual Medical Education Conference (AMEC)",
+   "url": "https://snma.org",
+   "category": "premed",
+   "source": "watchlist",
+   "start": "2027-03-24",
+   "end": "2027-03-28",
+   "location": "Las Vegas, NV",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Med & pre-med students of color",
+    "Workshops"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "snma-annual-medical-education-conference-amec-2027"
   },
   {
    "name": "DFRWS 2027",
@@ -8519,6 +8563,49 @@
    "id": "afrotech-conference-tba"
   },
   {
+   "name": "AMSA Annual Convention",
+   "url": "https://www.amsa.org",
+   "category": "premed",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Med & pre-med students",
+    "Career prep"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "amsa-annual-convention-tba"
+  },
+  {
+   "name": "APAMSA National Conference",
+   "url": "https://www.apamsa.org",
+   "category": "premed",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Asian Pacific American med & pre-med students"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "apamsa-national-conference-tba"
+  },
+  {
    "name": "ColorStack Annual Summit",
    "url": "https://www.colorstack.org",
    "category": "student",
@@ -8584,6 +8671,50 @@
    "id": "harvard-wecode-tba"
   },
   {
+   "name": "KU School of Medicine Premedical Student Conference",
+   "url": "https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html",
+   "category": "premed",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "One-day",
+    "Pre-med advising"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "ku-school-of-medicine-premedical-student-conference-tba"
+  },
+  {
+   "name": "LMSA National Conference",
+   "url": "https://national.lmsa.net",
+   "category": "premed",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Latino med & pre-med students",
+    "Research symposium"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "lmsa-national-conference-tba"
+  },
+  {
    "name": "oSTEM Annual Conference",
    "url": "https://ostem.org",
    "category": "student",
@@ -8625,6 +8756,28 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "out-for-undergrad-tech-conference-tba"
+  },
+  {
+   "name": "Pre-Health Conference at UC Davis",
+   "url": "https://prehealthconference.ucdavis.edu",
+   "category": "premed",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "Davis, CA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Largest student-run pre-health conference",
+    "Admissions workshops"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "pre-health-conference-at-uc-davis-tba"
   },
   {
    "name": "PyCon US",
