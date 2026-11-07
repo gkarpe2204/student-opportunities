@@ -18,15 +18,20 @@
 - name: Grace Hopper Celebration
   category: tech
   url: https://ghc.anitab.org
+  notes: "2026 edition was cancelled by AnitaB.org; 2027 not announced"
   topics: [Women in computing, Career fair]
 
 - name: Richard Tapia Celebration of Diversity in Computing
   category: tech
   url: https://tapiaconference.cmd-it.org
+  notes: "Usually mid-September (2026: Sep 16–18, Atlanta)"
   topics: [Diversity in computing, Scholarships]
 
 - name: SHPE National Convention
   url: https://shpe.org
+  start: 2027-10-27
+  end: 2027-10-30
+  location: Salt Lake City, UT
   topics: [Hispanic engineers, Career fair]
 
 - name: NSBE Annual Convention
@@ -45,18 +50,28 @@
 
 - name: SASE National Conference
   url: https://saseconnect.org
+  start: 2027-10-06
+  end: 2027-10-09
+  location: Seattle, WA
   topics: [Asian heritage scientists & engineers]
 
 - name: oSTEM Annual Conference
   url: https://ostem.org
+  notes: "Usually mid/late October (2026: Oct 22–24, Albuquerque)"
   topics: [LGBTQ+ in STEM]
 
 - name: SACNAS National Diversity in STEM Conference
   url: https://www.sacnas.org/conference
+  start: 2027-10-28
+  end: 2027-10-30
+  location: Kansas City, MO
   topics: [Research, Diversity in STEM]
 
 - name: AISES National Conference
   url: https://www.aises.org
+  start: 2027-10-14
+  end: 2027-10-16
+  location: Aurora, CO
   topics: [Indigenous peoples in STEM]
 
 - name: ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)
@@ -77,6 +92,7 @@
 - name: ColorStack Annual Summit
   category: tech
   url: https://www.colorstack.org
+  notes: "Stacked Up Summit, usually fall in San Francisco"
   topics: [Black & Latinx CS students]
 
 - name: Out for Undergrad Tech Conference
@@ -87,6 +103,10 @@
 - name: WiML Workshop (Women in Machine Learning)
   category: tech
   url: https://wimlworkshop.org
+  start: 2026-12-07
+  end: 2026-12-07
+  location: Sydney, Australia
+  notes: "Co-located with NeurIPS 2026"
   topics: [ML research, Women in ML]
 
 - name: SIGCSE Technical Symposium
@@ -100,17 +120,22 @@
 - name: PyCon US
   category: tech
   url: https://us.pycon.org
+  notes: "Expected May 2027; dates not announced yet"
   location: Long Beach, CA
   topics: [Python, Student travel grants]
 
 - name: AfroTech Conference
   category: tech
   url: https://afrotech.com
+  notes: "Usually early November in Houston (2026: Nov 2–6)"
   topics: [Black tech professionals, Careers]
 
 - name: Harvard WECode
   category: tech
   url: https://www.wecodeharvard.org
+  start: 2027-02-19
+  end: 2027-02-20
+  location: Boston, MA
   topics: [Women in CS, Student-run]
 
 # ---------------------------------------------------------------- more CS & tech
@@ -144,25 +169,31 @@
   location: Fresno, CA
   topics: [Free, Pre-med advising]
 
-- name: AMSA Annual Convention
+- name: AMSA Future Physicians for Change (Annual Convention)
   category: premed
-  url: https://www.amsa.org
+  url: https://fp4change.org
+  start: 2026-12-10
+  end: 2026-12-12
+  location: Bethesda, MD
   topics: [Med & pre-med students, Career prep]
 
 - name: LMSA National Conference
   category: premed
   url: https://national.lmsa.net
+  notes: "Usually September"
   topics: [Latino med & pre-med students, Research symposium]
 
 - name: Pre-Health Conference at UC Davis
   category: premed
   url: https://prehealthconference.ucdavis.edu
+  notes: "Held each fall (2026: Oct 17)"
   location: Davis, CA
   topics: [Largest student-run pre-health conference, Admissions workshops]
 
 - name: APAMSA National Conference
   category: premed
   url: https://www.apamsa.org
+  notes: "Usually early March"
   topics: [Asian Pacific American med & pre-med students]
 
 - name: KU School of Medicine Premedical Student Conference
@@ -189,6 +220,7 @@
 - name: FBLA Collegiate National Leadership Conference
   category: business
   url: https://www.fbla.org/nlc-collegiate/
+  notes: "Usually June (2026: Jun 6–8, Las Vegas)"
   topics: [Business competitions, Leadership]
 
 - name: ALPFA Convention
