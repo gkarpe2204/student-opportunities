@@ -4,10 +4,14 @@ import re
 from dataclasses import asdict, dataclass, field
 from datetime import date
 
+from .geo import region_of
+
 # Section keys, in the order they appear on the README / site.
 CATEGORIES = {
     "student": "🎓 Student & Diversity Conferences",
+    "tech": "🖥️ CS & Tech Student Conferences",
     "premed": "🩺 Pre-Med & Health Conferences",
+    "business": "💼 Business & Entrepreneurship Conferences",
     "academic": "📚 Academic CS Conferences (paper deadlines)",
     "industry": "💻 Industry & Developer Conferences",
     "discovered": "🔍 Auto-discovered (unverified)",
@@ -31,6 +35,7 @@ class Conference:
     start: date | None = None
     end: date | None = None
     location: str = ""
+    country: str = ""                  # normalized by tracker.geo
     online: bool = False
     deadline: date | None = None       # next paper / CFP / application deadline
     deadline_label: str = ""           # e.g. "Paper", "CFP", "Scholarship"
@@ -51,4 +56,5 @@ class Conference:
         for k in ("start", "end", "deadline"):
             d[k] = d[k].isoformat() if d[k] else None
         d["id"] = self.id
+        d["region"] = region_of(self.country)
         return d
