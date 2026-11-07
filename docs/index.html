@@ -50,6 +50,19 @@
   .tag { font-size: 12px; padding: 2px 8px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); }
   .tag.warn { background: var(--warn-soft); color: var(--warn); }
   .tag.plain { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+  .geo-btn { font-weight: 600; }
+  .geo-panel { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+               padding: 12px 14px; max-height: 55vh; overflow: auto; }
+  .geo-panel[hidden] { display: none; }
+  .geo-top { display: flex; gap: 8px; align-items: center; margin-bottom: 8px; flex-wrap: wrap; }
+  .geo-top input { flex: 1; min-width: 140px; padding: 7px 10px; font: inherit; font-size: 13px; color: var(--ink);
+                   background: var(--bg); border: 1px solid var(--line); border-radius: 8px; }
+  .linkbtn { background: none; border: 0; color: var(--accent); font: inherit; font-size: 13px; cursor: pointer; padding: 4px; }
+  .geo-region { margin: 10px 0 2px; }
+  .geo-region > label { font-weight: 600; font-size: 13px; }
+  .geo-countries { display: flex; flex-wrap: wrap; gap: 2px 14px; padding: 4px 0 0 22px; }
+  .geo-panel label { font-size: 13px; cursor: pointer; display: inline-flex; gap: 6px; align-items: center; }
+  .geo-panel .n { color: var(--muted); }
   .empty { text-align: center; color: var(--muted); padding: 50px 0; }
   footer { max-width: 980px; margin: 0 auto; padding: 0 20px 40px; color: var(--muted); font-size: 13px; }
   footer a { color: var(--accent); }
@@ -65,6 +78,17 @@
 <div class="controls"><div class="controls-inner">
   <input type="search" id="q" placeholder="Search by name, topic, city…" aria-label="Search conferences">
   <div class="row" id="cats"></div>
+  <div class="row">
+    <button class="chip geo-btn" id="geo-btn" aria-expanded="false" aria-controls="geo-panel">🌍 Where: everywhere ▾</button>
+  </div>
+  <div class="geo-panel" id="geo-panel" hidden>
+    <div class="geo-top">
+      <input type="search" id="geo-q" placeholder="Find a country…" aria-label="Find a country">
+      <button class="linkbtn" id="geo-all">Everywhere</button>
+      <button class="linkbtn" id="geo-done">Done</button>
+    </div>
+    <div id="geo-list"></div>
+  </div>
   <div class="row">
     <button class="chip" id="f-deadline" aria-pressed="false">Open deadline</button>
     <button class="chip" id="f-online" aria-pressed="false">Online</button>
@@ -88,10 +112,16 @@
 </footer>
 
 <script>
-const CATS = { all: "All", student: "🎓 Student & diversity", premed: "🩺 Pre-med",
+const CATS = { all: "All", student: "🎓 Student & diversity", tech: "🖥️ CS & tech", premed: "🩺 Pre-med", business: "💼 Business",
                academic: "📚 Academic CS",
                industry: "💻 Industry", discovered: "🔍 Auto-found" };
-const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, sort: "start" };
+const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, sort: "start", countries: new Set() };
+const REGION_ORDER = ["North America", "Latin America & Caribbean", "Europe", "Asia", "Middle East & Africa",
+                      "Oceania", "Other", "Online", "Location TBA"];
+const store = {
+  get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
+};
 let DATA = [];
 const today = new Date(); today.setHours(0, 0, 0, 0);
 const d = s => s ? new Date(s + "T00:00:00") : null;
@@ -132,7 +162,7 @@ function card(c) {
     <div class="when">${dateCell(c)}</div>
     <div>
       <a class="name" href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener">${esc(c.name)}</a>
-      <div class="meta">${esc(c.location || (c.online ? "Online" : "Location TBA"))} · ${esc(CATS[c.category] || c.category)}</div>
+      <div class="meta">${esc(c.location || (c.online ? "Online" : "Location TBA"))}${c.country && !["Online", "Location TBA"].includes(c.country) && !(c.location || "").includes(c.country) ? ", " + esc(c.country) : ""} · ${esc(CATS[c.category] || c.category)}</div>
       ${c.notes && c.category !== "discovered" ? `<div class="meta">${esc(c.notes)}</div>` : ""}
       <div class="tags">${tags.join("")}</div>
     </div></article>`;
@@ -144,6 +174,7 @@ function render() {
   const q = state.q.toLowerCase().trim();
   let rows = DATA.filter(c =>
     (state.cat === "all" || c.category === state.cat) &&
+    (!state.countries.size || state.countries.has(c.country)) &&
     (!state.deadline || c.deadline) && (!state.online || c.online) && (!state.fresh || isNew(c)) &&
     (!q || [c.name, c.location, c.notes, c.rank, ...(c.topics || [])].join(" ").toLowerCase().includes(q)));
   const far = "9999-12-31";
@@ -168,8 +199,59 @@ function toggle(id, key) {
   b.onclick = () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); };
 }
 
+function geoLabel() {
+  const n = state.countries.size;
+  const txt = !n ? "everywhere" : n <= 2 ? [...state.countries].join(", ") : `${n} countries`;
+  document.getElementById("geo-btn").textContent = `🌍 Where: ${txt} ▾`;
+}
+
+function buildGeo() {
+  const byRegion = {};
+  for (const c of DATA) {
+    const r = c.region || "Other", k = c.country || "Location TBA";
+    (byRegion[r] ??= {})[k] = ((byRegion[r] ?? {})[k] || 0) + 1;
+  }
+  const q = document.getElementById("geo-q").value.toLowerCase().trim();
+  const regions = Object.keys(byRegion).sort((a, b) =>
+    (REGION_ORDER.indexOf(a) + 1 || 99) - (REGION_ORDER.indexOf(b) + 1 || 99));
+  let html = "";
+  for (const r of regions) {
+    const countries = Object.keys(byRegion[r]).sort((a, b) => byRegion[r][b] - byRegion[r][a] || a.localeCompare(b))
+      .filter(k => !q || k.toLowerCase().includes(q) || r.toLowerCase().includes(q));
+    if (!countries.length) continue;
+    const total = countries.reduce((s, k) => s + byRegion[r][k], 0);
+    const all = countries.every(k => state.countries.has(k));
+    html += `<div class="geo-region"><label><input type="checkbox" data-region="${esc(r)}" ${all ? "checked" : ""}> ${esc(r)} <span class="n">${total}</span></label>
+      <div class="geo-countries">${countries.map(k => `<label><input type="checkbox" data-country="${esc(k)}" ${state.countries.has(k) ? "checked" : ""}> ${esc(k)} <span class="n">${byRegion[r][k]}</span></label>`).join("")}</div></div>`;
+  }
+  const list = document.getElementById("geo-list");
+  list.innerHTML = html || `<div class="n">No match.</div>`;
+  list.querySelectorAll("input[data-country]").forEach(cb => cb.onchange = () => {
+    cb.checked ? state.countries.add(cb.dataset.country) : state.countries.delete(cb.dataset.country); geoChanged();
+  });
+  list.querySelectorAll("input[data-region]").forEach(cb => cb.onchange = () => {
+    cb.closest(".geo-region").querySelectorAll("input[data-country]").forEach(x => {
+      cb.checked ? state.countries.add(x.dataset.country) : state.countries.delete(x.dataset.country); });
+    geoChanged();
+  });
+}
+
+function geoChanged() { store.set("sc.countries", [...state.countries]); geoLabel(); buildGeo(); render(); }
+
+(() => {
+  const btn = document.getElementById("geo-btn"), panel = document.getElementById("geo-panel");
+  const toggleGeo = open => { panel.hidden = !open; btn.setAttribute("aria-expanded", open); if (open) buildGeo(); };
+  btn.onclick = () => toggleGeo(panel.hidden);
+  document.getElementById("geo-done").onclick = () => toggleGeo(false);
+  document.getElementById("geo-all").onclick = () => { state.countries.clear(); geoChanged(); };
+  document.getElementById("geo-q").oninput = buildGeo;
+})();
+
 fetch("conferences.json", { cache: "no-cache" }).then(r => r.json()).then(j => {
   DATA = j.conferences;
+  const known = new Set(DATA.map(c => c.country));
+  (store.get("sc.countries") || []).forEach(k => known.has(k) && state.countries.add(k));
+  geoLabel();
   document.getElementById("updated").textContent = "Last run " + fmt(d(j.updated), { month: "long", day: "numeric", year: "numeric" }) + ".";
   const cats = document.getElementById("cats");
   for (const [k, label] of Object.entries(CATS)) {
