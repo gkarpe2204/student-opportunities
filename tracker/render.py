@@ -59,6 +59,7 @@ TABLES = {
     "discovered": (["Conference", "Dates", "Found"],
                    lambda c, t: [name_cell(c, t), fmt_dates(c), c.first_seen]),
 }
+TABLES["premed"] = TABLES["student"]
 
 
 def sort_key(c: Conference):
