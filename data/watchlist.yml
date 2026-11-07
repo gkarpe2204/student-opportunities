@@ -10,6 +10,8 @@
 #   deadline            next registration / scholarship / abstract deadline (YYYY-MM-DD)
 #   deadline_label      e.g. "Scholarship", "Abstracts", "Registration"
 #   deadline_url        link to apply
+#   deadlines           list of {date, label, url}; the README shows the next one still ahead,
+#                       so the column moves on by itself as each deadline passes
 #   topics              short tags shown in the "Focus" column
 #   notes               anything else
 #
@@ -87,6 +89,10 @@
   start: 2027-04-12
   end: 2027-04-14
   location: Grand Rapids, MI
+  deadlines:
+    - {date: 2026-12-04, label: Abstracts, url: "https://ncur.secure-platform.com/2027/page/abstract-guidelines"}
+    - {date: 2027-01-29, label: Early registration}
+    - {date: 2027-03-05, label: Registration closes}
   topics: [Undergrad research, All fields]
 
 - name: ColorStack Annual Summit
@@ -115,12 +121,15 @@
   start: 2027-02-17
   end: 2027-02-20
   location: Sacramento, CA
+  deadlines:
+    - {date: 2027-01-04, label: Early-bird registration, url: "https://2027.sigcse-ts.acm.org/attending/registration"}
+    - {date: 2027-02-01, label: Regular registration, url: "https://2027.sigcse-ts.acm.org/attending/registration"}
   topics: [CS education]
 
 - name: PyCon US
   category: tech
   url: https://us.pycon.org
-  notes: "Expected May 2027; dates not announced yet"
+  notes: "Expected May 2027; talk proposals usually close mid-December"
   location: Long Beach, CA
   topics: [Python, Student travel grants]
 
@@ -215,6 +224,11 @@
   url: https://www.ama.org
   start: 2027-04-08
   end: 2027-04-10
+  location: New Orleans, LA
+  deadlines:
+    - {date: 2026-11-11, label: Case comp sign-up, url: "https://www.ama.org/collegiate-competitions-case/"}
+    - {date: 2026-12-04, label: Case plan due, url: "https://www.ama.org/collegiate-competitions-case/"}
+    - {date: 2027-03-04, label: Hotel block, url: "https://www.ama.org/events/collegiate/2027-ama-international-collegiate-conference/"}
   topics: [Marketing, Case competitions]
 
 - name: FBLA Collegiate National Leadership Conference
