@@ -1,8 +1,16 @@
 # 🌍 Student conferences — Oceania
 
-16 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (112) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (7) · [Location TBA](location-tba.md) (27)
+17 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (118) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (20)
 
 _Last updated: November 7, 2026_
+
+## 🖥️ CS & Tech Student Conferences
+
+| Conference | Dates | Location | Deadline | Focus |
+|---|---|---|---|---|
+| **[WiML Workshop (Women in Machine Learning)](https://wimlworkshop.org)** 🆕 | Dec 7, 2026 | Sydney, Australia | — | ML research, Women in ML |
+
+[⬆️ Back to top](#)
 
 ## 📚 Academic CS Conferences (paper deadlines)
 

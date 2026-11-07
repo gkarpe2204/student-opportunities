@@ -1,6 +1,6 @@
 # 🌍 Student conferences — North America
 
-112 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (112) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (7) · [Location TBA](location-tba.md) (27)
+118 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (118) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (20)
 
 _Last updated: November 7, 2026_
 
@@ -10,6 +10,10 @@ _Last updated: November 7, 2026_
 |---|---|---|---|---|
 | **[NSBE Annual Convention](https://convention.nsbe.org)** 🆕 | Mar 31 – Apr 4, 2027 | Boston, MA | — | Black engineers, Career fair |
 | **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** 🆕 | Apr 12–14, 2027 | Grand Rapids, MI | — | Undergrad research, All fields |
+| **[SASE National Conference](https://saseconnect.org)** 🆕 | Oct 6–9, 2027 | Seattle, WA | — | Asian heritage scientists & engineers |
+| **[AISES National Conference](https://www.aises.org)** 🆕 | Oct 14–16, 2027 | Aurora, CO | — | Indigenous peoples in STEM |
+| **[SHPE National Convention](https://shpe.org)** 🆕 | Oct 27–30, 2027 | Salt Lake City, UT | — | Hispanic engineers, Career fair |
+| **[SACNAS National Diversity in STEM Conference](https://www.sacnas.org/conference)** 🆕 | Oct 28–30, 2027 | Kansas City, MO | — | Research, Diversity in STEM |
 | **[SWE WE27 Annual Conference](https://swe.org)** 🆕 | Nov 4–6, 2027 | Denver, CO | — | Women in engineering, Career fair |
 
 [⬆️ Back to top](#)
@@ -19,7 +23,8 @@ _Last updated: November 7, 2026_
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
 | **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | — | CS education |
-| **[PyCon US](https://us.pycon.org)** 🆕 | TBA | Long Beach, CA | — | Python, Student travel grants |
+| **[Harvard WECode](https://www.wecodeharvard.org)** 🆕 | Feb 19–20, 2027 | Boston, MA | — | Women in CS, Student-run |
+| **[PyCon US](https://us.pycon.org)** 🆕 | TBA · Expected May 2027; dates not announced yet | Long Beach, CA | — | Python, Student travel grants |
 
 [⬆️ Back to top](#)
 
@@ -28,9 +33,10 @@ _Last updated: November 7, 2026_
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
 | **[ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)](https://abrcms.org)** 🆕 | Nov 18–21, 2026 | Seattle, WA | — | Undergrad research, Biomedical |
+| **[AMSA Future Physicians for Change (Annual Convention)](https://fp4change.org)** 🆕 | Dec 10–12, 2026 | Bethesda, MD | — | Med & pre-med students, Career prep |
 | **[UCSF Fresno ROAD Conference (Pre-Medical Student Day)](https://sjvpremed.ucsf.edu)** 🆕 | Mar 7, 2027 | Fresno, CA | — | Free, Pre-med advising |
 | **[SNMA Annual Medical Education Conference (AMEC)](https://snma.org)** 🆕 | Mar 24–28, 2027 | Las Vegas, NV | — | Med & pre-med students of color, Workshops |
-| **[Pre-Health Conference at UC Davis](https://prehealthconference.ucdavis.edu)** 🆕 | TBA | Davis, CA | — | Largest student-run pre-health conference, Admissions workshops |
+| **[Pre-Health Conference at UC Davis](https://prehealthconference.ucdavis.edu)** 🆕 | TBA · Held each fall (2026: Oct 17) | Davis, CA | — | Largest student-run pre-health conference, Admissions workshops |
 
 [⬆️ Back to top](#)
 

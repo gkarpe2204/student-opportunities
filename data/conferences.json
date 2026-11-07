@@ -2299,6 +2299,30 @@
    "region": "Europe"
   },
   {
+   "name": "WiML Workshop (Women in Machine Learning)",
+   "url": "https://wimlworkshop.org",
+   "category": "tech",
+   "source": "watchlist",
+   "start": "2026-12-07",
+   "end": "2026-12-07",
+   "location": "Sydney, Australia",
+   "country": "Australia",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "ML research",
+    "Women in ML"
+   ],
+   "rank": "",
+   "notes": "Co-located with NeurIPS 2026",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "wiml-workshop-women-in-machine-learning-2026",
+   "region": "Oceania"
+  },
+  {
    "name": "Conversations Roadshow: New York by CTO Craft",
    "url": "https://conversations.ctocraft.com/new-york",
    "category": "industry",
@@ -2413,6 +2437,30 @@
    "first_seen": "2026-11-07",
    "id": "rtss-2026",
    "region": "Asia"
+  },
+  {
+   "name": "AMSA Future Physicians for Change (Annual Convention)",
+   "url": "https://fp4change.org",
+   "category": "premed",
+   "source": "watchlist",
+   "start": "2026-12-10",
+   "end": "2026-12-12",
+   "location": "Bethesda, MD",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Med & pre-med students",
+    "Career prep"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "amsa-future-physicians-for-change-annual-convention-2026",
+   "region": "North America"
   },
   {
    "name": "INDOCRYPT 2026",
@@ -3362,6 +3410,30 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigcse-technical-symposium-2027",
+   "region": "North America"
+  },
+  {
+   "name": "Harvard WECode",
+   "url": "https://www.wecodeharvard.org",
+   "category": "tech",
+   "source": "watchlist",
+   "start": "2027-02-19",
+   "end": "2027-02-20",
+   "location": "Boston, MA",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Women in CS",
+    "Student-run"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "harvard-wecode-2027",
    "region": "North America"
   },
   {
@@ -8937,6 +9009,29 @@
    "region": "Asia"
   },
   {
+   "name": "SASE National Conference",
+   "url": "https://saseconnect.org",
+   "category": "student",
+   "source": "watchlist",
+   "start": "2027-10-06",
+   "end": "2027-10-09",
+   "location": "Seattle, WA",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Asian heritage scientists & engineers"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "sase-national-conference-2027",
+   "region": "North America"
+  },
+  {
    "name": "OOPSLA 2027",
    "url": "https://2027.splashcon.org/track/splashoopsla2027",
    "category": "academic",
@@ -8989,8 +9084,8 @@
    "source": "watchlist",
    "start": "2027-10-14",
    "end": "2027-10-16",
-   "location": "",
-   "country": "Location TBA",
+   "location": "Aurora, CO",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -9000,10 +9095,10 @@
    ],
    "rank": "",
    "notes": "",
-   "dates_auto": true,
+   "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aises-national-conference-2027",
-   "region": "Location TBA"
+   "region": "North America"
   },
   {
    "name": "SecureComm 2027",
@@ -9187,6 +9282,54 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "imc-2027",
+   "region": "North America"
+  },
+  {
+   "name": "SHPE National Convention",
+   "url": "https://shpe.org",
+   "category": "student",
+   "source": "watchlist",
+   "start": "2027-10-27",
+   "end": "2027-10-30",
+   "location": "Salt Lake City, UT",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Hispanic engineers",
+    "Career fair"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "shpe-national-convention-2027",
+   "region": "North America"
+  },
+  {
+   "name": "SACNAS National Diversity in STEM Conference",
+   "url": "https://www.sacnas.org/conference",
+   "category": "student",
+   "source": "watchlist",
+   "start": "2027-10-28",
+   "end": "2027-10-30",
+   "location": "Kansas City, MO",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Research",
+    "Diversity in STEM"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "sacnas-national-diversity-in-stem-conference-2027",
    "region": "North America"
   },
   {
@@ -9439,7 +9582,7 @@
     "Careers"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually early November in Houston (2026: Nov 2–6)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "afrotech-conference-tba",
@@ -9471,30 +9614,6 @@
    "region": "Location TBA"
   },
   {
-   "name": "AMSA Annual Convention",
-   "url": "https://www.amsa.org",
-   "category": "premed",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Med & pre-med students",
-    "Career prep"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "amsa-annual-convention-tba",
-   "region": "Location TBA"
-  },
-  {
    "name": "APAMSA National Conference",
    "url": "https://www.apamsa.org",
    "category": "premed",
@@ -9511,7 +9630,7 @@
     "Asian Pacific American med & pre-med students"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually early March",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "apamsa-national-conference-tba",
@@ -9534,7 +9653,7 @@
     "Black & Latinx CS students"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Stacked Up Summit, usually fall in San Francisco",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "colorstack-annual-summit-tba",
@@ -9558,7 +9677,7 @@
     "Leadership"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually June (2026: Jun 6–8, Las Vegas)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fbla-collegiate-national-leadership-conference-tba",
@@ -9606,34 +9725,10 @@
     "Career fair"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "2026 edition was cancelled by AnitaB.org; 2027 not announced",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "grace-hopper-celebration-tba",
-   "region": "Location TBA"
-  },
-  {
-   "name": "Harvard WECode",
-   "url": "https://www.wecodeharvard.org",
-   "category": "tech",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Women in CS",
-    "Student-run"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "harvard-wecode-tba",
    "region": "Location TBA"
   },
   {
@@ -9678,7 +9773,7 @@
     "Research symposium"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually September",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "lmsa-national-conference-tba",
@@ -9749,7 +9844,7 @@
     "LGBTQ+ in STEM"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually mid/late October (2026: Oct 22–24, Albuquerque)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ostem-annual-conference-tba",
@@ -9797,7 +9892,7 @@
     "Admissions workshops"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Held each fall (2026: Oct 17)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pre-health-conference-at-uc-davis-tba",
@@ -9845,7 +9940,7 @@
     "Student travel grants"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Expected May 2027; dates not announced yet",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pycon-us-tba",
@@ -9893,81 +9988,10 @@
     "Scholarships"
    ],
    "rank": "",
-   "notes": "",
+   "notes": "Usually mid-September (2026: Sep 16–18, Atlanta)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "richard-tapia-celebration-of-diversity-in-computing-tba",
-   "region": "Location TBA"
-  },
-  {
-   "name": "SACNAS National Diversity in STEM Conference",
-   "url": "https://www.sacnas.org/conference",
-   "category": "student",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Research",
-    "Diversity in STEM"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "sacnas-national-diversity-in-stem-conference-tba",
-   "region": "Location TBA"
-  },
-  {
-   "name": "SASE National Conference",
-   "url": "https://saseconnect.org",
-   "category": "student",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Asian heritage scientists & engineers"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "sase-national-conference-tba",
-   "region": "Location TBA"
-  },
-  {
-   "name": "SHPE National Convention",
-   "url": "https://shpe.org",
-   "category": "student",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Hispanic engineers",
-    "Career fair"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "shpe-national-convention-tba",
    "region": "Location TBA"
   },
   {
@@ -9993,30 +10017,6 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wids-worldwide-conference-women-in-data-science-tba",
-   "region": "Location TBA"
-  },
-  {
-   "name": "WiML Workshop (Women in Machine Learning)",
-   "url": "https://wimlworkshop.org",
-   "category": "tech",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "ML research",
-    "Women in ML"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "wiml-workshop-women-in-machine-learning-tba",
    "region": "Location TBA"
   }
  ]
