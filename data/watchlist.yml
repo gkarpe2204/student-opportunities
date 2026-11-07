@@ -2,6 +2,7 @@
 #
 # Fields (only name + url are required):
 #   name, url           conference name and homepage
+#   category            "student" (default) or "premed"
 #   dates_url           page to scrape dates from, if not the homepage
 #   start, end          YYYY-MM-DD. If set, these are used as-is (no ⚠️ badge).
 #                       Once they pass, the tracker goes back to scraping the site.
@@ -57,6 +58,7 @@
   topics: [Indigenous peoples in STEM]
 
 - name: ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)
+  category: premed
   url: https://abrcms.org
   start: 2026-11-18
   end: 2026-11-21
@@ -101,3 +103,46 @@
 - name: Harvard WECode
   url: https://www.wecodeharvard.org
   topics: [Women in CS, Student-run]
+
+# ---------------------------------------------------------------- pre-med / health
+- name: SNMA Annual Medical Education Conference (AMEC)
+  category: premed
+  url: https://snma.org
+  start: 2027-03-24
+  end: 2027-03-28
+  location: Las Vegas, NV
+  topics: [Med & pre-med students of color, Workshops]
+
+- name: UCSF Fresno ROAD Conference (Pre-Medical Student Day)
+  category: premed
+  url: https://sjvpremed.ucsf.edu
+  start: 2027-03-07
+  end: 2027-03-07
+  location: Fresno, CA
+  topics: [Free, Pre-med advising]
+
+- name: AMSA Annual Convention
+  category: premed
+  url: https://www.amsa.org
+  topics: [Med & pre-med students, Career prep]
+
+- name: LMSA National Conference
+  category: premed
+  url: https://national.lmsa.net
+  topics: [Latino med & pre-med students, Research symposium]
+
+- name: Pre-Health Conference at UC Davis
+  category: premed
+  url: https://prehealthconference.ucdavis.edu
+  location: Davis, CA
+  topics: [Largest student-run pre-health conference, Admissions workshops]
+
+- name: APAMSA National Conference
+  category: premed
+  url: https://www.apamsa.org
+  topics: [Asian Pacific American med & pre-med students]
+
+- name: KU School of Medicine Premedical Student Conference
+  category: premed
+  url: https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html
+  topics: [One-day, Pre-med advising]
