@@ -33,7 +33,7 @@ def get(url: str, **kw) -> requests.Response:
 def is_upcoming(c: Conference) -> bool:
     end = c.end or c.start
     if end is None:
-        return c.category == "student"   # keep watchlist entries with TBA dates
+        return c.source == "watchlist"   # keep curated entries with TBA dates
     return TODAY <= end and (c.start or end) <= HORIZON
 
 
@@ -206,7 +206,7 @@ def watchlist(path: str = "data/watchlist.yml") -> list[Conference]:
     out = []
     for e in entries:
         c = Conference(
-            name=e["name"], url=e["url"], category="student", source="watchlist",
+            name=e["name"], url=e["url"], category=e.get("category", "student"), source="watchlist",
             start=to_date(e.get("start")), end=to_date(e.get("end")),
             location=e.get("location", ""), online=bool(e.get("online", False)),
             deadline=to_date(e.get("deadline")), deadline_label=e.get("deadline_label", ""),
