@@ -2,7 +2,7 @@
 #
 # Fields (only name + url are required):
 #   name, url           conference name and homepage
-#   category            "student" (default) or "premed"
+#   category            "student" (default), "tech", "premed" or "business"
 #   dates_url           page to scrape dates from, if not the homepage
 #   start, end          YYYY-MM-DD. If set, these are used as-is (no ⚠️ badge).
 #                       Once they pass, the tracker goes back to scraping the site.
@@ -16,10 +16,12 @@
 # Without start/end, the tracker scrapes the site each day and marks the dates ⚠️ (unverified).
 
 - name: Grace Hopper Celebration
+  category: tech
   url: https://ghc.anitab.org
   topics: [Women in computing, Career fair]
 
 - name: Richard Tapia Celebration of Diversity in Computing
+  category: tech
   url: https://tapiaconference.cmd-it.org
   topics: [Diversity in computing, Scholarships]
 
@@ -73,18 +75,22 @@
   topics: [Undergrad research, All fields]
 
 - name: ColorStack Annual Summit
+  category: tech
   url: https://www.colorstack.org
   topics: [Black & Latinx CS students]
 
 - name: Out for Undergrad Tech Conference
+  category: tech
   url: https://outforundergrad.org
   topics: [LGBTQ+ undergrads, Tech careers]
 
 - name: WiML Workshop (Women in Machine Learning)
+  category: tech
   url: https://wimlworkshop.org
   topics: [ML research, Women in ML]
 
 - name: SIGCSE Technical Symposium
+  category: tech
   url: https://sigcse-ts.acm.org/2027/
   start: 2027-02-17
   end: 2027-02-20
@@ -92,17 +98,34 @@
   topics: [CS education]
 
 - name: PyCon US
+  category: tech
   url: https://us.pycon.org
   location: Long Beach, CA
   topics: [Python, Student travel grants]
 
 - name: AfroTech Conference
+  category: tech
   url: https://afrotech.com
   topics: [Black tech professionals, Careers]
 
 - name: Harvard WECode
+  category: tech
   url: https://www.wecodeharvard.org
   topics: [Women in CS, Student-run]
+
+# ---------------------------------------------------------------- more CS & tech
+- name: Grace Hopper Celebration India (GHCI)
+  category: tech
+  url: https://ghcindia.anitab.org
+  start: 2027-01-20
+  end: 2027-01-22
+  location: Bengaluru, India
+  topics: [Women in computing, Career fair]
+
+- name: WiDS Worldwide Conference (Women in Data Science)
+  category: tech
+  url: https://www.widsworldwide.org
+  topics: [Data science, AI, Women in tech]
 
 # ---------------------------------------------------------------- pre-med / health
 - name: SNMA Annual Medical Education Conference (AMEC)
@@ -146,3 +169,54 @@
   category: premed
   url: https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html
   topics: [One-day, Pre-med advising]
+
+# ---------------------------------------------------------------- business
+- name: Collegiate DECA International Career Development Conference (ICDC)
+  category: business
+  url: https://www.deca.org/cicdc
+  start: 2027-04-09
+  end: 2027-04-12
+  location: Austin, TX
+  topics: [Business competitions, Marketing, Entrepreneurship]
+
+- name: AMA International Collegiate Conference
+  category: business
+  url: https://www.ama.org
+  start: 2027-04-08
+  end: 2027-04-10
+  topics: [Marketing, Case competitions]
+
+- name: FBLA Collegiate National Leadership Conference
+  category: business
+  url: https://www.fbla.org/nlc-collegiate/
+  topics: [Business competitions, Leadership]
+
+- name: ALPFA Convention
+  category: business
+  url: https://alpfa.org/event-convention
+  topics: [Latino students & professionals, Career fair, Scholarships]
+
+- name: National Black MBA Association Conference & Expo
+  category: business
+  url: https://nbmbaa.org
+  topics: [Black MBA & undergrad students, Career fair]
+
+- name: Reaching Out MBA (ROMBA) Conference
+  category: business
+  url: https://www.romba.org
+  topics: [LGBTQ+ business students, Recruiting]
+
+- name: Prospanica Conference & Career Expo
+  category: business
+  url: https://www.prospanica.org
+  topics: [Hispanic business professionals & students, Career fair]
+
+- name: Forte MBA Women's Leadership Conference
+  category: business
+  url: https://www.fortefoundation.org
+  topics: [Women in business, MBA]
+
+- name: Net Impact Conference
+  category: business
+  url: https://netimpact.org
+  topics: [Sustainable business, Social impact]
