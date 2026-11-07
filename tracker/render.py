@@ -13,7 +13,7 @@ START, END = "<!-- TABLES:START -->", "<!-- TABLES:END -->"
 
 def fmt_dates(c: Conference) -> str:
     if not c.start:
-        return "TBA"
+        return "TBA" + (f" · {c.notes}" if c.notes and c.source == "watchlist" else "")
     s, e = c.start, c.end or c.start
     if s == e:
         out = s.strftime("%b %-d, %Y")
