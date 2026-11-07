@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Upcoming Student Conferences</title>
+<meta name="description" content="A daily-updated list of upcoming conferences for students: student & diversity conferences, academic CS venues, and industry events.">
+<style>
+  :root {
+    --bg: #f7f6f2; --card: #ffffff; --ink: #1c1b19; --muted: #6b6860; --line: #e4e1d8;
+    --accent: #2f5d50; --accent-soft: #e3ece8; --warn: #a3471f; --warn-soft: #f6e6dc;
+    --radius: 10px;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #151514; --card: #1e1e1c; --ink: #ecebe6; --muted: #9c998f; --line: #2f2e2a;
+            --accent: #8cc4b0; --accent-soft: #23302b; --warn: #f0a07a; --warn-soft: #3a2a21; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink);
+         font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif; }
+  header { max-width: 980px; margin: 0 auto; padding: 40px 20px 8px; }
+  h1 { font: 600 30px/1.15 Georgia, "Times New Roman", serif; margin: 0 0 6px; letter-spacing: -0.01em; }
+  .sub { color: var(--muted); margin: 0; }
+  .sub a { color: var(--accent); }
+  .controls { position: sticky; top: 0; z-index: 2; background: var(--bg);
+              border-bottom: 1px solid var(--line); }
+  .controls-inner { max-width: 980px; margin: 0 auto; padding: 14px 20px; display: grid; gap: 10px; }
+  input[type=search] { width: 100%; padding: 11px 14px; font: inherit; color: var(--ink);
+                       background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); }
+  input[type=search]:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+  .row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+  .chip { border: 1px solid var(--line); background: var(--card); color: var(--ink); font: inherit;
+          font-size: 13px; padding: 5px 11px; border-radius: 999px; cursor: pointer; }
+  .chip[aria-pressed=true] { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+  select { font: inherit; font-size: 13px; padding: 5px 8px; border-radius: 8px; color: var(--ink);
+           background: var(--card); border: 1px solid var(--line); margin-left: auto; }
+  main { max-width: 980px; margin: 0 auto; padding: 14px 20px 60px; }
+  .count { color: var(--muted); font-size: 13px; margin: 4px 0 12px; }
+  .month { font: 600 13px/1 ui-sans-serif, system-ui, sans-serif; text-transform: uppercase;
+           letter-spacing: .08em; color: var(--muted); margin: 22px 0 8px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+          padding: 14px 16px; margin-bottom: 8px; display: grid; grid-template-columns: 92px 1fr; gap: 14px; }
+  .when { font-variant-numeric: tabular-nums; }
+  .when b { display: block; font: 600 20px/1.1 Georgia, serif; }
+  .when span { color: var(--muted); font-size: 12px; }
+  .name { font-weight: 600; font-size: 16px; color: var(--ink); text-decoration: none; }
+  .name:hover { color: var(--accent); text-decoration: underline; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 2px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .tag { font-size: 12px; padding: 2px 8px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); }
+  .tag.warn { background: var(--warn-soft); color: var(--warn); }
+  .tag.plain { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+  .empty { text-align: center; color: var(--muted); padding: 50px 0; }
+  footer { max-width: 980px; margin: 0 auto; padding: 0 20px 40px; color: var(--muted); font-size: 13px; }
+  footer a { color: var(--accent); }
+  @media (max-width: 560px) { .card { grid-template-columns: 1fr; gap: 6px; } .when b { display: inline; font-size: 16px; } .when span { margin-left: 8px; } select { margin-left: 0; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>Upcoming Student Conferences</h1>
+  <p class="sub">Updated daily. <span id="updated"></span> · <a href="https://github.com/" id="repo-link">Suggest a conference</a></p>
+</header>
+
+<div class="controls"><div class="controls-inner">
+  <input type="search" id="q" placeholder="Search by name, topic, city…" aria-label="Search conferences">
+  <div class="row" id="cats"></div>
+  <div class="row">
+    <button class="chip" id="f-deadline" aria-pressed="false">Open deadline</button>
+    <button class="chip" id="f-online" aria-pressed="false">Online</button>
+    <button class="chip" id="f-new" aria-pressed="false">New this week</button>
+    <select id="sort" aria-label="Sort">
+      <option value="start">Sort: soonest event</option>
+      <option value="deadline">Sort: soonest deadline</option>
+      <option value="name">Sort: A–Z</option>
+    </select>
+  </div>
+</div></div>
+
+<main>
+  <div class="count" id="count">Loading…</div>
+  <div id="list"></div>
+</main>
+<footer>
+  Sources: a curated watchlist, <a href="https://github.com/ccfddl/ccf-deadlines">ccf-deadlines</a>,
+  <a href="https://github.com/tech-conferences/conference-data">confs.tech</a>, and web search.
+  ⚠️ means dates were read automatically from the conference site; confirm before booking.
+</footer>
+
+<script>
+const CATS = { all: "All", student: "🎓 Student & diversity", academic: "📚 Academic CS",
+               industry: "💻 Industry", discovered: "🔍 Auto-found" };
+const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, sort: "start" };
+let DATA = [];
+const today = new Date(); today.setHours(0, 0, 0, 0);
+const d = s => s ? new Date(s + "T00:00:00") : null;
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
+const fmt = (x, o) => x.toLocaleDateString("en-US", o);
+
+// Point "Suggest a conference" at this repo's issues when hosted on <user>.github.io/<repo>
+(() => {
+  const m = location.hostname.match(/^([^.]+)\.github\.io$/);
+  const repo = location.pathname.split("/").filter(Boolean)[0];
+  if (m && repo) document.getElementById("repo-link").href = `https://github.com/${m[1]}/${repo}/issues/new/choose`;
+})();
+
+function dateCell(c) {
+  const s = d(c.start), e = d(c.end) || s;
+  if (!s) return `<b>TBA</b><span>dates not announced</span>`;
+  const same = s.getTime() === e.getTime();
+  const range = same ? fmt(s, { weekday: "short" })
+    : s.getMonth() === e.getMonth() ? `${s.getDate()}–${e.getDate()} ${fmt(s, { month: "short" })}`
+    : `${fmt(s, { month: "short", day: "numeric" })} – ${fmt(e, { month: "short", day: "numeric" })}`;
+  return `<b>${fmt(s, { month: "short", day: "numeric" })}</b><span>${range}${c.dates_auto ? " ⚠️" : ""}</span>`;
+}
+
+function card(c) {
+  const tags = [];
+  if (c.deadline) {
+    const days = Math.round((d(c.deadline) - today) / 864e5);
+    const label = `${esc(c.deadline_label || "Deadline")} ${fmt(d(c.deadline), { month: "short", day: "numeric" })}` + (days <= 14 ? ` · ${days}d left` : "");
+    tags.push(c.deadline_url ? `<a class="tag ${days <= 14 ? "warn" : ""}" href="${esc(safeUrl(c.deadline_url))}" target="_blank" rel="noopener">${label}</a>`
+                             : `<span class="tag ${days <= 14 ? "warn" : ""}">${label}</span>`);
+  }
+  if (c.online) tags.push(`<span class="tag">Online</span>`);
+  if (c.rank) tags.push(`<span class="tag plain">${esc(c.rank)}</span>`);
+  (c.topics || []).forEach(t => t && tags.push(`<span class="tag plain">${esc(t)}</span>`));
+  if (isNew(c)) tags.push(`<span class="tag warn">New</span>`);
+  return `<article class="card">
+    <div class="when">${dateCell(c)}</div>
+    <div>
+      <a class="name" href="${esc(safeUrl(c.url))}" target="_blank" rel="noopener">${esc(c.name)}</a>
+      <div class="meta">${esc(c.location || (c.online ? "Online" : "Location TBA"))} · ${esc(CATS[c.category] || c.category)}</div>
+      ${c.notes && c.category !== "discovered" ? `<div class="meta">${esc(c.notes)}</div>` : ""}
+      <div class="tags">${tags.join("")}</div>
+    </div></article>`;
+}
+
+const isNew = c => c.first_seen && (today - d(c.first_seen)) / 864e5 <= 7;
+
+function render() {
+  const q = state.q.toLowerCase().trim();
+  let rows = DATA.filter(c =>
+    (state.cat === "all" || c.category === state.cat) &&
+    (!state.deadline || c.deadline) && (!state.online || c.online) && (!state.fresh || isNew(c)) &&
+    (!q || [c.name, c.location, c.notes, c.rank, ...(c.topics || [])].join(" ").toLowerCase().includes(q)));
+  const far = "9999-12-31";
+  rows.sort(state.sort === "name" ? (a, b) => a.name.localeCompare(b.name)
+          : state.sort === "deadline" ? (a, b) => (a.deadline || far).localeCompare(b.deadline || far)
+          : (a, b) => (a.start || far).localeCompare(b.start || far) || a.name.localeCompare(b.name));
+  document.getElementById("count").textContent = `${rows.length} of ${DATA.length} conferences`;
+  if (!rows.length) { document.getElementById("list").innerHTML = `<div class="empty">No conferences match.</div>`; return; }
+  let html = "", last = "";
+  for (const c of rows) {
+    if (state.sort === "start") {
+      const s = d(c.start), m = s ? fmt(s, { month: "long", year: "numeric" }) : "Dates TBA";
+      if (m !== last) { html += `<div class="month">${m}</div>`; last = m; }
+    }
+    html += card(c);
+  }
+  document.getElementById("list").innerHTML = html;
+}
+
+function toggle(id, key) {
+  const b = document.getElementById(id);
+  b.onclick = () => { state[key] = !state[key]; b.setAttribute("aria-pressed", state[key]); render(); };
+}
+
+fetch("conferences.json", { cache: "no-cache" }).then(r => r.json()).then(j => {
+  DATA = j.conferences;
+  document.getElementById("updated").textContent = "Last run " + fmt(d(j.updated), { month: "long", day: "numeric", year: "numeric" }) + ".";
+  const cats = document.getElementById("cats");
+  for (const [k, label] of Object.entries(CATS)) {
+    const n = k === "all" ? DATA.length : DATA.filter(c => c.category === k).length;
+    if (!n) continue;
+    const b = document.createElement("button");
+    b.className = "chip"; b.textContent = `${label} (${n})`; b.setAttribute("aria-pressed", k === state.cat);
+    b.onclick = () => { state.cat = k; cats.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b)); render(); };
+    cats.appendChild(b);
+  }
+  render();
+}).catch(() => { document.getElementById("count").textContent = "Couldn't load conferences.json."; });
+
+document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
+document.getElementById("sort").onchange = e => { state.sort = e.target.value; render(); };
+toggle("f-deadline", "deadline"); toggle("f-online", "online"); toggle("f-new", "fresh");
+</script>
+</body>
+</html>
