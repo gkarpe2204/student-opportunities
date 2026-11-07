@@ -1,0 +1,51 @@
+name: Update conference list
+
+on:
+  schedule:
+    - cron: "17 11 * * *"     # every day, 11:17 UTC (~6am Boston)
+  workflow_dispatch:           # "Run workflow" button in the Actions tab
+  push:
+    branches: [main]
+    paths: ["data/watchlist.yml", "tracker/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python -m pytest -q
+
+      - name: Scrape and rebuild
+        env:
+          # Optional: add one in Settings → Secrets and variables → Actions.
+          SERPER_API_KEY: ${{ secrets.SERPER_API_KEY }}
+          BRAVE_API_KEY: ${{ secrets.BRAVE_API_KEY }}
+        run: python -m tracker
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/conferences.json docs/conferences.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            git push
+          fi
