@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-07",
- "count": 421,
+ "count": 432,
  "conferences": [
   {
    "name": "NCMMSC 2026",
@@ -2946,6 +2946,30 @@
    "region": "Europe"
   },
   {
+   "name": "Grace Hopper Celebration India (GHCI)",
+   "url": "https://ghcindia.anitab.org",
+   "category": "tech",
+   "source": "watchlist",
+   "start": "2027-01-20",
+   "end": "2027-01-22",
+   "location": "Bengaluru, India",
+   "country": "India",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Women in computing",
+    "Career fair"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "grace-hopper-celebration-india-ghci-2027",
+   "region": "Asia"
+  },
+  {
    "name": "JChampions Conference",
    "url": "https://jchampionsconf.com",
    "category": "industry",
@@ -3320,7 +3344,7 @@
   {
    "name": "SIGCSE Technical Symposium",
    "url": "https://sigcse-ts.acm.org/2027/",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": "2027-02-17",
    "end": "2027-02-20",
@@ -4593,6 +4617,30 @@
    "region": "Europe"
   },
   {
+   "name": "AMA International Collegiate Conference",
+   "url": "https://www.ama.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": "2027-04-08",
+   "end": "2027-04-10",
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Marketing",
+    "Case competitions"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "ama-international-collegiate-conference-2027",
+   "region": "Location TBA"
+  },
+  {
    "name": "BlockSys 2027",
    "url": "https://blocksys.info/2027/",
    "category": "academic",
@@ -4614,6 +4662,31 @@
    "first_seen": "2026-11-07",
    "id": "blocksys-2027",
    "region": "Asia"
+  },
+  {
+   "name": "Collegiate DECA International Career Development Conference (ICDC)",
+   "url": "https://www.deca.org/cicdc",
+   "category": "business",
+   "source": "watchlist",
+   "start": "2027-04-09",
+   "end": "2027-04-12",
+   "location": "Austin, TX",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Business competitions",
+    "Marketing",
+    "Entrepreneurship"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "collegiate-deca-international-career-development-conference-icdc-2027",
+   "region": "North America"
   },
   {
    "name": "CVM 2027",
@@ -9351,7 +9424,7 @@
   {
    "name": "AfroTech Conference",
    "url": "https://afrotech.com",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9370,6 +9443,31 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "afrotech-conference-tba",
+   "region": "Location TBA"
+  },
+  {
+   "name": "ALPFA Convention",
+   "url": "https://alpfa.org/event-convention",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Latino students & professionals",
+    "Career fair",
+    "Scholarships"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "alpfa-convention-tba",
    "region": "Location TBA"
   },
   {
@@ -9422,7 +9520,7 @@
   {
    "name": "ColorStack Annual Summit",
    "url": "https://www.colorstack.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9443,9 +9541,57 @@
    "region": "Location TBA"
   },
   {
+   "name": "FBLA Collegiate National Leadership Conference",
+   "url": "https://www.fbla.org/nlc-collegiate/",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Business competitions",
+    "Leadership"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "fbla-collegiate-national-leadership-conference-tba",
+   "region": "Location TBA"
+  },
+  {
+   "name": "Forte MBA Women's Leadership Conference",
+   "url": "https://www.fortefoundation.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Women in business",
+    "MBA"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "forte-mba-women-s-leadership-conference-tba",
+   "region": "Location TBA"
+  },
+  {
    "name": "Grace Hopper Celebration",
    "url": "https://ghc.anitab.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9469,7 +9615,7 @@
   {
    "name": "Harvard WECode",
    "url": "https://www.wecodeharvard.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9539,6 +9685,54 @@
    "region": "Location TBA"
   },
   {
+   "name": "National Black MBA Association Conference & Expo",
+   "url": "https://nbmbaa.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Black MBA & undergrad students",
+    "Career fair"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "national-black-mba-association-conference-expo-tba",
+   "region": "Location TBA"
+  },
+  {
+   "name": "Net Impact Conference",
+   "url": "https://netimpact.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Sustainable business",
+    "Social impact"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "net-impact-conference-tba",
+   "region": "Location TBA"
+  },
+  {
    "name": "oSTEM Annual Conference",
    "url": "https://ostem.org",
    "category": "student",
@@ -9564,7 +9758,7 @@
   {
    "name": "Out for Undergrad Tech Conference",
    "url": "https://outforundergrad.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9610,9 +9804,33 @@
    "region": "North America"
   },
   {
+   "name": "Prospanica Conference & Career Expo",
+   "url": "https://www.prospanica.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Hispanic business professionals & students",
+    "Career fair"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "prospanica-conference-career-expo-tba",
+   "region": "Location TBA"
+  },
+  {
    "name": "PyCon US",
    "url": "https://us.pycon.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9634,9 +9852,33 @@
    "region": "North America"
   },
   {
+   "name": "Reaching Out MBA (ROMBA) Conference",
+   "url": "https://www.romba.org",
+   "category": "business",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "LGBTQ+ business students",
+    "Recruiting"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "reaching-out-mba-romba-conference-tba",
+   "region": "Location TBA"
+  },
+  {
    "name": "Richard Tapia Celebration of Diversity in Computing",
    "url": "https://tapiaconference.cmd-it.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,
@@ -9729,9 +9971,34 @@
    "region": "Location TBA"
   },
   {
+   "name": "WiDS Worldwide Conference (Women in Data Science)",
+   "url": "https://www.widsworldwide.org",
+   "category": "tech",
+   "source": "watchlist",
+   "start": null,
+   "end": null,
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Data science",
+    "AI",
+    "Women in tech"
+   ],
+   "rank": "",
+   "notes": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "wids-worldwide-conference-women-in-data-science-tba",
+   "region": "Location TBA"
+  },
+  {
    "name": "WiML Workshop (Women in Machine Learning)",
    "url": "https://wimlworkshop.org",
-   "category": "student",
+   "category": "tech",
    "source": "watchlist",
    "start": null,
    "end": null,

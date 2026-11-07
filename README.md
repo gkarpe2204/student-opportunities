@@ -11,14 +11,16 @@ A list of **upcoming conferences students can attend, present at, or get scholar
 ---
 
 <!-- TABLES:START -->
-### Browse 421 upcoming conferences
+### Browse 432 upcoming conferences
 
-- **[🎓 Student & Diversity Conferences](#-student--diversity-conferences)** — 17
+- **[🎓 Student & Diversity Conferences](#-student--diversity-conferences)** — 8
+- **[🖥️ CS & Tech Student Conferences](#-cs--tech-student-conferences)** — 11
 - **[🩺 Pre-Med & Health Conferences](#-pre-med--health-conferences)** — 8
+- **[💼 Business & Entrepreneurship Conferences](#-business--entrepreneurship-conferences)** — 9
 - **[📚 Academic CS Conferences (paper deadlines)](#-academic-cs-conferences-paper-deadlines)** — 264
 - **[💻 Industry & Developer Conferences](#-industry--developer-conferences)** — 132
 
-🌍 **Only want one part of the world?** [North America](regions/north-america.md) (111) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (165) · [Asia](regions/asia.md) (89) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (16) · [Online](regions/online.md) (7) · [Location TBA](regions/location-tba.md) (18)
+🌍 **Only want one part of the world?** [North America](regions/north-america.md) (112) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (165) · [Asia](regions/asia.md) (90) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (16) · [Online](regions/online.md) (7) · [Location TBA](regions/location-tba.md) (27)
 
 _Last updated: November 7, 2026_
 
@@ -26,22 +28,31 @@ _Last updated: November 7, 2026_
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | — | CS education |
 | **[NSBE Annual Convention](https://convention.nsbe.org)** 🆕 | Mar 31 – Apr 4, 2027 | Boston, MA | — | Black engineers, Career fair |
 | **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** 🆕 | Apr 12–14, 2027 | Grand Rapids, MI | — | Undergrad research, All fields |
 | **[AISES National Conference](https://www.aises.org)** 🆕 | Oct 14–16, 2027 ⚠️ | — | — | Indigenous peoples in STEM |
 | **[SWE WE27 Annual Conference](https://swe.org)** 🆕 | Nov 4–6, 2027 | Denver, CO | — | Women in engineering, Career fair |
+| **[oSTEM Annual Conference](https://ostem.org)** 🆕 | TBA | — | — | LGBTQ+ in STEM |
+| **[SACNAS National Diversity in STEM Conference](https://www.sacnas.org/conference)** 🆕 | TBA | — | — | Research, Diversity in STEM |
+| **[SASE National Conference](https://saseconnect.org)** 🆕 | TBA | — | — | Asian heritage scientists & engineers |
+| **[SHPE National Convention](https://shpe.org)** 🆕 | TBA | — | — | Hispanic engineers, Career fair |
+
+[⬆️ Back to top](#)
+
+## 🖥️ CS & Tech Student Conferences
+
+| Conference | Dates | Location | Deadline | Focus |
+|---|---|---|---|---|
+| **[Grace Hopper Celebration India (GHCI)](https://ghcindia.anitab.org)** 🆕 | Jan 20–22, 2027 | Bengaluru, India | — | Women in computing, Career fair |
+| **[SIGCSE Technical Symposium](https://sigcse-ts.acm.org/2027/)** 🆕 | Feb 17–20, 2027 | Sacramento, CA | — | CS education |
 | **[AfroTech Conference](https://afrotech.com)** 🆕 | TBA | — | — | Black tech professionals, Careers |
 | **[ColorStack Annual Summit](https://www.colorstack.org)** 🆕 | TBA | — | — | Black & Latinx CS students |
 | **[Grace Hopper Celebration](https://ghc.anitab.org)** 🆕 | TBA | — | — | Women in computing, Career fair |
 | **[Harvard WECode](https://www.wecodeharvard.org)** 🆕 | TBA | — | — | Women in CS, Student-run |
-| **[oSTEM Annual Conference](https://ostem.org)** 🆕 | TBA | — | — | LGBTQ+ in STEM |
 | **[Out for Undergrad Tech Conference](https://outforundergrad.org)** 🆕 | TBA | — | — | LGBTQ+ undergrads, Tech careers |
 | **[PyCon US](https://us.pycon.org)** 🆕 | TBA | Long Beach, CA | — | Python, Student travel grants |
 | **[Richard Tapia Celebration of Diversity in Computing](https://tapiaconference.cmd-it.org)** 🆕 | TBA | — | — | Diversity in computing, Scholarships |
-| **[SACNAS National Diversity in STEM Conference](https://www.sacnas.org/conference)** 🆕 | TBA | — | — | Research, Diversity in STEM |
-| **[SASE National Conference](https://saseconnect.org)** 🆕 | TBA | — | — | Asian heritage scientists & engineers |
-| **[SHPE National Convention](https://shpe.org)** 🆕 | TBA | — | — | Hispanic engineers, Career fair |
+| **[WiDS Worldwide Conference (Women in Data Science)](https://www.widsworldwide.org)** 🆕 | TBA | — | — | Data science, AI, Women in tech |
 | **[WiML Workshop (Women in Machine Learning)](https://wimlworkshop.org)** 🆕 | TBA | — | — | ML research, Women in ML |
 
 [⬆️ Back to top](#)
@@ -58,6 +69,22 @@ _Last updated: November 7, 2026_
 | **[KU School of Medicine Premedical Student Conference](https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html)** 🆕 | TBA | — | — | One-day, Pre-med advising |
 | **[LMSA National Conference](https://national.lmsa.net)** 🆕 | TBA | — | — | Latino med & pre-med students, Research symposium |
 | **[Pre-Health Conference at UC Davis](https://prehealthconference.ucdavis.edu)** 🆕 | TBA | Davis, CA | — | Largest student-run pre-health conference, Admissions workshops |
+
+[⬆️ Back to top](#)
+
+## 💼 Business & Entrepreneurship Conferences
+
+| Conference | Dates | Location | Deadline | Focus |
+|---|---|---|---|---|
+| **[AMA International Collegiate Conference](https://www.ama.org)** 🆕 | Apr 8–10, 2027 | — | — | Marketing, Case competitions |
+| **[Collegiate DECA International Career Development Conference (ICDC)](https://www.deca.org/cicdc)** 🆕 | Apr 9–12, 2027 | Austin, TX | — | Business competitions, Marketing, Entrepreneurship |
+| **[ALPFA Convention](https://alpfa.org/event-convention)** 🆕 | TBA | — | — | Latino students & professionals, Career fair, Scholarships |
+| **[FBLA Collegiate National Leadership Conference](https://www.fbla.org/nlc-collegiate/)** 🆕 | TBA | — | — | Business competitions, Leadership |
+| **[Forte MBA Women's Leadership Conference](https://www.fortefoundation.org)** 🆕 | TBA | — | — | Women in business, MBA |
+| **[National Black MBA Association Conference & Expo](https://nbmbaa.org)** 🆕 | TBA | — | — | Black MBA & undergrad students, Career fair |
+| **[Net Impact Conference](https://netimpact.org)** 🆕 | TBA | — | — | Sustainable business, Social impact |
+| **[Prospanica Conference & Career Expo](https://www.prospanica.org)** 🆕 | TBA | — | — | Hispanic business professionals & students, Career fair |
+| **[Reaching Out MBA (ROMBA) Conference](https://www.romba.org)** 🆕 | TBA | — | — | LGBTQ+ business students, Recruiting |
 
 [⬆️ Back to top](#)
 
