@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Upcoming Student Conferences</title>
-<meta name="description" content="A daily-updated list of upcoming conferences for students: student & diversity conferences, academic CS venues, and industry events.">
+<title>Student Opportunities: Conferences & Hackathons</title>
+<meta name="description" content="A daily-updated list of upcoming opportunities for students: conferences, hackathons, academic CS venues, and industry events.">
 <style>
   :root {
     --bg: #f7f6f2; --card: #ffffff; --ink: #1c1b19; --muted: #6b6860; --line: #e4e1d8;
@@ -71,12 +71,12 @@
 </head>
 <body>
 <header>
-  <h1>Upcoming Student Conferences</h1>
-  <p class="sub">Updated daily. <span id="updated"></span> · <a href="https://github.com/" id="repo-link">Suggest a conference</a></p>
+  <h1>Student Opportunities</h1>
+  <p class="sub">Updated daily. <span id="updated"></span> · <a href="https://github.com/" id="repo-link">Suggest an event</a></p>
 </header>
 
 <div class="controls"><div class="controls-inner">
-  <input type="search" id="q" placeholder="Search by name, topic, city…" aria-label="Search conferences">
+  <input type="search" id="q" placeholder="Search by name, topic, city…" aria-label="Search events">
   <div class="row" id="cats"></div>
   <div class="row">
     <button class="chip geo-btn" id="geo-btn" aria-expanded="false" aria-controls="geo-panel">🌍 Where: everywhere ▾</button>
@@ -107,12 +107,12 @@
 </main>
 <footer>
   Sources: a curated watchlist, <a href="https://github.com/ccfddl/ccf-deadlines">ccf-deadlines</a>,
-  <a href="https://github.com/tech-conferences/conference-data">confs.tech</a>, and web search.
-  ⚠️ means dates were read automatically from the conference site; confirm before booking.
+  <a href="https://github.com/tech-conferences/conference-data">confs.tech</a>, <a href="https://www.mlh.com">MLH</a>, <a href="https://devpost.com/hackathons">Devpost</a>, and web search.
+  ⚠️ means dates were read automatically from the event site; confirm before booking.
 </footer>
 
 <script>
-const CATS = { all: "All", student: "🎓 Student & diversity", tech: "🖥️ CS & tech", premed: "🩺 Pre-med", business: "💼 Business",
+const CATS = { all: "All", student: "🎓 Student & diversity", tech: "🖥️ CS & tech", premed: "🩺 Pre-med", business: "💼 Business", hackathon: "🏁 Hackathons",
                academic: "📚 Academic CS",
                industry: "💻 Industry", discovered: "🔍 Auto-found" };
 const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, sort: "start", countries: new Set() };
@@ -129,7 +129,7 @@ const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": 
 const safeUrl = u => /^https?:\/\//i.test(u || "") ? u : "#";
 const fmt = (x, o) => x.toLocaleDateString("en-US", o);
 
-// Point "Suggest a conference" at this repo's issues when hosted on <user>.github.io/<repo>
+// Point "Suggest an event" at this repo's issues when hosted on <user>.github.io/<repo>
 (() => {
   const m = location.hostname.match(/^([^.]+)\.github\.io$/);
   const repo = location.pathname.split("/").filter(Boolean)[0];
@@ -181,8 +181,8 @@ function render() {
   rows.sort(state.sort === "name" ? (a, b) => a.name.localeCompare(b.name)
           : state.sort === "deadline" ? (a, b) => (a.deadline || far).localeCompare(b.deadline || far)
           : (a, b) => (a.start || far).localeCompare(b.start || far) || a.name.localeCompare(b.name));
-  document.getElementById("count").textContent = `${rows.length} of ${DATA.length} conferences`;
-  if (!rows.length) { document.getElementById("list").innerHTML = `<div class="empty">No conferences match.</div>`; return; }
+  document.getElementById("count").textContent = `${rows.length} of ${DATA.length} events`;
+  if (!rows.length) { document.getElementById("list").innerHTML = `<div class="empty">Nothing matches.</div>`; return; }
   let html = "", last = "";
   for (const c of rows) {
     if (state.sort === "start") {
