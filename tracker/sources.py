@@ -1,13 +1,14 @@
 """Each source returns a list of Conference objects. A failing source is logged and skipped."""
 from __future__ import annotations
 
+import html as html_lib
 import json
 import logging
 import os
 import re
 from datetime import date, datetime, timedelta
 from zoneinfo import ZoneInfo
-from urllib.parse import urlparse
+from urllib.parse import unquote, urlparse
 
 import requests
 import yaml
@@ -201,6 +202,134 @@ def pick_event_dates(head: str, body: str) -> dict:
         if TODAY <= d < start and DEADLINE_WORDS.search(body[max(0, pos - 80): pos]):
             deadline = d if deadline is None else min(deadline, d)
     return {"start": start, "end": end, "location": "", "deadline": deadline}
+
+
+# ---------------------------------------------------------------- hackathons
+MLH_SEASON_URL = "https://www.mlh.com/seasons/{season}/events?upcoming_page={page}"
+ISO_COUNTRIES = {
+    "US": "United States", "CA": "Canada", "GB": "United Kingdom", "IE": "Ireland", "FI": "Finland",
+    "ES": "Spain", "RO": "Romania", "DE": "Germany", "FR": "France", "NL": "Netherlands", "IT": "Italy",
+    "PT": "Portugal", "CH": "Switzerland", "SE": "Sweden", "PL": "Poland", "MX": "Mexico", "BR": "Brazil",
+    "IN": "India", "SG": "Singapore", "JP": "Japan", "AU": "Australia", "NZ": "New Zealand", "NG": "Nigeria",
+}
+MLH_FORMATS = {"physical": "In-person", "digital": "Online", "hybrid_physical": "Hybrid", "hybrid_digital": "Hybrid"}
+
+
+def mlh_events(items: list[dict]) -> list[Conference]:
+    """Turn MLH event records (from the season page's Inertia JSON) into Conferences."""
+    out = []
+    for e in items:
+        start, end = to_date(e.get("startsAt")), to_date(e.get("endsAt"))
+        fmt = MLH_FORMATS.get(e.get("formatType", ""), "")
+        online = fmt == "Online"
+        loc = "" if online or (e.get("location") or "").startswith("Everywhere") else (e.get("location") or "")
+        focus = (e.get("customFields") or {}).get("hackathon_focus") or []
+        url = e.get("websiteUrl") or ("https://www.mlh.com" + e.get("url", ""))
+        code = ((e.get("venueAddress") or {}).get("country") or "").upper()
+        out.append(Conference(
+            name=e["name"], url=url, category="hackathon", source="mlh", start=start, end=end,
+            location=loc, online=online or fmt == "Hybrid",
+            country="" if online or not loc else ISO_COUNTRIES.get(code, ""),
+            topics=[t for t in [fmt, *focus, "MLH"] if t],
+        ))
+    return out
+
+
+def mlh() -> list[Conference]:
+    """All upcoming Major League Hacking events for this season and the next."""
+    season = TODAY.year + (1 if TODAY.month >= 8 else 0)      # MLH seasons run Aug -> Jul
+    items = []
+    for s in (season, season + 1):
+        page = 1
+        while page and page <= 25:
+            try:
+                html = get(MLH_SEASON_URL.format(season=s, page=page)).text
+            except requests.HTTPError:
+                if s == season:
+                    raise
+                break                                           # next season not published yet
+            m = re.search(r'<script data-page="app" type="application/json">(.*?)</script>', html, re.S)
+            if not m:
+                break
+            data = json.loads(m.group(1))
+            items += data["props"].get("upcomingEvents") or []
+            page = ((data.get("scrollProps") or {}).get("upcomingEvents") or {}).get("nextPage")
+    seen, uniq = set(), []
+    for e in items:
+        if e.get("id") not in seen:
+            seen.add(e.get("id"))
+            uniq.append(e)
+    return mlh_events(uniq)
+
+
+def _devpost_prize(raw: str) -> str:
+    amount = re.sub(r"<[^>]+>", "", raw or "").strip()
+    return f"{amount} in prizes" if amount and re.search(r"[1-9]", amount) else ""
+
+
+def devpost_events(items: list[dict]) -> list[Conference]:
+    """Turn Devpost API hackathon records into Conferences (skips invite-only events)."""
+    out = []
+    for h in items:
+        if h.get("invite_only"):
+            continue
+        start, end = parse_range(h.get("submission_period_dates"))
+        place = (h.get("displayed_location") or {})
+        online = place.get("icon") == "globe" or place.get("location", "").lower() == "online"
+        themes = [t["name"] for t in (h.get("themes") or [])][:2]
+        prize = _devpost_prize(h.get("prize_amount"))
+        org = h.get("organization_name") or ""
+        out.append(Conference(
+            name=h["title"], url=h["url"], category="hackathon", source="devpost", start=start, end=end,
+            location="" if online else place.get("location", ""), online=online,
+            topics=[t for t in ["Online" if online else "In-person", *themes, prize] if t],
+            notes=f"Hosted by {org}" if org else "",
+        ))
+    return out
+
+
+def devpost_place(page_html: str, venue: str) -> tuple[str, bool]:
+    """(location, invite_only) from a Devpost hackathon page.
+
+    The list API only gives a venue name ("WPI - Campus Center"); the page links the full address
+    to Google Maps, e.g. "4480 2nd Ave, Sacramento, CA 95817, USA" -> "Sacramento, CA (Aggie Square)".
+    """
+    invite_only = bool(re.search(r'<div class="info">\s*Invite only\s*</div>', page_html))
+    m = re.search(r'href="https://maps\.google\.com/\?q=([^"]+)"', page_html)
+    if not m:
+        return venue, invite_only
+    parts = [p.strip() for p in unquote(html_lib.unescape(m.group(1))).split(",") if p.strip()]
+    parts = [re.sub(r"\s*\b\d[\d\s-]*$", "", p).strip() for p in parts[-3:]]   # drop zip codes
+    parts = [p for p in parts if p and not re.match(r"^\d", p)]
+    if parts and parts[-1] in ("USA", "United States"):
+        parts = parts[:-1]
+    place = ", ".join(parts)
+    if venue and venue.split(",")[0].strip() not in place:
+        place = f"{place} ({venue.strip()})" if place else venue
+    return place or venue, invite_only
+
+
+def devpost() -> list[Conference]:
+    """Every upcoming (not yet started) hackathon on Devpost."""
+    items, page = [], 1
+    while page <= 40:
+        r = get(f"https://devpost.com/api/hackathons?status[]=upcoming&page={page}").json()
+        batch = r.get("hackathons") or []
+        if not batch:
+            break
+        items += batch
+        page += 1
+    out = []
+    for c in devpost_events(items):
+        if not c.online:
+            try:
+                c.location, invite_only = devpost_place(get(c.url).text, c.location)
+                if invite_only:
+                    continue
+            except Exception as exc:  # noqa: BLE001 - keep the venue name if the page fails
+                log.warning("devpost: could not read %s (%s)", c.url, exc)
+        out.append(c)
+    return out
 
 
 # ---------------------------------------------------------------- watchlist
