@@ -12,13 +12,14 @@ CATEGORIES = {
     "tech": "🖥️ CS & Tech Student Conferences",
     "premed": "🩺 Pre-Med & Health Conferences",
     "business": "💼 Business & Entrepreneurship Conferences",
+    "hackathon": "🏁 Hackathons",
     "academic": "📚 Academic CS Conferences (paper deadlines)",
     "industry": "💻 Industry & Developer Conferences",
     "discovered": "🔍 Auto-discovered (unverified)",
 }
 
 # When the same conference comes from two sources, the higher one wins.
-SOURCE_PRIORITY = {"watchlist": 4, "ccfddl": 3, "confs.tech": 2, "search": 1}
+SOURCE_PRIORITY = {"watchlist": 4, "mlh": 3, "ccfddl": 3, "devpost": 2, "confs.tech": 2, "search": 1}
 
 
 def slugify(text: str) -> str:
