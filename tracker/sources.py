@@ -5,7 +5,8 @@ import json
 import logging
 import os
 import re
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta
+from zoneinfo import ZoneInfo
 from urllib.parse import urlparse
 
 import requests
@@ -17,7 +18,8 @@ from .geo import country_of
 from .models import Conference
 
 log = logging.getLogger(__name__)
-TODAY = date.today()
+# "Today" in Boston time, so a run at 11pm ET (already tomorrow in UTC) still uses today's date.
+TODAY = datetime.now(ZoneInfo("America/New_York")).date()
 HORIZON = TODAY + timedelta(days=540)  # ~18 months ahead
 UA = "Mozilla/5.0 (compatible; student-conference-tracker/1.0; +https://github.com)"
 
@@ -32,10 +34,11 @@ def get(url: str, **kw) -> requests.Response:
 
 
 def is_upcoming(c: Conference) -> bool:
-    end = c.end or c.start
-    if end is None:
+    """Only events that start today or later; anything already under way is dropped."""
+    start = c.start or c.end
+    if start is None:
         return c.source == "watchlist"   # keep curated entries with TBA dates
-    return TODAY <= end and (c.start or end) <= HORIZON
+    return TODAY <= start <= HORIZON
 
 
 # ---------------------------------------------------------------- ccfddl
