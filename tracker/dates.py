@@ -27,7 +27,7 @@ _DAY_FIRST = re.compile(
     rf"(?:{_DASH}(?P<d2>{_D}))?\s+(?P<m2>{_M}),?\s+(?P<y2>\d{{4}})",
     re.I,
 )
-_ISO = re.compile(r"\b(?P<y>20\d{2})-(?P<m>\d{2})-(?P<d>\d{2})\b")
+_ISO = re.compile(r"\b(?P<y>20\d{2})-(?P<m>\d{2})-(?P<d>\d{2})(?!\d)")
 
 
 def _month(s: str | None) -> int | None:
