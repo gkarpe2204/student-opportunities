@@ -1,9 +1,9 @@
 # Setup (≈5 minutes)
 
-1. **Repo:** https://github.com/gkarpe2204/student-conferences (already created).
+1. **Repo:** https://github.com/gkarpe2204/student-opportunities (already created).
 2. **Let the Action commit.** Settings → Actions → General → Workflow permissions → **Read and write permissions** → Save.
 3. **Turn on the website.** Settings → Pages → Source: **Deploy from a branch** → Branch `main`, folder **`/docs`** → Save.
-   Your site goes live at `https://gkarpe2204.github.io/student-conferences/`.
+   Your site goes live at `https://gkarpe2204.github.io/student-opportunities/`.
 4. **Run it once.** Actions tab → *Update conference list* → **Run workflow**. After that it runs every day at 11:17 UTC.
 
 ## Optional: web search ("googling")
