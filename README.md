@@ -1,10 +1,10 @@
-# 🎓 Upcoming Student Conferences
+# 🎓 Student Opportunities: Conferences & Hackathons
 
-A list of **upcoming conferences students can attend, present at, or get scholarships for** — student & diversity conferences, academic CS venues with paper deadlines, and industry/developer conferences. **Updated automatically every day.**
+A list of **upcoming conferences and hackathons students can attend, present at, or get scholarships for**: student & diversity conferences, pre-med and business conferences, hackathons (every upcoming [MLH](https://www.mlh.com) and [Devpost](https://devpost.com/hackathons) event plus hand-picked big ones), academic CS venues with paper deadlines, and industry/developer conferences. **Updated automatically every day.**
 
-🔎 **Prefer search & filters? Use the website →** https://gkarpe2204.github.io/student-conferences/
+🔎 **Prefer search & filters? Use the website →** https://gkarpe2204.github.io/student-opportunities/
 
-🙏 **Know a conference that's missing? [Submit an issue](../../issues/new/choose)** or add it to [`data/watchlist.yml`](data/watchlist.yml) in a PR.
+🙏 **Know an event that's missing? [Submit an issue](../../issues/new/choose)** or add it to [`data/watchlist.yml`](data/watchlist.yml) in a PR.
 
 **Legend:** 🆕 added in the last 7 days · ⏰ deadline within 14 days · 🌐 online/hybrid · ⚠️ dates scraped automatically — confirm on the site
 
