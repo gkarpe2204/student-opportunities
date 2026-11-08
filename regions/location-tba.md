@@ -1,8 +1,8 @@
-# 🌍 Student conferences — Location TBA
+# 🌍 Student opportunities — Location TBA
 
-19 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (119) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (164) · [Asia](asia.md) (88) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (19)
+20 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (228) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (174) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
 
-_Last updated: November 8, 2026_
+_Last updated: November 7, 2026_
 
 ## 🎓 Student & Diversity Conferences
 
@@ -46,6 +46,14 @@ _Last updated: November 8, 2026_
 | **[Net Impact Conference](https://netimpact.org)** 🆕 | TBA | — | — | Sustainable business, Social impact |
 | **[Prospanica Conference & Career Expo](https://www.prospanica.org)** 🆕 | TBA | — | — | Hispanic business professionals & students, Career fair |
 | **[Reaching Out MBA (ROMBA) Conference](https://www.romba.org)** 🆕 | TBA | — | — | LGBTQ+ business students, Recruiting |
+
+[⬆️ Back to top](#)
+
+## 🏁 Hackathons
+
+| Hackathon | Dates | Location | Deadline | Format & focus |
+|---|---|---|---|---|
+| **[Engage Test](https://engage-test.devpost.com/)** 🆕 | Nov 13–15, 2026 | Dubai - United Arab Emirates | — | In-person, Machine Learning/AI, Productivity, $20 in prizes |
 
 [⬆️ Back to top](#)
 

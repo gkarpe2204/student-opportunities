@@ -1,14 +1,27 @@
-# 🌍 Student conferences — Asia
+# 🌍 Student opportunities — Asia
 
-88 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (119) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (164) · [Asia](asia.md) (88) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (19)
+94 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (228) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (174) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
 
-_Last updated: November 8, 2026_
+_Last updated: November 7, 2026_
 
 ## 🖥️ CS & Tech Student Conferences
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
 | **[Grace Hopper Celebration India (GHCI)](https://ghcindia.anitab.org)** 🆕 | Jan 20–22, 2027 | Bengaluru, India | — | Women in computing, Career fair |
+
+[⬆️ Back to top](#)
+
+## 🏁 Hackathons
+
+| Hackathon | Dates | Location | Deadline | Format & focus |
+|---|---|---|---|---|
+| **[IBM Qiskit Hackathon - Bangladesh](https://ibm-qiskit-hackathon.devpost.com/)** 🆕 | Nov 13–14, 2026 | Brac University UB, Dhaka, Bangladesh (BRAC University) | — | In-person, Quantum |
+| **[Hack Club Haven (Hong Kong)](https://hack-club-haven-hong-kong.devpost.com/)** 🆕 | Nov 14–15, 2026 | Wong Chuk Hang, Hong Kong Island, Hong Kong (Canadian International School Hong Kong) | — | In-person, Beginner Friendly, Gaming |
+| **[Bharat Builds Tour](https://bharat-builds-tour.devpost.com/)** 🆕 | Nov 16–17, 2026 | Jaipur, Rajasthan, India (jaipur) | — | In-person, Blockchain, Cybersecurity |
+| **[test](https://nutech-hackfest-2026.devpost.com/)** 🆕 | Nov 23–24, 2026 | Karnal Sher Khan Shaheed Rd, I-, Pakistan (NUTECH Main Campus) | — | In-person, Beginner Friendly, Cybersecurity |
+| **[Blackout 2026](https://blackout-2026.devpost.com/)** 🆕 | Nov 28, 2026 | Coimbatore, Tamil Nadu, India | — | In-person, Machine Learning/AI, Open Ended, $5,000 in prizes |
+| **[NTU Beyond Binary Techathon 2027](https://ntu-beyond-binary-2027.devpost.com/)** 🆕 | Feb 9–13, 2027 | Singapore | — | In-person, Beginner Friendly, Machine Learning/AI, $10,000 in prizes |
 
 [⬆️ Back to top](#)
 
@@ -49,7 +62,7 @@ _Last updated: November 8, 2026_
 | **[MMM 2027](https://www.mmm2027.net/)** 🆕 | Graphics/Multimedia | CCF C · CORE B | Jan 5–8, 2027 | Siem Reap, Cambodia | — |
 | **[IFIP WG 11.9 2027](https://www.ifip119.org/Conferences/)** 🆕 | Security | CCF C | Jan 7–8, 2027 | New Delhi, India | — |
 | **[ASP-DAC 2027](https://www.aspdac.com/aspdac2027/)** 🆕 | Systems/Architecture | CCF C · CORE B | Jan 25–28, 2027 | Hitotsubashi Hall, Tokyo, Japan | — |
-| **[WSDM 2027](https://wsdm-conference.org/2027/)** 🆕 | Databases/Data Mining | CCF B · CORE A | Feb 15–19, 2027 | Cordis, Hong Kong SAR, China | Paper: Nov 17 ⏰ 9d |
+| **[WSDM 2027](https://wsdm-conference.org/2027/)** 🆕 | Databases/Data Mining | CCF B · CORE A | Feb 15–19, 2027 | Cordis, Hong Kong SAR, China | Paper: Nov 17 ⏰ 10d |
 | **[PKC 2027](https://pkc.iacr.org/2027/)** 🆕 | Security | CCF B · CORE B | Mar 1–4, 2027 | Taipei, Taiwan | — |
 | **[PerCom 2027](https://percom.org/)** 🆕 | HCI | CCF B · CORE A* | Mar 8–12, 2027 | Goa, India | — |
 | **[NDSS 2027](https://www.ndss-symposium.org/ndss2027/)** 🆕 | Security | CCF A · CORE A* | Mar 22–26, 2027 | Seoul, Republic of Korea | — |
@@ -57,7 +70,7 @@ _Last updated: November 8, 2026_
 | **[ISPD 2027](https://ispd.cc/ispd2027/)** 🆕 | Systems/Architecture | CCF C | Mar 30 – Apr 2, 2027 | Taipei, Taiwan | — |
 | **[BlockSys 2027](https://blocksys.info/2027/)** 🆕 | Security | CCF C | Apr 9–11, 2027 | Foshan, China | Paper: Nov 30 |
 | **[CVM 2027](http://iccvm.org/2027/)** 🆕 | Graphics/Multimedia | CCF C | Apr 9–11, 2027 | Nanyang Technological University, Singapore | — |
-| **[PacificVis 2027](https://pacificvis2027.github.io/)** 🆕 | Graphics/Multimedia | CCF C · CORE B | Apr 19–22, 2027 | Busan, South Korea | Paper: Nov 9 ⏰ 1d |
+| **[PacificVis 2027](https://pacificvis2027.github.io/)** 🆕 | Graphics/Multimedia | CCF C · CORE B | Apr 19–22, 2027 | Busan, South Korea | Paper: Nov 9 ⏰ 2d |
 | **[AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)** 🆕 | AI/ML | CCF B · CORE A* | May 3–7, 2027 | Hanoi, Vietnam | — |
 | **[ICRA 2027](https://2027.ieee-icra.org/)** 🆕 | AI/ML | CCF B · CORE A* | May 24–28, 2027 | Seoul, Republic of Korea | — |
 | **[DASFAA 2027](https://dasfaa2027.github.io/)** 🆕 | Databases/Data Mining | CCF B · CORE B | May 27–30, 2027 | Shenyang, China | Paper: Nov 25 |
@@ -78,7 +91,7 @@ _Last updated: November 8, 2026_
 | **[IJCAI 2027](https://2027.ijcai.org/)** 🆕 | AI/ML | CCF B · CORE A* | Aug 7–13, 2027 | Kyoto, Japan | Paper: Jan 11 |
 | **[SIGCOMM 2027](https://conferences.sigcomm.org/sigcomm/2027/)** 🆕 | Networking | CCF A · CORE A* | Aug 8–12, 2027 | Bangkok, Thailand | Paper: Feb 2 |
 | **[ACL 2027](https://2027.aclweb.org/)** 🆕 | AI/ML | CCF A · CORE A* | Aug 17–22, 2027 | Kyoto, Japan | Paper: Jan 4 |
-| **[ICDAR 2027](https://icdar2027.org/)** 🆕 | AI/ML | CCF C · CORE A | Aug 18–22, 2027 | Kuala Lumpur, Malaysia | Paper: Nov 15 ⏰ 7d |
+| **[ICDAR 2027](https://icdar2027.org/)** 🆕 | AI/ML | CCF C · CORE A | Aug 18–22, 2027 | Kuala Lumpur, Malaysia | Paper: Nov 15 ⏰ 8d |
 | **[APWeb-WAIM 2027](https://conferences.sigappfr.org/apweb2027/)** 🆕 | Databases/Data Mining | CCF C · CORE C | Aug 29–31, 2027 | Guiyang, China / Online | Paper: Mar 7 |
 | **[ISSTA 2027](https://conf.researchr.org/home/issta-2027)** 🆕 | Software Eng. | CCF A · CORE A | Sep 7–10, 2027 | Singapore | Paper: Jan 11 |
 | **[CSFW 2027](https://www.ieee-security.org/TC/CSF2027/)** 🆕 | Security | CCF B · CORE A | Sep 13–17, 2027 | Tokyo, Japan | Paper: Jan 28 |
