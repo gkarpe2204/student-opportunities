@@ -64,6 +64,7 @@ TABLES = {
                    lambda c, t: [name_cell(c, t), fmt_dates(c), c.first_seen]),
 }
 TABLES["premed"] = TABLES["business"] = TABLES["tech"] = TABLES["student"]
+TABLES["hackathon"] = (["Hackathon", "Dates", "Location", "Deadline", "Format & focus"], TABLES["student"][1])
 
 
 def sort_key(c: Conference):
@@ -108,7 +109,7 @@ def render_sections(confs: list[Conference], today: date) -> str:
 
 
 def render_tables(confs: list[Conference], today: date) -> str:
-    parts = ["### Browse " + str(len(confs)) + " upcoming conferences\n"]
+    parts = ["### Browse " + str(len(confs)) + " upcoming opportunities\n"]
     counts = {k: sum(c.category == k for c in confs) for k in CATEGORIES}
     for key, title in CATEGORIES.items():
         if counts[key]:
@@ -124,9 +125,9 @@ def write_region_pages(folder: str, confs: list[Conference], today: date) -> Non
     regions = {region_of(c.country) for c in confs} | set(REGION_ORDER)
     for region in regions:
         mine = [c for c in confs if region_of(c.country) == region]
-        body = render_sections(mine, today) if mine else "_No upcoming conferences here right now._\n"
+        body = render_sections(mine, today) if mine else "_Nothing upcoming here right now._\n"
         with open(os.path.join(folder, f"{region_slug(region)}.md"), "w") as f:
-            f.write(f"# \U0001f30d Student conferences \u2014 {region}\n\n"
+            f.write(f"# \U0001f30d Student opportunities \u2014 {region}\n\n"
                     f"{len(mine)} upcoming \u00b7 [\u2190 All regions](../README.md) \u00b7 "
                     f"Other regions: {region_links(confs, prefix='')}\n\n"
                     f"_Last updated: {today.strftime('%B %-d, %Y')}_\n\n{body}")
