@@ -1,8 +1,8 @@
 # 🌍 Student conferences — Middle East & Africa
 
-4 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (119) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (165) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (19)
+4 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (119) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (164) · [Asia](asia.md) (88) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (7) · [Location TBA](location-tba.md) (19)
 
-_Last updated: November 7, 2026_
+_Last updated: November 8, 2026_
 
 ## 📚 Academic CS Conferences (paper deadlines)
 

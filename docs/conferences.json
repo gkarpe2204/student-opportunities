@@ -1,76 +1,7 @@
 {
- "updated": "2026-11-07",
- "count": 432,
+ "updated": "2026-11-08",
+ "count": 429,
  "conferences": [
-  {
-   "name": "NCMMSC 2026",
-   "url": "https://www.ncmmsc.org.cn/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-05",
-   "end": "2026-11-08",
-   "location": "Hengqin, China",
-   "country": "China",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Graphics/Multimedia"
-   ],
-   "rank": "CCF C",
-   "notes": "National Conference on Man-Machine Speech Communication",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ncmmsc-2026",
-   "region": "Asia"
-  },
-  {
-   "name": "IJCNLP 2026",
-   "url": "https://2026.aaclnet.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-06",
-   "end": "2026-11-10",
-   "location": "Hengqin, Zhuhai, China (Hybrid)",
-   "country": "China",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CORE B",
-   "notes": "International Joint Conference on Natural Language Processing",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ijcnlp-2026",
-   "region": "Asia"
-  },
-  {
-   "name": "Moldova DevCon",
-   "url": "https://mdc.md",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-06",
-   "end": "2026-11-07",
-   "location": "Chișinău, Moldova",
-   "country": "Moldova",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://forms.gle/fioMNEFN7XZPQsbv9",
-   "topics": [
-    "general"
-   ],
-   "rank": "",
-   "notes": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "moldova-devcon-2026",
-   "region": "Europe"
-  },
   {
    "name": "INSCRYPT 2026",
    "url": "https://inscrypt2026.comp.polyu.edu.hk",
