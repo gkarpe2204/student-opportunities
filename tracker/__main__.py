@@ -46,18 +46,22 @@ def dedupe(confs: list[Conference]) -> list[Conference]:
         cur = best.get(key)
         if cur is None or SOURCE_PRIORITY[c.source] > SOURCE_PRIORITY[cur.source]:
             best[key] = c
-    return list(best.values())
+    # A hand-picked entry with TBA dates is redundant once a feed lists the same event with dates.
+    dated = {slugify(c.name) for c in best.values() if c.start}
+    return [c for c in best.values() if c.start or slugify(c.name) not in dated]
 
 
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-scrape", action="store_true")
     args = ap.parse_args()
-    today = date.today()
+    today = sources.TODAY          # Boston date, same as the upcoming filter
 
     confs: list[Conference] = []
     confs += run_source("ccfddl", sources.ccfddl)
     confs += run_source("confs.tech", sources.confs_tech)
+    confs += run_source("mlh", sources.mlh)
+    confs += run_source("devpost", sources.devpost)
     if not args.no_scrape:
         confs += run_source("watchlist", sources.watchlist)
         known = {urlparse(c.url).netloc.lower().removeprefix("www.") for c in confs}
@@ -80,7 +84,7 @@ def main() -> None:
             json.dump(payload, f, indent=1, ensure_ascii=False)
     update_readme("README.md", confs, today)
     write_region_pages("regions", confs, today)
-    log.info("wrote %d upcoming conferences", len(confs))
+    log.info("wrote %d upcoming opportunities", len(confs))
 
 
 if __name__ == "__main__":
