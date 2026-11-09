@@ -22,6 +22,9 @@ DEVPOST = [{
 }, {
     "title": "Secret Hack", "url": "https://x.devpost.com/", "submission_period_dates": "Jan 01 - 02, 2027",
     "displayed_location": {"icon": "map-marker", "location": "Boston, MA"}, "invite_only": True,
+}, {
+    "title": "test", "url": "https://y.devpost.com/", "submission_period_dates": "Jan 01 - 02, 2027",
+    "displayed_location": {"icon": "globe", "location": "Online"},
 }]
 
 
@@ -33,7 +36,7 @@ def test_mlh_in_person_and_online():
     assert b.online and b.location == "" and b.url == "https://www.mlh.com/events/ghw"
 
 
-def test_devpost_dates_prize_and_invite_only_skipped():
+def test_devpost_dates_prize_and_invite_only_and_placeholders_skipped():
     (c,) = sources.devpost_events(DEVPOST)
     assert (c.start, c.end, c.online) == (date(2026, 12, 19), date(2027, 1, 18), True)
     assert c.topics == ["Online", "Beginner Friendly", "Open Ended", "$146,770 in prizes"]
