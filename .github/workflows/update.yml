@@ -47,5 +47,7 @@ jobs:
             echo "No changes."
           else
             git commit -m "Daily update: $(date -u +%Y-%m-%d)"
+            # Someone may have pushed (e.g. an approved submission) while this ran.
+            git pull --rebase origin main
             git push
           fi
