@@ -14,6 +14,7 @@
 #                       so the column moves on by itself as each deadline passes
 #   topics              short tags shown in the "Focus" column
 #   notes               anything else
+#   funding             how students get funded to attend (travel grant, scholarship); shows 💰
 #
 # Without start/end, the tracker scrapes the site each day and marks the dates ⚠️ (unverified).
 
@@ -26,6 +27,7 @@
 - name: Richard Tapia Celebration of Diversity in Computing
   category: tech
   url: https://tapiaconference.cmd-it.org
+  funding: "Scholarships cover registration, hotel, meals and a travel stipend"
   notes: "Usually mid-September (2026: Sep 16–18, Atlanta)"
   topics: [Diversity in computing, Scholarships]
 
@@ -59,11 +61,13 @@
 
 - name: oSTEM Annual Conference
   url: https://ostem.org
+  funding: "Collegiate conference grants help chapters and students attend"
   notes: "Usually mid/late October (2026: Oct 22–24, Albuquerque)"
   topics: [LGBTQ+ in STEM]
 
 - name: SACNAS National Diversity in STEM Conference
   url: https://www.sacnas.org/conference
+  funding: "Travel scholarships cover airfare, shared lodging and registration (SACNAS members)"
   start: 2027-10-28
   end: 2027-10-30
   location: Kansas City, MO
@@ -71,6 +75,7 @@
 
 - name: AISES National Conference
   url: https://www.aises.org
+  funding: "Travel scholarships for AISES student members"
   start: 2027-10-14
   end: 2027-10-16
   location: Aurora, CO
@@ -79,6 +84,7 @@
 - name: ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)
   category: premed
   url: https://abrcms.org
+  funding: "Travel awards (registration, housing, travel) for first-time student presenters"
   start: 2026-11-18
   end: 2026-11-21
   location: Seattle, WA
@@ -104,6 +110,7 @@
 - name: Out for Undergrad Tech Conference
   category: tech
   url: https://outforundergrad.org
+  funding: "Travel, lodging and meals covered for every admitted student"
   topics: [LGBTQ+ undergrads, Tech careers]
 
 - name: WiML Workshop (Women in Machine Learning)
@@ -118,10 +125,12 @@
 - name: SIGCSE Technical Symposium
   category: tech
   url: https://sigcse-ts.acm.org/2027/
+  funding: "SIGCSE travel grants up to $1,000 for first-time attendees (SIGCSE members)"
   start: 2027-02-17
   end: 2027-02-20
   location: Sacramento, CA
   deadlines:
+    - {date: 2026-11-15, label: Travel grant, url: "https://sigcse.org/programs/travel-grants/index.html"}
     - {date: 2027-01-04, label: Early-bird registration, url: "https://2027.sigcse-ts.acm.org/attending/registration"}
     - {date: 2027-02-01, label: Regular registration, url: "https://2027.sigcse-ts.acm.org/attending/registration"}
   topics: [CS education]
@@ -273,6 +282,7 @@
 - name: TreeHacks
   category: hackathon
   url: https://www.treehacks.com
+  funding: "Travel reimbursed for accepted hackers"
   location: Stanford, CA
   notes: "Usually mid-February (2026: Feb 13–15); travel reimbursed"
   topics: [In-person, Stanford, Large prizes]
@@ -315,6 +325,7 @@
 - name: Hack the North
   category: hackathon
   url: https://hackthenorth.com
+  funding: "Partial flight reimbursement; free buses from some cities"
   location: Waterloo, ON, Canada
   notes: "Usually September; Canada's largest"
   topics: [In-person, Travel reimbursement]
