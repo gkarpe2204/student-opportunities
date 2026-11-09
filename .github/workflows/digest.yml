@@ -1,0 +1,37 @@
+name: Weekly digest
+
+# Every Monday, publish a GitHub Release with this week's new events and upcoming deadlines.
+# Anyone who chooses Watch -> Custom -> Releases on the repo gets it by email.
+on:
+  schedule:
+    - cron: "43 12 * * 1"      # Mondays 12:43 UTC (~7:43am Boston), after the daily update
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Write the digest
+        run: python -m tracker.extras digest > digest.md
+
+      - name: Publish it as a release
+        run: |
+          day="$(TZ=America/New_York date +%Y-%m-%d)"
+          title="Weekly digest: week of $(TZ=America/New_York date '+%B %-d, %Y')"
+          gh release delete "digest-$day" --yes --cleanup-tag 2>/dev/null || true
+          gh release create "digest-$day" --target main --title "$title" --notes-file digest.md --latest

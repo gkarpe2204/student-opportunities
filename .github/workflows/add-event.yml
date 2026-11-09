@@ -1,0 +1,66 @@
+name: Add approved event
+
+# A maintainer adds the "approved" label to an "Add an event" issue ->
+# the event is appended to data/watchlist.yml, the issue is closed and the list is rebuilt.
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: github.event.label.name == 'approved' && github.event.sender.login == github.repository_owner
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ github.token }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Add the event to the watchlist
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}   # passed as data, never run as code
+        run: |
+          set +e
+          python -m tracker.from_issue > result.txt
+          status=$?
+          set -e
+          echo "status=$status" >> "$GITHUB_OUTPUT"
+
+      - name: Commit, close the issue and rebuild
+        if: steps.add.outputs.status == '0'
+        run: |
+          name="$(head -c 200 result.txt)"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/watchlist.yml
+          git commit -m "Add event from #$ISSUE: $name"
+          git pull --rebase
+          git push
+          gh issue comment "$ISSUE" --body "✅ Added **$name** to the list. It will show up on the site after the rebuild that just started (a few minutes). Thank you!"
+          gh issue close "$ISSUE" --reason completed
+          gh workflow run update.yml
+
+      - name: Explain why it wasn't added
+        if: steps.add.outputs.status != '0'
+        run: |
+          gh issue comment "$ISSUE" --body "⚠️ Couldn't add this automatically: $(head -c 500 result.txt)
+
+          Edit the issue to fix it, then remove and re-add the **approved** label."
