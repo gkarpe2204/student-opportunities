@@ -1,6 +1,6 @@
 # 🌍 Student opportunities — Online
 
-37 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
+38 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
 _Last updated: November 9, 2026_
 
@@ -8,10 +8,9 @@ _Last updated: November 9, 2026_
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com/)** 🆕 | Nov 9–30, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Mobile, $30,000 in prizes |
-| **[DataJam 2026](https://datajam-2026.devpost.com/)** 🆕 | Nov 9–15, 2026 | 🌐 Online | — | Online, Beginner Friendly |
 | **[Peninsula Innovation Hackathon](https://peninsula-innovation-hackathon.devpost.com/)** 🆕 | Nov 10 – Dec 10, 2026 | 🌐 Online | — | Online, Beginner Friendly, Open Ended |
 | **[The Atomiq Hackathon \| Qiskit Fall Fest 2026 at IEM](https://atomiq-hackathon-qff-26-iem.devpost.com/)** 🆕 | Nov 10–11, 2026 | 🌐 Online | — | Online, Quantum, ₹ 10,000 in prizes |
+| **[#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com/)** 🆕 | Nov 11–30, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Mobile, $30,000 in prizes |
 | **[CIVIC Hack 2026](https://civic-hack-2026.devpost.com/)** 🆕 | Nov 12–14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $CAD 1,500 in prizes |
 | **[NorCal Hacks 27](https://norcal-hacks-27.devpost.com/)** 🆕 | Nov 12–15, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[LPC Hacks](https://lpc-hacks.devpost.com/)** 🆕 | Nov 14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
@@ -26,6 +25,8 @@ _Last updated: November 9, 2026_
 | **[HACKRISE'26 ](https://hackrise-26.devpost.com/)** 🆕 | Nov 29, 2026 – Jan 31, 2027 | 🌐 Online | — | Online, DevOps, Machine Learning/AI, ₹ 1,000 in prizes |
 | **[305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](https://305codefestdec2026.devpost.com/)** 🆕 | Dec 1–31, 2026 | 🌐 Online | — | Online, Beginner Friendly, Cybersecurity |
 | **[BUILD 4 ALL](https://build4all.devpost.com/)** 🆕 | Dec 5–12, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
+| **[Arioron Think 2026](https://arioron-think-2026.devpost.com/)** 🆕 | Dec 10–17, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
+| **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** 🆕 | Dec 11–14, 2026 | 🌐 Online | — | Online, Education |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,770 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** 🆕 | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
 | **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** 🆕 | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $11,960 in prizes |

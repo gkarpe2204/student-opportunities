@@ -1,6 +1,6 @@
 # 🌍 Student opportunities — Europe
 
-173 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
+173 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
 _Last updated: November 9, 2026_
 
@@ -75,7 +75,7 @@ _Last updated: November 9, 2026_
 | **[CAiSE 2027](https://deal.us.es/caise27/)** 🆕 | Software Eng. | CCF B · CORE A | Jun 7–11, 2027 | Seville, Spain | Paper: Nov 15 ⏰ 6d |
 | **[SEC 2027](https://ifipsec.org/)** 🆕 | Security | CCF C | Jun 14–16, 2027 | LinkÃ¶ping University, LinkÃ¶ping, Sweden | Paper: Dec 15 |
 | **[DSN 2027](https://dsn2027-berlin.github.io/)** 🆕 | Security | CCF B · CORE A | Jun 22–25, 2027 | Berlin, Germany | Paper: Dec 2 |
-| **[BIS 2027](https://bisconf.org/2027/)** 🆕 | Interdisciplinary | — | Jun 23–25, 2027 | PoznaÅ, Poland | Paper: Jan 11 |
+| **[BIS 2027](https://bisconf.org/2027/)** 🆕 | Interdisciplinary | — | Jun 23–25, 2027 | PoznaÅ, Poland | Paper: Jan 10 |
 | **[ISIT 2027](https://2027.ieee-isit.org/)** 🆕 | Theory | CORE B | Jun 27 – Jul 2, 2027 | Sorrento, Italy | Paper: Jan 10 |
 | **[ACNS 2027](https://acns2027.isg.rhul.ac.uk/)** 🆕 | Security | CCF C · CORE B | Jun 28 – Jul 1, 2027 | Royal Holloway, Egham, UK | Paper: Jan 21 |
 | **[DIS 2027](https://dis.acm.org/2027/)** 🆕 | HCI | CCF C · CORE A | Jun 28 – Jul 2, 2027 | Stockholm, Sweden | Paper: Jan 18 |

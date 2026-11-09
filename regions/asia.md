@@ -1,6 +1,6 @@
 # 🌍 Student opportunities — Asia
 
-93 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
+94 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
 _Last updated: November 9, 2026_
 
@@ -20,6 +20,7 @@ _Last updated: November 9, 2026_
 | **[Hack Club Haven (Hong Kong)](https://hack-club-haven-hong-kong.devpost.com/)** 🆕 | Nov 14–15, 2026 | Wong Chuk Hang, Hong Kong Island, Hong Kong (Canadian International School Hong Kong) | — | In-person, Beginner Friendly, Gaming |
 | **[Bharat Builds Tour](https://bharat-builds-tour.devpost.com/)** 🆕 | Nov 16–17, 2026 | Jaipur, Rajasthan, India (jaipur) | — | In-person, Blockchain, Cybersecurity |
 | **[Blackout 2026](https://blackout-2026.devpost.com/)** 🆕 | Nov 28, 2026 | Coimbatore, Tamil Nadu, India | — | In-person, Machine Learning/AI, Open Ended, $5,000 in prizes |
+| **[The Dawn of Superintelligence \| Kaya AI Grand Challenge ](https://kaya-ai-grand-challenge.devpost.com/)** 🆕 | Nov 29 – Dec 6, 2026 | Mumbai, Maharashtra, India | — | In-person, IoT, Machine Learning/AI, $3,000 in prizes |
 | **[NTU Beyond Binary Techathon 2027](https://ntu-beyond-binary-2027.devpost.com/)** 🆕 | Feb 9–13, 2027 | Singapore | — | In-person, Beginner Friendly, Machine Learning/AI, $10,000 in prizes |
 
 [⬆️ Back to top](#)

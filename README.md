@@ -15,17 +15,17 @@ Every Monday this repo publishes a short digest: deadlines in the next two weeks
 ---
 
 <!-- TABLES:START -->
-### Browse 575 upcoming opportunities
+### Browse 578 upcoming opportunities
 
 - **[🎓 Student & Diversity Conferences](#-student--diversity-conferences)** — 8
 - **[🖥️ CS & Tech Student Conferences](#-cs--tech-student-conferences)** — 11
 - **[🩺 Pre-Med & Health Conferences](#-pre-med--health-conferences)** — 8
 - **[💼 Business & Entrepreneurship Conferences](#-business--entrepreneurship-conferences)** — 9
-- **[🏁 Hackathons](#-hackathons)** — 146
+- **[🏁 Hackathons](#-hackathons)** — 149
 - **[📚 Academic CS Conferences (paper deadlines)](#-academic-cs-conferences-paper-deadlines)** — 262
 - **[💻 Industry & Developer Conferences](#-industry--developer-conferences)** — 131
 
-🌍 **Only want one part of the world?** [North America](regions/north-america.md) (217) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (173) · [Asia](regions/asia.md) (93) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (17) · [Online](regions/online.md) (37) · [Location TBA](regions/location-tba.md) (20) · [Other](regions/other.md) (3)
+🌍 **Only want one part of the world?** [North America](regions/north-america.md) (217) · [Latin America & Caribbean](regions/latin-america-caribbean.md) (11) · [Europe](regions/europe.md) (173) · [Asia](regions/asia.md) (94) · [Middle East & Africa](regions/middle-east-africa.md) (4) · [Oceania](regions/oceania.md) (17) · [Online](regions/online.md) (38) · [Location TBA](regions/location-tba.md) (20) · [Other](regions/other.md) (4)
 
 _Last updated: November 9, 2026_
 
@@ -97,10 +97,9 @@ _Last updated: November 9, 2026_
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com/)** 🆕 | Nov 9–30, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Mobile, $30,000 in prizes |
-| **[DataJam 2026](https://datajam-2026.devpost.com/)** 🆕 | Nov 9–15, 2026 | 🌐 Online | — | Online, Beginner Friendly |
 | **[Peninsula Innovation Hackathon](https://peninsula-innovation-hackathon.devpost.com/)** 🆕 | Nov 10 – Dec 10, 2026 | 🌐 Online | — | Online, Beginner Friendly, Open Ended |
 | **[The Atomiq Hackathon \| Qiskit Fall Fest 2026 at IEM](https://atomiq-hackathon-qff-26-iem.devpost.com/)** 🆕 | Nov 10–11, 2026 | 🌐 Online | — | Online, Quantum, ₹ 10,000 in prizes |
+| **[#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com/)** 🆕 | Nov 11–30, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Mobile, $30,000 in prizes |
 | **[CIVIC Hack 2026](https://civic-hack-2026.devpost.com/)** 🆕 | Nov 12–14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $CAD 1,500 in prizes |
 | **[NorCal Hacks 27](https://norcal-hacks-27.devpost.com/)** 🆕 | Nov 12–15, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Build with Gemma - Innovate in Windsor](https://innovate-in-windsor-hackathon.devpost.com/)** 🆕 | Nov 13–20, 2026 | Windsor, ON N9B 3P4, Canada (University of Windsor) | — | In-person, Machine Learning/AI |
@@ -124,7 +123,7 @@ _Last updated: November 9, 2026_
 | **[HackUTA](https://hackuta.com/)** 🆕 | Nov 14–15, 2026 | Arlington, Texas | — | In-person, Software, MLH |
 | **[Haven Philly](https://haven-philly.devpost.com/)** 🆕 | Nov 14, 2026 | Philadelphia, PA (Drexel University CCI Building) | — | In-person, Beginner Friendly, Gaming |
 | **[Haven Princeton Game Jam - High School](https://haven-asbury-park.devpost.com/)** 🆕 | Nov 14, 2026 | Skillman, NJ (1435 Capital) | — | In-person, Beginner Friendly, Design, $3,551 in prizes |
-| **[Haven Richmond](https://haven-richmond.devpost.com/)** 🆕 | Nov 14–15, 2026 | Richmond, VA | — | In-person, Beginner Friendly, Education, $500 in prizes |
+| **[Haven Richmond](https://haven-richmond.devpost.com/)** 🆕 | Nov 14, 2026 | Richmond, VA | — | In-person, Beginner Friendly, Education, $500 in prizes |
 | **[Haven Seattle](https://haven-seattle.devpost.com/)** 🆕 | Nov 14–15, 2026 | Seattle, WA | — | In-person, Design, $100 in prizes |
 | **[LPC Hacks](https://lpc-hacks.devpost.com/)** 🆕 | Nov 14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[OCSEFHacks 3](https://ocsefhacks3.devpost.com/)** 🆕 | Nov 14–15, 2026 | Westminster, CA (Westminster High School) | — | In-person, Beginner Friendly, Machine Learning/AI |
@@ -149,6 +148,7 @@ _Last updated: November 9, 2026_
 | **[EvoHacks ⅠⅠ ](https://evohacks2.devpost.com/)** 🆕 | Nov 21–22, 2026 | 🌐 Online | — | Online, Beginner Friendly, Low/No Code |
 | **[FutureForge Hacks](https://futureforge-hacks.devpost.com/)** 🆕 | Nov 21, 2026 | Pleasanton, CA | — | In-person, Education, Machine Learning/AI |
 | **[Global AI Builder’s Challenge](https://global-ai-builders-challenge.devpost.com/)** 🆕 | Nov 21–28, 2026 | 🌐 Online | — | Online, Machine Learning/AI |
+| **[Nerdearla Vibeathon by Devin](https://vibeathon-mexico-2026.devpost.com/)** 🆕 | Nov 21, 2026 | CDMX, Mexico (Amazon CDMX (Puerta Polanco)) | — | In-person, Beginner Friendly, Low/No Code |
 | **[START Hack League Munich 2026](https://start-hack-league-munich-2026.devpost.com/)** 🆕 | Nov 21–22, 2026 | Maxvorstadt, Germany (TUM Audimax) | — | In-person, Beginner Friendly, Databases, €4,000 in prizes |
 | **[Tech For Community 2026](https://tecnurtur.org/hackathon)** 🆕 | Nov 21–22, 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | — | In-person, Software, Hardware, MLH |
 | **[WHACK (Wellesley Hackathon)](https://www.wellesleyhacks.org/)** 🆕 | Nov 21–22, 2026 | Wellesley , Massachesetts | — | In-person, Software, MLH |
@@ -159,12 +159,15 @@ _Last updated: November 9, 2026_
 | **[HackSheffield11](https://hacksheffield.uk)** 🆕 | Nov 28–29, 2026 | Sheffield, South Yorkshire | — | In-person, Software, MLH |
 | **[Project-ZH Hack Day](https://project-zh.devpost.com/)** 🆕 | Nov 28, 2026 | Bakı, Azerbaijan (Innoland Incubation Center, Baku) | — | In-person, Beginner Friendly, Machine Learning/AI |
 | **[HACKRISE'26 ](https://hackrise-26.devpost.com/)** 🆕 | Nov 29, 2026 – Jan 31, 2027 | 🌐 Online | — | Online, DevOps, Machine Learning/AI, ₹ 1,000 in prizes |
+| **[The Dawn of Superintelligence \| Kaya AI Grand Challenge ](https://kaya-ai-grand-challenge.devpost.com/)** 🆕 | Nov 29 – Dec 6, 2026 | Mumbai, Maharashtra, India | — | In-person, IoT, Machine Learning/AI, $3,000 in prizes |
 | **[305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](https://305codefestdec2026.devpost.com/)** 🆕 | Dec 1–31, 2026 | 🌐 Online | — | Online, Beginner Friendly, Cybersecurity |
 | **[Hack Cats](https://hackkstate.tech/)** 🆕 | Dec 4–6, 2026 | Manhattan, Kansas | — | In-person, Software, MLH |
 | **[BUILD 4 ALL](https://build4all.devpost.com/)** 🆕 | Dec 5–12, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
 | **[Hack AI x Stan](https://hackai-toronto.devpost.com/)** 🆕 | Dec 5–6, 2026 | Toronto, ON M5J 2G4, Canada (Stan HQ - Toronto) | — | In-person, Machine Learning/AI, Productivity, $CAD 24,957 in prizes |
 | **[HackSussex GameJam 2026](https://hacksussex-gamejam-2026.devpost.com/)** 🆕 | Dec 5–6, 2026 | Falmer, Brighton, UK | — | In-person, Gaming |
 | **[Revolution](https://revolution-mty2026.devpost.com/)** 🆕 | Dec 5–6, 2026 | N.L., Mexico (Museo Del Acero Horno 3) | — | In-person, Beginner Friendly, IoT |
+| **[Arioron Think 2026](https://arioron-think-2026.devpost.com/)** 🆕 | Dec 10–17, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
+| **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** 🆕 | Dec 11–14, 2026 | 🌐 Online | — | Online, Education |
 | **[hack::peel 2026](https://hack-peel.devpost.com/)** 🆕 | Dec 12–13, 2026 | Mississauga, ON L5C 1Y5, Canada (The Woodlands Secondary School) | — | In-person, Education, Open Ended, $CAD 100 in prizes |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,770 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** 🆕 | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
@@ -365,7 +368,7 @@ _Last updated: November 9, 2026_
 | **[ICPC 2027](https://conf.researchr.org/home/icpc-2027)** 🆕 | Software Eng. | CCF B · CORE A | Apr 25–26, 2027 | Dublin, Ireland | — |
 | **[ICSE 2027](https://conf.researchr.org/home/icse-2027)** 🆕 | Software Eng. | CCF A · CORE A* | Apr 25 – May 1, 2027 | Dublin, Ireland | — |
 | **[FG 2027](https://fg2027.ieee-biometrics.org/)** 🆕 | AI/ML | CCF C · CORE B | Apr 26–30, 2027 | Marrakesh, Morocco | — |
-| **[ICLR 2027](https://iclr.cc/Conferences/2027)** 🆕 | AI/ML | CCF A · CORE A* | Apr 26–30, 2027 | San Francisco, CA, USA | — |
+| **[ICLR 2027](https://iclr.cc/Conferences/2027)** 🆕 | AI/ML | CCF A · CORE A* | Apr 26–28, 2027 | San Francisco, CA, USA | — |
 | **[MSR 2027](https://2027.msrconf.org/)** 🆕 | Software Eng. | CCF C · CORE A | Apr 26–27, 2027 | Dublin, Ireland | — |
 | **[AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)** 🆕 | AI/ML | CCF B · CORE A* | May 3–7, 2027 | Hanoi, Vietnam | — |
 | **[AISTATS 2027](https://virtual.aistats.org/Conferences/2027)** 🆕 | AI/ML | CCF C · CORE A | May 3–6, 2027 | MontrÃ©al, Canada | — |
@@ -427,7 +430,7 @@ _Last updated: November 9, 2026_
 | **[SPM 2027](https://igs2027singapore.github.io/)** 🆕 | Graphics/Multimedia | CCF B · CORE C | Jun 21–25, 2027 | Singapore | — |
 | **[WoWMoM 2027](https://wowmom2027.dii.unipi.it/index.html)** 🆕 | Networking | CCF C · CORE B | Jun 21–24, 2027 | Irvine, California, USA | Paper: Dec 1 |
 | **[DSN 2027](https://dsn2027-berlin.github.io/)** 🆕 | Security | CCF B · CORE A | Jun 22–25, 2027 | Berlin, Germany | Paper: Dec 2 |
-| **[BIS 2027](https://bisconf.org/2027/)** 🆕 | Interdisciplinary | — | Jun 23–25, 2027 | PoznaÅ, Poland | Paper: Jan 11 |
+| **[BIS 2027](https://bisconf.org/2027/)** 🆕 | Interdisciplinary | — | Jun 23–25, 2027 | PoznaÅ, Poland | Paper: Jan 10 |
 | **[ICDF2C 2027](https://icdf2c.eai-conferences.org/2027/)** 🆕 | Security | CCF C | Jun 25–27, 2027 | New York, USA | Paper: Dec 15 |
 | **[ICAPS 2027](https://icaps27.icaps-conference.org/)** 🆕 | AI/ML | CCF B · CORE A* | Jun 27 – Jul 2, 2027 | Columbia, SC, USA | Paper: Dec 14 |
 | **[ISIT 2027](https://2027.ieee-isit.org/)** 🆕 | Theory | CORE B | Jun 27 – Jul 2, 2027 | Sorrento, Italy | Paper: Jan 10 |

@@ -1,6 +1,6 @@
 # 🌍 Student opportunities — North America
 
-217 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
+217 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (94) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
 _Last updated: November 9, 2026_
 
@@ -66,7 +66,7 @@ _Last updated: November 9, 2026_
 | **[HackUTA](https://hackuta.com/)** 🆕 | Nov 14–15, 2026 | Arlington, Texas | — | In-person, Software, MLH |
 | **[Haven Philly](https://haven-philly.devpost.com/)** 🆕 | Nov 14, 2026 | Philadelphia, PA (Drexel University CCI Building) | — | In-person, Beginner Friendly, Gaming |
 | **[Haven Princeton Game Jam - High School](https://haven-asbury-park.devpost.com/)** 🆕 | Nov 14, 2026 | Skillman, NJ (1435 Capital) | — | In-person, Beginner Friendly, Design, $3,551 in prizes |
-| **[Haven Richmond](https://haven-richmond.devpost.com/)** 🆕 | Nov 14–15, 2026 | Richmond, VA | — | In-person, Beginner Friendly, Education, $500 in prizes |
+| **[Haven Richmond](https://haven-richmond.devpost.com/)** 🆕 | Nov 14, 2026 | Richmond, VA | — | In-person, Beginner Friendly, Education, $500 in prizes |
 | **[Haven Seattle](https://haven-seattle.devpost.com/)** 🆕 | Nov 14–15, 2026 | Seattle, WA | — | In-person, Design, $100 in prizes |
 | **[OCSEFHacks 3](https://ocsefhacks3.devpost.com/)** 🆕 | Nov 14–15, 2026 | Westminster, CA (Westminster High School) | — | In-person, Beginner Friendly, Machine Learning/AI |
 | **[SanD Hacks](https://hackathon.csesatucsd.com/)** 🆕 | Nov 14–15, 2026 | La Jolla, CA | — | In-person, MLH |
@@ -186,7 +186,7 @@ _Last updated: November 9, 2026_
 | **[PPoPP 2027](https://ppopp27.sigplan.org/)** 🆕 | Systems/Architecture | CCF A · CORE B | Mar 20–24, 2027 | Salt Lake City, Utah, USA | — |
 | **[DCC 2027](https://datacompressionconference.org/)** 🆕 | Graphics/Multimedia | CCF B · CORE B | Mar 23–26, 2027 | Snowbird, Utah, United States | — |
 | **[CT-RSA 2027](https://www.esat.kuleuven.be/cosic/events/ct-rsa-2027/)** 🆕 | Security | CCF C · CORE B | Apr 5–8, 2027 | San Francisco, California, USA | — |
-| **[ICLR 2027](https://iclr.cc/Conferences/2027)** 🆕 | AI/ML | CCF A · CORE A* | Apr 26–30, 2027 | San Francisco, CA, USA | — |
+| **[ICLR 2027](https://iclr.cc/Conferences/2027)** 🆕 | AI/ML | CCF A · CORE A* | Apr 26–28, 2027 | San Francisco, CA, USA | — |
 | **[AISTATS 2027](https://virtual.aistats.org/Conferences/2027)** 🆕 | AI/ML | CCF C · CORE A | May 3–6, 2027 | MontrÃ©al, Canada | — |
 | **[CHI 2027](https://chi2027.acm.org/)** 🆕 | HCI | CCF A · CORE A* | May 10–14, 2027 | David L. Lawrence Convention Center, Pittsburgh, USA | — |
 | **[FCCM 2027](https://www.fccm.org/)** 🆕 | Systems/Architecture | CCF C · CORE B | May 10–11, 2027 | Provo, Utah, USA | Paper: Jan 17 |
