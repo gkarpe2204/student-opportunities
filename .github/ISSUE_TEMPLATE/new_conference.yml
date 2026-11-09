@@ -1,25 +1,54 @@
-name: ➕ Add a conference
-description: Suggest a student conference for the list
+name: ➕ Add an event
+description: Suggest a conference or hackathon. Once a maintainer adds the "approved" label, it's added to the list automatically.
 title: "[New] "
-labels: [new-conference]
+labels: [new-event]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in what you know; only the name and website are required. Use dates like `2027-03-14`.
   - type: input
     id: name
-    attributes: { label: Conference name }
+    attributes: { label: Event name, placeholder: "HackBeanpot 2027" }
     validations: { required: true }
   - type: input
     id: url
-    attributes: { label: Website }
+    attributes: { label: Website, placeholder: "https://…" }
+    validations: { required: true }
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Student & diversity conference
+        - CS & tech conference
+        - Pre-med / health conference
+        - Business conference
+        - Hackathon
     validations: { required: true }
   - type: input
-    id: dates
-    attributes: { label: Dates, placeholder: "Oct 6–9, 2027" }
+    id: start
+    attributes: { label: Start date, placeholder: "2027-02-13" }
+  - type: input
+    id: end
+    attributes: { label: End date, placeholder: "2027-02-15" }
   - type: input
     id: location
-    attributes: { label: Location, placeholder: "Boston, MA / Online" }
+    attributes: { label: Location, placeholder: "Boston, MA (leave blank if online)" }
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      options: [In-person, Online, Hybrid]
   - type: input
     id: deadline
-    attributes: { label: "Scholarship / registration / abstract deadline (if any)" }
-  - type: textarea
-    id: why
-    attributes: { label: Who is it for? Anything students should know? }
+    attributes: { label: "Next deadline (registration, scholarship, abstracts)", placeholder: "2026-12-01" }
+  - type: input
+    id: deadline_label
+    attributes: { label: "What is that deadline for?", placeholder: "Registration" }
+  - type: input
+    id: funding
+    attributes: { label: "Does it fund students to attend? (travel grants, scholarships)", placeholder: "Travel scholarships for members" }
+  - type: input
+    id: topics
+    attributes: { label: Topics (comma-separated), placeholder: "AI, Beginner friendly" }
