@@ -4,7 +4,7 @@ import re
 from dataclasses import asdict, dataclass, field
 from datetime import date
 
-from .geo import region_of
+from .geo import region_of, us_state_of
 
 # Section keys, in the order they appear on the README / site.
 CATEGORIES = {
@@ -44,6 +44,7 @@ class Conference:
     topics: list[str] = field(default_factory=list)
     rank: str = ""                     # CORE / CCF rank for academic venues
     notes: str = ""
+    funding: str = ""                  # how students get funded to attend, if they can
     dates_auto: bool = False           # dates were scraped from the site, not verified
     first_seen: str = ""               # ISO date the tracker first saw this entry
 
@@ -58,4 +59,5 @@ class Conference:
             d[k] = d[k].isoformat() if d[k] else None
         d["id"] = self.id
         d["region"] = region_of(self.country)
+        d["state"] = us_state_of(self.location, self.country)
         return d

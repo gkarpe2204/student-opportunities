@@ -103,6 +103,23 @@ def country_of(location: str, online: bool = False, hint: str = "") -> str:
     return UNKNOWN
 
 
+_STATE_BY_NAME = {v.lower(): v for v in US_STATES.values()}
+
+
+def us_state_of(location: str, country: str) -> str:
+    """Full US state name for a US location ("Cambridge, MA" -> "Massachusetts"), else ""."""
+    if country != "United States" or not location:
+        return ""
+    text = re.sub(r"\(.*?\)", "", location)
+    for part in reversed([_clean(p) for p in re.split(r"[,/]", text) if _clean(p)]):
+        token = re.sub(r"\s+\d{5}(-\d{4})?$", "", part)          # "CA 95817" -> "CA"
+        if len(token) == 2 and token.upper() in US_STATES:
+            return US_STATES[token.upper()]
+        if token.lower() in _STATE_BY_NAME:
+            return _STATE_BY_NAME[token.lower()]
+    return ""
+
+
 def region_of(country: str) -> str:
     if country in (ONLINE, UNKNOWN):
         return country

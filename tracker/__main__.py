@@ -15,6 +15,7 @@ from urllib.parse import urlparse
 from . import sources
 from .geo import country_of
 from .models import SOURCE_PRIORITY, Conference, slugify
+from .extras import write_feed, write_og_image
 from .render import update_readme, write_region_pages
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s %(message)s")
@@ -46,9 +47,18 @@ def dedupe(confs: list[Conference]) -> list[Conference]:
         cur = best.get(key)
         if cur is None or SOURCE_PRIORITY[c.source] > SOURCE_PRIORITY[cur.source]:
             best[key] = c
-    # A hand-picked entry with TBA dates is redundant once a feed lists the same event with dates.
-    dated = {slugify(c.name) for c in best.values() if c.start}
-    return [c for c in best.values() if c.start or slugify(c.name) not in dated]
+    # A hand-picked entry with TBA dates is redundant once a feed lists the same event with dates;
+    # keep its hand-written funding note and notes on the dated copy.
+    dated = {slugify(c.name): c for c in best.values() if c.start}
+    out = []
+    for c in best.values():
+        twin = None if c.start else dated.get(slugify(c.name))
+        if twin is None:
+            out.append(c)
+            continue
+        twin.funding = twin.funding or c.funding
+        twin.notes = twin.notes or c.notes
+    return out
 
 
 def main() -> None:
@@ -84,6 +94,11 @@ def main() -> None:
             json.dump(payload, f, indent=1, ensure_ascii=False)
     update_readme("README.md", confs, today)
     write_region_pages("regions", confs, today)
+    write_feed("docs/feed.xml", confs, today)
+    try:
+        write_og_image("docs/og.png", confs, today)
+    except Exception as exc:  # noqa: BLE001 - the preview image is optional
+        log.warning("could not draw docs/og.png: %s", exc)
     log.info("wrote %d upcoming opportunities", len(confs))
 
 

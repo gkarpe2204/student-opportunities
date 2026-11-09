@@ -42,7 +42,7 @@ def esc(s: str) -> str:
 
 def name_cell(c: Conference, today: date) -> str:
     new = c.first_seen and (today - date.fromisoformat(c.first_seen)) <= timedelta(days=7)
-    return f"**[{esc(c.name)}]({c.url})**" + (" 🆕" if new else "")
+    return f"**[{esc(c.name)}]({c.url})**" + (" 🆕" if new else "") + (" 💰" if c.funding else "")
 
 
 def location_cell(c: Conference) -> str:
@@ -53,7 +53,7 @@ def location_cell(c: Conference) -> str:
 TABLES = {
     "student": (["Conference", "Dates", "Location", "Deadline", "Focus"],
                 lambda c, t: [name_cell(c, t), fmt_dates(c), location_cell(c), fmt_deadline(c, t),
-                              esc(", ".join(c.topics))]),
+                              esc(", ".join(c.topics)) + (f"<br>💰 {esc(c.funding)}" if c.funding else "")]),
     "academic": (["Conference", "Area", "Rank", "Dates", "Location", "Next deadline"],
                  lambda c, t: [name_cell(c, t), esc(", ".join(c.topics)), esc(c.rank) or "—",
                                fmt_dates(c), location_cell(c), fmt_deadline(c, t)]),

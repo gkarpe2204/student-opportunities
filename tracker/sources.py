@@ -271,8 +271,9 @@ def devpost_events(items: list[dict]) -> list[Conference]:
     """Turn Devpost API hackathon records into Conferences (skips invite-only events)."""
     out = []
     for h in items:
-        if h.get("invite_only"):
-            continue
+        title = (h.get("title") or "").strip()
+        if h.get("invite_only") or len(title) < 4 or re.match(r"^(test|testing|demo|sample|untitled)\b", title, re.I):
+            continue                    # skip invite-only events and obvious placeholder listings
         start, end = parse_range(h.get("submission_period_dates"))
         place = (h.get("displayed_location") or {})
         online = place.get("icon") == "globe" or place.get("location", "").lower() == "online"
@@ -358,7 +359,7 @@ def watchlist(path: str = "data/watchlist.yml") -> list[Conference]:
             name=e["name"], url=e["url"], category=e.get("category", "student"), source="watchlist",
             start=to_date(e.get("start")), end=to_date(e.get("end")),
             location=e.get("location", ""), online=bool(e.get("online", False)),
-            topics=e.get("topics", []), notes=e.get("notes", ""),
+            topics=e.get("topics", []), notes=e.get("notes", ""), funding=e.get("funding", ""),
         )
         c.deadline, c.deadline_label, c.deadline_url = next_deadline(e, TODAY)
         if c.end and c.end < TODAY:      # manual dates are stale -> re-scrape
