@@ -1,79 +1,7 @@
 {
- "updated": "2026-11-08",
- "count": 572,
+ "updated": "2026-11-09",
+ "count": 575,
  "conferences": [
-  {
-   "name": "FOCS 2026",
-   "url": "https://sanjeevkhanna.org/FOCS2026_CFP.html",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-08",
-   "end": "2026-11-11",
-   "location": "New York City, NY, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Theory"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "IEEE Symposium on Foundations of Computer Science",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "focs-2026",
-   "region": "North America"
-  },
-  {
-   "name": "ICCAD 2026",
-   "url": "https://iccad.com/2026",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-08",
-   "end": "2026-11-12",
-   "location": "San Jose, California, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Systems/Architecture"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "IEEE/ACM International Conference on Computer-Aided Design",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "iccad-2026",
-   "region": "North America"
-  },
-  {
-   "name": "IceHacks",
-   "url": "https://icehacks.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-08",
-   "end": "2026-11-15",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Low/No Code",
-    "$17,150 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by CodeStarters",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "icehacks-2026",
-   "region": "Online"
-  },
   {
    "name": "#BuildHybridAI 2026",
    "url": "https://firebasehybridaihackathon.devpost.com/",
@@ -95,10 +23,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Google",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "buildhybridai-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "CIKM 2026",
@@ -118,10 +48,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "ACM International Conference on Information and Knowledge Management",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cikm-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CoRL 2026",
@@ -141,10 +73,38 @@
    ],
    "rank": "",
    "notes": "The Conference on Robot Learning",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "corl-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
+  },
+  {
+   "name": "DataJam 2026",
+   "url": "https://datajam-2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-09",
+   "end": "2026-11-15",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly"
+   ],
+   "rank": "",
+   "notes": "Hosted by SFU Data Science Student Society",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "datajam-2026",
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Gerrit User Summit",
@@ -164,10 +124,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gerrit-user-summit-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "LeadDev Berlin",
@@ -188,10 +150,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "leaddev-berlin-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Unhacked 360 Germany: FutureSec Summit",
@@ -211,10 +175,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "unhacked-360-germany-futuresec-summit-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "IEEE VIS 2026",
@@ -234,10 +200,39 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "IEEE Visualization Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ieee-vis-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
+  },
+  {
+   "name": "Peninsula Innovation Hackathon",
+   "url": "https://peninsula-innovation-hackathon.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-10",
+   "end": "2026-12-10",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Open Ended"
+   ],
+   "rank": "",
+   "notes": "Hosted by bayhacks",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "peninsula-innovation-hackathon-2026",
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Porto Tech Hub Conference",
@@ -257,10 +252,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "porto-tech-hub-conference-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "TCC 2026",
@@ -280,10 +277,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "Theory of Cryptography Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "tcc-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
@@ -305,10 +304,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Institute of Engineering & Management",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "the-atomiq-hackathon-qiskit-fall-fest-at-iem-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "ACM MM 2026",
@@ -328,10 +329,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM International Conference on Multimedia",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acm-mm-2026",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "CLC",
@@ -351,10 +354,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "clc-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CIVIC Hack 2026",
@@ -377,10 +382,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Future Cities Institute",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "civic-hack-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "CMS Conf",
@@ -400,10 +407,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cms-conf-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NorCal Hacks 27",
@@ -425,10 +434,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Lynbrook Engineering Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "norcal-hacks-27-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "SpiceWorld",
@@ -448,10 +459,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "spiceworld-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "Ubuntu Summit",
@@ -471,10 +484,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ubuntu-summit-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "ADMA 2026",
@@ -494,10 +509,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "The International Conference on Advanced Data Mining and Applications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "adma-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Build with Gemma - Innovate in Windsor",
@@ -518,10 +535,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Google Developer Groups Windsor",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "build-with-gemma-innovate-in-windsor-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "BYU-Idaho: i-Hack 2026: Reinventing the Past",
@@ -543,10 +562,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Brigham Young University - Idaho CSE Dep",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "byu-idaho-i-hack-reinventing-the-past-2026",
-   "region": "Other"
+   "region": "Other",
+   "state": ""
   },
   {
    "name": "Emory Hacks",
@@ -567,10 +588,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "emory-hacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "Engage Test",
@@ -593,10 +616,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Engage Group",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "engage-test-2026",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "GTransformer AI Buildathon 2026 — AI for Global Good",
@@ -619,10 +644,12 @@
    ],
    "rank": "",
    "notes": "Hosted by GTransformer Foundation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gtransformer-ai-buildathon-ai-for-global-good-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Hackperimeter",
@@ -645,10 +672,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Georgia State University",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackperimeter-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "HackPrinceton Fall 2026",
@@ -671,10 +700,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackprinceton-fall-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Jersey"
   },
   {
    "name": "HackUMass",
@@ -695,10 +726,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackumass-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "IBM Qiskit Hackathon - Bangladesh",
@@ -719,10 +752,12 @@
    ],
    "rank": "",
    "notes": "Hosted by DevChangeMakers Community",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ibm-qiskit-hackathon-bangladesh-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ICDM 2026",
@@ -742,10 +777,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "IEEE International Conference on Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdm-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Junction",
@@ -766,10 +803,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "junction-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NASA's Space Apps Challenge NYC",
@@ -791,10 +830,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nasa-s-space-apps-challenge-nyc-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "UniHack",
@@ -815,10 +856,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "unihack-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "VIC AI Boom",
@@ -840,10 +883,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vic-ai-boom-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "Code/Clash",
@@ -866,10 +911,12 @@
    ],
    "rank": "",
    "notes": "Hosted by BitBrothers",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "code-clash-2026",
-   "region": "Other"
+   "region": "Other",
+   "state": ""
   },
   {
    "name": "CollaborateCom 2026",
@@ -889,10 +936,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "International Conference on Collaborative Computing: Networking, Applications and Worksharing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "collaboratecom-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DurHack",
@@ -913,10 +962,40 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "durhack-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "Ground Truth: The Live Agents Hackathon - powered by You.com",
+   "url": "https://ground-truth-you-hack.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-14",
+   "end": "2026-11-14",
+   "location": "New York, NY (Station 3)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Machine Learning/AI",
+    "Web",
+    "$650 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by localhost-nyc",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "ground-truth-the-live-agents-hackathon-powered-by-you-com-2026",
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "Hack Club Haven (Hong Kong)",
@@ -938,10 +1017,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-club-haven-hong-kong-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Hack The Nest",
@@ -964,10 +1045,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-the-nest-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Michigan"
   },
   {
    "name": "Hack-a-ton with Friends",
@@ -989,10 +1072,12 @@
    ],
    "rank": "",
    "notes": "Hosted by naitsa",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-a-ton-with-friends-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackUTA",
@@ -1014,10 +1099,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackuta-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "Haven Philly",
@@ -1039,10 +1126,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "haven-philly-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Pennsylvania"
   },
   {
    "name": "Haven Princeton Game Jam - High School",
@@ -1065,10 +1154,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "haven-princeton-game-jam-high-school-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Jersey"
   },
   {
    "name": "Haven Richmond",
@@ -1091,10 +1182,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackClub  ✓⃝",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "haven-richmond-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "Haven Seattle",
@@ -1116,10 +1209,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "haven-seattle-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "LPC Hacks",
@@ -1141,10 +1236,12 @@
    ],
    "rank": "",
    "notes": "Hosted by LPCHacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "lpc-hacks-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "OCSEFHacks 3",
@@ -1166,10 +1263,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackPac",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ocsefhacks-3-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SanD Hacks",
@@ -1190,10 +1289,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sand-hacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SearchHack: Build the next layer of AI search",
@@ -1215,10 +1316,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Telem AI",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "searchhack-build-the-next-layer-of-ai-search-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "sunhacks",
@@ -1239,10 +1342,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sunhacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Arizona"
   },
   {
    "name": "System Public Challenge",
@@ -1265,10 +1370,12 @@
    ],
    "rank": "",
    "notes": "Hosted by System, Inc.",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "system-public-challenge-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "Teens Hack Houston Hackathon",
@@ -1291,10 +1398,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackClub  ✓⃝",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "teens-hack-houston-hackathon-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "The Next Frontier 2026: A Space Innovation Hackathon",
@@ -1316,10 +1425,12 @@
    ],
    "rank": "",
    "notes": "Hosted by AI Collective",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "the-next-frontier-a-space-innovation-hackathon-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "Bridge The Gap Hacks",
@@ -1341,10 +1452,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Bridge The Gap Hacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bridge-the-gap-hacks-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Haven Las Vegas",
@@ -1366,10 +1479,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "haven-las-vegas-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Nevada"
   },
   {
    "name": "KUK VIRTUAL HACKATHON",
@@ -1392,10 +1507,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Kelab UMNO Korea",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "kuk-virtual-hackathon-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Stupid Ideas Hackathon (Ottawa F26)",
@@ -1418,10 +1535,12 @@
    ],
    "rank": "",
    "notes": "Hosted by stupid ideas hackathon",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "stupid-ideas-hackathon-ottawa-f26-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "AI Coding Summit New York Edition",
@@ -1441,10 +1560,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-coding-summit-new-york-edition-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "AI Engineering Summit",
@@ -1464,10 +1585,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-engineering-summit-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "API Conference Berlin",
@@ -1489,10 +1612,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "api-conference-berlin-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Bharat Builds Tour",
@@ -1514,10 +1639,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hackers Unity",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bharat-builds-tour-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "BuildyourOwnWebsite",
@@ -1539,10 +1666,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Roxten Studios",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "buildyourownwebsite-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "CCS 2026",
@@ -1562,10 +1691,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Conference on Computer and Communications Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ccs-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HalfStack Vienna",
@@ -1585,10 +1716,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "halfstack-vienna-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HotNets 2026",
@@ -1608,10 +1741,12 @@
    ],
    "rank": "CCF C",
    "notes": "ACM Workshop on Hot Topics in Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hotnets-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "ICAIF 2026",
@@ -1631,10 +1766,12 @@
    ],
    "rank": "",
    "notes": "International Conference on AI in Finance",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icaif-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICCD 2026",
@@ -1654,10 +1791,12 @@
    ],
    "rank": "CCF B · CORE C",
    "notes": "International Conference on Computer Design",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iccd-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "JSNation US",
@@ -1677,10 +1816,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jsnation-us-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "MLCon Berlin",
@@ -1700,10 +1841,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mlcon-berlin-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NextGen Intelligence Conference: Data, Cloud & AI",
@@ -1723,10 +1866,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nextgen-intelligence-conference-data-cloud-ai-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SC 2026",
@@ -1746,10 +1891,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sc-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Illinois"
   },
   {
    "name": "SIGOPS ATC 2026",
@@ -1769,10 +1916,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "ACM SIGOPS Annual Technical Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigops-atc-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Software Architecture Gathering",
@@ -1792,10 +1941,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "software-architecture-gathering-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "VibeKode Berlin",
@@ -1815,10 +1966,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vibekode-berlin-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "betterCode() .NET 11.0",
@@ -1838,10 +1991,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bettercode-net-11-0-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Open Source Monitoring conference",
@@ -1861,10 +2016,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "open-source-monitoring-conference-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "React Summit US",
@@ -1884,10 +2041,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "react-summit-us-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)",
@@ -1908,10 +2067,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "Travel awards (registration, housing, travel) for first-time student presenters",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "abrcms-annual-biomedical-research-conference-for-minoritized-scientists-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "ASF Community Over Code / ChurConf",
@@ -1932,10 +2093,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "asf-community-over-code-churconf-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "Community Over Code Sydney",
@@ -1957,10 +2120,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "community-over-code-sydney-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "ICFEM 2026",
@@ -1980,10 +2145,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "International Conference on Formal Engineering Methods",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icfem-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "OBSCURA: Satellite AI Research Challenge",
@@ -2006,10 +2173,12 @@
    ],
    "rank": "",
    "notes": "Hosted by BTAJI CREW",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "obscura-satellite-ai-research-challenge-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "PRICAI 2026",
@@ -2029,10 +2198,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Pacific Rim International Conference on Artificial Intelligence",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pricai-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SoCC 2026",
@@ -2052,10 +2223,12 @@
    ],
    "rank": "CCF B",
    "notes": "ACM Symposium on Cloud Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "socc-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "inside agile Product Owner Day",
@@ -2075,10 +2248,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "inside-agile-product-owner-day-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "SDM 2026",
@@ -2098,10 +2273,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "SIAM International Conference on Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sdm-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "X-Ops Conference Madrid",
@@ -2122,10 +2299,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "x-ops-conference-madrid-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Agentic Engineering Days Zurich",
@@ -2145,10 +2324,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "agentic-engineering-days-zurich-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CrossPointX 2026",
@@ -2170,10 +2351,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Science Innovation Association of XJTLU",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "crosspointx-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "droidCon India",
@@ -2194,10 +2377,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "droidcon-india-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Hack Western 13",
@@ -2220,10 +2405,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-western-13-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "LOG 2026",
@@ -2243,10 +2430,12 @@
    ],
    "rank": "",
    "notes": "Learning on Graphs Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "log-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "BostonHacks",
@@ -2267,10 +2456,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bostonhacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "Cutie Hack 2026",
@@ -2292,10 +2483,12 @@
    ],
    "rank": "",
    "notes": "Hosted by ACM at UCR",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cutie-hack-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "DevFest Münster 2026: Agentic AI Hackathon",
@@ -2317,10 +2510,12 @@
    ],
    "rank": "",
    "notes": "Hosted by GDG Münster",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devfest-m-nster-agentic-ai-hackathon-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EvoHacks ⅠⅠ ",
@@ -2342,10 +2537,12 @@
    ],
    "rank": "",
    "notes": "Hosted by EvoHacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "evohacks-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "flutterCon India",
@@ -2365,10 +2562,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fluttercon-india-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "FutureForge Hacks",
@@ -2390,10 +2589,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Future Forge",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "futureforge-hacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Global AI Builder’s Challenge",
@@ -2414,10 +2615,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Refactor The World",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "global-ai-builder-s-challenge-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "START Hack League Munich 2026",
@@ -2440,10 +2643,12 @@
    ],
    "rank": "",
    "notes": "Hosted by START Munich",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "start-hack-league-munich-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Tech For Community 2026",
@@ -2466,10 +2671,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "tech-for-community-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "WHACK (Wellesley Hackathon)",
@@ -2491,10 +2698,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "whack-wellesley-hackathon-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "ICPADS 2026",
@@ -2514,10 +2723,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Conference on Parallel and Distributed Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icpads-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "BMVC 2026",
@@ -2537,10 +2748,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "British Machine Vision Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bmvc-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "DDC .NET Developer Conference",
@@ -2560,10 +2773,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ddc-net-developer-conference-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICECCS 2026",
@@ -2583,10 +2798,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Conference on Engineering of Complex Computer Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iceccs-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "ICONIP 2026",
@@ -2606,10 +2823,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Conference on Neural Information Processing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iconip-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "ISS 2026",
@@ -2629,10 +2848,12 @@
    ],
    "rank": "CCF B",
    "notes": "ACM International Conference on Interactive Surfaces and Spaces",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iss-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MobiHoc 2026",
@@ -2652,35 +2873,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Symposium on Mobile Ad Hoc Networking and Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mobihoc-2026",
-   "region": "Asia"
-  },
-  {
-   "name": "test",
-   "url": "https://nutech-hackfest-2026.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-23",
-   "end": "2026-11-24",
-   "location": "Karnal Sher Khan Shaheed Rd, I-, Pakistan (NUTECH Main Campus)",
-   "country": "Pakistan",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Beginner Friendly",
-    "Cybersecurity"
-   ],
-   "rank": "",
-   "notes": "Hosted by Nutech, Islamabad",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "test-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Big Data Europe",
@@ -2700,10 +2898,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "big-data-europe-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "AI World Congress",
@@ -2723,10 +2923,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-world-congress-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "WeAreDevelopers Conference India",
@@ -2746,10 +2948,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wearedevelopers-conference-india-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "EdTech Conference",
@@ -2769,10 +2973,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "edtech-conference-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "K-Dub Hacks",
@@ -2795,10 +3001,12 @@
    ],
    "rank": "",
    "notes": "Hosted by AWS Student Builders Group - Laurier",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "k-dub-hacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "LooHacks",
@@ -2820,10 +3028,12 @@
    ],
    "rank": "",
    "notes": "Hosted by AWS Student Builder Group - WLU",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "loohacks-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Workplace Ninjas India",
@@ -2843,10 +3053,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "workplace-ninjas-india-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Blackout 2026",
@@ -2869,10 +3081,12 @@
    ],
    "rank": "",
    "notes": "Hosted by buildicy",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "blackout-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "FOSS for All Conference",
@@ -2893,10 +3107,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "foss-for-all-conference-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "HackEPS",
@@ -2917,10 +3133,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackeps-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HackSheffield11",
@@ -2942,10 +3160,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacksheffield11-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Project-ZH Hack Day",
@@ -2967,10 +3187,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Project-ZH",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "project-zh-hack-day-2026",
-   "region": "Other"
+   "region": "Other",
+   "state": ""
   },
   {
    "name": "HACKRISE'26 ",
@@ -2993,10 +3215,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Mulearn MBCCET ",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackrise-26-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "APIConf",
@@ -3016,10 +3240,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "apiconf-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "DAI 2026",
@@ -3039,10 +3265,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Distributed Artificial Intelligence",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dai-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DevOpsCon Munich",
@@ -3062,10 +3290,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devopscon-munich-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ESPC",
@@ -3087,10 +3317,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "espc-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "IT Security Summit Munich",
@@ -3111,10 +3343,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "it-security-summit-munich-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
@@ -3136,10 +3370,12 @@
    ],
    "rank": "",
    "notes": "Hosted by COLORSTACKatFIU",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "305-codefest-edition-december-305hackathons-vercel-app-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "ACM SIGGRAPH ASIA 2026",
@@ -3159,10 +3395,12 @@
    ],
    "rank": "CORE A*",
    "notes": "ACM SIGGRAPH Annual Conference in Asia",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acm-siggraph-asia-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ACML 2026",
@@ -3182,10 +3420,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "Asian Conference on Machine Learning",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acml-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "APLAS 2026",
@@ -3205,10 +3445,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Asian Symposium on Programming Languages and Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aplas-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ATS 2026",
@@ -3228,10 +3470,12 @@
    ],
    "rank": "CCF C",
    "notes": "IEEE Asian Test Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ats-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ATVA 2026",
@@ -3251,10 +3495,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Symposium on Automated Technology for Verification and Analysis",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "atva-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "BIBM 2026",
@@ -3274,10 +3520,12 @@
    ],
    "rank": "CCF B",
    "notes": "IEEE International Conference on Bioinformatics and Biomedicine",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bibm-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Build It Summit",
@@ -3299,10 +3547,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "build-it-summit-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICSOC 2026",
@@ -3322,10 +3572,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Service Oriented Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icsoc-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "inside agile: Agile Leadership Conference",
@@ -3345,10 +3597,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "inside-agile-agile-leadership-conference-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "WINE 2026",
@@ -3368,10 +3622,12 @@
    ],
    "rank": "CCF B",
    "notes": "Conference on Web and Internet Economics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wine-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SETTA 2026",
@@ -3391,10 +3647,12 @@
    ],
    "rank": "CCF C",
    "notes": "Symposium on Dependable Software Engineering: Theories, Tools and Applications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "setta-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Tech Leader Summit",
@@ -3414,10 +3672,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "tech-leader-summit-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "WiCON 2026",
@@ -3437,10 +3697,12 @@
    ],
    "rank": "",
    "notes": "International Wireless Internet Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wicon-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Write the Docs Australia",
@@ -3460,10 +3722,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "write-the-docs-australia-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "AI Coding Summit Berlin Edition",
@@ -3483,10 +3747,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-coding-summit-berlin-edition-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Hack Cats",
@@ -3508,10 +3774,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-cats-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Kansas"
   },
   {
    "name": "PDCAT 2026",
@@ -3531,10 +3799,12 @@
    ],
    "rank": "CORE C",
    "notes": "International Conference on Parallel and Distributed Computing, Applications and Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pdcat-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "PyConf",
@@ -3554,10 +3824,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pyconf-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "React Day Berlin",
@@ -3577,10 +3849,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "react-day-berlin-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "BUILD 4 ALL",
@@ -3602,10 +3876,12 @@
    ],
    "rank": "",
    "notes": "Hosted by CS4ALL",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "build-4-all-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "DevFestMN",
@@ -3625,10 +3901,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devfestmn-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Minnesota"
   },
   {
    "name": "Hack AI x Stan",
@@ -3651,10 +3929,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Stan",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-ai-x-stan-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackSussex GameJam 2026",
@@ -3675,10 +3955,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackSussex",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacksussex-gamejam-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Revolution",
@@ -3700,10 +3982,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack Club Monterrey and High Coders MTY",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "revolution-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "ACSAC 2026",
@@ -3723,10 +4007,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "Annual Computer Security Applications Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acsac-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "APSEC 2026",
@@ -3746,10 +4032,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "Asia-Pacific Software Engineering Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "apsec-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ArchConf",
@@ -3769,10 +4057,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "archconf-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "ASIACRYPT 2026",
@@ -3792,10 +4082,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on the Theory and Application of Cryptology and Information Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "asiacrypt-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CoNEXT 2026",
@@ -3815,10 +4107,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Emerging Networking Experiments and Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "conext-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "GLOBECOM 2026",
@@ -3838,10 +4132,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE Global Communications Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "globecom-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ISAAC 2026",
@@ -3861,10 +4157,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Symposium on Algorithms and Computation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "isaac-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "IT-Tage",
@@ -3886,10 +4184,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "it-tage-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "WiML Workshop (Women in Machine Learning)",
@@ -3910,10 +4210,12 @@
    ],
    "rank": "",
    "notes": "Co-located with NeurIPS 2026",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wiml-workshop-women-in-machine-learning-2026",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "Conversations Roadshow: New York by CTO Craft",
@@ -3933,10 +4235,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "conversations-roadshow-new-york-by-cto-craft-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "FPT 2026",
@@ -3956,10 +4260,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Field Programmable Technology",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fpt-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Hawaii"
   },
   {
    "name": "droidcon London",
@@ -3980,10 +4286,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "droidcon-london-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Great International AI Native Summit (GAINS)",
@@ -4003,10 +4311,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "great-international-ai-native-summit-gains-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "RTSS 2026",
@@ -4026,10 +4336,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "The IEEE Real-Time Systems Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "rtss-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AMSA Future Physicians for Change (Annual Convention)",
@@ -4050,10 +4362,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "amsa-future-physicians-for-change-annual-convention-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Maryland"
   },
   {
    "name": "hack::peel 2026",
@@ -4076,10 +4390,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Absolute Robotics #4308",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-peel-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "INDOCRYPT 2026",
@@ -4099,10 +4415,12 @@
    ],
    "rank": "",
    "notes": "International Conference on Cryptology in India",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "indocrypt-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SIGIR-AP 2026",
@@ -4122,10 +4440,12 @@
    ],
    "rank": "",
    "notes": "International ACM SIGIR Conference on Information Retrieval in the Asia Pacific",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigir-ap-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SLT 2026",
@@ -4145,10 +4465,12 @@
    ],
    "rank": "CCF C",
    "notes": "IEEE Spoken Language Technology (SLT) Workshop",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "slt-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "BigData 2026",
@@ -4168,10 +4490,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Conference on Big Data",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bigdata-2026",
-   "region": "North America"
+   "region": "North America",
+   "state": "Arizona"
   },
   {
    "name": "Middleware 2026",
@@ -4191,10 +4515,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Middleware Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "middleware-2026",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MMAsia 2026",
@@ -4214,10 +4540,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "ACM Multimedia Asia",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mmasia-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ACCV 2026",
@@ -4237,10 +4565,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Asian Conference on Computer Vision",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "accv-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AI for Developers",
@@ -4260,10 +4590,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-for-developers-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "ICVRV 2026",
@@ -4283,10 +4615,12 @@
    ],
    "rank": "",
    "notes": "International Conference on Virtual Reality and Visualization",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icvrv-2026",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "MSN 2026",
@@ -4306,10 +4640,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Mobility, Sensing and Networking",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "msn-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Cosmo Hacks 2026",
@@ -4332,10 +4668,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Cosmo Hacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cosmo-hacks-2026",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "CSCloud 2026",
@@ -4355,10 +4693,12 @@
    ],
    "rank": "CCF C",
    "notes": "IEEE International Conference on Cyber Security and Cloud Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cscloud-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SciPy India",
@@ -4380,10 +4720,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "scipy-india-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ISPA 2026",
@@ -4403,10 +4745,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "IEEE International Symposium on Parallel and Distributed Processing with Applications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ispa-2026",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "evensonarisnord",
@@ -4429,33 +4773,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HoustonHacks2026",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "evensonarisnord-2026",
-   "region": "Online"
-  },
-  {
-   "name": "WACV 2027",
-   "url": "https://wacv.thecvf.com/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-01-04",
-   "end": "2027-01-08",
-   "location": "Disney Springs, Buena Vista, FL, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CORE A",
-   "notes": "IEEE/CVF Winter Conference on Applications of Computer Vision",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "wacv-2027",
-   "region": "North America"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "HICSS 2027",
@@ -4475,10 +4798,12 @@
    ],
    "rank": "CORE A",
    "notes": "Hawaii International Conference on System Sciences",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hicss-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Hawaii"
   },
   {
    "name": "MMM 2027",
@@ -4498,10 +4823,37 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Conference on Multimedia Modeling",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mmm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "WACV 2027",
+   "url": "https://wacv.thecvf.com/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-01-06",
+   "end": "2027-01-08",
+   "location": "Disney Springs, Buena Vista, FL, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CORE A",
+   "notes": "IEEE/CVF Winter Conference on Applications of Computer Vision",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "wacv-2027",
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "IFIP WG 11.9 2027",
@@ -4521,10 +4873,12 @@
    ],
    "rank": "CCF C",
    "notes": "IFIP WG 11.9 International Conference on Digital Forensics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ifip-wg-11-9-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "checkpoint 1 — games for good",
@@ -4547,10 +4901,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Checkpoint",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "checkpoint-1-games-for-good-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "United Hacks V8",
@@ -4573,10 +4929,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hack United",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "united-hacks-v8-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "AI Conf Asia",
@@ -4596,10 +4954,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-conf-asia-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DeltaHacks",
@@ -4620,10 +4980,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "deltahacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "GROUP 2027",
@@ -4643,10 +5005,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "ACM International Conference on Supporting Group Work",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "group-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "POPL 2027",
@@ -4666,10 +5030,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "popl-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "VMCAI 2027",
@@ -4689,10 +5055,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "International Conference on Verification, Model Checking, and Abstract Interpretation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vmcai-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "PEPM 2027",
@@ -4712,10 +5080,12 @@
    ],
    "rank": "CCF C",
    "notes": "ACM SIGPLAN Workshop on Partial Evaluation and Program Manipulation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pepm-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackStorm 3.0: Sense, Think and Act",
@@ -4738,10 +5108,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackStorm",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackstorm-3-0-sense-think-and-act-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "UofTHacks",
@@ -4762,10 +5134,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "uofthacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "uOttaHack 9",
@@ -4786,10 +5160,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "uottahack-9-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackBI X",
@@ -4811,10 +5187,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackbi-x-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "nwHacks",
@@ -4835,10 +5213,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nwhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "QWER Hacks",
@@ -4859,10 +5239,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "qwer-hacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "HiPEAC 2027",
@@ -4882,10 +5264,12 @@
    ],
    "rank": "CCF B",
    "notes": "International Conference on High Performance and Embedded Architectures and Compilers",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hipeac-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Grace Hopper Celebration India (GHCI)",
@@ -4906,10 +5290,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "grace-hopper-celebration-india-ghci-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "JChampions Conference",
@@ -4929,10 +5315,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jchampions-conference-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Hoya Hacks",
@@ -4953,36 +5341,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hoya-hacks-2027",
-   "region": "North America"
-  },
-  {
-   "name": "Decisions Modeling for Greater Philadelphia",
-   "url": "https://tbd-hackathon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2027-01-23",
-   "end": "2027-01-23",
-   "location": "Philadelphia, PA (Pennovation Works)",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Machine Learning/AI",
-    "Web",
-    "$100 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Pennovation Works",
-   "dates_auto": false,
-   "first_seen": "2026-11-08",
-   "id": "decisions-modeling-for-greater-philadelphia-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "District of Columbia"
   },
   {
    "name": "Hackville 2027",
@@ -5003,10 +5367,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackville-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "CIDR 2027",
@@ -5026,10 +5392,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Innovative Data Systems Research",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cidr-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SODA 2027",
@@ -5049,10 +5417,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM-SIAM Symposium on Discrete Algorithms",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "soda-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Pennsylvania"
   },
   {
    "name": "ASP-DAC 2027",
@@ -5072,10 +5442,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Asia and South Pacific Design Automation Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "asp-dac-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DeveloperWeek 2027 Hackathon",
@@ -5098,10 +5470,12 @@
    ],
    "rank": "",
    "notes": "Hosted by DevNetwork",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "developerweek-hackathon-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "FUN OCaml",
@@ -5121,10 +5495,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fun-ocaml-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes",
@@ -5147,10 +5523,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Global NGO Executive Committee",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gnec-hackathon-winter-compete-for-un-affiliated-ngo-internships-prizes-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "ElleHacks",
@@ -5171,10 +5549,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ellehacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "H.A.R.D. Hack 2027",
@@ -5197,10 +5577,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HKN (Eta Kappa Nu)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "h-a-r-d-hack-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "NSH @RPI 2027",
@@ -5222,10 +5604,12 @@
    ],
    "rank": "",
    "notes": "Hosted by NSBE-SHPE RPI",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nsh-rpi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "3rd International Conference on Artificial Intelligence and Data Science",
@@ -5245,10 +5629,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "3rd-international-conference-on-artificial-intelligence-and-data-science-2027",
-   "region": "Middle East & Africa"
+   "region": "Middle East & Africa",
+   "state": ""
   },
   {
    "name": "ARCtic Conference",
@@ -5269,10 +5655,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "arctic-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HackTitan",
@@ -5295,10 +5683,12 @@
    ],
    "rank": "",
    "notes": "Hosted by IWU",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacktitan-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Daytona Compute",
@@ -5320,10 +5710,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "daytona-compute-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "TechEx Global",
@@ -5344,10 +5736,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "techex-global-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HalfStack Phoenix",
@@ -5367,10 +5761,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "halfstack-phoenix-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Arizona"
   },
   {
    "name": "PennApps",
@@ -5391,10 +5787,12 @@
    ],
    "rank": "",
    "notes": "Usually September",
+   "funding": "",
    "dates_auto": true,
    "first_seen": "2026-11-07",
    "id": "pennapps-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Pennsylvania"
   },
   {
    "name": "UGAHacks ",
@@ -5415,10 +5813,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ugahacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "AI for Human Impact: A Global BASIS Hackathon",
@@ -5441,10 +5841,40 @@
    ],
    "rank": "",
    "notes": "Hosted by BASIS Independent Silicon Valley",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-for-human-impact-a-global-basis-hackathon-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
+  },
+  {
+   "name": "Decisions Modeling for Greater Philadelphia",
+   "url": "https://tbd-hackathon.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-02-06",
+   "end": "2027-02-06",
+   "location": "Philadelphia, PA (Pennovation Works)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Machine Learning/AI",
+    "Web",
+    "$100 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Pennovation Works",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-08",
+   "id": "decisions-modeling-for-greater-philadelphia-2027",
+   "region": "North America",
+   "state": "Pennsylvania"
   },
   {
    "name": "Hack@Brown",
@@ -5466,10 +5896,12 @@
    ],
    "rank": "",
    "notes": "Usually late January / early February",
+   "funding": "",
    "dates_auto": true,
    "first_seen": "2026-11-07",
    "id": "hack-brown-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Rhode Island"
   },
   {
    "name": "Hack_NCState",
@@ -5492,10 +5924,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-ncstate-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "North Carolina"
   },
   {
    "name": "InnovateHer",
@@ -5516,10 +5950,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "innovateher-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Indiana"
   },
   {
    "name": "SpartaHack",
@@ -5540,10 +5976,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "spartahack-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Michigan"
   },
   {
    "name": "SpartaHack 12",
@@ -5565,10 +6003,12 @@
    ],
    "rank": "",
    "notes": "Hosted by SpartaHack",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "spartahack-12-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Michigan"
   },
   {
    "name": "FC 2027",
@@ -5588,10 +6028,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "Financial Cryptography and Data Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fc-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "IUI 2027",
@@ -5611,10 +6053,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "ACM Conference on Intelligent User Interfaces",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iui-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Developer Week",
@@ -5634,10 +6078,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "developer-week-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "NTU Beyond Binary Techathon 2027",
@@ -5660,10 +6106,12 @@
    ],
    "rank": "",
    "notes": "Hosted by NTU Women In Tech",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ntu-beyond-binary-techathon-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "MakeUofT",
@@ -5684,10 +6132,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "makeuoft-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "MEGA Hackathon 2027",
@@ -5709,10 +6159,12 @@
    ],
    "rank": "",
    "notes": "Hosted by MegaHackathonLeague",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mega-hackathon-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "WSDM 2027",
@@ -5732,10 +6184,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Web Search and Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wsdm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AAAI 2027",
@@ -5755,10 +6209,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "AAAI Conference on Artificial Intelligence",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aaai-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "SIGCSE 2027",
@@ -5778,10 +6234,12 @@
    ],
    "rank": "CORE A",
    "notes": "Technical Symposium on Computer Science Education Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigcse-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SIGCSE Technical Symposium",
@@ -5793,18 +6251,20 @@
    "location": "Sacramento, CA",
    "country": "United States",
    "online": false,
-   "deadline": "2027-01-04",
-   "deadline_label": "Early-bird registration",
-   "deadline_url": "https://2027.sigcse-ts.acm.org/attending/registration",
+   "deadline": "2026-11-15",
+   "deadline_label": "Travel grant",
+   "deadline_url": "https://sigcse.org/programs/travel-grants/index.html",
    "topics": [
     "CS education"
    ],
    "rank": "",
    "notes": "",
+   "funding": "SIGCSE travel grants up to $1,000 for first-time attendees (SIGCSE members)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigcse-technical-symposium-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": ".devHacks 2027",
@@ -5826,10 +6286,12 @@
    ],
    "rank": "",
    "notes": "Hosted by .devClub",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Harvard WECode",
@@ -5850,10 +6312,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "harvard-wecode-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "SF Hacks ",
@@ -5874,10 +6338,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sf-hacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Business Battlefield 2027",
@@ -5899,10 +6365,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Stripe",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "business-battlefield-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Civic Hacks 2027",
@@ -5925,10 +6393,12 @@
    ],
    "rank": "",
    "notes": "Hosted by BU Spark!",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "civic-hacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "CUhackit",
@@ -5949,10 +6419,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cuhackit-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "South Carolina"
   },
   {
    "name": "RebelHacks 2027",
@@ -5975,10 +6447,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Software Engineering Club",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "rebelhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Nevada"
   },
   {
    "name": "Ticket to Hack 2027 @ UVA",
@@ -6000,10 +6474,12 @@
    ],
    "rank": "",
    "notes": "Hosted by university of virginia",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ticket-to-hack-uva-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "FAST 2027",
@@ -6023,10 +6499,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "USENIX Conference on File and Storage Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fast-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "ConFoo Montreal",
@@ -6046,10 +6524,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "confoo-montreal-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackIllinois",
@@ -6070,10 +6550,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackillinois-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Illinois"
   },
   {
    "name": "Hacklytics 2027",
@@ -6094,10 +6576,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacklytics-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "HackUDC",
@@ -6119,10 +6603,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackudc-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Forgehacks",
@@ -6145,10 +6631,12 @@
    ],
    "rank": "",
    "notes": "Hosted by UBC BizTech",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "forgehacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackHERS ",
@@ -6169,10 +6657,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackhers-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Jersey"
   },
   {
    "name": "HackTCNJ 2027",
@@ -6194,10 +6684,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HackTCNJ",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacktcnj-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Jersey"
   },
   {
    "name": "Hook Em Hacks 2027",
@@ -6219,10 +6711,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Hook Em Hacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hook-em-hacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "IEEE VR 2027",
@@ -6242,10 +6736,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE Virtual Reality",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ieee-vr-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "RevolutionUC",
@@ -6266,10 +6762,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "revolutionuc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Ohio"
   },
   {
    "name": "WiCHacks",
@@ -6290,10 +6788,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wichacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "WiCS Hackathon",
@@ -6315,10 +6815,12 @@
    ],
    "rank": "",
    "notes": "Hosted by MLH",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wics-hackathon-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "BASTA! Spring",
@@ -6340,10 +6842,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "basta-spring-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Build Beyond Hackathon",
@@ -6366,10 +6870,12 @@
    ],
    "rank": "",
    "notes": "Hosted by OSC",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "build-beyond-hackathon-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "PKC 2027",
@@ -6389,10 +6895,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "International Conference on Practice and Theory of Public-Key Cryptography",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pkc-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Mountain Camp",
@@ -6413,10 +6921,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mountain-camp-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Tech to Treasure Hackathon",
@@ -6439,10 +6949,12 @@
    ],
    "rank": "",
    "notes": "Hosted by bin to better",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "tech-to-treasure-hackathon-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "HenHacks",
@@ -6463,10 +6975,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "henhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Delaware"
   },
   {
    "name": "Kent Hack Enough",
@@ -6487,10 +7001,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "kent-hack-enough-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Ohio"
   },
   {
    "name": "CHIIR 2027",
@@ -6510,10 +7026,12 @@
    ],
    "rank": "CORE B",
    "notes": "ACM SIGIR Conference on Human Information Interaction and Retrieval",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "chiir-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "LumaHacks",
@@ -6536,10 +7054,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Society of Asian Scientists and Engineer",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "lumahacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "UCSF Fresno ROAD Conference (Pre-Medical Student Day)",
@@ -6560,10 +7080,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ucsf-fresno-road-conference-pre-medical-student-day-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Annual Global Summit on Artificial Intelligence and Machine Learning",
@@ -6583,10 +7105,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "annual-global-summit-on-artificial-intelligence-and-machine-learning-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "PerCom 2027",
@@ -6606,10 +7130,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "IEEE International Conference on Pervasive Computing and Communications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "percom-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ALT 2027",
@@ -6629,10 +7155,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Conference on Algorithmic Learning Theory",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "alt-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EACL 2027",
@@ -6652,10 +7180,12 @@
    ],
    "rank": "CORE A",
    "notes": "The Annual Conference of the European Chapter of the Association for Computational Linguistics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eacl-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "INTED",
@@ -6675,10 +7205,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "inted-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SANER 2027",
@@ -6698,10 +7230,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "saner-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "Voxxed Days Zürich",
@@ -6721,10 +7255,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "voxxed-days-z-rich-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "inside agile: Product Owner Days",
@@ -6744,10 +7280,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "inside-agile-product-owner-days-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Vuejs Amsterdam",
@@ -6767,10 +7305,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vuejs-amsterdam-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EagleHacks 2027",
@@ -6793,10 +7333,12 @@
    ],
    "rank": "",
    "notes": "Hosted by INIT FGCU",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eaglehacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "JSWorld Conference",
@@ -6816,10 +7358,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jsworld-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FPGA 2027",
@@ -6839,10 +7383,12 @@
    ],
    "rank": "CCF B",
    "notes": "ACM/SIGDA International Symposium on Field-Programmable Gate Arrays",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fpga-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CTO Craft Con: London",
@@ -6862,10 +7408,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cto-craft-con-london-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Appdevcon",
@@ -6887,10 +7435,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "appdevcon-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Dutch AI Conference",
@@ -6910,10 +7460,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dutch-ai-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "GITEX AI LATAM",
@@ -6933,10 +7485,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gitex-ai-latam-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "Webdevcon",
@@ -6956,10 +7510,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "webdevcon-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "betterCode() ArchDoc",
@@ -6979,10 +7535,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bettercode-archdoc-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "HPCA 2027",
@@ -7002,10 +7560,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE International Symposium on High-Performance Computer Architecture",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hpca-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "IEEE/ACM CGO 2027",
@@ -7025,10 +7585,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "The International Symposium on Code Generation and Optimization",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ieee-acm-cgo-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "International Conference on Artificial Intelligence and Machine Learning",
@@ -7048,10 +7610,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-conference-on-artificial-intelligence-and-machine-learning-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "PPoPP 2027",
@@ -7071,10 +7635,12 @@
    ],
    "rank": "CCF A · CORE B",
    "notes": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ppopp-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "PyCascades",
@@ -7094,14 +7660,43 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pycascades-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
+  },
+  {
+   "name": "WiCS Geaux Hack 2027",
+   "url": "https://wics-geaux-hack-2027.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-03-21",
+   "end": "2027-03-21",
+   "location": "Baton Rouge, LA (LSU - Patrick F. Taylor Hall)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Machine Learning/AI",
+    "Mobile"
+   ],
+   "rank": "",
+   "notes": "Hosted by Women In Computer Science @ LSU",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "wics-geaux-hack-2027",
+   "region": "North America",
+   "state": "Louisiana"
   },
   {
    "name": "DATE 2027",
-   "url": "https://www.date-conference.com/date-2027-call-papers",
+   "url": "https://www.date-conference.com/call-for-papers",
    "category": "academic",
    "source": "ccfddl",
    "start": "2027-03-22",
@@ -7117,10 +7712,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "Design, Automation & Test in Europe",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "date-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ECIR 2027",
@@ -7140,10 +7737,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "European Conference on Information Retrieval",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ecir-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FOSS-LÄND x OpenChain",
@@ -7163,10 +7762,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "foss-l-nd-x-openchain-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NDSS 2027",
@@ -7186,10 +7787,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "Network and Distributed System Security (NDSS) Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ndss-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CPAL 2027",
@@ -7209,10 +7812,12 @@
    ],
    "rank": "",
    "notes": "The Conference on Parsimony and Learning",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cpal-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DCC 2027",
@@ -7232,10 +7837,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Data Compression Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dcc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "SNMA Annual Medical Education Conference (AMEC)",
@@ -7256,10 +7863,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "snma-annual-medical-education-conference-amec-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Nevada"
   },
   {
    "name": "GoatHacks 2027",
@@ -7281,10 +7890,12 @@
    ],
    "rank": "",
    "notes": "Hosted by WPI ACM",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "goathacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "BISV Hacks 2027",
@@ -7307,10 +7918,12 @@
    ],
    "rank": "",
    "notes": "Hosted by BASIS Independent Silicon Valley",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bisv-hacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "DFRWS 2027",
@@ -7330,10 +7943,12 @@
    ],
    "rank": "CCF C",
    "notes": "Digital Forensic Research Workshop",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dfrws-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ISPD 2027",
@@ -7353,10 +7968,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Symposium on Physical Design",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ispd-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "MMSys 2027",
@@ -7376,10 +7993,12 @@
    ],
    "rank": "CORE A",
    "notes": "ACM International Conference on Multimedia Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mmsys-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EuroGP 2027",
@@ -7399,10 +8018,12 @@
    ],
    "rank": "CORE B",
    "notes": "European Conference on Genetic Programming",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eurogp-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EvoApplications 2027",
@@ -7422,10 +8043,12 @@
    ],
    "rank": "CORE B",
    "notes": "International Conference on the Applications of Evolutionary Computation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "evoapplications-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EvoCOP 2027",
@@ -7445,10 +8068,12 @@
    ],
    "rank": "CORE B",
    "notes": "European Conference on Evolutionary Computation in Combinatorial Optimisation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "evocop-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EvoMUSART 2027",
@@ -7468,10 +8093,12 @@
    ],
    "rank": "CORE B",
    "notes": "International Conference on Artificial Intelligence in Music, Sound, Art and Design",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "evomusart-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NSBE Annual Convention",
@@ -7492,10 +8119,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nsbe-annual-convention-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "Voxxed Days Amsterdam",
@@ -7516,10 +8145,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "voxxed-days-amsterdam-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SCaLE",
@@ -7540,10 +8171,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "scale-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SunSecCon",
@@ -7563,10 +8196,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sunseccon-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "KeanUHackThis 2027",
@@ -7588,10 +8223,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Kean University",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "keanuhackthis-2027",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "Diamondhacks",
@@ -7612,10 +8249,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "diamondhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CT-RSA 2027",
@@ -7635,10 +8274,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Cryptographer's Track at RSA Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ct-rsa-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "WCNC 2027",
@@ -7658,10 +8299,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE Wireless Communications and Networking Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wcnc-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "3DV 2027",
@@ -7681,10 +8324,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on 3D Vision",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "3dv-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EDBT 2027",
@@ -7704,10 +8349,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Extending Database Technology",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "edbt-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICDT 2027",
@@ -7727,10 +8374,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Database Theory",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdt-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "BSides Prague",
@@ -7750,10 +8399,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bsides-prague-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "AMA International Collegiate Conference",
@@ -7774,10 +8425,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ama-international-collegiate-conference-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Louisiana"
   },
   {
    "name": "BlockSys 2027",
@@ -7797,10 +8450,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Blockchain, Artificial Intelligence, and Trustworthy Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "blocksys-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Collegiate DECA International Career Development Conference (ICDC)",
@@ -7822,10 +8477,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "collegiate-deca-international-career-development-conference-icdc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "CVM 2027",
@@ -7845,10 +8502,12 @@
    ],
    "rank": "CCF C",
    "notes": "The international conference on Computational Visual Media",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cvm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "HackKU27",
@@ -7869,10 +8528,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackku27-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Kansas"
   },
   {
    "name": "MariHacks",
@@ -7893,10 +8554,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "marihacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "ETAPS 2027",
@@ -7916,10 +8579,12 @@
    ],
    "rank": "CCF B",
    "notes": "European Joint Conferences on Theory and Practice of Software",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "etaps-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "WEHack",
@@ -7940,10 +8605,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wehack-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "ASPLOS 2027",
@@ -7963,10 +8630,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "asplos-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EUROCRYPT 2027",
@@ -7986,10 +8655,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "European Cryptology Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eurocrypt-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NCUR (National Conference on Undergraduate Research)",
@@ -8010,10 +8681,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ncur-national-conference-on-undergraduate-research-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Michigan"
   },
   {
    "name": "REFSQ 2027",
@@ -8033,10 +8706,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Requirements Engineering: Foundation for Software Quality",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "refsq-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "AI Coding Summit Asia",
@@ -8056,10 +8731,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-coding-summit-asia-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CVC 2027",
@@ -8079,10 +8756,12 @@
    ],
    "rank": "",
    "notes": "Computer Vision Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cvc-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "GENAIX: Global Generative & Agentic AI Summit",
@@ -8102,10 +8781,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "genaix-global-generative-agentic-ai-summit-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "React Summit Asia",
@@ -8125,10 +8806,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "react-summit-asia-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Digital Crafts Day",
@@ -8148,10 +8831,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "digital-crafts-day-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "LA Hacks 27",
@@ -8172,10 +8857,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "la-hacks-27-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Java Day Istanbul",
@@ -8197,10 +8884,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "java-day-istanbul-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EuroSys 2027",
@@ -8220,10 +8909,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "European Conference on Computer Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eurosys-2027",
-   "region": "Middle East & Africa"
+   "region": "Middle East & Africa",
+   "state": ""
   },
   {
    "name": "PacificVis 2027",
@@ -8243,10 +8934,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE Pacific Visualization Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pacificvis-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AiX Conference",
@@ -8267,10 +8960,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aix-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ESANN 2027",
@@ -8290,10 +8985,12 @@
    ],
    "rank": "CORE B",
    "notes": "European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "esann-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "GITEX AI MEDITERRANEAN",
@@ -8313,10 +9010,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gitex-ai-mediterranean-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Strategy Ateliers",
@@ -8336,10 +9035,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "strategy-ateliers-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ELC Conference",
@@ -8359,10 +9060,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "elc-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "BearHacks 2027",
@@ -8385,10 +9088,12 @@
    ],
    "rank": "",
    "notes": "Hosted by BearHacks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bearhacks-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Desert Dev Lab 2027",
@@ -8411,10 +9116,12 @@
    ],
    "rank": "",
    "notes": "Hosted by NM Tech Talks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "desert-dev-lab-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Mexico"
   },
   {
    "name": "ICPC 2027",
@@ -8434,10 +9141,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE International Conference on Program Comprehension",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icpc-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICSE 2027",
@@ -8457,10 +9166,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Software Engineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icse-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FG 2027",
@@ -8480,10 +9191,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Conference on Automatic Face and Gesture Recognition",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fg-2027",
-   "region": "Middle East & Africa"
+   "region": "Middle East & Africa",
+   "state": ""
   },
   {
    "name": "ICLR 2027",
@@ -8503,10 +9216,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Learning Representations",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iclr-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "JCON EUROPE",
@@ -8526,10 +9241,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jcon-europe-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MSR 2027",
@@ -8549,10 +9266,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "International Conference on Mining Software Repositories",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "msr-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Great International Developer Summit (GIDS)",
@@ -8572,10 +9291,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "great-international-developer-summit-gids-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "Mobile Makers",
@@ -8596,10 +9317,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mobile-makers-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "AAMAS 2027",
@@ -8619,10 +9342,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "International Conference on Autonomous Agents and Multiagent Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aamas-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AISTATS 2027",
@@ -8642,10 +9367,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "International Conference on Artificial Intelligence and Statistics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aistats-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Re:Build",
@@ -8665,10 +9392,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "re-build-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SECON 2027",
@@ -8688,10 +9417,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "IEEE International Conference on Sensing, Communication, and Networking",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "secon-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CHI 2027",
@@ -8711,10 +9442,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Conference on Human Factors in Computing Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "chi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Eurographics 2027",
@@ -8734,10 +9467,37 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Eurographics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eurographics-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "FCCM 2027",
+   "url": "https://www.fccm.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-05-10",
+   "end": "2027-05-11",
+   "location": "Provo, Utah, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2027-01-17",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Systems/Architecture"
+   ],
+   "rank": "CCF C · CORE B",
+   "notes": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "fccm-2027",
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "JAX",
@@ -8757,10 +9517,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jax-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NOMS 2027",
@@ -8780,10 +9542,12 @@
    ],
    "rank": "CORE B",
    "notes": "IEEE/IFIP Network Operations and Management Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "noms-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "WWW 2027",
@@ -8803,10 +9567,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International World Wide Web Conferences",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "www-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "NSDI 2027",
@@ -8826,10 +9592,12 @@
    ],
    "rank": "CCF A",
    "notes": "USENIX Symposium on Networked Systems Design and Implementation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "nsdi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Rhode Island"
   },
   {
    "name": "UXLx: User Experience Lisbon",
@@ -8849,10 +9617,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "uxlx-user-experience-lisbon-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Agentic Ateliers",
@@ -8872,10 +9642,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "agentic-ateliers-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICASSP 2027",
@@ -8895,10 +9667,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icassp-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HSCC 2027",
@@ -8918,10 +9692,12 @@
    ],
    "rank": "CCF B",
    "notes": "International Conference on Hybrid Systems: Computation and Control",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hscc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "ICDE 2027",
@@ -8941,10 +9717,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE International Conference on Data Engineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icde-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICST 2027",
@@ -8964,10 +9742,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "IEEE International Conference on Software Testing, Verification and Validation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icst-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MSST 2027",
@@ -8987,10 +9767,12 @@
    ],
    "rank": "CCF B",
    "notes": "International Conference on Massive Storage Systems and Technology",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "msst-2027",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "RECOMB 2027",
@@ -9010,10 +9792,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "International Conference on Research inComputational Molecular Biology",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "recomb-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "RTAS 2027",
@@ -9033,10 +9817,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE Real-Time and Embedded Technology and Applications Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "rtas-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "S&P 2027",
@@ -9056,10 +9842,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE Symposium on Security and Privacy",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "s-p-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "SenSys 2027",
@@ -9079,10 +9867,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "ACM Conference on Embedded Networked Sensor Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sensys-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "Leadership Ateliers",
@@ -9102,10 +9892,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "leadership-ateliers-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "JSNation",
@@ -9125,10 +9917,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "jsnation-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "React Summit",
@@ -9148,10 +9942,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "react-summit-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ESWC 2027",
@@ -9171,10 +9967,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "European Semantic Web Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eswc-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CCGRID 2027",
@@ -9194,10 +9992,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Symposium on Cluster, Cloud and Internet Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ccgrid-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Texas"
   },
   {
    "name": "DevOpsCon San Diego",
@@ -9217,10 +10017,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devopscon-san-diego-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "ETS 2027",
@@ -9240,10 +10042,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE European Test Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ets-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FSE 2027",
@@ -9263,10 +10067,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Fast Software Encryption",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fse-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "HotOS 2027",
@@ -9286,10 +10092,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "USENIX Workshop on Hot Topics in Operating Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hotos-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICRA 2027",
@@ -9309,10 +10117,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "IEEE International Conference on Robotics and Automation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icra-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "INFOCOM 2027",
@@ -9332,10 +10142,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE International Conference on Computer Communications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "infocom-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Hawaii"
   },
   {
    "name": "International JavaScript Conference San Diego",
@@ -9355,10 +10167,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-javascript-conference-san-diego-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CSCWD 2027",
@@ -9378,10 +10192,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "International Conference on Computer Supported Cooperative Work in Design",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cscwd-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "GITEX AI SERBIA",
@@ -9401,10 +10217,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gitex-ai-serbia-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "DASFAA 2027",
@@ -9424,10 +10242,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Database Systems for Advanced Applications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dasfaa-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ICC 2027",
@@ -9447,10 +10267,12 @@
    ],
    "rank": "CCF C",
    "notes": "IEEE International Conference on Communications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "District of Columbia"
   },
   {
    "name": "DeveloperWeek New York 2027 Hackathon",
@@ -9473,10 +10295,12 @@
    ],
    "rank": "",
    "notes": "Hosted by DevNetwork",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "developerweek-new-york-hackathon-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New Jersey"
   },
   {
    "name": "EuroVis 2027",
@@ -9496,10 +10320,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Eurographics Conference on Visualization",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eurovis-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "IPDPS 2027",
@@ -9519,10 +10345,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE International Parallel and Distributed Processing Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ipdps-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "NAACL 2027",
@@ -9542,10 +10370,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "The Annual Conference of the North American Chapter of the Association for Computational Linguistics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "naacl-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Devworld Conference",
@@ -9565,10 +10395,37 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devworld-conference-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "CASA 2027",
+   "url": "https://www.cgs-network.org/casaxr27/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-04",
+   "end": "2027-06-06",
+   "location": "Xi'an, China",
+   "country": "China",
+   "online": false,
+   "deadline": "2027-02-04",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Graphics/Multimedia"
+   ],
+   "rank": "CCF C",
+   "notes": "International Conference on Computer Animation and Social Agents",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "casa-2027",
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ISCA 2027",
@@ -9588,10 +10445,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Symposium on Computer Architecture",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "isca-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "PLDI 2027",
@@ -9611,10 +10470,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM SIGPLAN Conference on Programming Language Design & Implementation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pldi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "SPAA 2027",
@@ -9634,10 +10495,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "ACM Symposium on Parallelism in Algorithms and Architectures",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "spaa-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "AI Con USA",
@@ -9658,10 +10521,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-con-usa-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "ISCAS 2027",
@@ -9681,10 +10546,12 @@
    ],
    "rank": "CCF B · CORE C",
    "notes": "IEEE International Symposium on Circuits and Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iscas-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "STOC 2027",
@@ -9704,10 +10571,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Symposium on the Theory of Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "stoc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "API Conference London",
@@ -9729,10 +10598,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "api-conference-london-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CAiSE 2027",
@@ -9752,10 +10623,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Advanced Information Systems Engineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "caise-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "DevOpsCon London",
@@ -9776,10 +10649,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devopscon-london-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICMR 2027",
@@ -9799,10 +10674,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "ACM SIGMM International Conference on Multimedia Retrieval",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icmr-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "International JavaScript Conference London",
@@ -9822,10 +10699,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-javascript-conference-london-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SAIS 2027",
@@ -9845,10 +10724,12 @@
    ],
    "rank": "",
    "notes": "USENIX Conference on Secure Agentic-AI Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sais-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SIGMETRICS 2027",
@@ -9868,10 +10749,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "ACM Special Interest Group on Measurement and Evaluation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigmetrics-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "enterJS",
@@ -9891,10 +10774,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "enterjs-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "International Conference on Cybersecurity, AI & Future Digital Infrastructure",
@@ -9914,10 +10799,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-conference-on-cybersecurity-ai-future-digital-infrastructure-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
@@ -9937,10 +10824,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-conference-on-robotics-artificial-intelligence-and-autonomous-systems-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "AI in Production",
@@ -9961,10 +10850,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-in-production-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "PODS 2027",
@@ -9984,10 +10875,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "ACM Symposium on Principles of Database Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pods-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SIGMOD 2027",
@@ -10007,10 +10900,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Conference on Management of Data",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigmod-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CODASPY 2027",
@@ -10030,10 +10925,12 @@
    ],
    "rank": "CCF C",
    "notes": "ACM Conference on Data and Application Security and Privacy",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "codaspy-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "DevOpsCon Berlin",
@@ -10054,10 +10951,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "devopscon-berlin-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "GopherCon Europe",
@@ -10079,10 +10978,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gophercon-europe-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "IJCNN 2027",
@@ -10102,10 +11003,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Joint Conference on Neural Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ijcnn-2027",
-   "region": "Middle East & Africa"
+   "region": "Middle East & Africa",
+   "state": ""
   },
   {
    "name": "IT Security Summit Berlin",
@@ -10125,10 +11028,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "it-security-summit-berlin-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Nürnberg Digital Festival",
@@ -10148,10 +11053,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "n-rnberg-digital-festival-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SEC 2027",
@@ -10171,10 +11078,12 @@
    ],
    "rank": "CCF C",
    "notes": "IFIP International Information Security Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sec-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Accelerate Tomorrow AI Summit",
@@ -10195,10 +11104,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "accelerate-tomorrow-ai-summit-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EASE 2027",
@@ -10218,10 +11129,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "International Conference on Evaluation and Assessment in Software Engineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ease-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "GI 2027",
@@ -10241,10 +11154,12 @@
    ],
    "rank": "CCF C",
    "notes": "Graphics Interface",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Data Centre North America",
@@ -10264,10 +11179,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "data-centre-north-america-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "TechEx North America",
@@ -10287,10 +11204,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "techex-north-america-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CVPR 2027",
@@ -10310,10 +11229,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cvpr-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "GMP 2027",
@@ -10333,10 +11254,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "International Conference on Geometric Modeling and Processing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gmp-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "IDC 2027",
@@ -10356,10 +11279,12 @@
    ],
    "rank": "CCF C",
    "notes": "ACM Interaction Design and Children Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "idc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "LICS 2027",
@@ -10379,10 +11304,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "IEEE Symposium on Logic in Computer Science",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "lics-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "MLSys 2027",
@@ -10402,10 +11329,12 @@
    ],
    "rank": "",
    "notes": "Conference on Machine Learning and Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mlsys-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "MobiSys 2027",
@@ -10425,10 +11354,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "ACM International Conference on Mobile Systems, Applications, and Services",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mobisys-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SGP 2027",
@@ -10448,10 +11379,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Eurographics Symposium on Geometry Processing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sgp-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SMI 2027",
@@ -10471,10 +11404,12 @@
    ],
    "rank": "CCF C",
    "notes": "Shape Modeling International",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "smi-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SOCG 2027",
@@ -10494,10 +11429,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Symposium on Computational Geometry",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "socg-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SPM 2027",
@@ -10517,10 +11454,12 @@
    ],
    "rank": "CCF B · CORE C",
    "notes": "Symposium on Solid and Physical Modeling",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "spm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "VibeKode Munich",
@@ -10540,10 +11479,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vibekode-munich-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "WoWMoM 2027",
@@ -10563,10 +11504,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Symposium on a World of Wireless, Mobile and Multimedia Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wowmom-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "DSN 2027",
@@ -10586,10 +11529,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Dependable Systems and Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dsn-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "BIS 2027",
@@ -10609,10 +11554,12 @@
    ],
    "rank": "",
    "notes": "International Conference on Business Information Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "bis-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICDF2C 2027",
@@ -10632,10 +11579,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Digital Forensics & Cyber Crime",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdf2c-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "ICAPS 2027",
@@ -10655,10 +11604,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "International Conference on Automated Planning and Scheduling",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icaps-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "South Carolina"
   },
   {
    "name": "ISIT 2027",
@@ -10678,10 +11629,12 @@
    ],
    "rank": "CORE B",
    "notes": "IEEE International Symposium on Information Theory",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "isit-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ACNS 2027",
@@ -10701,10 +11654,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Applied Cryptography and Network Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acns-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "COLT 2027",
@@ -10724,10 +11679,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "Annual Conference on Learning Theory",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "colt-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "DIS 2027",
@@ -10747,10 +11704,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "ACM Conference on Designing Interactive Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dis-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ECOOP 2027",
@@ -10770,10 +11729,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "European Conference on Object-Oriented Programming",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ecoop-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MDM 2027",
@@ -10793,10 +11754,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Conference on Mobile Data Management",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mdm-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "PAKDD 2027",
@@ -10816,10 +11779,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pakdd-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "CGI 2027",
@@ -10839,10 +11804,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "Computer Graphics International",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cgi-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "EGSR 2027",
@@ -10862,10 +11829,12 @@
    ],
    "rank": "CCF B",
    "notes": "Eurographics Symposium on Rendering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "egsr-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "EuroS&P 2027",
@@ -10885,10 +11854,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "IEEE European Symposium on Security and Privacy",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "euros-p-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICALP 2027",
@@ -10908,10 +11879,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "EATCS International Colloquium on Automata, Languages, and Programming",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icalp-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICDCS 2027",
@@ -10931,10 +11904,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE International Conference on Distributed Computing Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdcs-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "RSS 2027",
@@ -10954,10 +11929,12 @@
    ],
    "rank": "CORE A*",
    "notes": "Robotics Science and Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "rss-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ACISP 2027",
@@ -10977,10 +11954,12 @@
    ],
    "rank": "CCF C",
    "notes": "Australasia Conference on Information Security and Privacy",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acisp-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "OSDI 2027",
@@ -11000,10 +11979,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "USENIX Symposium on Operating Systems Design and Implementation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "osdi-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Maryland"
   },
   {
    "name": "SAI 2027",
@@ -11023,10 +12004,12 @@
    ],
    "rank": "",
    "notes": "Computing Conference (SAI)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sai-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "DAC 2027",
@@ -11046,10 +12029,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "Design Automation Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "dac-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "AsiaCCS 2027",
@@ -11069,10 +12054,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "Asia Conference on Computer and Communications Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "asiaccs-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "GECCO 2027",
@@ -11092,10 +12079,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "Genetic and Evolutionary Computation Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "gecco-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICCCN 2027",
@@ -11115,10 +12104,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE International Conference on Computer Communications and Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icccn-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "WHC 2027",
@@ -11138,10 +12129,12 @@
    ],
    "rank": "CCF C",
    "notes": "IEEE World Haptics Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "whc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "COMPSAC 2027",
@@ -11161,10 +12154,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Computer Software and Applications Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "compsac-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ICME 2027",
@@ -11184,10 +12179,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "The IEEE International Conference on Multimedia & Expo",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icme-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ISMB 2027",
@@ -11207,10 +12204,12 @@
    ],
    "rank": "CCF B",
    "notes": "International Conference on Intelligent Systems for Molecular Biology",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ismb-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SIGIR 2027",
@@ -11230,10 +12229,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Research on Development in Information Retrieval",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigir-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CCC 2027",
@@ -11253,10 +12254,12 @@
    ],
    "rank": "CCF B",
    "notes": "Computational Complexity Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ccc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "PETS 2027",
@@ -11276,10 +12279,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "Privacy Enhancing Technologies Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pets-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SACMAT 2027",
@@ -11299,10 +12304,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "ACM Symposium on Access Control Models and Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sacmat-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CAV 2027",
@@ -11322,10 +12329,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Computer-Aided Verification",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cav-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICIC 2027",
@@ -11345,10 +12354,12 @@
    ],
    "rank": "CCF C",
    "notes": "International Conference on Intelligent Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icic-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "IEEE CEC 2027",
@@ -11368,10 +12379,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "IEEE Congress on Evolutionary Computation",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ieee-cec-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CogSci 2027",
@@ -11391,33 +12404,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "Annual Meeting of the Cognitive Science Society",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cogsci-2027",
-   "region": "Europe"
-  },
-  {
-   "name": "ICML 2027",
-   "url": "https://icml.cc/Conferences/2027",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-07-31",
-   "end": "2027-08-06",
-   "location": "Riocentro, Rio de Janeiro, Brazil",
-   "country": "Brazil",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "International Conference on Machine Learning",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "icml-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SIGKDD 2027",
@@ -11437,10 +12429,37 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Knowledge Discovery and Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigkdd-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
+  },
+  {
+   "name": "ICML 2027",
+   "url": "https://icml.cc/Conferences/2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-08-02",
+   "end": "2027-08-04",
+   "location": "Riocentro, Rio de Janeiro, Brazil",
+   "country": "Brazil",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "International Conference on Machine Learning",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "icml-2027",
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "IEEE CoG 2027",
@@ -11460,10 +12479,12 @@
    ],
    "rank": "CORE C",
    "notes": "IEEE Conference on Games",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ieee-cog-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "IJCAI 2027",
@@ -11483,10 +12504,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "International Joint Conference on Artificial Intelligence",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ijcai-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ACM SIGGRAPH 2027",
@@ -11506,10 +12529,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM SIGGRAPH Annual Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acm-siggraph-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "SIGCOMM 2027",
@@ -11529,10 +12554,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sigcomm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SOUPS 2027",
@@ -11552,10 +12579,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "Symposium On Usable Privacy and Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "soups-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "USENIX Security 2027",
@@ -11575,10 +12604,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "USENIX Security Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "usenix-security-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "ACL 2027",
@@ -11598,10 +12629,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "Annual Meeting of the Association for Computational Linguistics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acl-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ICDAR 2027",
@@ -11621,10 +12654,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "International Conference on Document Analysis and Recognition",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdar-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CADE 2027",
@@ -11644,10 +12679,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "The Conference on Automated Deduction",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cade-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FSCD 2027",
@@ -11659,18 +12696,20 @@
    "location": "Nijmegen, Netherlands",
    "country": "Netherlands",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2027-04-26",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "Theory"
    ],
    "rank": "CCF C",
    "notes": "International Conference on Formal Structures for Computation and Deduction",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fscd-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "INTERACT 2027",
@@ -11690,10 +12729,12 @@
    ],
    "rank": "CCF C",
    "notes": "IFIP TC13 International Conference on Human-Computer Interaction",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "interact-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "RE 2027",
@@ -11713,10 +12754,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE International Requirements Engineering Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "re-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "RecSys 2027",
@@ -11736,10 +12779,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "ACM Conference on Recommender Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "recsys-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Hawaii"
   },
   {
    "name": "VLDB 2027",
@@ -11759,10 +12804,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "International Conference on Very Large Data Bases",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "vldb-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "APWeb-WAIM 2027",
@@ -11782,10 +12829,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "APWeb-WAIM joint international conference on Web and Big Data",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "apweb-waim-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "InterSpeech 2027",
@@ -11805,10 +12854,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "Conference of the International Speech Communication Association",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "interspeech-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "EUSIPCO 2027",
@@ -11828,10 +12879,12 @@
    ],
    "rank": "",
    "notes": "European Signal Processing Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "eusipco-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CHES 2027",
@@ -11851,10 +12904,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Cryptographic Hardware and Embedded Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ches-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "CONCUR 2027",
@@ -11874,10 +12929,12 @@
    ],
    "rank": "CCF B · CORE B",
    "notes": "International Conference on Concurrency Theory",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "concur-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICSME 2027",
@@ -11897,10 +12954,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Software Maintenance and Evolution",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icsme-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "ISSTA 2027",
@@ -11920,10 +12979,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "ACM SIGSOFT International Symposium on Software Testing and Analysis",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "issta-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "hacks test",
@@ -11946,10 +13007,12 @@
    ],
    "rank": "",
    "notes": "Hosted by n/a",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hacks-test-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "CSFW 2027",
@@ -11969,10 +13032,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "IEEE Computer Security Foundations Symposium",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "csfw-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "IJCB 2027",
@@ -11992,10 +13057,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "International Joint Conference on Biometrics",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ijcb-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "CLEF 2027",
@@ -12015,10 +13082,12 @@
    ],
    "rank": "",
    "notes": "Conference and Labs of the Evaluation Forum",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "clef-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "Annual Global Summit on Robotics, AI and Machine Learning",
@@ -12038,10 +13107,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "annual-global-summit-on-robotics-ai-and-machine-learning-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ECML-PKDD 2027",
@@ -12061,10 +13132,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ecml-pkdd-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MobileHCI 2027",
@@ -12084,10 +13157,12 @@
    ],
    "rank": "CCF B",
    "notes": "ACM International Conference on Mobile Human-Computer Interaction",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mobilehci-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "KR 2027",
@@ -12107,10 +13182,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "International Conference on Principles of Knowledge Representation and Reasoning",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "kr-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "ICFP 2027",
@@ -12130,10 +13207,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Function Programming",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icfp-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MICCAI 2027",
@@ -12153,10 +13232,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Medical Image Computing and Computer Assisted Intervention",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "miccai-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "BASTA! Fall",
@@ -12178,10 +13259,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "basta-fall-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "IROS 2027",
@@ -12201,10 +13284,12 @@
    ],
    "rank": "CCF C · CORE A",
    "notes": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iros-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ECAI 2027",
@@ -12224,33 +13309,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "European Conference on Artificial Intelligence",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ecai-2027",
-   "region": "Europe"
-  },
-  {
-   "name": "ICCV 2027",
-   "url": "https://iccv.thecvf.com/Conferences/2027",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-10-02",
-   "end": "2027-10-08",
-   "location": "Hong Kong, China",
-   "country": "China",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "IEEE International Conference on Computer Vision",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "iccv-2027",
-   "region": "Asia"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "UbiComp/ISWC 2027",
@@ -12270,10 +13334,37 @@
    ],
    "rank": "CCF A",
    "notes": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ubicomp-iswc-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "ICCV 2027",
+   "url": "https://iccv.thecvf.com/Conferences/2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-10-05",
+   "end": "2027-10-07",
+   "location": "Hong Kong, China",
+   "country": "China",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "IEEE International Conference on Computer Vision",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "iccv-2027",
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SASE National Conference",
@@ -12293,10 +13384,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sase-national-conference-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "OOPSLA 2027",
@@ -12316,10 +13409,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "oopsla-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "CCS 2027",
@@ -12339,10 +13434,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Conference on Computer and Communications Security",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ccs-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "AISES National Conference",
@@ -12362,10 +13459,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "Travel scholarships for AISES student members",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "aises-national-conference-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "SecureComm 2027",
@@ -12385,10 +13484,12 @@
    ],
    "rank": "CCF C · CORE C",
    "notes": "International Conference on Security and Privacy in Communication Networks",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "securecomm-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CSCW 2027",
@@ -12408,10 +13509,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cscw-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Artificial Intelligence",
@@ -12431,10 +13534,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "artificial-intelligence-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "FM 2027",
@@ -12454,10 +13559,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "International Symposium on Formal Methods",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fm-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "MobiCom 2027",
@@ -12477,10 +13584,12 @@
    ],
    "rank": "CCF A · CORE A*",
    "notes": "ACM Annual International Conference On Mobile Computing And Networking",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mobicom-2027",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "ISSRE 2027",
@@ -12500,10 +13609,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Symposium on Software Reliability Engineering",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "issre-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "SC Quantathon v4",
@@ -12526,10 +13637,12 @@
    ],
    "rank": "",
    "notes": "Hosted by Clemson Quantum",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sc-quantathon-v4-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "South Carolina"
   },
   {
    "name": "ISWC 2027",
@@ -12549,10 +13662,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Semantic Web Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "iswc-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "IMC 2027",
@@ -12572,10 +13687,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "ACM Internet Measurement Conference",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "imc-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "SHPE National Convention",
@@ -12596,10 +13713,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "shpe-national-convention-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Utah"
   },
   {
    "name": "SACNAS National Diversity in STEM Conference",
@@ -12620,10 +13739,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "Travel scholarships cover airfare, shared lodging and registration (SACNAS members)",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "sacnas-national-diversity-in-stem-conference-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Missouri"
   },
   {
    "name": "SWE WE27 Annual Conference",
@@ -12644,10 +13765,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "swe-we27-annual-conference-2027",
-   "region": "North America"
+   "region": "North America",
+   "state": "Colorado"
   },
   {
    "name": "W-JAX",
@@ -12667,10 +13790,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "w-jax-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICDM 2027",
@@ -12690,10 +13815,12 @@
    ],
    "rank": "CCF B · CORE A*",
    "notes": "IEEE International Conference on Data Mining",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdm-2027",
-   "region": "Oceania"
+   "region": "Oceania",
+   "state": ""
   },
   {
    "name": "International JavaScript Conference Munich",
@@ -12713,10 +13840,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "international-javascript-conference-munich-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "webinale Munich",
@@ -12737,10 +13866,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "webinale-munich-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "ICIP 2027",
@@ -12760,10 +13891,12 @@
    ],
    "rank": "CCF C · CORE B",
    "notes": "The IEEE International Conference on Image Processing",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icip-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "ACM SIGGRAPH ASIA 2027",
@@ -12783,10 +13916,12 @@
    ],
    "rank": "CORE A*",
    "notes": "ACM SIGGRAPH Annual Conference in Asia",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "acm-siggraph-asia-2027",
-   "region": "Asia"
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "CoNEXT 2027",
@@ -12806,10 +13941,12 @@
    ],
    "rank": "CCF B · CORE A",
    "notes": "International Conference on Emerging Networking Experiments and Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "conext-2027",
-   "region": "Latin America & Caribbean"
+   "region": "Latin America & Caribbean",
+   "state": ""
   },
   {
    "name": "IT Security Summit Munich",
@@ -12829,10 +13966,37 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "it-security-summit-munich-2027",
-   "region": "Europe"
+   "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "ICMLA 2027",
+   "url": "https://www.icmla-conference.org/icmla27/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-12-14",
+   "end": "2027-12-16",
+   "location": "University of Miami, Coral Gables Campus, Miami, Florida, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2027-05-15",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CORE C",
+   "notes": "International Conference on Machine Learning and Applications",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-09",
+   "id": "icmla-2027",
+   "region": "North America",
+   "state": "Florida"
   },
   {
    "name": "FAST 2028",
@@ -12852,10 +14016,12 @@
    ],
    "rank": "CCF A · CORE A",
    "notes": "USENIX Conference on File and Storage Technologies",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fast-2028",
-   "region": "North America"
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "Brewing Codes 4.0",
@@ -12878,10 +14044,12 @@
    ],
    "rank": "",
    "notes": "Hosted by HARD MODE",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "brewing-codes-4-0-2028",
-   "region": "Online"
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "AfroTech Conference",
@@ -12902,10 +14070,12 @@
    ],
    "rank": "",
    "notes": "Usually early November in Houston (2026: Nov 2–6)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "afrotech-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "ALPFA Convention",
@@ -12927,10 +14097,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "alpfa-convention-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "APAMSA National Conference",
@@ -12950,10 +14122,12 @@
    ],
    "rank": "",
    "notes": "Usually early March",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "apamsa-national-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Cal Hacks",
@@ -12974,10 +14148,12 @@
    ],
    "rank": "",
    "notes": "Usually October",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "cal-hacks-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "ColorStack Annual Summit",
@@ -12997,10 +14173,12 @@
    ],
    "rank": "",
    "notes": "Stacked Up Summit, usually fall in San Francisco",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "colorstack-annual-summit-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "FBLA Collegiate National Leadership Conference",
@@ -13021,10 +14199,12 @@
    ],
    "rank": "",
    "notes": "Usually June (2026: Jun 6–8, Las Vegas)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "fbla-collegiate-national-leadership-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Forte MBA Women's Leadership Conference",
@@ -13045,10 +14225,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "forte-mba-women-s-leadership-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Grace Hopper Celebration",
@@ -13069,10 +14251,12 @@
    ],
    "rank": "",
    "notes": "2026 edition was cancelled by AnitaB.org; 2027 not announced",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "grace-hopper-celebration-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Hack the North",
@@ -13093,10 +14277,12 @@
    ],
    "rank": "",
    "notes": "Usually September; Canada's largest",
+   "funding": "Partial flight reimbursement; free buses from some cities",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hack-the-north-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HackBeanpot",
@@ -13118,10 +14304,12 @@
    ],
    "rank": "",
    "notes": "Usually mid-February (2026: Feb 13–15)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackbeanpot-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "HackGT",
@@ -13142,10 +14330,12 @@
    ],
    "rank": "",
    "notes": "Usually fall",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackgt-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "Georgia"
   },
   {
    "name": "HackHarvard",
@@ -13166,10 +14356,12 @@
    ],
    "rank": "",
    "notes": "Usually October",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackharvard-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "HackMIT",
@@ -13190,10 +14382,12 @@
    ],
    "rank": "",
    "notes": "Usually September",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "hackmit-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "KU School of Medicine Premedical Student Conference",
@@ -13214,10 +14408,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ku-school-of-medicine-premedical-student-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "LMSA National Conference",
@@ -13238,10 +14434,12 @@
    ],
    "rank": "",
    "notes": "Usually September",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "lmsa-national-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "MIT Hacking Medicine GrandHack",
@@ -13263,10 +14461,12 @@
    ],
    "rank": "",
    "notes": "Usually spring; healthcare hackathon",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "mit-hacking-medicine-grandhack-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "National Black MBA Association Conference & Expo",
@@ -13287,10 +14487,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "national-black-mba-association-conference-expo-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Net Impact Conference",
@@ -13311,10 +14513,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "net-impact-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "oSTEM Annual Conference",
@@ -13334,10 +14538,12 @@
    ],
    "rank": "",
    "notes": "Usually mid/late October (2026: Oct 22–24, Albuquerque)",
+   "funding": "Collegiate conference grants help chapters and students attend",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ostem-annual-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Out for Undergrad Tech Conference",
@@ -13358,10 +14564,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "Travel, lodging and meals covered for every admitted student",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "out-for-undergrad-tech-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Pre-Health Conference at UC Davis",
@@ -13382,10 +14590,12 @@
    ],
    "rank": "",
    "notes": "Held each fall (2026: Oct 17)",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pre-health-conference-at-uc-davis-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Prospanica Conference & Career Expo",
@@ -13406,10 +14616,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "prospanica-conference-career-expo-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "PyCon US",
@@ -13430,10 +14642,12 @@
    ],
    "rank": "",
    "notes": "Expected May 2027; talk proposals usually close mid-December",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pycon-us-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "Reaching Out MBA (ROMBA) Conference",
@@ -13454,10 +14668,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "reaching-out-mba-romba-conference-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Richard Tapia Celebration of Diversity in Computing",
@@ -13478,10 +14694,12 @@
    ],
    "rank": "",
    "notes": "Usually mid-September (2026: Sep 16–18, Atlanta)",
+   "funding": "Scholarships cover registration, hotel, meals and a travel stipend",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "richard-tapia-celebration-of-diversity-in-computing-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "TreeHacks",
@@ -13503,10 +14721,12 @@
    ],
    "rank": "",
    "notes": "Usually mid-February (2026: Feb 13–15); travel reimbursed",
+   "funding": "Travel reimbursed for accepted hackers",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "treehacks-tba",
-   "region": "North America"
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "WiDS Worldwide Conference (Women in Data Science)",
@@ -13528,10 +14748,12 @@
    ],
    "rank": "",
    "notes": "",
+   "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "wids-worldwide-conference-women-in-data-science-tba",
-   "region": "Location TBA"
+   "region": "Location TBA",
+   "state": ""
   }
  ]
 }

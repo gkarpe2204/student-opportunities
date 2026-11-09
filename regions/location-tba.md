@@ -1,14 +1,14 @@
 # 🌍 Student opportunities — Location TBA
 
-20 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (215) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
+20 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (173) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (3)
 
-_Last updated: November 8, 2026_
+_Last updated: November 9, 2026_
 
 ## 🎓 Student & Diversity Conferences
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[oSTEM Annual Conference](https://ostem.org)** 🆕 | TBA · Usually mid/late October (2026: Oct 22–24, Albuquerque) | — | — | LGBTQ+ in STEM |
+| **[oSTEM Annual Conference](https://ostem.org)** 🆕 💰 | TBA · Usually mid/late October (2026: Oct 22–24, Albuquerque) | — | — | LGBTQ+ in STEM<br>💰 Collegiate conference grants help chapters and students attend |
 
 [⬆️ Back to top](#)
 
@@ -19,8 +19,8 @@ _Last updated: November 8, 2026_
 | **[AfroTech Conference](https://afrotech.com)** 🆕 | TBA · Usually early November in Houston (2026: Nov 2–6) | — | — | Black tech professionals, Careers |
 | **[ColorStack Annual Summit](https://www.colorstack.org)** 🆕 | TBA · Stacked Up Summit, usually fall in San Francisco | — | — | Black & Latinx CS students |
 | **[Grace Hopper Celebration](https://ghc.anitab.org)** 🆕 | TBA · 2026 edition was cancelled by AnitaB.org; 2027 not announced | — | — | Women in computing, Career fair |
-| **[Out for Undergrad Tech Conference](https://outforundergrad.org)** 🆕 | TBA | — | — | LGBTQ+ undergrads, Tech careers |
-| **[Richard Tapia Celebration of Diversity in Computing](https://tapiaconference.cmd-it.org)** 🆕 | TBA · Usually mid-September (2026: Sep 16–18, Atlanta) | — | — | Diversity in computing, Scholarships |
+| **[Out for Undergrad Tech Conference](https://outforundergrad.org)** 🆕 💰 | TBA | — | — | LGBTQ+ undergrads, Tech careers<br>💰 Travel, lodging and meals covered for every admitted student |
+| **[Richard Tapia Celebration of Diversity in Computing](https://tapiaconference.cmd-it.org)** 🆕 💰 | TBA · Usually mid-September (2026: Sep 16–18, Atlanta) | — | — | Diversity in computing, Scholarships<br>💰 Scholarships cover registration, hotel, meals and a travel stipend |
 | **[WiDS Worldwide Conference (Women in Data Science)](https://www.widsworldwide.org)** 🆕 | TBA | — | — | Data science, AI, Women in tech |
 
 [⬆️ Back to top](#)
