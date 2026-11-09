@@ -2,11 +2,15 @@
 
 A list of **upcoming conferences and hackathons students can attend, present at, or get scholarships for**: student & diversity conferences, pre-med and business conferences, hackathons (every upcoming [MLH](https://www.mlh.com) and [Devpost](https://devpost.com/hackathons) event plus hand-picked big ones), academic CS venues with paper deadlines, and industry/developer conferences. **Updated automatically every day.**
 
-🔎 **Prefer search & filters? Use the website →** https://gkarpe2204.github.io/student-opportunities/
+🔎 **Prefer search & filters? Use the website →** https://gkarpe2204.github.io/student-opportunities/ (filter by country or US state, show only events that fund your travel, and add any event or deadline to Google, Apple or Outlook calendar in one click)
 
-🙏 **Know an event that's missing? [Submit an issue](../../issues/new/choose)** or add it to [`data/watchlist.yml`](data/watchlist.yml) in a PR.
+🙏 **Know an event that's missing? [Submit it here](../../issues/new/choose).** Once it's approved it's added to the list automatically.
 
-**Legend:** 🆕 added in the last 7 days · ⏰ deadline within 14 days · 🌐 online/hybrid · ⚠️ dates scraped automatically — confirm on the site
+**Legend:** 🆕 added in the last 7 days · ⏰ deadline within 14 days · 💰 helps students pay to attend (travel grants, scholarships) · 🌐 online/hybrid · ⚠️ dates scraped automatically — confirm on the site
+
+### 📬 Weekly email digest
+
+Every Monday this repo publishes a short digest: deadlines in the next two weeks, events added that week, and events that fund students to attend. To get it by email, click **Watch → Custom → Releases** at the top of this page (needs a free GitHub account). Prefer a feed reader? Use the [RSS feed](https://gkarpe2204.github.io/student-opportunities/feed.xml).
 
 ---
 
