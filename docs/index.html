@@ -5,6 +5,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Student Opportunities: Conferences & Hackathons</title>
 <meta name="description" content="A daily-updated list of upcoming opportunities for students: conferences, hackathons, academic CS venues, and industry events.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Student Opportunities: Conferences & Hackathons">
+<meta property="og:description" content="Upcoming student conferences and hackathons in one list, with deadlines, travel funding and a country filter. Updated daily.">
+<meta property="og:url" content="https://gkarpe2204.github.io/student-opportunities/">
+<meta property="og:image" content="https://gkarpe2204.github.io/student-opportunities/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://gkarpe2204.github.io/student-opportunities/og.png">
+<link rel="alternate" type="application/rss+xml" title="New events and deadlines" href="feed.xml">
+<!-- Privacy-friendly visitor counter (no cookies): https://student-opportunities.goatcounter.com -->
+<script data-goatcounter="https://student-opportunities.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 <style>
   :root {
     --bg: #f7f6f2; --card: #ffffff; --ink: #1c1b19; --muted: #6b6860; --line: #e4e1d8;
@@ -50,6 +62,12 @@
   .tag { font-size: 12px; padding: 2px 8px; border-radius: 6px; background: var(--accent-soft); color: var(--accent); }
   .tag.warn { background: var(--warn-soft); color: var(--warn); }
   .tag.plain { background: transparent; border: 1px solid var(--line); color: var(--muted); }
+  .tag.fund { background: #fdf3d0; color: #7a5b00; }
+  @media (prefers-color-scheme: dark) { .tag.fund { background: #3a3218; color: #f2d27a; } }
+  .cal { display: flex; flex-wrap: wrap; gap: 4px 12px; margin-top: 6px; font-size: 12px; }
+  .cal a, .cal button { color: var(--accent); background: none; border: 0; padding: 0; font: inherit; cursor: pointer; text-decoration: none; }
+  .cal a:hover, .cal button:hover { text-decoration: underline; }
+  #usstate { margin-left: 0; }
   .geo-btn { font-weight: 600; }
   .geo-panel { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
                padding: 12px 14px; max-height: 55vh; overflow: auto; }
@@ -72,7 +90,8 @@
 <body>
 <header>
   <h1>Student Opportunities</h1>
-  <p class="sub">Updated daily. <span id="updated"></span> · <a href="https://github.com/" id="repo-link">Suggest an event</a></p>
+  <p class="sub">Updated daily. <span id="updated"></span> · <a href="https://github.com/" id="repo-link">Suggest an event</a>
+    · <a href="https://github.com/gkarpe2204/student-opportunities#-weekly-email-digest">📬 Weekly email digest</a> · <a href="feed.xml">RSS</a></p>
 </header>
 
 <div class="controls"><div class="controls-inner">
@@ -80,6 +99,7 @@
   <div class="row" id="cats"></div>
   <div class="row">
     <button class="chip geo-btn" id="geo-btn" aria-expanded="false" aria-controls="geo-panel">🌍 Where: everywhere ▾</button>
+    <select id="usstate" aria-label="US state" hidden></select>
   </div>
   <div class="geo-panel" id="geo-panel" hidden>
     <div class="geo-top">
@@ -92,6 +112,7 @@
   <div class="row">
     <button class="chip" id="f-deadline" aria-pressed="false">Open deadline</button>
     <button class="chip" id="f-online" aria-pressed="false">Online</button>
+    <button class="chip" id="f-fund" aria-pressed="false">💰 Funds your travel</button>
     <button class="chip" id="f-new" aria-pressed="false">New this week</button>
     <select id="sort" aria-label="Sort">
       <option value="start">Sort: soonest event</option>
@@ -115,7 +136,9 @@
 const CATS = { all: "All", student: "🎓 Student & diversity", tech: "🖥️ CS & tech", premed: "🩺 Pre-med", business: "💼 Business", hackathon: "🏁 Hackathons",
                academic: "📚 Academic CS",
                industry: "💻 Industry", discovered: "🔍 Auto-found" };
-const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, sort: "start", countries: new Set() };
+const state = { cat: "all", q: "", deadline: false, online: false, fresh: false, fund: false, sort: "start", countries: new Set(), usstate: "" };
+const NEW_ENGLAND = ["Massachusetts", "Connecticut", "Rhode Island", "New Hampshire", "Vermont", "Maine"];
+const inUsState = c => !state.usstate || (state.usstate === "New England" ? NEW_ENGLAND.includes(c.state) : c.state === state.usstate);
 const REGION_ORDER = ["North America", "Latin America & Caribbean", "Europe", "Asia", "Middle East & Africa",
                       "Oceania", "Other", "Online", "Location TBA"];
 const store = {
@@ -146,6 +169,42 @@ function dateCell(c) {
   return `<b>${fmt(s, { month: "short", day: "numeric" })}</b><span>${range}${c.dates_auto ? " ⚠️" : ""}</span>`;
 }
 
+// ---- add to calendar (Google link + .ics download for Apple/Outlook)
+const ymd = s => s.replaceAll("-", "");
+const iso = x => `${x.getFullYear()}-${String(x.getMonth() + 1).padStart(2, "0")}-${String(x.getDate()).padStart(2, "0")}`;
+const nextDay = s => { const x = d(s); x.setDate(x.getDate() + 1); return iso(x); };
+function calEvent(c, kind) {
+  if (kind === "deadline") return { title: `${c.deadline_label || "Deadline"} deadline: ${c.name}`, start: c.deadline, end: c.deadline,
+                                    url: c.deadline_url || c.url, where: "" };
+  return { title: c.name, start: c.start, end: c.end || c.start, url: c.url, where: c.location || (c.online ? "Online" : "") };
+}
+function gcalUrl(e) {
+  const p = new URLSearchParams({ action: "TEMPLATE", text: e.title, dates: `${ymd(e.start)}/${ymd(nextDay(e.end))}`,
+                                  details: `${e.url}\n\nFrom Student Opportunities: ${location.href.split("#")[0]}`, location: e.where });
+  return "https://calendar.google.com/calendar/render?" + p.toString();
+}
+function downloadIcs(e) {
+  const clean = s => String(s).replace(/[\\;,]/g, m => "\\" + m).replace(/\n/g, "\\n");
+  const stamp = new Date().toISOString().replace(/[-:]/g, "").slice(0, 15) + "Z";
+  const ics = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Student Opportunities//EN", "BEGIN:VEVENT",
+    `UID:${ymd(e.start)}-${Math.random().toString(36).slice(2)}@student-opportunities`, `DTSTAMP:${stamp}`,
+    `DTSTART;VALUE=DATE:${ymd(e.start)}`, `DTEND;VALUE=DATE:${ymd(nextDay(e.end))}`,
+    `SUMMARY:${clean(e.title)}`, `DESCRIPTION:${clean(e.url)}`, `URL:${e.url}`,
+    e.where ? `LOCATION:${clean(e.where)}` : "", "END:VEVENT", "END:VCALENDAR"].filter(Boolean).join("\r\n");
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([ics], { type: "text/calendar" }));
+  a.download = e.title.replace(/[^\w\- ]+/g, "").slice(0, 60).trim() + ".ics";
+  document.body.appendChild(a); a.click(); a.remove();
+}
+const BY_ID = {};
+function calLinks(c) {
+  BY_ID[c.id] = c;
+  const parts = [];
+  if (c.start) parts.push(`📅 Event: <a href="${esc(gcalUrl(calEvent(c, "event")))}" target="_blank" rel="noopener">Google</a> · <button data-ics="${esc(c.id)}" data-kind="event">Apple/Outlook</button>`);
+  if (c.deadline) parts.push(`⏰ Deadline: <a href="${esc(gcalUrl(calEvent(c, "deadline")))}" target="_blank" rel="noopener">Google</a> · <button data-ics="${esc(c.id)}" data-kind="deadline">Apple/Outlook</button>`);
+  return parts.length ? `<div class="cal">${parts.map(p => `<span>${p}</span>`).join("")}</div>` : "";
+}
+
 function card(c) {
   const tags = [];
   if (c.deadline) {
@@ -154,6 +213,7 @@ function card(c) {
     tags.push(c.deadline_url ? `<a class="tag ${days <= 14 ? "warn" : ""}" href="${esc(safeUrl(c.deadline_url))}" target="_blank" rel="noopener">${label}</a>`
                              : `<span class="tag ${days <= 14 ? "warn" : ""}">${label}</span>`);
   }
+  if (c.funding) tags.push(`<span class="tag fund" title="${esc(c.funding)}">💰 ${esc(c.funding)}</span>`);
   if (c.online) tags.push(`<span class="tag">Online</span>`);
   if (c.rank) tags.push(`<span class="tag plain">${esc(c.rank)}</span>`);
   (c.topics || []).forEach(t => t && tags.push(`<span class="tag plain">${esc(t)}</span>`));
@@ -165,6 +225,7 @@ function card(c) {
       <div class="meta">${esc(c.location || (c.online ? "Online" : "Location TBA"))}${c.country && !["Online", "Location TBA"].includes(c.country) && !(c.location || "").includes(c.country) ? ", " + esc(c.country) : ""} · ${esc(CATS[c.category] || c.category)}</div>
       ${c.notes && c.category !== "discovered" ? `<div class="meta">${esc(c.notes)}</div>` : ""}
       <div class="tags">${tags.join("")}</div>
+      ${calLinks(c)}
     </div></article>`;
 }
 
@@ -174,9 +235,9 @@ function render() {
   const q = state.q.toLowerCase().trim();
   let rows = DATA.filter(c =>
     (state.cat === "all" || c.category === state.cat) &&
-    (!state.countries.size || state.countries.has(c.country)) &&
+    (!state.countries.size || state.countries.has(c.country)) && inUsState(c) && (!state.fund || c.funding) &&
     (!state.deadline || c.deadline) && (!state.online || c.online) && (!state.fresh || isNew(c)) &&
-    (!q || [c.name, c.location, c.notes, c.rank, ...(c.topics || [])].join(" ").toLowerCase().includes(q)));
+    (!q || [c.name, c.location, c.notes, c.rank, c.funding, c.state, ...(c.topics || [])].join(" ").toLowerCase().includes(q)));
   const far = "9999-12-31";
   rows.sort(state.sort === "name" ? (a, b) => a.name.localeCompare(b.name)
           : state.sort === "deadline" ? (a, b) => (a.deadline || far).localeCompare(b.deadline || far)
@@ -236,7 +297,23 @@ function buildGeo() {
   });
 }
 
-function geoChanged() { store.set("sc.countries", [...state.countries]); geoLabel(); buildGeo(); render(); }
+function geoChanged() { store.set("sc.countries", [...state.countries]); geoLabel(); buildGeo(); buildStates(); render(); }
+
+// US state filter: shown when the US is selected (or nothing is), so Boston folks can pick Massachusetts / New England
+function buildStates() {
+  const sel = document.getElementById("usstate");
+  const usOn = !state.countries.size || state.countries.has("United States");
+  const counts = {};
+  DATA.forEach(c => c.state && (counts[c.state] = (counts[c.state] || 0) + 1));
+  if (!usOn || !Object.keys(counts).length) { sel.hidden = true; if (state.usstate) { state.usstate = ""; store.set("sc.usstate", ""); } return; }
+  const ne = NEW_ENGLAND.reduce((s, k) => s + (counts[k] || 0), 0);
+  const opts = [`<option value="">🇺🇸 Any US state</option>`];
+  if (ne) opts.push(`<option value="New England">New England (${ne})</option>`);
+  Object.keys(counts).sort().forEach(k => opts.push(`<option value="${esc(k)}">${esc(k)} (${counts[k]})</option>`));
+  sel.innerHTML = opts.join("");
+  if (state.usstate && !(state.usstate === "New England" ? ne : counts[state.usstate])) state.usstate = "";
+  sel.value = state.usstate; sel.hidden = false;
+}
 
 (() => {
   const btn = document.getElementById("geo-btn"), panel = document.getElementById("geo-panel");
@@ -251,7 +328,8 @@ fetch("conferences.json", { cache: "no-cache" }).then(r => r.json()).then(j => {
   DATA = j.conferences;
   const known = new Set(DATA.map(c => c.country));
   (store.get("sc.countries") || []).forEach(k => known.has(k) && state.countries.add(k));
-  geoLabel();
+  state.usstate = store.get("sc.usstate") || "";
+  geoLabel(); buildStates();
   document.getElementById("updated").textContent = "Last run " + fmt(d(j.updated), { month: "long", day: "numeric", year: "numeric" }) + ".";
   const cats = document.getElementById("cats");
   for (const [k, label] of Object.entries(CATS)) {
@@ -267,7 +345,12 @@ fetch("conferences.json", { cache: "no-cache" }).then(r => r.json()).then(j => {
 
 document.getElementById("q").oninput = e => { state.q = e.target.value; render(); };
 document.getElementById("sort").onchange = e => { state.sort = e.target.value; render(); };
-toggle("f-deadline", "deadline"); toggle("f-online", "online"); toggle("f-new", "fresh");
+toggle("f-deadline", "deadline"); toggle("f-online", "online"); toggle("f-new", "fresh"); toggle("f-fund", "fund");
+document.getElementById("usstate").onchange = e => { state.usstate = e.target.value; store.set("sc.usstate", state.usstate); render(); };
+document.getElementById("list").addEventListener("click", e => {
+  const b = e.target.closest("button[data-ics]");
+  if (b && BY_ID[b.dataset.ics]) downloadIcs(calEvent(BY_ID[b.dataset.ics], b.dataset.kind));
+});
 </script>
 </body>
 </html>
