@@ -1,133 +1,7 @@
 {
- "updated": "2026-11-09",
- "count": 578,
+ "updated": "2026-11-10",
+ "count": 575,
  "conferences": [
-  {
-   "name": "CIKM 2026",
-   "url": "https://cikm2026.diag.uniroma1.it/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "location": "Rome, Italy",
-   "country": "Italy",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Databases/Data Mining"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "ACM International Conference on Information and Knowledge Management",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "cikm-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "CoRL 2026",
-   "url": "https://www.corl.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-09",
-   "end": "2026-11-11",
-   "location": "Austin, Texas, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "",
-   "notes": "The Conference on Robot Learning",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "corl-2026",
-   "region": "North America",
-   "state": "Texas"
-  },
-  {
-   "name": "Gerrit User Summit",
-   "url": "https://gus26.gerritforge.com",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-09",
-   "end": "2026-11-10",
-   "location": "San Francisco, CA, U.S.A.",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://sessionize.com/gerrit-user-summit-2026",
-   "topics": [
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "gerrit-user-summit-2026",
-   "region": "North America",
-   "state": "California"
-  },
-  {
-   "name": "LeadDev Berlin",
-   "url": "https://leaddev.com/leaddev-berlin",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-09",
-   "end": "2026-11-10",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "leadership",
-    "networking"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "leaddev-berlin-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "Unhacked 360 Germany: FutureSec Summit",
-   "url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-09",
-   "end": "2026-11-10",
-   "location": "Berlin, Germany",
-   "country": "Germany",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "security"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "unhacked-360-germany-futuresec-summit-2026",
-   "region": "Europe",
-   "state": ""
-  },
   {
    "name": "IEEE VIS 2026",
    "url": "https://ieeevis.org/year/2026/welcome",
@@ -152,33 +26,6 @@
    "id": "ieee-vis-2026",
    "region": "North America",
    "state": "Massachusetts"
-  },
-  {
-   "name": "Peninsula Innovation Hackathon",
-   "url": "https://peninsula-innovation-hackathon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-10",
-   "end": "2026-12-10",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Open Ended"
-   ],
-   "rank": "",
-   "notes": "Hosted by bayhacks",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-09",
-   "id": "peninsula-innovation-hackathon-2026",
-   "region": "Online",
-   "state": ""
   },
   {
    "name": "Porto Tech Hub Conference",
@@ -228,33 +75,6 @@
    "first_seen": "2026-11-07",
    "id": "tcc-2026",
    "region": "North America",
-   "state": ""
-  },
-  {
-   "name": "The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM",
-   "url": "https://atomiq-hackathon-qff-26-iem.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-10",
-   "end": "2026-11-11",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Quantum",
-    "₹ 10,000 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Institute of Engineering & Management",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "the-atomiq-hackathon-qiskit-fall-fest-at-iem-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -759,6 +579,33 @@
    "state": ""
   },
   {
+   "name": "InnovateHER Hackathon: Girls Who Code",
+   "url": "https://hackathon-girls-who-code.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-13",
+   "end": "2026-12-13",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Open Ended"
+   ],
+   "rank": "",
+   "notes": "Hosted by Girls Who Code",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-10",
+   "id": "innovateher-hackathon-girls-who-code-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "Junction",
    "url": "https://hackjunction.com",
    "category": "hackathon",
@@ -950,7 +797,7 @@
    "source": "devpost",
    "start": "2026-11-14",
    "end": "2026-11-14",
-   "location": "New York, NY (Station 3)",
+   "location": "New York, NY (XDC Tech)",
    "country": "United States",
    "online": false,
    "deadline": null,
@@ -5826,6 +5673,32 @@
    "state": ""
   },
   {
+   "name": "HackVA",
+   "url": "https://hackva27.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "location": "Annandale, VA (Northern Virginia Community College)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly"
+   ],
+   "rank": "",
+   "notes": "Hosted by HackVA Team",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-10",
+   "id": "hackva-2027",
+   "region": "North America",
+   "state": "Virginia"
+  },
+  {
    "name": "HalfStack Phoenix",
    "url": "https://halfstackconf.com/phoenix",
    "category": "industry",
@@ -7625,6 +7498,34 @@
    "state": ""
   },
   {
+   "name": "checkpoint journeys — hanoi",
+   "url": "https://checkpoint-journeys-hanoi.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-03-19",
+   "end": "2027-03-20",
+   "location": "Hà Đông, Hà Nội, Vietnam (True North International School)",
+   "country": "Vietnam",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Open Ended",
+    "$7,916 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Checkpoint",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-10",
+   "id": "checkpoint-journeys-hanoi-2027",
+   "region": "Asia",
+   "state": ""
+  },
+  {
    "name": "HPCA 2027",
    "url": "https://conf.researchr.org/home/hpca-2027",
    "category": "academic",
@@ -9008,8 +8909,8 @@
    "location": "Busan, South Korea",
    "country": "South Korea",
    "online": false,
-   "deadline": "2026-11-09",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Graphics/Multimedia"
@@ -9416,8 +9317,8 @@
    "location": "Hanoi, Vietnam",
    "country": "Vietnam",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2026-12-11",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "AI/ML"
@@ -9616,8 +9517,8 @@
    "location": "Montreal, Canada",
    "country": "Canada",
    "online": false,
-   "deadline": "2026-11-09",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Security"
@@ -11294,31 +11195,6 @@
    "state": "California"
   },
   {
-   "name": "CVPR 2027",
-   "url": "https://cvpr.thecvf.com/Conferences/2027",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-06-20",
-   "end": "2027-06-25",
-   "location": "Seattle, WA, United States",
-   "country": "United States",
-   "online": false,
-   "deadline": "2026-11-16",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "cvpr-2027",
-   "region": "North America",
-   "state": "Washington"
-  },
-  {
    "name": "GMP 2027",
    "url": "https://gmp-conference-2027.github.io/gmp2027/",
    "category": "academic",
@@ -11592,6 +11468,31 @@
    "id": "wowmom-2027",
    "region": "North America",
    "state": "California"
+  },
+  {
+   "name": "CVPR 2027",
+   "url": "https://cvpr.thecvf.com/Conferences/2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-22",
+   "end": "2027-06-25",
+   "location": "Seattle, WA, United States",
+   "country": "United States",
+   "online": false,
+   "deadline": "2026-11-16",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "cvpr-2027",
+   "region": "North America",
+   "state": "Washington"
   },
   {
    "name": "DSN 2027",
@@ -12694,31 +12595,6 @@
    "state": "Colorado"
   },
   {
-   "name": "ACL 2027",
-   "url": "https://2027.aclweb.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-08-17",
-   "end": "2027-08-22",
-   "location": "Kyoto, Japan",
-   "country": "Japan",
-   "online": false,
-   "deadline": "2027-01-04",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "Annual Meeting of the Association for Computational Linguistics",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "acl-2027",
-   "region": "Asia",
-   "state": ""
-  },
-  {
    "name": "ICDAR 2027",
    "url": "https://icdar2027.org/",
    "category": "academic",
@@ -12740,6 +12616,31 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "icdar-2027",
+   "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "ACL 2027",
+   "url": "https://2027.aclweb.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-08-20",
+   "end": "2027-08-22",
+   "location": "Kyoto, Japan",
+   "country": "Japan",
+   "online": false,
+   "deadline": "2027-01-04",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "Annual Meeting of the Association for Computational Linguistics",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "acl-2027",
    "region": "Asia",
    "state": ""
   },
@@ -12967,6 +12868,34 @@
    "id": "eusipco-2027",
    "region": "Europe",
    "state": ""
+  },
+  {
+   "name": "DevNetwork [API + Cloud + AI] Hackathon 2027",
+   "url": "https://devnetwork-api-hackathon-2027.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-09-03",
+   "end": "2027-09-10",
+   "location": "Santa Clara, CA (Santa Clara Convention Center and Online)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "IoT",
+    "Low/No Code",
+    "$12,500 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by DevNetwork",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-10",
+   "id": "devnetwork-api-cloud-ai-hackathon-2027",
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CHES 2027",
