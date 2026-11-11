@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Oceania
 
-17 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (170) · [Asia](asia.md) (95) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
+17 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (218) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
-_Last updated: November 10, 2026_
+_Last updated: November 11, 2026_
 
 ## 🖥️ CS & Tech Student Conferences
 
@@ -22,7 +22,7 @@ _Last updated: November 10, 2026_
 | **[IEEE VR 2027](https://ieeevr.org/2027/)** 🆕 | Graphics/Multimedia | CCF A · CORE A* | Feb 27 – Mar 3, 2027 | Melbourne, Australia | — |
 | **[CSCWD 2027](http://2027.cscwd.org)** 🆕 | HCI | CCF C · CORE C | May 26–28, 2027 | Brisbane, Australia | Paper: Nov 30 |
 | **[MDM 2027](https://mdm2027.github.io/index.html)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 28 – Jul 1, 2027 | Hamilton, New Zealand | Paper: Jan 25 |
-| **[PAKDD 2027](https://www.pakdd2027.org/)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Nov 20 ⏰ 10d |
+| **[PAKDD 2027](https://www.pakdd2027.org/)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Nov 20 ⏰ 9d |
 | **[CGI 2027](https://cgs-network.org/cgi27/)** 🆕 | Graphics/Multimedia | CCF C · CORE C | Jul 5–9, 2027 | Cairns, Australia | Paper: Apr 21 |
 | **[ICDCS 2027](https://icdcs2027.icdcs.org/)** 🆕 | Systems/Architecture | CCF B · CORE A | Jul 5–8, 2027 | Melbourne, Australia | — |
 | **[ACISP 2027](https://acisp.org/)** 🆕 | Security | CCF C | Jul 7–10, 2027 | Melbourne, Australia | Paper: Nov 30 |

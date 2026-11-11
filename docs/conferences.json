@@ -1,82 +1,7 @@
 {
- "updated": "2026-11-10",
- "count": 575,
+ "updated": "2026-11-11",
+ "count": 577,
  "conferences": [
-  {
-   "name": "IEEE VIS 2026",
-   "url": "https://ieeevis.org/year/2026/welcome",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-10",
-   "end": "2026-11-13",
-   "location": "Boston, Massachusetts, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Graphics/Multimedia"
-   ],
-   "rank": "CCF A · CORE A",
-   "notes": "IEEE Visualization Conference",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ieee-vis-2026",
-   "region": "North America",
-   "state": "Massachusetts"
-  },
-  {
-   "name": "Porto Tech Hub Conference",
-   "url": "https://portotechhub.com/conference-2026",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-10",
-   "end": "2026-11-10",
-   "location": "Porto, Portugal",
-   "country": "Portugal",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://sessionize.com/pth-2026",
-   "topics": [
-    "general"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "porto-tech-hub-conference-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "TCC 2026",
-   "url": "https://tcc.iacr.org/2026/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-10",
-   "end": "2026-11-13",
-   "location": "New York City, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Security"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "Theory of Cryptography Conference",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "tcc-2026",
-   "region": "North America",
-   "state": ""
-  },
   {
    "name": "#BuildHybridAI 2026",
    "url": "https://firebasehybridaihackathon.devpost.com/",
@@ -153,6 +78,61 @@
    "first_seen": "2026-11-07",
    "id": "clc-2026",
    "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "Reddit’s Daily Games Hackathon",
+   "url": "https://redditgameofday2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-11",
+   "end": "2026-12-08",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Gaming",
+    "$35,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by reddit",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "reddit-s-daily-games-hackathon-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
+   "name": "Relate by Neo4j Hackathon",
+   "url": "https://relate.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-11",
+   "end": "2026-12-11",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Databases",
+    "Machine Learning/AI"
+   ],
+   "rank": "",
+   "notes": "Hosted by Neo4j",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "relate-by-neo4j-hackathon-2026",
+   "region": "Online",
    "state": ""
   },
   {
@@ -474,6 +454,33 @@
    "state": "Georgia"
   },
   {
+   "name": "HackPrinceton Fall '26",
+   "url": "https://hackprinceton-fall-26.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-13",
+   "end": "2026-11-15",
+   "location": "Princeton, NJ (JRR, LAS, Robertson, Friend)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Education",
+    "Machine Learning/AI"
+   ],
+   "rank": "",
+   "notes": "Hosted by Princeton University",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "hackprinceton-fall-26-2026",
+   "region": "North America",
+   "state": "New Jersey"
+  },
+  {
    "name": "HackPrinceton Fall 2026",
    "url": "https://www.hackprinceton.com",
    "category": "hackathon",
@@ -576,33 +583,6 @@
    "first_seen": "2026-11-07",
    "id": "icdm-2026",
    "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "InnovateHER Hackathon: Girls Who Code",
-   "url": "https://hackathon-girls-who-code.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-13",
-   "end": "2026-12-13",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Open Ended"
-   ],
-   "rank": "",
-   "notes": "Hosted by Girls Who Code",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-10",
-   "id": "innovateher-hackathon-girls-who-code-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -1038,6 +1018,34 @@
    "state": "Washington"
   },
   {
+   "name": "Immerse the Bay 2026",
+   "url": "https://immerse-the-bay-2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "location": "Stanford, CA (Stanford University)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "AR/VR",
+    "Beginner Friendly",
+    "$1,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Stanford XR",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "immerse-the-bay-2026",
+   "region": "North America",
+   "state": "California"
+  },
+  {
    "name": "LPC Hacks",
    "url": "https://lpc-hacks.devpost.com/",
    "category": "hackathon",
@@ -1252,6 +1260,34 @@
    "id": "the-next-frontier-a-space-innovation-hackathon-2026",
    "region": "North America",
    "state": "Virginia"
+  },
+  {
+   "name": "UBC eProjects x n8n LOOP Hackathon",
+   "url": "https://loop.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-14",
+   "end": "2026-11-15",
+   "location": "Vancouver, BC V6T 1Z1, Canada (University of British Columbia)",
+   "country": "Canada",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Low/No Code",
+    "$1,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by n8n",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "ubc-eprojects-x-n8n-loop-hackathon-2026",
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "Bridge The Gap Hacks",
@@ -5673,6 +5709,34 @@
    "state": ""
   },
   {
+   "name": "BeachHack Season 8",
+   "url": "https://www.beachhack.in/",
+   "category": "hackathon",
+   "source": "mlh",
+   "start": "2027-02-05",
+   "end": "2027-02-07",
+   "location": "Thrissur, Kerala",
+   "country": "India",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Software",
+    "Hardware",
+    "MLH"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-11",
+   "id": "beachhack-season-8-2027",
+   "region": "Asia",
+   "state": ""
+  },
+  {
    "name": "HackVA",
    "url": "https://hackva27.devpost.com/",
    "category": "hackathon",
@@ -9157,31 +9221,6 @@
    "state": ""
   },
   {
-   "name": "FG 2027",
-   "url": "https://fg2027.ieee-biometrics.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-04-26",
-   "end": "2027-04-30",
-   "location": "Marrakesh, Morocco",
-   "country": "Morocco",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF C · CORE B",
-   "notes": "International Conference on Automatic Face and Gesture Recognition",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "fg-2027",
-   "region": "Middle East & Africa",
-   "state": ""
-  },
-  {
    "name": "ICLR 2027",
    "url": "https://iclr.cc/Conferences/2027",
    "category": "academic",
@@ -9254,6 +9293,31 @@
    "first_seen": "2026-11-07",
    "id": "msr-2027",
    "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "FG 2027",
+   "url": "https://fg2027.ieee-biometrics.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-04-27",
+   "end": "2027-04-29",
+   "location": "Marrakesh, Morocco",
+   "country": "Morocco",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF C · CORE B",
+   "notes": "International Conference on Automatic Face and Gesture Recognition",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "fg-2027",
+   "region": "Middle East & Africa",
    "state": ""
   },
   {

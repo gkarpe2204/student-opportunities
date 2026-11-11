@@ -1,17 +1,18 @@
 # 🌍 Student opportunities — Online
 
-37 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (217) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (170) · [Asia](asia.md) (95) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (37) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
+38 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (218) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
-_Last updated: November 10, 2026_
+_Last updated: November 11, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
 | **[#BuildHybridAI 2026](https://firebasehybridaihackathon.devpost.com/)** 🆕 | Nov 11–30, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Mobile, $30,000 in prizes |
+| **[Reddit’s Daily Games Hackathon](https://redditgameofday2026.devpost.com/)** 🆕 | Nov 11 – Dec 8, 2026 | 🌐 Online | — | Online, Beginner Friendly, Gaming, $35,000 in prizes |
+| **[Relate by Neo4j Hackathon](https://relate.devpost.com/)** 🆕 | Nov 11 – Dec 11, 2026 | 🌐 Online | — | Online, Databases, Machine Learning/AI |
 | **[CIVIC Hack 2026](https://civic-hack-2026.devpost.com/)** 🆕 | Nov 12–14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $CAD 1,500 in prizes |
 | **[NorCal Hacks 27](https://norcal-hacks-27.devpost.com/)** 🆕 | Nov 12–15, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
-| **[InnovateHER Hackathon: Girls Who Code](https://hackathon-girls-who-code.devpost.com/)** 🆕 | Nov 13 – Dec 13, 2026 | 🌐 Online | — | Online, Beginner Friendly, Open Ended |
 | **[LPC Hacks](https://lpc-hacks.devpost.com/)** 🆕 | Nov 14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Teens Hack Houston Hackathon](https://tripleh.devpost.com/)** 🆕 | Nov 14–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Low/No Code, $300 in prizes |
 | **[Bridge The Gap Hacks](https://sq-hacks.devpost.com/)** 🆕 | Nov 15–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
