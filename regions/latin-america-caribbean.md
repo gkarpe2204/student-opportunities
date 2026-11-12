@@ -1,14 +1,13 @@
 # 🌍 Student opportunities — Latin America & Caribbean
 
-11 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (218) · [Latin America & Caribbean](latin-america-caribbean.md) (11) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (38) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
+10 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (170) · [Asia](asia.md) (97) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (39) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
 
-_Last updated: November 11, 2026_
+_Last updated: November 12, 2026_
 
 ## 📚 Academic CS Conferences (paper deadlines)
 
 | Conference | Area | Rank | Dates | Location | Next deadline |
 |---|---|---|---|---|---|
-| **[ACM MM 2026](https://2026.acmmm.org/)** 🆕 | Graphics/Multimedia | CCF A · CORE A* | Nov 11–14, 2026 | Rio de Janeiro, Brazil | — |
 | **[ICVRV 2026](https://icvrv2026.aconf.org/)** 🆕 | Graphics/Multimedia | — | Dec 18–20, 2026 | ValparaÃ­so, Chile | — |
 | **[FC 2027](https://fc27.ifca.ai/)** 🆕 | Security | CCF C · CORE A | Feb 8–12, 2027 | Barbados | — |
 | **[WCNC 2027](https://wcnc2027.ieee-wcnc.org/)** 🆕 | Networking | CCF C · CORE B | Apr 5–8, 2027 | Panama City, Panama | — |
