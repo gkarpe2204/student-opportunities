@@ -1,15 +1,13 @@
 # 🌍 Student opportunities — Online
 
-39 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (170) · [Asia](asia.md) (97) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (39) · [Location TBA](location-tba.md) (20) · [Other](other.md) (4)
+36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (4)
 
-_Last updated: November 12, 2026_
+_Last updated: November 13, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[CIVIC Hack 2026](https://civic-hack-2026.devpost.com/)** 🆕 | Nov 12–14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $CAD 1,500 in prizes |
-| **[NorCal Hacks 27](https://norcal-hacks-27.devpost.com/)** 🆕 | Nov 12–15, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[LPC Hacks](https://lpc-hacks.devpost.com/)** 🆕 | Nov 14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Teens Hack Houston Hackathon](https://tripleh.devpost.com/)** 🆕 | Nov 14–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Low/No Code, $300 in prizes |
 | **[Bridge The Gap Hacks](https://sq-hacks.devpost.com/)** 🆕 | Nov 15–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
@@ -47,7 +45,6 @@ _Last updated: November 12, 2026_
 
 | Conference | Topics | Dates | Location | CFP closes |
 |---|---|---|---|---|
-| **[Ubuntu Summit](https://ubuntu.com/summit)** 🆕 | opensource | Nov 12–13, 2026 | 🌐 Online | — |
 | **[betterCode() .NET 11.0](https://net.bettercode.eu)** 🆕 | dotnet | Nov 17, 2026 | 🌐 Online | — |
 | **[inside agile Product Owner Day](https://pod.inside-agile.de)** 🆕 | product | Nov 19, 2026 | 🌐 Online | — |
 | **[inside agile: Agile Leadership Conference](https://alc.inside-agile.de)** 🆕 | leadership | Dec 1–2, 2026 | 🌐 Online | — |

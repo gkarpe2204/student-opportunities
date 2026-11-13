@@ -1,137 +1,7 @@
 {
- "updated": "2026-11-12",
- "count": 581,
+ "updated": "2026-11-13",
+ "count": 575,
  "conferences": [
-  {
-   "name": "CIVIC Hack 2026",
-   "url": "https://civic-hack-2026.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-12",
-   "end": "2026-11-14",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Machine Learning/AI",
-    "$CAD 1,500 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Future Cities Institute",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "civic-hack-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "CMS Conf",
-   "url": "https://cmsconf.com",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-12",
-   "end": "2026-11-14",
-   "location": "Gdynia, Poland",
-   "country": "Poland",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://cmsconf.com/call-for-papers",
-   "topics": [
-    "general"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "cms-conf-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "NorCal Hacks 27",
-   "url": "https://norcal-hacks-27.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-12",
-   "end": "2026-11-15",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Machine Learning/AI"
-   ],
-   "rank": "",
-   "notes": "Hosted by Lynbrook Engineering Club",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "norcal-hacks-27-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "SpiceWorld",
-   "url": "https://www.spiceworks.com/spiceworld",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "location": "Austin, TX, U.S.A.",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://sessionize.com/spiceworld-2026",
-   "topics": [
-    "general"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "spiceworld-2026",
-   "region": "North America",
-   "state": "Texas"
-  },
-  {
-   "name": "Ubuntu Summit",
-   "url": "https://ubuntu.com/summit",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-12",
-   "end": "2026-11-13",
-   "location": "Online",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://ubuntu.com/summit/call-for-collaboration",
-   "topics": [
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ubuntu-summit-2026",
-   "region": "Online",
-   "state": ""
-  },
   {
    "name": "ADMA 2026",
    "url": "https://adma2026.github.io/",
@@ -155,32 +25,6 @@
    "first_seen": "2026-11-07",
    "id": "adma-2026",
    "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "Build with Gemma - Innovate in Windsor",
-   "url": "https://innovate-in-windsor-hackathon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-13",
-   "end": "2026-11-20",
-   "location": "Windsor, ON N9B 3P4, Canada (University of Windsor)",
-   "country": "Canada",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Machine Learning/AI"
-   ],
-   "rank": "",
-   "notes": "Hosted by Google Developer Groups Windsor",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "build-with-gemma-innovate-in-windsor-2026",
-   "region": "North America",
    "state": ""
   },
   {
@@ -237,34 +81,6 @@
    "state": "Georgia"
   },
   {
-   "name": "Engage Test",
-   "url": "https://engage-test.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-13",
-   "end": "2026-11-15",
-   "location": "Dubai - United Arab Emirates",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Machine Learning/AI",
-    "Productivity",
-    "$20 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Engage Group",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "engage-test-2026",
-   "region": "Location TBA",
-   "state": ""
-  },
-  {
    "name": "GTransformer AI Buildathon 2026 — AI for Global Good",
    "url": "https://gtransformer-buildathon-2026.devpost.com/",
    "category": "hackathon",
@@ -291,34 +107,6 @@
    "id": "gtransformer-ai-buildathon-ai-for-global-good-2026",
    "region": "North America",
    "state": "California"
-  },
-  {
-   "name": "Hackperimeter",
-   "url": "https://hackperimeter.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-13",
-   "end": "2026-11-13",
-   "location": "Clarkston, GA (GSU Perimeter College - Clarkston Campus)",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Beginner Friendly",
-    "Open Ended",
-    "$1,000 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Georgia State University",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "hackperimeter-2026",
-   "region": "North America",
-   "state": "Georgia"
   },
   {
    "name": "HackPrinceton Fall '26",
@@ -402,30 +190,31 @@
    "state": "Massachusetts"
   },
   {
-   "name": "IBM Qiskit Hackathon - Bangladesh",
-   "url": "https://ibm-qiskit-hackathon.devpost.com/",
+   "name": "HackUMass XIV",
+   "url": "https://hackumass-xiv.devpost.com/",
    "category": "hackathon",
    "source": "devpost",
    "start": "2026-11-13",
-   "end": "2026-11-14",
-   "location": "Brac University UB, Dhaka, Bangladesh (BRAC University)",
-   "country": "Bangladesh",
+   "end": "2026-11-15",
+   "location": "Amherst, MA (Integrative Learning Center)",
+   "country": "United States",
    "online": false,
    "deadline": null,
    "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "In-person",
-    "Quantum"
+    "Beginner Friendly",
+    "Machine Learning/AI"
    ],
    "rank": "",
-   "notes": "Hosted by DevChangeMakers Community",
+   "notes": "Hosted by HackUMass",
    "funding": "",
    "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ibm-qiskit-hackathon-bangladesh-2026",
-   "region": "Asia",
-   "state": ""
+   "first_seen": "2026-11-13",
+   "id": "hackumass-xiv-2026",
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "ICDM 2026",
@@ -681,7 +470,7 @@
     "In-person",
     "Machine Learning/AI",
     "Web",
-    "$650 in prizes"
+    "$900 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by localhost-nyc",
@@ -2510,6 +2299,33 @@
    "state": ""
   },
   {
+   "name": "WHACK",
+   "url": "https://wellesleyhack-2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-21",
+   "end": "2026-11-22",
+   "location": "Wellesley, MA (Lulu Chow Wang Campus Center)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Open Ended"
+   ],
+   "rank": "",
+   "notes": "Hosted by MLH",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-13",
+   "id": "whack-2026",
+   "region": "North America",
+   "state": "Massachusetts"
+  },
+  {
    "name": "WHACK (Wellesley Hackathon)",
    "url": "https://www.wellesleyhacks.org/",
    "category": "hackathon",
@@ -2828,7 +2644,7 @@
     "In-person",
     "Beginner Friendly",
     "Open Ended",
-    "$CAD 202,000 in prizes"
+    "$CAD 403,400 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by AWS Student Builders Group - Laurier",
@@ -6577,6 +6393,33 @@
    "state": ""
   },
   {
+   "name": "AdaHacks 2027",
+   "url": "https://adahacks-2027.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-02-26",
+   "end": "2027-02-28",
+   "location": "Edmonton, AB T6G 2J5, Canada (TBD)",
+   "country": "Canada",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Design"
+   ],
+   "rank": "",
+   "notes": "Hosted by Ada's Team",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-13",
+   "id": "adahacks-2027",
+   "region": "North America",
+   "state": ""
+  },
+  {
    "name": "HackIllinois",
    "url": "https://www.hackillinois.org/",
    "category": "hackathon",
@@ -8798,8 +8641,8 @@
    "location": "Basel, Switzerland",
    "country": "Switzerland",
    "online": false,
-   "deadline": "2026-11-12",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Software Eng."
@@ -9077,7 +8920,7 @@
    "location": "Bruges, Belgium and Online",
    "country": "Belgium",
    "online": false,
-   "deadline": "2026-11-19",
+   "deadline": "2026-11-26",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -10587,8 +10430,8 @@
    "location": "Atlanta, Georgia, USA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-12",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Software Eng."
