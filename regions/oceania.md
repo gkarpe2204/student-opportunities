@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Oceania
 
-17 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (4)
+16 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (207) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (167) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 13, 2026_
+_Last updated: November 14, 2026_
 
 ## 🖥️ CS & Tech Student Conferences
 
@@ -22,7 +22,7 @@ _Last updated: November 13, 2026_
 | **[IEEE VR 2027](https://ieeevr.org/2027/)** 🆕 | Graphics/Multimedia | CCF A · CORE A* | Feb 27 – Mar 3, 2027 | Melbourne, Australia | — |
 | **[CSCWD 2027](http://2027.cscwd.org)** 🆕 | HCI | CCF C · CORE C | May 26–28, 2027 | Brisbane, Australia | Paper: Nov 30 |
 | **[MDM 2027](https://mdm2027.github.io/index.html)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 28 – Jul 1, 2027 | Hamilton, New Zealand | Paper: Jan 25 |
-| **[PAKDD 2027](https://www.pakdd2027.org/)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Nov 20 ⏰ 7d |
+| **[PAKDD 2027](https://www.pakdd2027.org/)** 🆕 | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Nov 20 ⏰ 6d |
 | **[CGI 2027](https://cgs-network.org/cgi27/)** 🆕 | Graphics/Multimedia | CCF C · CORE C | Jul 5–9, 2027 | Cairns, Australia | Paper: Apr 21 |
 | **[ICDCS 2027](https://icdcs2027.icdcs.org/)** 🆕 | Systems/Architecture | CCF B · CORE A | Jul 5–8, 2027 | Melbourne, Australia | — |
 | **[ACISP 2027](https://acisp.org/)** 🆕 | Security | CCF C | Jul 7–10, 2027 | Melbourne, Australia | Paper: Nov 30 |
@@ -35,7 +35,6 @@ _Last updated: November 13, 2026_
 
 | Conference | Topics | Dates | Location | CFP closes |
 |---|---|---|---|---|
-| **[VIC AI Boom](https://vicaiboom.com)** 🆕 | data, security, python | Nov 13, 2026 | Melbourne, Australia | — |
 | **[ASF Community Over Code / ChurConf](https://au.churconf.com)** 🆕 | java, opensource | Nov 18–19, 2026 | Sidney, Australia | — |
 | **[Community Over Code Sydney](https://communityovercode.apache.org/events/sydney-2026)** 🆕 | data, java, opensource | Nov 18–19, 2026 | Sydney, Australia | — |
 | **[Write the Docs Australia](https://www.writethedocs.org/conf/australia/2026)** 🆕 | tech-comm | Dec 3–4, 2026 | Melbourne, Australia 🌐 | — |

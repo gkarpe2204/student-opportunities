@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Location TBA
 
-19 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (4)
+19 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (207) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (167) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 13, 2026_
+_Last updated: November 14, 2026_
 
 ## 🎓 Student & Diversity Conferences
 

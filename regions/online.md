@@ -1,15 +1,14 @@
 # 🌍 Student opportunities — Online
 
-36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (220) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (169) · [Asia](asia.md) (96) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (17) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (4)
+36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (207) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (167) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 13, 2026_
+_Last updated: November 14, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
 | **[LPC Hacks](https://lpc-hacks.devpost.com/)** 🆕 | Nov 14, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
-| **[Teens Hack Houston Hackathon](https://tripleh.devpost.com/)** 🆕 | Nov 14–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Low/No Code, $300 in prizes |
 | **[Bridge The Gap Hacks](https://sq-hacks.devpost.com/)** 🆕 | Nov 15–21, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Fall 2026 Projects](https://fall-2026-projects.devpost.com/)** 🆕 | Nov 15–16, 2026 | 🌐 Online | — | Online, Low/No Code |
 | **[KUK VIRTUAL HACKATHON](https://kuk-virtual-hackathon.devpost.com/)** 🆕 | Nov 15–22, 2026 | 🌐 Online | — | Online, Databases, Machine Learning/AI, $800 in prizes |
@@ -23,8 +22,9 @@ _Last updated: November 13, 2026_
 | **[305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](https://305codefestdec2026.devpost.com/)** 🆕 | Dec 1–31, 2026 | 🌐 Online | — | Online, Beginner Friendly, Cybersecurity |
 | **[FRONTIER//26](https://lovhack.devpost.com/)** 🆕 | Dec 4–11, 2026 | 🌐 Online | — | Online, Machine Learning/AI |
 | **[BUILD 4 ALL](https://build4all.devpost.com/)** 🆕 | Dec 5–12, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
+| **[NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience ](https://neurohack-fall-2026.devpost.com/)** 🆕 | Dec 5–6, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Arioron Think 2026](https://arioron-think-2026.devpost.com/)** 🆕 | Dec 10–17, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
-| **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** 🆕 | Dec 11–14, 2026 | 🌐 Online | — | Online, Education |
+| **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** 🆕 | Dec 10–18, 2026 | 🌐 Online | — | Online, Education |
 | **[Syntax Hacks 2026](https://syntax-hacks-2026.devpost.com/)** 🆕 | Dec 14, 2026 – Jan 17, 2027 | 🌐 Online | — | Online, Open Ended |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,770 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** 🆕 | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
