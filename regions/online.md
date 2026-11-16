@@ -1,14 +1,13 @@
 # 🌍 Student opportunities — Online
 
-33 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (197) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (167) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (33) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (202) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (168) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (5) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 15, 2026_
+_Last updated: November 16, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[BuildyourOwnWebsite](https://buildyourownwebsite.devpost.com/)** | Nov 16–25, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
 | **[OBSCURA: Satellite AI Research Challenge](https://obscura.devpost.com/)** | Nov 18–24, 2026 | 🌐 Online | — | Online, Education, Machine Learning/AI, $50 in prizes |
 | **[CrossPointX 2026](https://cpx2026.devpost.com/)** | Nov 20–22, 2026 | 🌐 Online | — | Online, Beginner Friendly, Design |
 | **[CSAIC Hack-AI-Thon](https://csaic-hackaithon.devpost.com/)** 🆕 | Nov 20–24, 2026 | 🌐 Online | — | Online, Education, Machine Learning/AI |
@@ -17,12 +16,12 @@ _Last updated: November 15, 2026_
 | **[Global AI Builder’s Challenge](https://global-ai-builders-challenge.devpost.com/)** | Nov 21–28, 2026 | 🌐 Online | — | Online, Machine Learning/AI |
 | **[HACKRISE'26 ](https://hackrise-26.devpost.com/)** | Nov 29, 2026 – Jan 31, 2027 | 🌐 Online | — | Online, DevOps, Machine Learning/AI, ₹ 1,000 in prizes |
 | **[305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](https://305codefestdec2026.devpost.com/)** | Dec 1–31, 2026 | 🌐 Online | — | Online, Beginner Friendly, Cybersecurity |
-| **[FRONTIER//26](https://lovhack.devpost.com/)** 🆕 | Dec 4–11, 2026 | 🌐 Online | — | Online, Machine Learning/AI |
+| **[FRONTIER//26](https://frontier26.devpost.com/)** 🆕 | Dec 4–11, 2026 | 🌐 Online | — | Online, Machine Learning/AI |
 | **[BUILD 4 ALL](https://build4all.devpost.com/)** | Dec 5–12, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
-| **[NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience ](https://neurohack-fall-2026.devpost.com/)** 🆕 | Dec 5–6, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Arioron Think 2026](https://arioron-think-2026.devpost.com/)** 🆕 | Dec 10–17, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
 | **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** 🆕 | Dec 10–18, 2026 | 🌐 Online | — | Online, Education |
 | **[Syntax Hacks 2026](https://syntax-hacks-2026.devpost.com/)** 🆕 | Dec 14, 2026 – Jan 17, 2027 | 🌐 Online | — | Online, Open Ended |
+| **[OVO Hack 48](https://ovo-hack-48.devpost.com/)** 🆕 | Dec 18–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,770 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
 | **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $11,960 in prizes |
@@ -34,6 +33,7 @@ _Last updated: November 15, 2026_
 | **[WiCS Hackathon](https://wics-hackathon.devpost.com/)** | Feb 28 – Mar 2, 2027 | 🌐 Online | — | Online, Beginner Friendly, Design |
 | **[Build Beyond Hackathon](https://build-beyond.devpost.com/)** | Mar 1–15, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $5,000 in prizes |
 | **[KeanUHackThis 2027](https://keauhackthis-2027.devpost.com/)** | Apr 2–3, 2027 | 🌐 Online | — | Online, Machine Learning/AI, Web |
+| **[Knightlytics](https://knightlytics.devpost.com/)** 🆕 | Apr 9–11, 2027 | 🌐 Online | — | Online, Beginner Friendly, Databases, $100 in prizes |
 | **[Brewing Codes 4.0](https://brewing-codes-4-0.devpost.com/)** | Mar 12–27, 2028 | 🌐 Online | — | Online, Low/No Code, Machine Learning/AI, ₹ 100,000 in prizes |
 
 [⬆️ Back to top](#)
@@ -43,10 +43,13 @@ _Last updated: November 15, 2026_
 | Conference | Topics | Dates | Location | CFP closes |
 |---|---|---|---|---|
 | **[betterCode() .NET 11.0](https://net.bettercode.eu)** | dotnet | Nov 17, 2026 | 🌐 Online | — |
+| **[DuckDB × MySQL Day](https://oursqlfoundation.org/events/duckdb-mysql-day)** 🆕 | opensource | Nov 17, 2026 | 🌐 Online | — |
 | **[inside agile Product Owner Day](https://pod.inside-agile.de)** | product | Nov 19, 2026 | 🌐 Online | — |
 | **[inside agile: Agile Leadership Conference](https://alc.inside-agile.de)** | leadership | Dec 1–2, 2026 | 🌐 Online | — |
+| **[JakartaOne Livestream](https://jakartaone.jakarta.ee/jakartaone-livestream-2026)** 🆕 | java | Dec 1, 2026 | 🌐 Online | — |
 | **[AI for Developers](https://aiconference.dev)** | data | Dec 17–18, 2026 | 🌐 Online | — |
 | **[JChampions Conference](https://jchampionsconf.com)** | java | Jan 21–26, 2027 | 🌐 Online | — |
 | **[betterCode() ArchDoc](https://archdoc.bettercode.eu)** | tech-comm | Mar 17, 2027 | 🌐 Online | — |
+| **[betterCode() ABAP](https://abap.bettercode.eu)** 🆕 | general | Apr 14, 2027 | 🌐 Online | — |
 
 [⬆️ Back to top](#)

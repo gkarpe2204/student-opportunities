@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Middle East & Africa
 
-4 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (197) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (167) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (4) · [Oceania](oceania.md) (16) · [Online](online.md) (33) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+5 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (202) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (168) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (5) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 15, 2026_
+_Last updated: November 16, 2026_
 
 ## 📚 Academic CS Conferences (paper deadlines)
 
@@ -18,6 +18,7 @@ _Last updated: November 15, 2026_
 
 | Conference | Topics | Dates | Location | CFP closes |
 |---|---|---|---|---|
+| **[AICD Summit](https://aicommunitydays.ai/events/aicd-summit-2026)** 🆕 | data | Dec 5–6, 2026 | Tunis, Tunisia | — |
 | **[3rd International Conference on Artificial Intelligence and Data Science](https://datascience.averconferences.com)** | data | Feb 1–3, 2027 | Dubai, United Arab Emirates | [CFP: Jan 18](https://datascience.averconferences.com/abstract.php) |
 
 [⬆️ Back to top](#)

@@ -1,35 +1,7 @@
 {
- "updated": "2026-11-15",
- "count": 541,
+ "updated": "2026-11-16",
+ "count": 551,
  "conferences": [
-  {
-   "name": "Harvard Undergraduate OpenBio Laboratory Datathon",
-   "url": "https://openbio-datathon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-15",
-   "end": "2026-11-15",
-   "location": "Cambridge, MA (Maxwell Dworkin)",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Beginner Friendly",
-    "Databases",
-    "$2,000 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Harvard Undergraduate OpenBio Datathon",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-14",
-   "id": "harvard-undergraduate-openbio-laboratory-datathon-2026",
-   "region": "North America",
-   "state": "Massachusetts"
-  },
   {
    "name": "AI Coding Summit New York Edition",
    "url": "https://aicodingsummit.com/nyc",
@@ -105,60 +77,6 @@
    "first_seen": "2026-11-07",
    "id": "api-conference-berlin-2026",
    "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "Bharat Builds Tour",
-   "url": "https://bharat-builds-tour.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-16",
-   "end": "2026-11-17",
-   "location": "Jaipur, Rajasthan, India (jaipur)",
-   "country": "India",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Blockchain",
-    "Cybersecurity"
-   ],
-   "rank": "",
-   "notes": "Hosted by Hackers Unity",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "bharat-builds-tour-2026",
-   "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "BuildyourOwnWebsite",
-   "url": "https://buildyourownwebsite.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-16",
-   "end": "2026-11-25",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Education"
-   ],
-   "rank": "",
-   "notes": "Hosted by Roxten Studios",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "buildyourownwebsite-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -515,6 +433,31 @@
    "state": ""
   },
   {
+   "name": "DuckDB × MySQL Day",
+   "url": "https://oursqlfoundation.org/events/duckdb-mysql-day",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2026-11-17",
+   "end": "2026-11-17",
+   "location": "Online",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "opensource"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "duckdb-mysql-day-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "Open Source Monitoring conference",
    "url": "https://osmc.de",
    "category": "industry",
@@ -720,6 +663,34 @@
    "id": "pricai-2026",
    "region": "Asia",
    "state": ""
+  },
+  {
+   "name": "RAMHACK Mini 2026",
+   "url": "https://ramhack-mini-2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-18",
+   "end": "2026-11-18",
+   "location": "New York, NY (Fordham University at Lincoln Center)",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Fintech",
+    "Productivity",
+    "$470 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Fordham University",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "ramhack-mini-2026",
+   "region": "North America",
+   "state": "New York"
   },
   {
    "name": "SoCC 2026",
@@ -2311,6 +2282,31 @@
    "state": ""
   },
   {
+   "name": "JakartaOne Livestream",
+   "url": "https://jakartaone.jakarta.ee/jakartaone-livestream-2026",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2026-12-01",
+   "end": "2026-12-01",
+   "location": "Online",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "java"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "jakartaone-livestream-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "WINE 2026",
    "url": "https://wine2026conf.github.io/",
    "category": "academic",
@@ -2333,6 +2329,31 @@
    "first_seen": "2026-11-07",
    "id": "wine-2026",
    "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "Oh My Hack",
+   "url": "https://omhconf.pl",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2026-12-02",
+   "end": "2026-12-02",
+   "location": "Warsaw, Poland",
+   "country": "Poland",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "security"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "oh-my-hack-2026",
+   "region": "Europe",
    "state": ""
   },
   {
@@ -2462,7 +2483,7 @@
   },
   {
    "name": "FRONTIER//26",
-   "url": "https://lovhack.devpost.com/",
+   "url": "https://frontier26.devpost.com/",
    "category": "hackathon",
    "source": "devpost",
    "start": "2026-12-04",
@@ -2589,6 +2610,31 @@
    "state": ""
   },
   {
+   "name": "AICD Summit",
+   "url": "https://aicommunitydays.ai/events/aicd-summit-2026",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2026-12-05",
+   "end": "2026-12-06",
+   "location": "Tunis, Tunisia",
+   "country": "Tunisia",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "data"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "aicd-summit-2026",
+   "region": "Middle East & Africa",
+   "state": ""
+  },
+  {
    "name": "BUILD 4 ALL",
    "url": "https://build4all.devpost.com/",
    "category": "hackathon",
@@ -2692,33 +2738,6 @@
    "first_seen": "2026-11-07",
    "id": "hacksussex-gamejam-2026",
    "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience ",
-   "url": "https://neurohack-fall-2026.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-12-05",
-   "end": "2026-12-06",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Machine Learning/AI"
-   ],
-   "rank": "",
-   "notes": "Hosted by NeuroTech@UIUC",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-14",
-   "id": "neurohack-fall-rewiring-pathways-innovative-neuroscience-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -3486,6 +3505,33 @@
    "state": ""
   },
   {
+   "name": "OVO Hack 48",
+   "url": "https://ovo-hack-48.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-18",
+   "end": "2026-12-20",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Machine Learning/AI"
+   ],
+   "rank": "",
+   "notes": "Hosted by Ovo Talent",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "ovo-hack-48-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "Cosmo Hacks 2026",
    "url": "https://cosmohacks.devpost.com/",
    "category": "hackathon",
@@ -3924,6 +3970,31 @@
    "id": "pepm-2027",
    "region": "North America",
    "state": ""
+  },
+  {
+   "name": "Upstream",
+   "url": "https://upstream.snowxa.com",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2027-01-14",
+   "end": "2027-01-16",
+   "location": "San Francisco, CA, U.S.A.",
+   "country": "United States",
+   "online": false,
+   "deadline": "2026-11-19",
+   "deadline_label": "CFP",
+   "deadline_url": "https://upstream.snowxa.com/submissions",
+   "topics": [
+    "opensource"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "upstream-2027",
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "HackStorm 3.0: Sense, Think and Act",
@@ -5005,6 +5076,31 @@
    "state": ""
   },
   {
+   "name": "ProductWorld",
+   "url": "https://productworld.co",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2027-02-09",
+   "end": "2027-02-11",
+   "location": "Santa Clara, CA, U.S.A.",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "product"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "productworld-2027",
+   "region": "North America",
+   "state": "California"
+  },
+  {
    "name": "MakeUofT",
    "url": "http://makeuoft.ca/",
    "category": "hackathon",
@@ -5142,9 +5238,9 @@
    "location": "Sacramento, CA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-15",
-   "deadline_label": "Travel grant",
-   "deadline_url": "https://sigcse.org/programs/travel-grants/index.html",
+   "deadline": "2027-01-04",
+   "deadline_label": "Early-bird registration",
+   "deadline_url": "https://2027.sigcse-ts.acm.org/attending/registration",
    "topics": [
     "CS education"
    ],
@@ -5873,6 +5969,33 @@
    "id": "tech-to-treasure-hackathon-2027",
    "region": "North America",
    "state": "California"
+  },
+  {
+   "name": "Hack the Galaxy",
+   "url": "https://hack-the-galaxy-2027.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-03-06",
+   "end": "2027-03-07",
+   "location": "Burnaby, BC V5A 1S6, Canada (Applied Sciences Building - SFU Burnaby)",
+   "country": "Canada",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Databases"
+   ],
+   "rank": "",
+   "notes": "Hosted by simon fraser university",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "hack-the-galaxy-2027",
+   "region": "North America",
+   "state": ""
   },
   {
    "name": "HenHacks",
@@ -7229,6 +7352,31 @@
    "state": ""
   },
   {
+   "name": "ChurConf",
+   "url": "https://kr.churconf.com",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2027-04-03",
+   "end": "2027-04-03",
+   "location": "Seoul, South Korea",
+   "country": "South Korea",
+   "online": false,
+   "deadline": "2026-12-15",
+   "deadline_label": "CFP",
+   "deadline_url": "https://docs.google.com/forms/d/e/1FAIpQLSf3h27blnyEaWfL9VgLUKcJw9_I3aPYJ283QtoNQWg733NqWw/viewform",
+   "topics": [
+    "java"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "churconf-2027",
+   "region": "Asia",
+   "state": ""
+  },
+  {
    "name": "Diamondhacks",
    "url": "https://diamondhacks.acmucsd.com/",
    "category": "hackathon",
@@ -7534,6 +7682,34 @@
    "state": "Kansas"
   },
   {
+   "name": "Knightlytics",
+   "url": "https://knightlytics.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-04-09",
+   "end": "2027-04-11",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Databases",
+    "$100 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by UCF",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "knightlytics-2027",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "MariHacks",
    "url": "https://www.marihacks.com/",
    "category": "hackathon",
@@ -7712,6 +7888,31 @@
    "state": ""
   },
   {
+   "name": "betterCode() ABAP",
+   "url": "https://abap.bettercode.eu",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2027-04-14",
+   "end": "2027-04-14",
+   "location": "Online",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "general"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "bettercode-abap-2027",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "AI Coding Summit Asia",
    "url": "https://aicodingsummit.com/asia",
    "category": "industry",
@@ -7746,8 +7947,8 @@
    "location": "Amsterdam, Netherlands",
    "country": "Netherlands",
    "online": false,
-   "deadline": "2026-11-15",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "AI/ML"
@@ -8371,6 +8572,32 @@
    "id": "aistats-2027",
    "region": "North America",
    "state": ""
+  },
+  {
+   "name": "Enterprise AI Summit",
+   "url": "https://events.itrevolution.com/2027-portland/",
+   "category": "industry",
+   "source": "confs.tech",
+   "start": "2027-05-05",
+   "end": "2027-05-06",
+   "location": "Portland, OR, U.S.A.",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "data",
+    "leadership"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "enterprise-ai-summit-2027",
+   "region": "North America",
+   "state": "Oregon"
   },
   {
    "name": "Re:Build",
@@ -9638,8 +9865,8 @@
    "location": "Seville, Spain",
    "country": "Spain",
    "online": false,
-   "deadline": "2026-11-15",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Software Eng."
@@ -9982,7 +10209,7 @@
    "state": ""
   },
   {
-   "name": "GopherCon Europe",
+   "name": "GopherCon Europe + HeyAI",
    "url": "https://www.gophercon.eu",
    "category": "industry",
    "source": "confs.tech",
@@ -10003,8 +10230,8 @@
    "notes": "",
    "funding": "",
    "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "gophercon-europe-2027",
+   "first_seen": "2026-11-16",
+   "id": "gophercon-europe-heyai-2027",
    "region": "Europe",
    "state": ""
   },
@@ -11469,8 +11696,8 @@
    "location": "Riocentro, Rio de Janeiro, Brazil",
    "country": "Brazil",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2027-01-22",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "AI/ML"
@@ -11644,7 +11871,7 @@
    "location": "Kuala Lumpur, Malaysia",
    "country": "Malaysia",
    "online": false,
-   "deadline": "2026-11-15",
+   "deadline": "2027-03-05",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -11944,7 +12171,7 @@
    "location": "Amsterdam, Netherlands",
    "country": "Netherlands",
    "online": false,
-   "deadline": "2026-11-15",
+   "deadline": "2026-12-01",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -13151,6 +13378,31 @@
    "id": "brewing-codes-4-0-2028",
    "region": "Online",
    "state": ""
+  },
+  {
+   "name": "NSDI 2028",
+   "url": "https://www.usenix.org/conferences/byname/178",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2028-05-09",
+   "end": "2028-05-11",
+   "location": "Santa Clara, CA, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Networking"
+   ],
+   "rank": "CCF A",
+   "notes": "USENIX Symposium on Networked Systems Design and Implementation",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-16",
+   "id": "nsdi-2028",
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "AfroTech Conference",
