@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Asia
 
-93 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (202) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (168) · [Asia](asia.md) (93) · [Middle East & Africa](middle-east-africa.md) (5) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+90 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (201) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (162) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (16) · [Online](online.md) (38) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 16, 2026_
+_Last updated: November 17, 2026_
 
 ## 🖥️ CS & Tech Student Conferences
 
@@ -16,10 +16,9 @@ _Last updated: November 16, 2026_
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[Diwali Festiverse: The Agent-to-Agent Hackathon (India Edition)](https://theagent-to-agent-hackathon.devpost.com/)** 🆕 | Nov 17–24, 2026 | Bengaluru, Karnataka, India (OJone Building, Bengaluru.) | — | In-person, DevOps, Machine Learning/AI, $700 in prizes |
 | **[Pixelforge](https://pixel-forge-gamethon.devpost.com/)** 🆕 | Nov 19–20, 2026 | Badamanavarathekaval, Karnataka, India (Dayananda sagar academy) | — | In-person, Design, Gaming |
 | **[Blackout 2026](https://blackout-2026.devpost.com/)** | Nov 28, 2026 | Coimbatore, Tamil Nadu, India | — | In-person, Machine Learning/AI, Open Ended, $5,000 in prizes |
-| **[The Dawn of Superintelligence \| Kaya AI Grand Challenge ](https://kaya-ai-grand-challenge.devpost.com/)** 🆕 | Nov 29 – Dec 6, 2026 | Mumbai, Maharashtra, India | — | In-person, IoT, Machine Learning/AI, $3,000 in prizes |
+| **[The Dawn of Superintelligence \| Kaya AI Grand Challenge ](https://kaya-ai-grand-challenge.devpost.com/)** | Nov 29 – Dec 6, 2026 | Mumbai, Maharashtra, India | — | In-person, IoT, Machine Learning/AI, $3,000 in prizes |
 | **[BeachHack Season 8](https://www.beachhack.in/)** 🆕 | Feb 5–7, 2027 | Thrissur, Kerala | — | In-person, Software, MLH |
 | **[NTU Beyond Binary Techathon 2027](https://ntu-beyond-binary-2027.devpost.com/)** | Feb 9–13, 2027 | Singapore | — | In-person, Beginner Friendly, Machine Learning/AI, $10,000 in prizes |
 | **[checkpoint journeys — hanoi](https://checkpoint-journeys-hanoi.devpost.com/)** 🆕 | Mar 19–20, 2027 | Hà Đông, Hà Nội, Vietnam (True North International School) | — | In-person, Beginner Friendly, Open Ended, $7,916 in prizes |
@@ -30,8 +29,6 @@ _Last updated: November 16, 2026_
 
 | Conference | Area | Rank | Dates | Location | Next deadline |
 |---|---|---|---|---|---|
-| **[ICCD 2026](https://www.iccd-conf.com/2026/home.html)** | Systems/Architecture | CCF B · CORE C | Nov 16–18, 2026 | Hong Kong SAR, China | — |
-| **[SIGOPS ATC 2026](https://sigops.org/s/conferences/atc/2026/index.html)** | Systems/Architecture | CCF A · CORE A | Nov 16–18, 2026 | Hyatt Hotel, Shatin, Hong Kong, China | — |
 | **[PRICAI 2026](https://2026.pricai.org/)** | AI/ML | CCF C · CORE B | Nov 18–20, 2026 | Guangzhou, China | — |
 | **[SoCC 2026](https://acmsocc.org/2026/)** | Systems/Architecture | CCF B | Nov 18–20, 2026 | Singapore | — |
 | **[ICPADS 2026](https://www.cloud-conf.net/icpads2026)** | Systems/Architecture | CCF C · CORE B | Nov 22–26, 2026 | Tokyo, Japan | — |
@@ -59,19 +56,19 @@ _Last updated: November 16, 2026_
 | **[MMM 2027](https://www.mmm2027.net/)** | Graphics/Multimedia | CCF C · CORE B | Jan 5–8, 2027 | Siem Reap, Cambodia | — |
 | **[IFIP WG 11.9 2027](https://www.ifip119.org/Conferences/)** | Security | CCF C | Jan 7–8, 2027 | New Delhi, India | — |
 | **[ASP-DAC 2027](https://www.aspdac.com/aspdac2027/)** | Systems/Architecture | CCF C · CORE B | Jan 25–28, 2027 | Hitotsubashi Hall, Tokyo, Japan | — |
-| **[WSDM 2027](https://wsdm-conference.org/2027/)** | Databases/Data Mining | CCF B · CORE A | Feb 15–19, 2027 | Cordis, Hong Kong SAR, China | Paper: Nov 17 ⏰ 1d |
+| **[WSDM 2027](https://wsdm-conference.org/2027/)** | Databases/Data Mining | CCF B · CORE A | Feb 15–19, 2027 | Cordis, Hong Kong SAR, China | Paper: Nov 17 ⏰ 0d |
 | **[PKC 2027](https://pkc.iacr.org/2027/)** | Security | CCF B · CORE B | Mar 1–4, 2027 | Taipei, Taiwan | — |
 | **[PerCom 2027](https://percom.org/)** | HCI | CCF B · CORE A* | Mar 8–12, 2027 | Goa, India | — |
 | **[NDSS 2027](https://www.ndss-symposium.org/ndss2027/)** | Security | CCF A · CORE A* | Mar 22–26, 2027 | Seoul, Republic of Korea | — |
 | **[CPAL 2027](https://cpal.cc/)** | AI/ML | — | Mar 23–26, 2027 | Tokyo, Japan | Paper: Dec 5 |
 | **[ISPD 2027](https://ispd.cc/ispd2027/)** | Systems/Architecture | CCF C | Mar 30 – Apr 2, 2027 | Taipei, Taiwan | — |
-| **[BlockSys 2027](https://blocksys.info/2027/)** | Security | CCF C | Apr 9–11, 2027 | Foshan, China | Paper: Nov 30 ⏰ 14d |
+| **[BlockSys 2027](https://blocksys.info/2027/)** | Security | CCF C | Apr 9–11, 2027 | Foshan, China | Paper: Nov 30 ⏰ 13d |
 | **[CVM 2027](http://iccvm.org/2027/)** | Graphics/Multimedia | CCF C | Apr 9–11, 2027 | Nanyang Technological University, Singapore | — |
 | **[PacificVis 2027](https://pacificvis2027.github.io/)** | Graphics/Multimedia | CCF C · CORE B | Apr 19–22, 2027 | Busan, South Korea | — |
 | **[AAMAS 2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)** | AI/ML | CCF B · CORE A* | May 3–7, 2027 | Hanoi, Vietnam | Paper: Dec 11 |
 | **[ICRA 2027](https://2027.ieee-icra.org/)** | AI/ML | CCF B · CORE A* | May 24–28, 2027 | Seoul, Republic of Korea | — |
-| **[DASFAA 2027](https://dasfaa2027.github.io/)** | Databases/Data Mining | CCF B · CORE B | May 27–30, 2027 | Shenyang, China | Paper: Nov 25 ⏰ 9d |
-| **[CASA 2027](https://www.cgs-network.org/casaxr27/)** 🆕 | Graphics/Multimedia | CCF C | Jun 4–6, 2027 | Xi'an, China | Paper: Feb 4 |
+| **[DASFAA 2027](https://dasfaa2027.github.io/)** | Databases/Data Mining | CCF B · CORE B | May 27–30, 2027 | Shenyang, China | Paper: Nov 25 ⏰ 8d |
+| **[CASA 2027](https://www.cgs-network.org/casaxr27/)** | Graphics/Multimedia | CCF C | Jun 4–6, 2027 | Xi'an, China | Paper: Feb 4 |
 | **[ICMR 2027](https://www.icmr2027.org/)** | Graphics/Multimedia | CCF B · CORE B | Jun 7–10, 2027 | Singapore | Paper: Jan 31 |
 | **[EASE 2027](https://conf.researchr.org/home/ease-2027)** | Software Eng. | CCF C · CORE A | Jun 15–18, 2027 | Hanoi, Vietnam | Paper: Jan 22 |
 | **[GMP 2027](https://gmp-conference-2027.github.io/gmp2027/)** | Graphics/Multimedia | CCF C · CORE C | Jun 21–25, 2027 | Singapore | Paper: Dec 21 |
