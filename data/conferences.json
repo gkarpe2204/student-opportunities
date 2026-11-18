@@ -1,107 +1,7 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "count": 544,
  "conferences": [
-  {
-   "name": "betterCode() .NET 11.0",
-   "url": "https://net.bettercode.eu",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "location": "Online",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "dotnet"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "bettercode-net-11-0-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "DuckDB × MySQL Day",
-   "url": "https://oursqlfoundation.org/events/duckdb-mysql-day",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-17",
-   "end": "2026-11-17",
-   "location": "Online",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-16",
-   "id": "duckdb-mysql-day-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "Open Source Monitoring conference",
-   "url": "https://osmc.de",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-17",
-   "end": "2026-11-19",
-   "location": "Nürnberg, Germany",
-   "country": "Germany",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://osmc.de/call-for-papers",
-   "topics": [
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "open-source-monitoring-conference-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "React Summit US",
-   "url": "https://reactsummit.us",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-17",
-   "end": "2026-11-20",
-   "location": "New York, NY, U.S.A.",
-   "country": "United States",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://gitnation.com/events/react-summit-us-2026/cfp",
-   "topics": [
-    "javascript"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "react-summit-us-2026",
-   "region": "North America",
-   "state": "New York"
-  },
   {
    "name": "ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)",
    "url": "https://abrcms.org",
@@ -207,34 +107,6 @@
    "state": ""
   },
   {
-   "name": "OBSCURA: Satellite AI Research Challenge",
-   "url": "https://obscura.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-18",
-   "end": "2026-11-24",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Education",
-    "Machine Learning/AI",
-    "$50 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by BTAJI CREW",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "obscura-satellite-ai-research-challenge-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
    "name": "PRICAI 2026",
    "url": "https://2026.pricai.org/",
    "category": "academic",
@@ -258,34 +130,6 @@
    "id": "pricai-2026",
    "region": "Asia",
    "state": ""
-  },
-  {
-   "name": "RAMHACK Mini 2026",
-   "url": "https://ramhack-mini-2026.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-18",
-   "end": "2026-11-18",
-   "location": "New York, NY (Fordham University at Lincoln Center)",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Fintech",
-    "Productivity",
-    "$470 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Fordham University",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-16",
-   "id": "ramhack-mini-2026",
-   "region": "North America",
-   "state": "New York"
   },
   {
    "name": "SMBP FinHack",
@@ -491,33 +335,6 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "crosspointx-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "CSAIC Hack-AI-Thon",
-   "url": "https://csaic-hackaithon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-20",
-   "end": "2026-11-24",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Education",
-    "Machine Learning/AI"
-   ],
-   "rank": "",
-   "notes": "Hosted by Computer Science and AI Circle @ IISH",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-12",
-   "id": "csaic-hack-ai-thon-2026",
    "region": "Online",
    "state": ""
   },
@@ -3444,6 +3261,61 @@
    "state": ""
   },
   {
+   "name": "CSAIC Hack-AI-Thon",
+   "url": "https://csaic-hackaithon.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-01-08",
+   "end": "2027-01-11",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Education",
+    "Machine Learning/AI"
+   ],
+   "rank": "",
+   "notes": "Hosted by Computer Science and AI Circle @ IISH",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "csaic-hack-ai-thon-2027",
+   "region": "Online",
+   "state": ""
+  },
+  {
+   "name": "Hack Canada 2027",
+   "url": "https://hackcanada.org",
+   "category": "hackathon",
+   "source": "mlh",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "location": "Toronto, Ontario",
+   "country": "Canada",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Software",
+    "Hardware",
+    "MLH"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "hack-canada-2027",
+   "region": "North America",
+   "state": ""
+  },
+  {
    "name": "United Hacks V8",
    "url": "https://unitedhacksv8.devpost.com/",
    "category": "hackathon",
@@ -4116,6 +3988,34 @@
    "state": ""
   },
   {
+   "name": "Launchly Project Sprint",
+   "url": "https://launchlyp.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2027-01-27",
+   "end": "2027-02-24",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Open Ended",
+    "$1,500 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Launchly",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "launchly-project-sprint-2027",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "ElleHacks",
    "url": "https://ellehacks.com/",
    "category": "hackathon",
@@ -4585,6 +4485,9 @@
    "deadline_url": "",
    "topics": [
     "In-person",
+    "Software",
+    "Diversity",
+    "Beginner",
     "MLH"
    ],
    "rank": "",
@@ -4840,8 +4743,8 @@
    "location": "Cordis, Hong Kong SAR, China",
    "country": "China",
    "online": false,
-   "deadline": "2026-11-17",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Databases/Data Mining"
@@ -5476,6 +5379,8 @@
    "deadline_url": "",
    "topics": [
     "In-person",
+    "Software",
+    "AI",
     "MLH"
    ],
    "rank": "",
@@ -8203,6 +8108,31 @@
    "state": "California"
   },
   {
+   "name": "ICSE-CHASE 2027",
+   "url": "https://conf.researchr.org/home/chase-2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-04-26",
+   "end": "2027-04-27",
+   "location": "Dublin, Ireland",
+   "country": "Ireland",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CORE B",
+   "notes": "International Conference on Cooperative and Human Aspects of Software Engineering",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "icse-chase-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
    "name": "JCON EUROPE",
    "url": "https://2027.europe.jcon.one",
    "category": "industry",
@@ -8655,6 +8585,32 @@
    "state": ""
   },
   {
+   "name": "PyCon US",
+   "url": "https://us.pycon.org",
+   "category": "tech",
+   "source": "watchlist",
+   "start": "2027-05-12",
+   "end": "2027-05-18",
+   "location": "Long Beach, CA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2026-12-19",
+   "deadline_label": "Deadline ⚠️",
+   "deadline_url": "",
+   "topics": [
+    "Python",
+    "Student travel grants"
+   ],
+   "rank": "",
+   "notes": "Expected May 2027; talk proposals usually close mid-December",
+   "funding": "",
+   "dates_auto": true,
+   "first_seen": "2026-11-18",
+   "id": "pycon-us-2027",
+   "region": "North America",
+   "state": "California"
+  },
+  {
    "name": "Agentic Ateliers",
    "url": "https://ateliers.design/agentic",
    "category": "industry",
@@ -8864,8 +8820,8 @@
    "location": "MONTREAL, CANADA",
    "country": "Canada",
    "online": false,
-   "deadline": "2026-11-17",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Security"
@@ -9972,7 +9928,7 @@
    "location": "Fort Collins, Colorado, USA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-23",
+   "deadline": "2026-12-07",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -10843,6 +10799,31 @@
    "state": ""
   },
   {
+   "name": "SIGOPS ATC 2027",
+   "url": "https://atc.sigops.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-28",
+   "end": "2027-07-01",
+   "location": "Rennes, France",
+   "country": "France",
+   "online": false,
+   "deadline": "2027-01-19",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Systems/Architecture"
+   ],
+   "rank": "CCF A · CORE A",
+   "notes": "ACM SIGOPS Annual Technical Conference",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "sigops-atc-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
    "name": "PAKDD 2027",
    "url": "https://www.pakdd2027.org/",
    "category": "academic",
@@ -10852,7 +10833,7 @@
    "location": "Wellington, New Zealand",
    "country": "New Zealand",
    "online": false,
-   "deadline": "2026-11-20",
+   "deadline": "2026-12-04",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -12838,7 +12819,7 @@
    "location": "Atlanta, GA, USA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-17",
+   "deadline": "2027-04-07",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -12930,6 +12911,31 @@
    "id": "swe-we27-annual-conference-2027",
    "region": "North America",
    "state": "Colorado"
+  },
+  {
+   "name": "ACM MM 2027",
+   "url": "https://2027.acmmm.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-11-08",
+   "end": "2027-11-12",
+   "location": "Hong Kong SAR, China",
+   "country": "China",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Graphics/Multimedia"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "ACM International Conference on Multimedia",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "acm-mm-2027",
+   "region": "Asia",
+   "state": ""
   },
   {
    "name": "W-JAX",
@@ -13130,6 +13136,31 @@
    "first_seen": "2026-11-07",
    "id": "it-security-summit-munich-2027",
    "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "Middleware 2027",
+   "url": "https://middleware-conf.github.io/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-12-13",
+   "end": "2027-12-17",
+   "location": "Kyoto, Japan",
+   "country": "Japan",
+   "online": false,
+   "deadline": "2026-12-04",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CCF B · CORE A",
+   "notes": "International Middleware Conference",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-18",
+   "id": "middleware-2027",
+   "region": "Asia",
    "state": ""
   },
   {
@@ -13806,32 +13837,6 @@
    "id": "prospanica-conference-career-expo-tba",
    "region": "Location TBA",
    "state": ""
-  },
-  {
-   "name": "PyCon US",
-   "url": "https://us.pycon.org",
-   "category": "tech",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "Long Beach, CA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Python",
-    "Student travel grants"
-   ],
-   "rank": "",
-   "notes": "Expected May 2027; talk proposals usually close mid-December",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "pycon-us-tba",
-   "region": "North America",
-   "state": "California"
   },
   {
    "name": "Reaching Out MBA (ROMBA) Conference",
