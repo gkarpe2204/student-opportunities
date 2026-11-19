@@ -1,14 +1,13 @@
 # 🌍 Student opportunities — Online
 
-36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (200) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (92) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (16) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+36 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (201) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (166) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 18, 2026_
+_Last updated: November 19, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[SMBP FinHack](https://smbp-finhack.devpost.com/)** 🆕 | Nov 18–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Fintech |
 | **[CrossPointX 2026](https://cpx2026.devpost.com/)** | Nov 20–22, 2026 | 🌐 Online | — | Online, Beginner Friendly, Design |
 | **[EvoHacks 2](https://evohacks2.devpost.com/)** 🆕 | Nov 21–22, 2026 | 🌐 Online | — | Online, Beginner Friendly, Low/No Code, $27,629 in prizes |
 | **[Game On Night – Imagine the Impossible](https://game-on-night.devpost.com/)** 🆕 | Nov 21, 2026 | 🌐 Online | — | Online, Design |
@@ -21,6 +20,7 @@ _Last updated: November 18, 2026_
 | **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** | Dec 10–18, 2026 | 🌐 Online | — | Online, Education, $3,260 in prizes |
 | **[Syntax Hacks 2026](https://syntax-hacks-2026.devpost.com/)** 🆕 | Dec 14, 2026 – Jan 17, 2027 | 🌐 Online | — | Online, Open Ended |
 | **[OVO Hack 48](https://ovo-hack-48.devpost.com/)** 🆕 | Dec 18–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
+| **[CodeTheCure Winter Hackathon](https://codethecure-winter-hackathon.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 6, 2027 | 🌐 Online | — | Online, Education, Health |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,770 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
 | **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $11,960 in prizes |

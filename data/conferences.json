@@ -1,188 +1,7 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "count": 544,
  "conferences": [
-  {
-   "name": "ABRCMS (Annual Biomedical Research Conference for Minoritized Scientists)",
-   "url": "https://abrcms.org",
-   "category": "premed",
-   "source": "watchlist",
-   "start": "2026-11-18",
-   "end": "2026-11-21",
-   "location": "Seattle, WA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Undergrad research",
-    "Biomedical"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "Travel awards (registration, housing, travel) for first-time student presenters",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "abrcms-annual-biomedical-research-conference-for-minoritized-scientists-2026",
-   "region": "North America",
-   "state": "Washington"
-  },
-  {
-   "name": "ASF Community Over Code / ChurConf",
-   "url": "https://au.churconf.com",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "location": "Sidney, Australia",
-   "country": "Australia",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://tinyurl.com/asfchurconfcfp",
-   "topics": [
-    "java",
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "asf-community-over-code-churconf-2026",
-   "region": "Oceania",
-   "state": ""
-  },
-  {
-   "name": "Community Over Code Sydney",
-   "url": "https://communityovercode.apache.org/events/sydney-2026",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-18",
-   "end": "2026-11-19",
-   "location": "Sydney, Australia",
-   "country": "Australia",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "data",
-    "java",
-    "opensource"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "community-over-code-sydney-2026",
-   "region": "Oceania",
-   "state": ""
-  },
-  {
-   "name": "ICFEM 2026",
-   "url": "https://icfem2026.github.io/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "location": "Southampton, UK",
-   "country": "United Kingdom",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Software Eng."
-   ],
-   "rank": "CCF C · CORE C",
-   "notes": "International Conference on Formal Engineering Methods",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "icfem-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "PRICAI 2026",
-   "url": "https://2026.pricai.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "location": "Guangzhou, China",
-   "country": "China",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF C · CORE B",
-   "notes": "Pacific Rim International Conference on Artificial Intelligence",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "pricai-2026",
-   "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "SMBP FinHack",
-   "url": "https://smbp-finhack.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Fintech"
-   ],
-   "rank": "",
-   "notes": "Hosted by Small Money, Big Plan",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-17",
-   "id": "smbp-finhack-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "SoCC 2026",
-   "url": "https://acmsocc.org/2026/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-18",
-   "end": "2026-11-20",
-   "location": "Singapore",
-   "country": "Singapore",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Systems/Architecture"
-   ],
-   "rank": "CCF B",
-   "notes": "ACM Symposium on Cloud Computing",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "socc-2026",
-   "region": "Asia",
-   "state": ""
-  },
   {
    "name": "inside agile Product Owner Day",
    "url": "https://pod.inside-agile.de",
@@ -415,6 +234,34 @@
    "first_seen": "2026-11-07",
    "id": "log-2026",
    "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "rookie hacks",
+   "url": "https://rookie-hacks.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-20",
+   "end": "2026-11-20",
+   "location": "Helsinki, Finland",
+   "country": "Finland",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Low/No Code",
+    "$50,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by IBM",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "rookie-hacks-2026",
+   "region": "Europe",
    "state": ""
   },
   {
@@ -2170,7 +2017,7 @@
     "In-person",
     "Machine Learning/AI",
     "Productivity",
-    "$CAD 24,957 in prizes"
+    "$CAD 25,000 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by Stan",
@@ -3000,6 +2847,33 @@
    "state": ""
   },
   {
+   "name": "CodeTheCure Winter Hackathon",
+   "url": "https://codethecure-winter-hackathon.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-19",
+   "end": "2027-01-06",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Education",
+    "Health"
+   ],
+   "rank": "",
+   "notes": "Hosted by CodeTheCure",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "codethecure-winter-hackathon-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "Cosmo Hacks 2026",
    "url": "https://cosmohacks.devpost.com/",
    "category": "hackathon",
@@ -3820,6 +3694,8 @@
    "deadline_url": "",
    "topics": [
     "In-person",
+    "Software",
+    "Hardware",
     "MLH"
    ],
    "rank": "",
@@ -5578,6 +5454,31 @@
    "id": "tech-to-treasure-hackathon-2027",
    "region": "North America",
    "state": "California"
+  },
+  {
+   "name": "APAMSA National Conference",
+   "url": "https://www.apamsa.org",
+   "category": "premed",
+   "source": "watchlist",
+   "start": "2027-03-05",
+   "end": "2027-03-06",
+   "location": "",
+   "country": "Location TBA",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Asian Pacific American med & pre-med students"
+   ],
+   "rank": "",
+   "notes": "Usually early March",
+   "funding": "",
+   "dates_auto": true,
+   "first_seen": "2026-11-19",
+   "id": "apamsa-national-conference-2027",
+   "region": "Location TBA",
+   "state": ""
   },
   {
    "name": "Hack the Galaxy",
@@ -8385,6 +8286,31 @@
    "state": ""
   },
   {
+   "name": "ISPASS 2027",
+   "url": "https://ispass.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-05-09",
+   "end": "2027-05-11",
+   "location": "New York City, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2026-12-18",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CCF C · CORE B",
+   "notes": "International Symposium on Performance Analysis of Systems and Software",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "ispass-2027",
+   "region": "North America",
+   "state": ""
+  },
+  {
    "name": "CHI 2027",
    "url": "https://chi2027.acm.org/",
    "category": "academic",
@@ -9161,6 +9087,31 @@
    "state": "California"
   },
   {
+   "name": "CF 2027",
+   "url": "https://www.computingfrontiers.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-05-25",
+   "end": "2027-05-27",
+   "location": "Trento, Italy",
+   "country": "Italy",
+   "online": false,
+   "deadline": "2027-01-25",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Systems/Architecture"
+   ],
+   "rank": "CCF C",
+   "notes": "ACM International Conference on Computing Frontiers",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "cf-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
    "name": "CSCWD 2027",
    "url": "http://2027.cscwd.org",
    "category": "academic",
@@ -9668,6 +9619,31 @@
    "state": ""
   },
   {
+   "name": "HPDC 2027",
+   "url": "https://hpdc.sci.utah.edu/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-07",
+   "end": "2027-06-09",
+   "location": "Atlanta, GA, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2027-01-18",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Systems/Architecture"
+   ],
+   "rank": "CCF A · CORE A",
+   "notes": "ACM Symposium on High-Performance Parallel and Distributed Computing",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "hpdc-2027",
+   "region": "North America",
+   "state": "Georgia"
+  },
+  {
    "name": "ICMR 2027",
    "url": "https://www.icmr2027.org/",
    "category": "academic",
@@ -9865,6 +9841,31 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "ai-in-production-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
+   "name": "Networking 2027",
+   "url": "https://networking.ifip.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-13",
+   "end": "2027-06-16",
+   "location": "Dublin, Ireland",
+   "country": "Ireland",
+   "online": false,
+   "deadline": "2027-01-22",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Networking"
+   ],
+   "rank": "CCF C · CORE B",
+   "notes": "IFIP International Conference on Networking",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "networking-2027",
    "region": "Europe",
    "state": ""
   },
@@ -10308,8 +10309,8 @@
    "location": "MontrÃ©al, Canada",
    "country": "Canada",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2027-01-21",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "Theory"
@@ -10958,8 +10959,8 @@
    "location": "Melbourne, Australia",
    "country": "Australia",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2027-01-13",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "Systems/Architecture"
@@ -11083,8 +11084,8 @@
    "location": "San Jose, CA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-18",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Systems/Architecture"
@@ -11274,31 +11275,6 @@
    "state": ""
   },
   {
-   "name": "SIGIR 2027",
-   "url": "https://sigir2027.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-07-18",
-   "end": "2027-07-24",
-   "location": "San Jose, California, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": "2027-01-21",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "Databases/Data Mining"
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "International Conference on Research on Development in Information Retrieval",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "sigir-2027",
-   "region": "North America",
-   "state": "California"
-  },
-  {
    "name": "CCC 2027",
    "url": "https://computationalcomplexity.org/",
    "category": "academic",
@@ -11372,6 +11348,31 @@
    "id": "sacmat-2027",
    "region": "Europe",
    "state": ""
+  },
+  {
+   "name": "SIGIR 2027",
+   "url": "https://sigir2027.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-07-20",
+   "end": "2027-07-22",
+   "location": "San Jose, California, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2027-01-21",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Databases/Data Mining"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "International Conference on Research on Development in Information Retrieval",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "sigir-2027",
+   "region": "North America",
+   "state": "California"
   },
   {
    "name": "CAV 2027",
@@ -11899,6 +11900,31 @@
    "state": ""
   },
   {
+   "name": "ECAF 2027",
+   "url": "https://2027.ecafconference.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-08-25",
+   "end": "2027-08-27",
+   "location": "Vilnius, Lithuania",
+   "country": "Lithuania",
+   "online": false,
+   "deadline": "2027-03-25",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "",
+   "notes": "European Conference on Algorithmic Fairness",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-19",
+   "id": "ecaf-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
    "name": "APWeb-WAIM 2027",
    "url": "https://conferences.sigappfr.org/apweb2027/",
    "category": "academic",
@@ -12086,7 +12112,7 @@
    "location": "Toronto, Canada",
    "country": "Canada",
    "online": false,
-   "deadline": "2027-03-05",
+   "deadline": "2027-02-26",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -13316,31 +13342,6 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "alpfa-convention-tba",
-   "region": "Location TBA",
-   "state": ""
-  },
-  {
-   "name": "APAMSA National Conference",
-   "url": "https://www.apamsa.org",
-   "category": "premed",
-   "source": "watchlist",
-   "start": null,
-   "end": null,
-   "location": "",
-   "country": "Location TBA",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Asian Pacific American med & pre-med students"
-   ],
-   "rank": "",
-   "notes": "Usually early March",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "apamsa-national-conference-tba",
    "region": "Location TBA",
    "state": ""
   },
