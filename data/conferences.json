@@ -1,110 +1,7 @@
 {
- "updated": "2026-11-19",
- "count": 544,
+ "updated": "2026-11-20",
+ "count": 543,
  "conferences": [
-  {
-   "name": "inside agile Product Owner Day",
-   "url": "https://pod.inside-agile.de",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-19",
-   "end": "2026-11-19",
-   "location": "Online",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "product"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "inside-agile-product-owner-day-2026",
-   "region": "Online",
-   "state": ""
-  },
-  {
-   "name": "Pixelforge",
-   "url": "https://pixel-forge-gamethon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "location": "Badamanavarathekaval, Karnataka, India (Dayananda sagar academy)",
-   "country": "India",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Design",
-    "Gaming"
-   ],
-   "rank": "",
-   "notes": "Hosted by Dayananda sagar academy of technology an",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-12",
-   "id": "pixelforge-2026",
-   "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "SDM 2026",
-   "url": "https://www.siam.org/conferences-events/siam-conferences/sdm26/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2026-11-19",
-   "end": "2026-11-20",
-   "location": "Salt Lake City, Utah, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Databases/Data Mining"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "SIAM International Conference on Data Mining",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "sdm-2026",
-   "region": "North America",
-   "state": "Utah"
-  },
-  {
-   "name": "X-Ops Conference Madrid",
-   "url": "https://xopsconference.com",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-19",
-   "end": "2026-11-21",
-   "location": "Madrid, Spain",
-   "country": "Spain",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://sessionize.com/x-ops-conference-2026",
-   "topics": [
-    "security",
-    "devops"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "x-ops-conference-madrid-2026",
-   "region": "Europe",
-   "state": ""
-  },
   {
    "name": "Agentic Engineering Days Zurich",
    "url": "https://www.agenticdays.com",
@@ -237,14 +134,14 @@
    "state": ""
   },
   {
-   "name": "rookie hacks",
-   "url": "https://rookie-hacks.devpost.com/",
+   "name": "TUJ Fall 2026 Hackathon",
+   "url": "https://tuj-fall-2026-hackathon.devpost.com/",
    "category": "hackathon",
    "source": "devpost",
    "start": "2026-11-20",
-   "end": "2026-11-20",
-   "location": "Helsinki, Finland",
-   "country": "Finland",
+   "end": "2026-11-22",
+   "location": "Setagaya City, Tokyo, Japan (Temple University Japan, City Campus)",
+   "country": "Japan",
    "online": false,
    "deadline": null,
    "deadline_label": "",
@@ -252,16 +149,15 @@
    "topics": [
     "In-person",
     "Beginner Friendly",
-    "Low/No Code",
-    "$50,000 in prizes"
+    "Education"
    ],
    "rank": "",
-   "notes": "Hosted by IBM",
+   "notes": "Hosted by TUJ Computer Science Academic Society",
    "funding": "",
    "dates_auto": false,
-   "first_seen": "2026-11-19",
-   "id": "rookie-hacks-2026",
-   "region": "Europe",
+   "first_seen": "2026-11-20",
+   "id": "tuj-fall-hackathon-2026",
+   "region": "Asia",
    "state": ""
   },
   {
@@ -842,6 +738,34 @@
    "state": ""
   },
   {
+   "name": "STEM Innovation Challenge 2026",
+   "url": "https://stem-innovation-challenge-2026.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-24",
+   "end": "2026-11-27",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Open Ended",
+    "$200 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Global STEM Innovation Initiative",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-20",
+   "id": "stem-innovation-challenge-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "AI World Congress",
    "url": "https://aiconference.london",
    "category": "industry",
@@ -1040,7 +964,8 @@
    "topics": [
     "In-person",
     "Beginner Friendly",
-    "Machine Learning/AI"
+    "Machine Learning/AI",
+    "£1,000 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by Durham College",
@@ -1810,7 +1735,8 @@
    "deadline_url": "",
    "topics": [
     "Online",
-    "Machine Learning/AI"
+    "Machine Learning/AI",
+    "Beginner Friendly"
    ],
    "rank": "",
    "notes": "Hosted by LoveHack",
@@ -2890,7 +2816,7 @@
     "Online",
     "Beginner Friendly",
     "Open Ended",
-    "$146,770 in prizes"
+    "$146,805 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by Cosmo Hacks",
@@ -3403,8 +3329,8 @@
    "location": "San Francisco, CA, U.S.A.",
    "country": "United States",
    "online": false,
-   "deadline": "2026-11-19",
-   "deadline_label": "CFP",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "https://upstream.snowxa.com/submissions",
    "topics": [
     "opensource"
@@ -4347,35 +4273,6 @@
    "state": "North Carolina"
   },
   {
-   "name": "InnovateHer",
-   "url": "https://innovateherhacks.org/",
-   "category": "hackathon",
-   "source": "mlh",
-   "start": "2027-02-06",
-   "end": "2027-02-07",
-   "location": "West Lafayette, Indiana",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Software",
-    "Diversity",
-    "Beginner",
-    "MLH"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "innovateher-2027",
-   "region": "North America",
-   "state": "Indiana"
-  },
-  {
    "name": "SpartaHack",
    "url": "https://www.spartahack.com/",
    "category": "hackathon",
@@ -4557,6 +4454,35 @@
    "state": "California"
   },
   {
+   "name": "InnovateHer",
+   "url": "https://innovateherhacks.org/",
+   "category": "hackathon",
+   "source": "mlh",
+   "start": "2027-02-13",
+   "end": "2027-02-14",
+   "location": "West Lafayette, Indiana",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Software",
+    "Diversity",
+    "Beginner",
+    "MLH"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "innovateher-2027",
+   "region": "North America",
+   "state": "Indiana"
+  },
+  {
    "name": "MakeUofT",
    "url": "http://makeuoft.ca/",
    "category": "hackathon",
@@ -4610,31 +4536,6 @@
    "state": ""
   },
   {
-   "name": "WSDM 2027",
-   "url": "https://wsdm-conference.org/2027/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-02-15",
-   "end": "2027-02-19",
-   "location": "Cordis, Hong Kong SAR, China",
-   "country": "China",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Databases/Data Mining"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "International Conference on Web Search and Data Mining",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "wsdm-2027",
-   "region": "Asia",
-   "state": ""
-  },
-  {
    "name": "AAAI 2027",
    "url": "https://aaai.org/conference/aaai/aaai-27/",
    "category": "academic",
@@ -4657,6 +4558,31 @@
    "first_seen": "2026-11-07",
    "id": "aaai-2027",
    "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "WSDM 2027",
+   "url": "https://wsdm-conference.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-02-16",
+   "end": "2027-02-18",
+   "location": "Cordis, Hong Kong SAR, China",
+   "country": "China",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Databases/Data Mining"
+   ],
+   "rank": "CCF B · CORE A",
+   "notes": "International Conference on Web Search and Data Mining",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "wsdm-2027",
+   "region": "Asia",
    "state": ""
   },
   {
@@ -5748,8 +5674,8 @@
    "location": "Valencia, Spain",
    "country": "Spain",
    "online": true,
-   "deadline": "2026-11-19",
-   "deadline_label": "CFP",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "https://iated.org/inted/call_for_abstracts",
    "topics": [
     "general"
@@ -6542,7 +6468,7 @@
    "topics": [
     "In-person",
     "Beginner Friendly",
-    "Low/No Code"
+    "IoT"
    ],
    "rank": "",
    "notes": "Hosted by WPI ACM",
@@ -6641,8 +6567,8 @@
    "location": "Ghent, Belgium",
    "country": "Belgium",
    "online": false,
-   "deadline": "2026-11-19",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Networking"
@@ -7230,6 +7156,10 @@
    "deadline_url": "",
    "topics": [
     "In-person",
+    "Software",
+    "Hardware",
+    "Beginner",
+    "High School",
     "MLH"
    ],
    "rank": "",
@@ -7353,7 +7283,7 @@
    "source": "ccfddl",
    "start": "2027-04-11",
    "end": "2027-04-15",
-   "location": "Crete, Greece",
+   "location": "Heraklion, Crete, Greece",
    "country": "Greece",
    "online": false,
    "deadline": null,
@@ -9724,7 +9654,7 @@
    "category": "academic",
    "source": "ccfddl",
    "start": "2027-06-07",
-   "end": "2027-06-11",
+   "end": "2027-06-10",
    "location": "Atlanta, Georgia, USA",
    "country": "United States",
    "online": false,
@@ -10625,31 +10555,6 @@
    "state": "New York"
   },
   {
-   "name": "ICAPS 2027",
-   "url": "https://icaps27.icaps-conference.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-06-27",
-   "end": "2027-07-02",
-   "location": "Columbia, SC, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": "2026-12-14",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF B · CORE A*",
-   "notes": "International Conference on Automated Planning and Scheduling",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "icaps-2027",
-   "region": "North America",
-   "state": "South Carolina"
-  },
-  {
    "name": "ISIT 2027",
    "url": "https://2027.ieee-isit.org/",
    "category": "academic",
@@ -10759,7 +10664,7 @@
    "location": "Turin, Italy",
    "country": "Italy",
    "online": false,
-   "deadline": "2026-11-19",
+   "deadline": "2027-02-11",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -10850,6 +10755,31 @@
    "state": ""
   },
   {
+   "name": "ICAPS 2027",
+   "url": "https://icaps27.icaps-conference.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-06-30",
+   "end": "2027-07-02",
+   "location": "Columbia, SC, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2026-12-14",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF B · CORE A*",
+   "notes": "International Conference on Automated Planning and Scheduling",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "icaps-2027",
+   "region": "North America",
+   "state": "South Carolina"
+  },
+  {
    "name": "CGI 2027",
    "url": "https://cgs-network.org/cgi27/",
    "category": "academic",
@@ -10872,6 +10802,31 @@
    "first_seen": "2026-11-07",
    "id": "cgi-2027",
    "region": "Oceania",
+   "state": ""
+  },
+  {
+   "name": "ECSCW 2027",
+   "url": "https://ecscw.eusset.eu/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-07-05",
+   "end": "2027-07-09",
+   "location": "Limassol, Cyprus",
+   "country": "Cyprus",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "HCI"
+   ],
+   "rank": "CCF B · CORE B",
+   "notes": "European Conference on Computer Supported Cooperative Work",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-20",
+   "id": "ecscw-2027",
+   "region": "Europe",
    "state": ""
   },
   {
@@ -11175,31 +11130,6 @@
    "state": ""
   },
   {
-   "name": "WHC 2027",
-   "url": "https://2027.worldhaptics.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-07-12",
-   "end": "2027-07-15",
-   "location": "Boston, Massachusetts, USA",
-   "country": "United States",
-   "online": false,
-   "deadline": "2027-01-29",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "HCI"
-   ],
-   "rank": "CCF C",
-   "notes": "IEEE World Haptics Conference",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "whc-2027",
-   "region": "North America",
-   "state": "Massachusetts"
-  },
-  {
    "name": "COMPSAC 2027",
    "url": "https://ieeecompsac.computer.org/2027/",
    "category": "academic",
@@ -11248,6 +11178,31 @@
    "id": "icme-2027",
    "region": "Asia",
    "state": ""
+  },
+  {
+   "name": "WHC 2027",
+   "url": "https://2027.worldhaptics.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-07-13",
+   "end": "2027-07-16",
+   "location": "Boston, Massachusetts, USA",
+   "country": "United States",
+   "online": false,
+   "deadline": "2027-02-05",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "HCI"
+   ],
+   "rank": "CCF C",
+   "notes": "IEEE World Haptics Conference",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "whc-2027",
+   "region": "North America",
+   "state": "Massachusetts"
   },
   {
    "name": "ISMB 2027",
@@ -11975,6 +11930,31 @@
    "state": ""
   },
   {
+   "name": "ECML-PKDD 2027",
+   "url": "https://ecmlpkdd.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-08-30",
+   "end": "2027-09-03",
+   "location": "Eindhoven, The Netherlands",
+   "country": "Netherlands",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Databases/Data Mining"
+   ],
+   "rank": "CCF B · CORE A",
+   "notes": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "ecml-pkdd-2027",
+   "region": "Europe",
+   "state": ""
+  },
+  {
    "name": "EUSIPCO 2027",
    "url": "https://eusipco2027.de/",
    "category": "academic",
@@ -12281,31 +12261,6 @@
    "state": ""
   },
   {
-   "name": "ECML-PKDD 2027",
-   "url": "https://ecmlpkdd.org/2027/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-09-20",
-   "end": "2027-09-24",
-   "location": "Eindhoven, The Netherlands",
-   "country": "Netherlands",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Databases/Data Mining"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "European Conference on Machine Learning and 25th Principles and Practice of Knowledge Discovery in Databases",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ecml-pkdd-2027",
-   "region": "Europe",
-   "state": ""
-  },
-  {
    "name": "MobileHCI 2027",
    "url": "https://mobilehci.acm.org/2027/",
    "category": "academic",
@@ -12458,31 +12413,6 @@
    "state": ""
   },
   {
-   "name": "ECAI 2027",
-   "url": "https://ecai2027.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-10-02",
-   "end": "2027-10-07",
-   "location": "Athens, Greece",
-   "country": "Greece",
-   "online": false,
-   "deadline": "2027-04-14",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "AI/ML"
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "European Conference on Artificial Intelligence",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ecai-2027",
-   "region": "Europe",
-   "state": ""
-  },
-  {
    "name": "UbiComp/ISWC 2027",
    "url": "https://sigchi.org/events/ubicomp-2027/",
    "category": "academic",
@@ -12505,6 +12435,31 @@
    "first_seen": "2026-11-07",
    "id": "ubicomp-iswc-2027",
    "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "ECAI 2027",
+   "url": "https://ecai2027.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-10-04",
+   "end": "2027-10-07",
+   "location": "Athens, Greece",
+   "country": "Greece",
+   "online": false,
+   "deadline": "2027-04-14",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "AI/ML"
+   ],
+   "rank": "CCF B · CORE A",
+   "notes": "European Conference on Artificial Intelligence",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "ecai-2027",
+   "region": "Europe",
    "state": ""
   },
   {
@@ -12885,6 +12840,31 @@
    "id": "shpe-national-convention-2027",
    "region": "North America",
    "state": "Utah"
+  },
+  {
+   "name": "UIST 2027",
+   "url": "https://uist.acm.org/2027/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-10-27",
+   "end": "2027-10-29",
+   "location": "VIECON - Vienna Congress & Convention Center, Vienna, Austria",
+   "country": "Austria",
+   "online": false,
+   "deadline": "2027-04-07",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "HCI"
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "ACM Symposium on User Interface Software and Technology",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-20",
+   "id": "uist-2027",
+   "region": "Europe",
+   "state": ""
   },
   {
    "name": "SACNAS National Diversity in STEM Conference",
