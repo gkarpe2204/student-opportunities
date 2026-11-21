@@ -1,15 +1,15 @@
 # 🌍 Student opportunities — North America
 
-200 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (200) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (166) · [Asia](asia.md) (90) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (36) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+196 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (196) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (88) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (34) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 20, 2026_
+_Last updated: November 21, 2026_
 
 ## 🎓 Student & Diversity Conferences
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
 | **[NSBE Annual Convention](https://convention.nsbe.org)** | Mar 31 – Apr 4, 2027 | Boston, MA | — | Black engineers, Career fair |
-| **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** | Apr 12–14, 2027 | Grand Rapids, MI | [Abstracts: Dec 4](https://ncur.secure-platform.com/2027/page/abstract-guidelines) ⏰ 14d | Undergrad research, All fields |
+| **[NCUR (National Conference on Undergraduate Research)](https://www.cur.org/what/events/students/ncur/)** | Apr 12–14, 2027 | Grand Rapids, MI | [Abstracts: Dec 4](https://ncur.secure-platform.com/2027/page/abstract-guidelines) ⏰ 13d | Undergrad research, All fields |
 | **[SASE National Conference](https://saseconnect.org)** | Oct 6–9, 2027 | Seattle, WA | — | Asian heritage scientists & engineers |
 | **[AISES National Conference](https://www.aises.org)** 💰 | Oct 14–16, 2027 | Aurora, CO | — | Indigenous peoples in STEM<br>💰 Travel scholarships for AISES student members |
 | **[SHPE National Convention](https://shpe.org)** | Oct 27–30, 2027 | Salt Lake City, UT | — | Hispanic engineers, Career fair |
@@ -43,7 +43,7 @@ _Last updated: November 20, 2026_
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[AMA International Collegiate Conference](https://www.ama.org)** | Apr 8–10, 2027 | New Orleans, LA | [Case plan due: Dec 4](https://www.ama.org/collegiate-competitions-case/) ⏰ 14d | Marketing, Case competitions |
+| **[AMA International Collegiate Conference](https://www.ama.org)** | Apr 8–10, 2027 | New Orleans, LA | [Case plan due: Dec 4](https://www.ama.org/collegiate-competitions-case/) ⏰ 13d | Marketing, Case competitions |
 | **[Collegiate DECA International Career Development Conference (ICDC)](https://www.deca.org/cicdc)** | Apr 9–12, 2027 | Austin, TX | — | Business competitions, Marketing, Entrepreneurship |
 
 [⬆️ Back to top](#)
@@ -52,14 +52,11 @@ _Last updated: November 20, 2026_
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
-| **[Hack Western 13](https://hackwestern.com)** | Nov 20–22, 2026 | London, Ontario | — | In-person, Software, Hardware, MLH |
 | **[BostonHacks](https://bostonhacks.org/)** | Nov 21–22, 2026 | Boston, MA | — | In-person, MLH |
-| **[Cutie Hack 2026](https://cutie-hack-2026.devpost.com/)** | Nov 21, 2026 | Riverside, CA (UC Riverside - Winston Chung Hall) | — | In-person, Beginner Friendly, Open Ended |
-| **[FutureForge Hacks](https://futureforge-hacks.devpost.com/)** | Nov 21, 2026 | Pleasanton, CA | — | In-person, Education, Machine Learning/AI |
+| **[RT Audit Hack 777](https://rt-audit-hack-777.devpost.com/)** 🆕 | Nov 21–23, 2026 | New York, NY (Test Location) | — | In-person, AR/VR, Beginner Friendly, $100 in prizes |
 | **[Tech For Community 2026](https://tecnurtur.org/hackathon)** | Nov 21–22, 2026 | St. John's, Newfoundland and Labrador / Avalon Peninsula | — | In-person, Software, Hardware, MLH |
-| **[WHACK](https://wellesleyhack-2026.devpost.com/)** 🆕 | Nov 21–22, 2026 | Wellesley, MA (Lulu Chow Wang Campus Center) | — | In-person, Beginner Friendly, Open Ended |
 | **[WHACK (Wellesley Hackathon)](https://www.wellesleyhacks.org/)** | Nov 21–22, 2026 | Wellesley , Massachesetts | — | In-person, Software, MLH |
-| **[Creator Economy Hack - powered by You.com](https://creator-economy-you-hack.devpost.com/)** 🆕 | Nov 22, 2026 | Brooklyn, NY (Whop HQ) | — | In-person, Machine Learning/AI, Web, $500 in prizes |
+| **[Creator Economy Hack - powered by You.com](https://creator-economy-you-hack.devpost.com/)** 🆕 | Nov 22, 2026 | New York, NY (XDC) | — | In-person, Machine Learning/AI, Web, $500 in prizes |
 | **[K-Dub Hacks](https://k-dub-hacks.devpost.com/)** | Nov 27–29, 2026 | Waterloo, ON N2K 0G3, Canada (Spur Innovation Center) | — | In-person, Beginner Friendly, Open Ended, $CAD 403,400 in prizes |
 | **[LooHacks](https://loohacks.devpost.com/)** | Nov 27–29, 2026 | Waterloo, ON N2K 0G3, Canada (Spur Innovation Center - SPUR Campus) | — | In-person, E-commerce/Retail, Enterprise |
 | **[Hack Cats](https://hackkstate.tech/)** | Dec 4–6, 2026 | Manhattan, Kansas | — | In-person, Software, MLH |
@@ -98,7 +95,7 @@ _Last updated: November 20, 2026_
 | **[CUhackit](https://cuhack.it/)** | Feb 20–21, 2027 | Clemson, SC | — | In-person, MLH |
 | **[RebelHacks 2027](https://rebelhacks-2027.devpost.com/)** | Feb 20–21, 2027 | Las Vegas, NV (University of Nevada Las Vegas, SEB 1311) | — | In-person, Beginner Friendly, Open Ended, $2,500 in prizes |
 | **[Ticket to Hack 2027 @ UVA](https://ticket-to-hack.devpost.com/)** | Feb 20–21, 2027 | Charlottesville, VA (Rice Hall) | — | In-person, Beginner Friendly, Music/Art |
-| **[AdaHacks 2027](https://adahacks-2027.devpost.com/)** 🆕 | Feb 26–28, 2027 | Edmonton, AB T6G 2J5, Canada (TBD) | — | In-person, Beginner Friendly, Design |
+| **[AdaHacks 2027](https://adahacks-2027.devpost.com/)** | Feb 26–28, 2027 | Edmonton, AB T6G 2J5, Canada (TBD) | — | In-person, Beginner Friendly, Design |
 | **[HackIllinois](https://www.hackillinois.org/)** | Feb 26–28, 2027 | Urbana, Illinois | — | In-person, MLH |
 | **[Hacklytics 2027](https://hacklytics2027.web.app/)** | Feb 26–28, 2027 | Atlanta, GA | — | In-person, MLH |
 | **[Forgehacks](https://forgehacks-biztech.devpost.com/)** | Feb 27–28, 2027 | Vancouver, BC V6T 1Z3, Canada (Pharmacutical Sciences Building) | — | In-person, IoT, Open Ended, $6,000 in prizes |
@@ -143,7 +140,6 @@ _Last updated: November 20, 2026_
 
 | Conference | Area | Rank | Dates | Location | Next deadline |
 |---|---|---|---|---|---|
-| **[LOG 2026](https://logconference.org/)** | AI/ML | — | Nov 20–22, 2026 | Northeastern University, Boston, USA | — |
 | **[BIBM 2026](https://ieeebibm.org/BIBM2026/)** | Interdisciplinary | CCF B | Dec 1–4, 2026 | Dallas, USA | — |
 | **[ACSAC 2026](https://www.acsac.org/2026/)** | Security | CCF B · CORE A | Dec 7–11, 2026 | Los Angeles, California, USA | — |
 | **[FPT 2026](https://fpt2026.uark.edu)** | Systems/Architecture | CCF C | Dec 8–10, 2026 | Honolulu, Hawaii, USA | — |
@@ -160,7 +156,7 @@ _Last updated: November 20, 2026_
 | **[FAST 2027](https://www.usenix.org/conference/fast27)** | Systems/Architecture | CCF A · CORE A | Feb 23–25, 2027 | Renton, WA, USA | — |
 | **[SANER 2027](https://conf.researchr.org/home/saner-2027)** | Software Eng. | CCF B · CORE A | Mar 9–12, 2027 | Richmond, Virginia, United States | — |
 | **[FPGA 2027](https://www.isfpga.org/)** | Systems/Architecture | CCF B | Mar 14–16, 2027 | Monterey, California, USA | — |
-| **[CC 2027](https://conf.researchr.org/home/CC-2027)** 🆕 | Software Eng. | CCF B · CORE B | Mar 20–21, 2027 | Salt Lake City, Utah, USA | Paper: Dec 3 ⏰ 13d |
+| **[CC 2027](https://conf.researchr.org/home/CC-2027)** 🆕 | Software Eng. | CCF B · CORE B | Mar 20–21, 2027 | Salt Lake City, Utah, USA | Paper: Dec 3 ⏰ 12d |
 | **[HPCA 2027](https://conf.researchr.org/home/hpca-2027)** | Systems/Architecture | CCF A · CORE A* | Mar 20–24, 2027 | Salt Lake City, Utah | — |
 | **[IEEE/ACM CGO 2027](https://conf.researchr.org/home/cgo-2027)** | Systems/Architecture | CCF B · CORE A | Mar 20–24, 2027 | Salt Lake City, Utah, USA | — |
 | **[PPoPP 2027](https://ppopp27.sigplan.org/)** | Systems/Architecture | CCF A · CORE B | Mar 20–24, 2027 | Salt Lake City, Utah, USA | — |
@@ -179,7 +175,7 @@ _Last updated: November 20, 2026_
 | **[RTAS 2027](https://2027.rtas.org/)** | Systems/Architecture | CCF B · CORE A | May 17–20, 2027 | Boulder, Colorado | — |
 | **[S&P 2027](https://sp2027.ieee-security.org/index.html)** | Security | CCF A · CORE A* | May 17–19, 2027 | MONTREAL, CANADA | — |
 | **[SenSys 2027](https://sensys.acm.org/2027/)** | Networking | CCF B · CORE A* | May 17–20, 2027 | Boulder, CO, USA | — |
-| **[CCGRID 2027](https://hpcclab.org/ccgrid27/)** | Systems/Architecture | CCF C · CORE B | May 24–27, 2027 | Dallas-Fort Worth, Texas, USA | Paper: Dec 1 ⏰ 11d |
+| **[CCGRID 2027](https://hpcclab.org/ccgrid27/)** | Systems/Architecture | CCF C · CORE B | May 24–27, 2027 | Dallas-Fort Worth, Texas, USA | Paper: Dec 1 ⏰ 10d |
 | **[INFOCOM 2027](https://infocom2027.ieee-infocom.org/)** | Networking | CCF A · CORE A* | May 24–27, 2027 | Honolulu, HI, USA | — |
 | **[ICC 2027](https://icc2027.ieee-icc.org)** | Networking | CCF C | May 30 – Jun 3, 2027 | Washington, DC, USA | — |
 | **[IPDPS 2027](https://www.ipdps.org/)** | Systems/Architecture | CCF B · CORE A | Jun 1–5, 2027 | Seattle, USA | — |
@@ -199,7 +195,7 @@ _Last updated: November 20, 2026_
 | **[IDC 2027](https://idc.acm.org/2027/)** | HCI | CCF C | Jun 21–24, 2027 | Seattle, Washington, USA | Paper: Jan 25 |
 | **[LICS 2027](https://lics.siglog.org/lics27/)** | Theory | CCF A · CORE A* | Jun 21–24, 2027 | MontrÃ©al, Canada | Paper: Jan 21 |
 | **[MLSys 2027](https://mlsys.org/)** | Interdisciplinary | — | Jun 21–25, 2027 | Bellevue, Washington, USA | — |
-| **[WoWMoM 2027](https://wowmom2027.dii.unipi.it/index.html)** | Networking | CCF C · CORE B | Jun 21–24, 2027 | Irvine, California, USA | Paper: Dec 1 ⏰ 11d |
+| **[WoWMoM 2027](https://wowmom2027.dii.unipi.it/index.html)** | Networking | CCF C · CORE B | Jun 21–24, 2027 | Irvine, California, USA | Paper: Dec 1 ⏰ 10d |
 | **[CVPR 2027](https://cvpr.thecvf.com/Conferences/2027)** | AI/ML | CCF A · CORE A* | Jun 22–25, 2027 | Seattle, WA, United States | — |
 | **[ICDF2C 2027](https://icdf2c.eai-conferences.org/2027/)** | Security | CCF C | Jun 25–27, 2027 | New York, USA | Paper: Dec 15 |
 | **[ICAPS 2027](https://icaps27.icaps-conference.org/)** | AI/ML | CCF B · CORE A* | Jun 30 – Jul 2, 2027 | Columbia, SC, USA | Paper: Dec 14 |
@@ -243,7 +239,7 @@ _Last updated: November 20, 2026_
 | **[PyCascades](https://2027.pycascades.com)** | python | Mar 20–21, 2027 | Seattle, WA, U.S.A. 🌐 | — |
 | **[SCaLE](https://www.socallinuxexpo.org/scale/24x)** | networking, opensource | Apr 1–4, 2027 | Pasadena, CA, U.S.A. | — |
 | **[SunSecCon](https://www.sunseccon.org/2027)** | security | Apr 1–2, 2027 | Pasadena, CA, U.S.A. | [CFP: Dec 15](https://www.sunseccon.org/2027/cfp) |
-| **[DevOpsDay LA](https://devopsdays.org/events/2027-los-angeles)** 🆕 | devops | Apr 2, 2027 | Pasadena, CA, U.S.A. | [CFP: Dec 1](http://devopsdays.org/events/2027-los-angeles/propose) ⏰ 11d |
+| **[DevOpsDay LA](https://devopsdays.org/events/2027-los-angeles)** 🆕 | devops | Apr 2, 2027 | Pasadena, CA, U.S.A. | [CFP: Dec 1](http://devopsdays.org/events/2027-los-angeles/propose) ⏰ 10d |
 | **[Enterprise AI Summit](https://events.itrevolution.com/2027-portland/)** 🆕 | data, leadership | May 5–6, 2027 | Portland, OR, U.S.A. | — |
 | **[DevOpsCon San Diego](https://devopscon.io/san-diego)** | devops | May 24–28, 2027 | San Diego, CA, U.S.A. 🌐 | — |
 | **[International JavaScript Conference San Diego](https://javascript-conference.com/san-diego)** | javascript | May 24–28, 2027 | San Diego, CA, U.S.A. 🌐 | — |
