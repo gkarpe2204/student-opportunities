@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Latin America & Caribbean
 
-10 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (196) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (88) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (34) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+10 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (192) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (87) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (37) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 21, 2026_
+_Last updated: November 22, 2026_
 
 ## 📚 Academic CS Conferences (paper deadlines)
 
@@ -16,7 +16,7 @@ _Last updated: November 21, 2026_
 | **[IJCB 2027](https://ijcb2027.ieee-biometrics.org/)** | AI/ML | CCF C · CORE B | Sep 13–17, 2027 | Foz do IguaÃ§u, Brazil | Paper: Apr 10 |
 | **[KR 2027](https://kr.org/KR2027/)** | AI/ML | CCF B · CORE A* | Sep 21–24, 2027 | Buenos Aires, Argentina | Paper: Apr 28 |
 | **[ISWC 2027](https://iswc2027.semanticweb.org/)** | Databases/Data Mining | CCF B · CORE A | Oct 24–28, 2027 | Montevideo, Uruguay | — |
-| **[CoNEXT 2027](https://conferences.sigcomm.org/co-next/2027/#!/home)** | Networking | CCF B · CORE A | Dec 6–9, 2027 | Rio de Janeiro, Brazil | Paper: Dec 4 ⏰ 13d |
+| **[CoNEXT 2027](https://conferences.sigcomm.org/co-next/2027/#!/home)** | Networking | CCF B · CORE A | Dec 6–9, 2027 | Rio de Janeiro, Brazil | Paper: Dec 4 ⏰ 12d |
 
 [⬆️ Back to top](#)
 
