@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Location TBA
 
-19 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (192) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (87) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (37) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+19 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (192) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (87) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (38) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 22, 2026_
+_Last updated: November 23, 2026_
 
 ## 🎓 Student & Diversity Conferences
 
@@ -29,7 +29,7 @@ _Last updated: November 22, 2026_
 
 | Conference | Dates | Location | Deadline | Focus |
 |---|---|---|---|---|
-| **[APAMSA National Conference](https://www.apamsa.org)** 🆕 | Mar 5–6, 2027 ⚠️ | — | — | Asian Pacific American med & pre-med students |
+| **[APAMSA National Conference](https://www.apamsa.org)** 🆕 | TBA · Usually early March | — | — | Asian Pacific American med & pre-med students |
 | **[KU School of Medicine Premedical Student Conference](https://www.kumc.edu/school-of-medicine/academics/premedical-programs/premedical-student-conference.html)** | TBA | — | — | One-day, Pre-med advising |
 | **[LMSA National Conference](https://national.lmsa.net)** | TBA · Usually September | — | — | Latino med & pre-med students, Research symposium |
 
