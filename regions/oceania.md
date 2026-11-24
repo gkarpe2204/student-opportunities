@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Oceania
 
-14 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (192) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (163) · [Asia](asia.md) (87) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (14) · [Online](online.md) (38) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+12 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (193) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (160) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (40) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 23, 2026_
+_Last updated: November 24, 2026_
 
 ## 🖥️ CS & Tech Student Conferences
 
@@ -16,16 +16,14 @@ _Last updated: November 23, 2026_
 
 | Conference | Area | Rank | Dates | Location | Next deadline |
 |---|---|---|---|---|---|
-| **[ICECCS 2026](https://formal-analysis.com/iceccs/2026/)** | Software Eng. | CCF C · CORE B | Nov 23–24, 2026 | Brisbane, Australia | — |
-| **[ICONIP 2026](https://www.iconip2026.org/)** | AI/ML | CCF C · CORE B | Nov 23–27, 2026 | Melbourne, Australia | — |
 | **[ACML 2026](https://www.acml-conf.org/2026/)** | AI/ML | CCF C · CORE C | Dec 1–4, 2026 | Melbourne, Australia | — |
 | **[IEEE VR 2027](https://ieeevr.org/2027/)** | Graphics/Multimedia | CCF A · CORE A* | Feb 27 – Mar 3, 2027 | Melbourne, Australia | — |
-| **[CSCWD 2027](https://cscwd2027.dailyeliteevents.com.au/)** | HCI | CCF C · CORE C | May 26–28, 2027 | Brisbane, Australia | Paper: Nov 30 ⏰ 7d |
+| **[CSCWD 2027](https://cscwd2027.dailyeliteevents.com.au/)** | HCI | CCF C · CORE C | May 26–28, 2027 | Brisbane, Australia | Paper: Nov 30 ⏰ 6d |
 | **[MDM 2027](https://mdm2027.github.io/index.html)** | Databases/Data Mining | CCF C · CORE B | Jun 28 – Jul 1, 2027 | Hamilton, New Zealand | Paper: Jan 25 |
-| **[PAKDD 2027](https://www.pakdd2027.org/)** | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Dec 4 ⏰ 11d |
+| **[PAKDD 2027](https://www.pakdd2027.org/)** | Databases/Data Mining | CCF C · CORE B | Jun 29 – Jul 2, 2027 | Wellington, New Zealand | Paper: Dec 4 ⏰ 10d |
 | **[CGI 2027](https://cgs-network.org/cgi27/)** | Graphics/Multimedia | CCF C · CORE C | Jul 5–9, 2027 | Cairns, Australia | Paper: Apr 21 |
 | **[ICDCS 2027](https://icdcs2027.icdcs.org/)** | Systems/Architecture | CCF B · CORE A | Jul 5–8, 2027 | Melbourne, Australia | Paper: Jan 13 |
-| **[ACISP 2027](https://acisp.org/)** | Security | CCF C | Jul 7–10, 2027 | Melbourne, Australia | Paper: Nov 30 ⏰ 7d |
+| **[ACISP 2027](https://acisp.org/)** | Security | CCF C | Jul 7–10, 2027 | Melbourne, Australia | Paper: Nov 30 ⏰ 6d |
 | **[MICCAI 2027](https://conferences.miccai.org/2027/en/)** | Interdisciplinary | CCF B · CORE A | Sep 26 – Oct 1, 2027 | Auckland, New Zealand | — |
 | **[ICDM 2027](https://icdm2027-website.onrender.com/)** | Databases/Data Mining | CCF B · CORE A* | Nov 15–18, 2027 | Brisbane, Australia | Paper: Jun 6 |
 
