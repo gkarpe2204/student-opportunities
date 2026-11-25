@@ -1,13 +1,14 @@
 # 🌍 Student opportunities — Online
 
-40 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (193) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (160) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (40) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+42 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (194) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (159) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (42) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 24, 2026_
+_Last updated: November 25, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
+| **[thanksgiving thank you hackathon](https://thanksgiving-hackathon.devpost.com/)** 🆕 | Nov 27 – Dec 1, 2026 | 🌐 Online | — | Online, Low/No Code, Social Good |
 | **[Zero-G Hacks](https://zero-g-hacks.devpost.com/)** 🆕 | Nov 27–30, 2026 | 🌐 Online | — | Online, Beginner Friendly, Design, $120 in prizes |
 | **[Agents that act. Systems that answer.](https://accountable-agents.devpost.com/)** 🆕 | Nov 28 – Dec 1, 2026 | 🌐 Online | — | Online, Education, Machine Learning/AI |
 | **[HACKRISE'26 ](https://hackrise-26.devpost.com/)** | Nov 29, 2026 – Jan 31, 2027 | 🌐 Online | — | Online, DevOps, Machine Learning/AI, ₹ 1,000 in prizes |
@@ -23,11 +24,12 @@ _Last updated: November 24, 2026_
 | **[OVO Hack 48](https://ovo-hack-48.devpost.com/)** | Dec 18–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[CodeTheCure Winter Hackathon](https://codethecure-winter-hackathon.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 6, 2027 | 🌐 Online | — | Online, Education, Health |
 | **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,805 in prizes |
+| **[CrackleHacks](https://cracklehacks.devpost.com/)** 🆕 | Dec 20–30, 2026 | 🌐 Online | — | Online, Education, Gaming, $20 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
 | **[JanHacks 2027](https://janhacks-2027.devpost.com/)** 🆕 | Jan 1 – Mar 1, 2027 | 🌐 Online | — | Online, Beginner Friendly, Design |
 | **[MACHINE AGE](https://machineage.devpost.com/)** 🆕 | Jan 1 – Mar 31, 2027 | 🌐 Online | — | Online, Machine Learning/AI, $10,000 in prizes |
 | **[Steel City Codes Healthcare Hackathon](https://scc-healthcare-hackathon.devpost.com/)** 🆕 | Jan 1–15, 2027 | 🌐 Online | — | Online, Beginner Friendly, Health |
-| **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $11,960 in prizes |
+| **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $15,560 in prizes |
 | **[CSAIC Hack-AI-Thon](https://csaic-hackaithon.devpost.com/)** 🆕 | Jan 8–11, 2027 | 🌐 Online | — | Online, Education, Machine Learning/AI |
 | **[United Hacks V8](https://unitedhacksv8.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Beginner Friendly, Design, $18,700 in prizes |
 | **[SunnyHacks Jan 2027](https://sunnyhacks-jan-2027.devpost.com/)** 🆕 | Jan 25 – Feb 1, 2027 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
@@ -51,7 +53,7 @@ _Last updated: November 24, 2026_
 | **[inside agile: Agile Leadership Conference](https://alc.inside-agile.de)** | leadership | Dec 1–2, 2026 | 🌐 Online | — |
 | **[JakartaOne Livestream](https://jakartaone.jakarta.ee/jakartaone-livestream-2026)** | java | Dec 1, 2026 | 🌐 Online | — |
 | **[AI for Developers](https://aiconference.dev)** | data | Dec 17–18, 2026 | 🌐 Online | — |
-| **[M365 Con](https://m365con.net)** 🆕 | general | Jan 11–21, 2027 | 🌐 Online | [CFP: Dec 31](https://m365con.net/talks/submit-suggestion) |
+| **[M365 Con](https://m365con.net)** | general | Jan 11–21, 2027 | 🌐 Online | [CFP: Dec 31](https://m365con.net/talks/submit-suggestion) |
 | **[JChampions Conference](https://jchampionsconf.com)** | java | Jan 21–26, 2027 | 🌐 Online | — |
 | **[betterCode() ArchDoc](https://archdoc.bettercode.eu)** | tech-comm | Mar 17, 2027 | 🌐 Online | — |
 | **[betterCode() ABAP](https://abap.bettercode.eu)** | general | Apr 14, 2027 | 🌐 Online | — |

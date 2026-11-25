@@ -1,32 +1,7 @@
 {
- "updated": "2026-11-24",
- "count": 528,
+ "updated": "2026-11-25",
+ "count": 530,
  "conferences": [
-  {
-   "name": "Big Data Europe",
-   "url": "https://bigdataconference.eu",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-24",
-   "end": "2026-11-27",
-   "location": "Vilnius, Lithuania",
-   "country": "Lithuania",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://airtable.com/appsUlpNtLMccgwFZ/pagviP3ooRV63PCWO/form",
-   "topics": [
-    "data"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "big-data-europe-2026",
-   "region": "Europe",
-   "state": ""
-  },
   {
    "name": "AI World Congress",
    "url": "https://aiconference.london",
@@ -183,6 +158,33 @@
    "first_seen": "2026-11-07",
    "id": "loohacks-2026",
    "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "thanksgiving thank you hackathon",
+   "url": "https://thanksgiving-hackathon.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-27",
+   "end": "2026-12-01",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Low/No Code",
+    "Social Good"
+   ],
+   "rank": "",
+   "notes": "Hosted by shrimat koti",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-25",
+   "id": "thanksgiving-thank-you-hackathon-2026",
+   "region": "Online",
    "state": ""
   },
   {
@@ -2253,6 +2255,34 @@
    "state": ""
   },
   {
+   "name": "CrackleHacks",
+   "url": "https://cracklehacks.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-20",
+   "end": "2026-12-30",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Education",
+    "Gaming",
+    "$20 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Deific Studios",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-25",
+   "id": "cracklehacks-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "ISPA 2026",
    "url": "https://ieee-ai-for-science.org/2026/ispa/",
    "category": "academic",
@@ -2503,7 +2533,7 @@
     "Online",
     "Gaming",
     "Machine Learning/AI",
-    "$11,960 in prizes"
+    "$15,560 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by Checkpoint",
@@ -2566,6 +2596,33 @@
    "dates_auto": false,
    "first_seen": "2026-11-18",
    "id": "hack-canada-2027",
+   "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "SheHacks+ 11",
+   "url": "https://www.shehacks.ca/",
+   "category": "hackathon",
+   "source": "mlh",
+   "start": "2027-01-08",
+   "end": "2027-01-10",
+   "location": "London, Ontario",
+   "country": "Canada",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Diversity",
+    "MLH"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-25",
+   "id": "shehacks-11-2027",
    "region": "North America",
    "state": ""
   },
@@ -2674,31 +2731,6 @@
    "state": "Georgia"
   },
   {
-   "name": "POPL 2027",
-   "url": "https://popl27.sigplan.org/",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-01-10",
-   "end": "2027-01-16",
-   "location": "Mexico City",
-   "country": "Mexico",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Software Eng."
-   ],
-   "rank": "CCF A · CORE A*",
-   "notes": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "popl-2027",
-   "region": "North America",
-   "state": ""
-  },
-  {
    "name": "M365 Con",
    "url": "https://m365con.net",
    "category": "industry",
@@ -2770,6 +2802,31 @@
    "dates_auto": false,
    "first_seen": "2026-11-07",
    "id": "pepm-2027",
+   "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "POPL 2027",
+   "url": "https://popl27.sigplan.org/",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-01-13",
+   "end": "2027-01-15",
+   "location": "Mexico City",
+   "country": "Mexico",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CCF A · CORE A*",
+   "notes": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "popl-2027",
    "region": "North America",
    "state": ""
   },
@@ -3099,7 +3156,7 @@
    "source": "mlh",
    "start": "2027-01-23",
    "end": "2027-01-24",
-   "location": "Missisauga, Ontario",
+   "location": "Oakville, Ontario",
    "country": "Canada",
    "online": false,
    "deadline": null,
@@ -3346,6 +3403,8 @@
    "deadline_url": "",
    "topics": [
     "In-person",
+    "Diversity",
+    "Beginner",
     "MLH"
    ],
    "rank": "",
@@ -5179,31 +5238,6 @@
    "state": ""
   },
   {
-   "name": "SANER 2027",
-   "url": "https://conf.researchr.org/home/saner-2027",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-03-09",
-   "end": "2027-03-12",
-   "location": "Richmond, Virginia, United States",
-   "country": "United States",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Software Eng."
-   ],
-   "rank": "CCF B · CORE A",
-   "notes": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "saner-2027",
-   "region": "North America",
-   "state": "Virginia"
-  },
-  {
    "name": "Voxxed Days Zürich",
    "url": "https://vdz27.voxxeddays.ch",
    "category": "industry",
@@ -5252,6 +5286,31 @@
    "id": "inside-agile-product-owner-days-2027",
    "region": "Europe",
    "state": ""
+  },
+  {
+   "name": "SANER 2027",
+   "url": "https://conf.researchr.org/home/saner-2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-03-10",
+   "end": "2027-03-12",
+   "location": "Richmond, Virginia, United States",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CCF B · CORE A",
+   "notes": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "saner-2027",
+   "region": "North America",
+   "state": "Virginia"
   },
   {
    "name": "Vuejs Amsterdam",
@@ -8394,7 +8453,7 @@
    "location": "Dallas-Fort Worth, Texas, USA",
    "country": "United States",
    "online": false,
-   "deadline": "2026-12-01",
+   "deadline": "2026-12-08",
    "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
@@ -9874,7 +9933,7 @@
   },
   {
    "name": "SGP 2027",
-   "url": "https://igs2027singapore.github.io/",
+   "url": "https://sgp2027.github.io/",
    "category": "academic",
    "source": "ccfddl",
    "start": "2027-06-21",
@@ -9949,7 +10008,7 @@
   },
   {
    "name": "SPM 2027",
-   "url": "https://igs2027singapore.github.io/",
+   "url": "https://spmconf2027.github.io/",
    "category": "academic",
    "source": "ccfddl",
    "start": "2027-06-21",
@@ -9957,8 +10016,8 @@
    "location": "Singapore",
    "country": "Singapore",
    "online": false,
-   "deadline": null,
-   "deadline_label": "",
+   "deadline": "2027-02-07",
+   "deadline_label": "Paper",
    "deadline_url": "",
    "topics": [
     "Graphics/Multimedia"
@@ -12081,31 +12140,6 @@
    "state": "Washington"
   },
   {
-   "name": "OOPSLA 2027",
-   "url": "https://2027.splashcon.org/track/splashoopsla2027",
-   "category": "academic",
-   "source": "ccfddl",
-   "start": "2027-10-10",
-   "end": "2027-10-15",
-   "location": "Prague, Czechia",
-   "country": "Czech Republic",
-   "online": false,
-   "deadline": "2027-04-07",
-   "deadline_label": "Paper",
-   "deadline_url": "",
-   "topics": [
-    "Software Eng."
-   ],
-   "rank": "CCF A · CORE A",
-   "notes": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "oopsla-2027",
-   "region": "Europe",
-   "state": ""
-  },
-  {
    "name": "CCS 2027",
    "url": "https://www.sigsac.org/ccs/CCS2027/",
    "category": "academic",
@@ -12128,6 +12162,31 @@
    "first_seen": "2026-11-07",
    "id": "ccs-2027",
    "region": "North America",
+   "state": ""
+  },
+  {
+   "name": "OOPSLA 2027",
+   "url": "https://2027.splashcon.org/track/splashoopsla2027",
+   "category": "academic",
+   "source": "ccfddl",
+   "start": "2027-10-13",
+   "end": "2027-10-15",
+   "location": "Prague, Czechia",
+   "country": "Czech Republic",
+   "online": false,
+   "deadline": "2027-04-07",
+   "deadline_label": "Paper",
+   "deadline_url": "",
+   "topics": [
+    "Software Eng."
+   ],
+   "rank": "CCF A · CORE A",
+   "notes": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-07",
+   "id": "oopsla-2027",
+   "region": "Europe",
    "state": ""
   },
   {

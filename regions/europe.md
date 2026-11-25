@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Europe
 
-160 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (193) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (160) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (40) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+159 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (194) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (159) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (42) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 24, 2026_
+_Last updated: November 25, 2026_
 
 ## 🏁 Hackathons
 
@@ -45,29 +45,29 @@ _Last updated: November 24, 2026_
 | **[ASPLOS 2027](https://www.asplos-conference.org/asplos2027/cfp/)** | Systems/Architecture | CCF A · CORE A* | Apr 11–15, 2027 | Heraklion, Crete, Greece | — |
 | **[EUROCRYPT 2027](https://eurocrypt.iacr.org/2027/)** | Security | CCF A · CORE A* | Apr 11–15, 2027 | Eindhoven, Netherlands | — |
 | **[REFSQ 2027](https://2027.refsq.org/)** | Software Eng. | CCF C · CORE B | Apr 12–15, 2027 | Basel, Switzerland | — |
-| **[CVC 2027](https://saiconference.com/CVC)** | AI/ML | — | Apr 15–16, 2027 | Amsterdam, Netherlands | Paper: Dec 1 ⏰ 7d |
-| **[ESANN 2027](https://www.esann.org/)** | AI/ML | CORE B | Apr 21–23, 2027 | Bruges, Belgium and Online | Paper: Nov 26 ⏰ 2d |
+| **[CVC 2027](https://saiconference.com/CVC)** | AI/ML | — | Apr 15–16, 2027 | Amsterdam, Netherlands | Paper: Dec 1 ⏰ 6d |
+| **[ESANN 2027](https://www.esann.org/)** | AI/ML | CORE B | Apr 21–23, 2027 | Bruges, Belgium and Online | Paper: Nov 26 ⏰ 1d |
 | **[ICPC 2027](https://conf.researchr.org/home/icpc-2027)** | Software Eng. | CCF B · CORE A | Apr 25–26, 2027 | Dublin, Ireland | — |
 | **[ICSE 2027](https://conf.researchr.org/home/icse-2027)** | Software Eng. | CCF A · CORE A* | Apr 25 – May 1, 2027 | Dublin, Ireland | — |
 | **[ICSE-CHASE 2027](https://conf.researchr.org/home/chase-2027)** 🆕 | Software Eng. | CORE B | Apr 26–27, 2027 | Dublin, Ireland | — |
 | **[MSR 2027](https://2027.msrconf.org/)** | Software Eng. | CCF C · CORE A | Apr 26–27, 2027 | Dublin, Ireland | — |
 | **[SATML 2027](https://satml.org/)** 🆕 | Security | — | May 4–6, 2027 | Reykjavik, Iceland | — |
-| **[SECON 2027](https://secon2027.ieee-secon.org/)** | Networking | CCF B · CORE B | May 5–7, 2027 | Lisbon, Portugal | Paper: Nov 30 ⏰ 6d |
+| **[SECON 2027](https://secon2027.ieee-secon.org/)** | Networking | CCF B · CORE B | May 5–7, 2027 | Lisbon, Portugal | Paper: Nov 30 ⏰ 5d |
 | **[Eurographics 2027](https://eg2027.isti.cnr.it/)** | Graphics/Multimedia | CCF B · CORE B | May 10–14, 2027 | Lucca, Italy | — |
 | **[WWW 2027](https://www2027.thewebconf.org/)** | Interdisciplinary | CCF A · CORE A* | May 10–14, 2027 | Dublin, Ireland | — |
 | **[ICDE 2027](https://icde2027.github.io/)** | Databases/Data Mining | CCF A · CORE A* | May 17–21, 2027 | Copenhagen, Denmark | — |
 | **[ICST 2027](https://conf.researchr.org/home/icst-2027)** | Software Eng. | CCF C · CORE A | May 17–21, 2027 | San Sebastian, Spain | — |
 | **[ESWC 2027](https://2027.eswc-conferences.org/)** | Databases/Data Mining | CCF C · CORE B | May 23–27, 2027 | Limassol, Cyprus | Paper: Dec 17 |
 | **[ETS 2027](https://www.ets2027.co.uk/)** | Systems/Architecture | CCF C · CORE B | May 24–28, 2027 | London, UK | Paper: Dec 15 |
-| **[FSE 2027](https://fse.iacr.org/2027/)** | Security | CCF B · CORE B | May 24–28, 2027 | Maastricht, Netherlands | Paper: Dec 1 ⏰ 7d |
+| **[FSE 2027](https://fse.iacr.org/2027/)** | Security | CCF B · CORE B | May 24–28, 2027 | Maastricht, Netherlands | Paper: Dec 1 ⏰ 6d |
 | **[HotOS 2027](https://sigops.org/s/conferences/hotos/2027/)** | Software Eng. | CCF B · CORE A | May 24–26, 2027 | Burghausen, Bavaria, Germany | Paper: Feb 1 |
 | **[CF 2027](https://www.computingfrontiers.org/2027/)** 🆕 | Systems/Architecture | CCF C | May 25–27, 2027 | Trento, Italy | Paper: Jan 25 |
-| **[EuroVis 2027](https://eurovis27.github.io/web/)** | Graphics/Multimedia | CCF B · CORE B | May 31 – Jun 4, 2027 | Stuttgart, Germany | Paper: Dec 2 ⏰ 8d |
+| **[EuroVis 2027](https://eurovis27.github.io/web/)** | Graphics/Multimedia | CCF B · CORE B | May 31 – Jun 4, 2027 | Stuttgart, Germany | Paper: Dec 2 ⏰ 7d |
 | **[ISCAS 2027](https://2027.ieee-iscas.org/)** | Systems/Architecture | CCF B · CORE C | Jun 6–9, 2027 | Bordeaux, France | — |
 | **[CAiSE 2027](https://deal.us.es/caise27/)** | Software Eng. | CCF B · CORE A | Jun 7–11, 2027 | Seville, Spain | — |
 | **[Networking 2027](https://networking.ifip.org/2027/)** 🆕 | Networking | CCF C · CORE B | Jun 13–16, 2027 | Dublin, Ireland | Paper: Jan 22 |
 | **[SEC 2027](https://ifipsec.org/)** | Security | CCF C | Jun 14–16, 2027 | LinkÃ¶ping University, LinkÃ¶ping, Sweden | Paper: Dec 15 |
-| **[DSN 2027](https://dsn2027-berlin.github.io/)** | Security | CCF B · CORE A | Jun 22–25, 2027 | Berlin, Germany | Paper: Dec 2 ⏰ 8d |
+| **[DSN 2027](https://dsn2027-berlin.github.io/)** | Security | CCF B · CORE A | Jun 22–25, 2027 | Berlin, Germany | Paper: Dec 2 ⏰ 7d |
 | **[BIS 2027](https://bisconf.org/2027/)** | Interdisciplinary | — | Jun 23–25, 2027 | PoznaÅ, Poland | Paper: Jan 10 |
 | **[ISIT 2027](https://2027.ieee-isit.org/)** | Theory | CORE B | Jun 27 – Jul 2, 2027 | Sorrento, Italy | Paper: Jan 10 |
 | **[ACNS 2027](https://acns2027.isg.rhul.ac.uk/)** | Security | CCF C · CORE B | Jun 28 – Jul 1, 2027 | Royal Holloway, Egham, UK | Paper: Jan 21 |
@@ -76,14 +76,14 @@ _Last updated: November 24, 2026_
 | **[SIGOPS ATC 2027](https://atc.sigops.org/2027/)** 🆕 | Systems/Architecture | CCF A · CORE A | Jun 28 – Jul 1, 2027 | Rennes, France | Paper: Jan 19 |
 | **[ECSCW 2027](https://ecscw.eusset.eu/2027/)** 🆕 | HCI | CCF B · CORE B | Jul 5–9, 2027 | Limassol, Cyprus | — |
 | **[EGSR 2027](https://www.egsr2027.usi.ch/)** | Graphics/Multimedia | CCF B | Jul 5–7, 2027 | UniversitÃ  della Svizzera italiana, Lugano, Switzerland | — |
-| **[EuroS&P 2027](https://eurosp2027.ieee-security.org/)** | Security | CCF C · CORE A | Jul 5–9, 2027 | Madrid, Spain | Paper: Dec 2 ⏰ 8d |
+| **[EuroS&P 2027](https://eurosp2027.ieee-security.org/)** | Security | CCF C · CORE A | Jul 5–9, 2027 | Madrid, Spain | Paper: Dec 2 ⏰ 7d |
 | **[ICALP 2027](https://icalp.uj.edu.pl/)** | Theory | CCF B · CORE A* | Jul 5–9, 2027 | KrakÃ³w, Poland | — |
-| **[RSS 2027](https://roboticsconference.org/)** | AI/ML | CORE A* | Jul 6–11, 2027 | Athens, Greece | Paper: Dec 4 ⏰ 10d |
-| **[SAI 2027](https://saiconference.com/Computing)** | Interdisciplinary | — | Jul 8–9, 2027 | London, United Kingdom | Paper: Dec 1 ⏰ 7d |
+| **[RSS 2027](https://roboticsconference.org/)** | AI/ML | CORE A* | Jul 6–11, 2027 | Athens, Greece | Paper: Dec 4 ⏰ 9d |
+| **[SAI 2027](https://saiconference.com/Computing)** | Interdisciplinary | — | Jul 8–9, 2027 | London, United Kingdom | Paper: Dec 1 ⏰ 6d |
 | **[GECCO 2027](https://gecco-2027.sigevo.org/HomePage)** | AI/ML | CCF C · CORE A | Jul 12–16, 2027 | KrakÃ³w, Poland | Paper: Jan 25 |
 | **[ICCCN 2027](http://www.icccn.org/ICCCN27/)** | Networking | CCF C · CORE B | Jul 12–15, 2027 | Rome, Italy | Paper: Feb 19 |
 | **[ISMB 2027](https://www.iscb.org/ismbeccb2027/)** | Interdisciplinary | CCF B | Jul 18–22, 2027 | Copenhagen, Denmark | Paper: Jan 14 |
-| **[PETS 2027](https://petsymposium.org/cfp27.php)** | Security | CCF C · CORE A | Jul 19–24, 2027 | Delft, The Netherlands | Paper: Nov 30 ⏰ 6d |
+| **[PETS 2027](https://petsymposium.org/cfp27.php)** | Security | CCF C · CORE A | Jul 19–24, 2027 | Delft, The Netherlands | Paper: Nov 30 ⏰ 5d |
 | **[SACMAT 2027](https://www.sacmat.org/2027/)** | Security | CCF C · CORE C | Jul 19–21, 2027 | Durham, England, United Kingdom | Paper: Feb 12 |
 | **[CAV 2027](https://conferences.i-cav.org/2027/)** | Theory | CCF A · CORE A* | Jul 21–23, 2027 | KIT, Amsterdam, The Netherlands | Paper: Jan 20 |
 | **[IEEE CEC 2027](https://ieeecec.org/2027)** | AI/ML | CCF C · CORE B | Jul 25–28, 2027 | Edinburgh, Scotland, UK | Paper: Feb 28 |
@@ -92,19 +92,19 @@ _Last updated: November 24, 2026_
 | **[FSCD 2027](https://fscd-cade.science.ru.nl/)** | Theory | CCF C | Aug 23–26, 2027 | Nijmegen, Netherlands | Paper: Apr 26 |
 | **[INTERACT 2027](https://interact2027.org/)** | HCI | CCF C | Aug 23–27, 2027 | Tallinn, Estonia | Paper: Feb 1 |
 | **[RE 2027](https://conf.researchr.org/home/RE-2027)** | Software Eng. | CCF B · CORE A | Aug 23–27, 2027 | Milan, Italy | Paper: Mar 1 |
-| **[VLDB 2027](https://www.vldb.org/2027/)** | Databases/Data Mining | CCF A · CORE A* | Aug 23–27, 2027 | Athens, Greece | Paper: Dec 1 ⏰ 7d |
+| **[VLDB 2027](https://www.vldb.org/2027/)** | Databases/Data Mining | CCF A · CORE A* | Aug 23–27, 2027 | Athens, Greece | Paper: Dec 1 ⏰ 6d |
 | **[ICANN 2027](https://e-nns.org/icann2027/)** | AI/ML | CCF C · CORE C | Aug 24–27, 2027 | LinkÃ¶ping, Sweden | — |
 | **[ECAF 2027](https://2027.ecafconference.org/)** 🆕 | AI/ML | — | Aug 25–27, 2027 | Vilnius, Lithuania | Paper: Mar 25 |
 | **[ECML-PKDD 2027](https://ecmlpkdd.org/2027/)** | Databases/Data Mining | CCF B · CORE A | Aug 30 – Sep 3, 2027 | Eindhoven, The Netherlands | — |
 | **[EUSIPCO 2027](https://eusipco2027.de/)** | Graphics/Multimedia | — | Aug 30 – Sep 3, 2027 | Darmstadt, Germany | Paper: Feb 6 |
-| **[IntelliSys 2027](https://saiconference.com/IntelliSys)** | AI/ML | — | Sep 2–3, 2027 | Amsterdam, Netherlands | Paper: Dec 1 ⏰ 7d |
+| **[IntelliSys 2027](https://saiconference.com/IntelliSys)** | AI/ML | — | Sep 2–3, 2027 | Amsterdam, Netherlands | Paper: Dec 1 ⏰ 6d |
 | **[CONCUR 2027](https://www.cs.vu.nl/~wanf/profactivities.html)** | Theory | CCF B · CORE B | Sep 6–10, 2027 | Lucca, Italy | — |
 | **[CLEF 2027](https://clef2027.clef-initiative.eu/)** | Databases/Data Mining | — | Sep 14–17, 2027 | Bucharest, Romania | — |
 | **[MobileHCI 2027](https://mobilehci.acm.org/2027/)** | HCI | CCF B | Sep 20–23, 2027 | Limassol, Cyprus | Paper: Feb 17 |
 | **[ICFP 2027](https://icfp27.sigplan.org/)** | Software Eng. | CCF B · CORE A | Sep 26 – Oct 1, 2027 | Nijmegen, Netherlands | Paper: Feb 25 |
 | **[IROS 2027](https://2027.ieee-iros.org/)** | AI/ML | CCF C · CORE A | Sep 27 – Oct 1, 2027 | Florence, Italy | Paper: Mar 1 |
 | **[ECAI 2027](https://ecai2027.org/)** | AI/ML | CCF B · CORE A | Oct 4–7, 2027 | Athens, Greece | Paper: Apr 14 |
-| **[OOPSLA 2027](https://2027.splashcon.org/track/splashoopsla2027)** | Software Eng. | CCF A · CORE A | Oct 10–15, 2027 | Prague, Czechia | Paper: Apr 7 |
+| **[OOPSLA 2027](https://2027.splashcon.org/track/splashoopsla2027)** | Software Eng. | CCF A · CORE A | Oct 13–15, 2027 | Prague, Czechia | Paper: Apr 7 |
 | **[FM 2027](https://www.fmeurope.org/feature/upcoming_conferences/)** | Software Eng. | CCF A · CORE A | Oct 18–22, 2027 | Athens, Greece | — |
 | **[UIST 2027](https://uist.acm.org/2027/)** 🆕 | HCI | CCF A · CORE A* | Oct 27–29, 2027 | VIECON - Vienna Congress & Convention Center, Vienna, Austria | Paper: Apr 7 |
 
@@ -114,7 +114,6 @@ _Last updated: November 24, 2026_
 
 | Conference | Topics | Dates | Location | CFP closes |
 |---|---|---|---|---|
-| **[Big Data Europe](https://bigdataconference.eu)** | data | Nov 24–27, 2026 | Vilnius, Lithuania 🌐 | — |
 | **[AI World Congress](https://aiconference.london)** | data | Nov 25–26, 2026 | London, U.K. | — |
 | **[EdTech Conference](https://edtechconferences.london)** | general | Nov 26–27, 2026 | London, U.K. | — |
 | **[DevOpsCon Munich](https://devopscon.io/muenchen)** | devops | Nov 30 – Dec 4, 2026 | Munich, Germany 🌐 | — |
@@ -144,11 +143,11 @@ _Last updated: November 24, 2026_
 | **[FOSS-LÄND x OpenChain](https://openchainproject.org/foss-land-x-openchain-2027)** | general | Mar 22–24, 2027 | Stuttgart, Germany | — |
 | **[Voxxed Days Amsterdam](https://amsterdam.voxxeddays.com)** | data, java | Mar 31 – Apr 1, 2027 | Amsterdam, Netherlands | — |
 | **[BSides Prague](https://bsidesprg.cz)** | security | Apr 7–8, 2027 | Prague, Czech Republic | [CFP: Dec 31](https://cfp.bsidesprg.cz/2027/cfp) |
-| **[Open Community Experience](https://ocxconf.org)** 🆕 | opensource | Apr 13–15, 2027 | Brussels, Belgium | [CFP: Dec 6](https://ocxconf.org/call-for-proposals) ⏰ 12d |
+| **[Open Community Experience](https://ocxconf.org)** | opensource | Apr 13–15, 2027 | Brussels, Belgium | [CFP: Dec 6](https://ocxconf.org/call-for-proposals) ⏰ 11d |
 | **[Digital Crafts Day](https://dc-nordoberpfalz.de/DigitalCraftsDay/2027)** | general | Apr 16, 2027 | Weiden, Germany | — |
 | **[Java Day Istanbul](https://www.javaday.istanbul)** | data, java, opensource | Apr 17, 2027 | Istanbul, Turkey | — |
 | **[AiX Conference](https://aixconf.co.uk)** | data, ux | Apr 21, 2027 | Newcastle-Upon-Tyne, U.K. | — |
-| **[CityAI by CityJS Conference](https://london.cityaiconf.org)** 🆕 | data, python | Apr 21–23, 2027 | London, U.K. | [CFP: Dec 31](https://sessionize.com/cityai2027/) |
+| **[CityAI by CityJS Conference](https://london.cityaiconf.org)** | data, python | Apr 21–23, 2027 | London, U.K. | [CFP: Dec 31](https://sessionize.com/cityai2027/) |
 | **[GITEX AI MEDITERRANEAN](https://www.gitexitaly.com)** | data | Apr 21–22, 2027 | Rome, Italy | — |
 | **[Strategy Ateliers](https://ateliers.design/strategy)** | ux | Apr 21–22, 2027 | Lisbon, Portugal | — |
 | **[ELC Conference](https://www.elc-conference.io)** | leadership | Apr 22, 2027 | Prague, Czech Republic | [CFP: Mar 17](https://www.elc-conference.io/cfp) |
@@ -156,7 +155,7 @@ _Last updated: November 24, 2026_
 | **[Mobile Makers](https://mobilemakers.fr/en/#cfp)** | ux, android | Apr 30, 2027 | Paris, France | [CFP: Jan 18](https://mobilemakers.fr/cfp) |
 | **[Re:Build](https://rebuildcon.uk)** | general | May 5–6, 2027 | London, U.K. | — |
 | **[JAX](https://jax.de/mainz)** | java | May 10–14, 2027 | Mainz, Germany 🌐 | — |
-| **[UXLx: User Experience Lisbon](https://ux-lx.com)** | ux | May 11–14, 2027 | Lisbon, Portugal | [CFP: Nov 30](https://forms.gle/ENdFQCoPAPskrpFG8) ⏰ 6d |
+| **[UXLx: User Experience Lisbon](https://ux-lx.com)** | ux | May 11–14, 2027 | Lisbon, Portugal | [CFP: Nov 30](https://forms.gle/ENdFQCoPAPskrpFG8) ⏰ 5d |
 | **[Agentic Ateliers](https://ateliers.design/agentic)** | ux | May 13–14, 2027 | Berlin, Germany | — |
 | **[Leadership Ateliers](https://ateliers.design/leadership)** | ux | May 20–21, 2027 | Amsterdam, Netherlands | — |
 | **[JSNation](https://jsnation.com)** | javascript | May 21–25, 2027 | Amsterdam, Netherlands | [CFP: Mar 1](https://gitnation.com/events/jsnation-2027/cfp) |
@@ -172,7 +171,7 @@ _Last updated: November 24, 2026_
 | **[GopherCon Europe + HeyAI](https://www.gophercon.eu)** | data, devops, golang | Jun 14–17, 2027 | Berlin, Germany | — |
 | **[IT Security Summit Berlin](https://it-security-summit.com/berlin)** | security | Jun 14–18, 2027 | Berlin, Germany 🌐 | — |
 | **[Nürnberg Digital Festival](https://nuernberg.digital/de)** | general | Jun 14–24, 2027 | Nürnberg, Germany 🌐 | — |
-| **[webinale Berlin](https://webinale.com/berlin)** 🆕 | javascript, ux | Jun 14–18, 2027 | Berlin, Germany 🌐 | — |
+| **[webinale Berlin](https://webinale.com/berlin)** | javascript, ux | Jun 14–18, 2027 | Berlin, Germany 🌐 | — |
 | **[Accelerate Tomorrow AI Summit](https://www.acceleratetomorrow.com)** | data, api | Jun 15–16, 2027 | Berlin, Germany | [CFP: May 1](https://www.acceleratetomorrow.com/become-a-speaker#speakersform) |
 | **[VibeKode Munich](https://vibekode.it/munich)** | general | Jun 21–25, 2027 | Munich, Germany 🌐 | — |
 | **[Annual Global Summit on Robotics, AI and Machine Learning](https://vividglobalsummits.com/2027/agsrobot)** | data | Sep 15–17, 2027 | Rome, Italy | — |

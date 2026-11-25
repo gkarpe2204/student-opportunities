@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Other
 
-2 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (193) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (160) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (40) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+2 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (194) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (159) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (42) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 24, 2026_
+_Last updated: November 25, 2026_
 
 ## 🏁 Hackathons
 

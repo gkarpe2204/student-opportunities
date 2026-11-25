@@ -1,8 +1,8 @@
 # 🌍 Student opportunities — Middle East & Africa
 
-6 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (193) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (160) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (40) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+6 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (194) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (159) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (42) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 24, 2026_
+_Last updated: November 25, 2026_
 
 ## 📚 Academic CS Conferences (paper deadlines)
 
@@ -20,6 +20,6 @@ _Last updated: November 24, 2026_
 |---|---|---|---|---|
 | **[AICD Summit](https://aicommunitydays.ai/events/aicd-summit-2026)** | data | Dec 5–6, 2026 | Tunis, Tunisia | — |
 | **[3rd International Conference on Artificial Intelligence and Data Science](https://datascience.averconferences.com)** | data | Feb 1–3, 2027 | Dubai, United Arab Emirates | [CFP: Jan 18](https://datascience.averconferences.com/abstract.php) |
-| **[Enterprise Private AI UAE](https://airswipe-global.com)** 🆕 | networking | Mar 17–18, 2027 | Dubai, United Arab Emirates | — |
+| **[Enterprise Private AI UAE](https://airswipe-global.com)** | networking | Mar 17–18, 2027 | Dubai, United Arab Emirates | — |
 
 [⬆️ Back to top](#)
