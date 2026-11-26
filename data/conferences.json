@@ -1,57 +1,7 @@
 {
- "updated": "2026-11-25",
+ "updated": "2026-11-26",
  "count": 530,
  "conferences": [
-  {
-   "name": "AI World Congress",
-   "url": "https://aiconference.london",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "location": "London, U.K.",
-   "country": "United Kingdom",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "data"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "ai-world-congress-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "WeAreDevelopers Conference India",
-   "url": "https://www.wearedevelopers.com/conference-india",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-25",
-   "end": "2026-11-26",
-   "location": "Bengaluru, India",
-   "country": "India",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "https://sessionize.com/wearedevelopers-conference-2026-india",
-   "topics": [
-    "data"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "wearedevelopers-conference-india-2026",
-   "region": "Asia",
-   "state": ""
-  },
   {
    "name": "EdTech Conference",
    "url": "https://edtechconferences.london",
@@ -122,7 +72,7 @@
     "In-person",
     "Beginner Friendly",
     "Open Ended",
-    "$CAD 403,400 in prizes"
+    "$CAD 448,000 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by AWS Student Builders Group - Laurier",
@@ -210,34 +160,6 @@
    "first_seen": "2026-11-07",
    "id": "workplace-ninjas-india-2026",
    "region": "Asia",
-   "state": ""
-  },
-  {
-   "name": "Zero-G Hacks",
-   "url": "https://zero-g-hacks.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-27",
-   "end": "2026-11-30",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Beginner Friendly",
-    "Design",
-    "$120 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by Zero-G CAD",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-23",
-   "id": "zero-g-hacks-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -586,6 +508,33 @@
    "state": ""
   },
   {
+   "name": "Workday Internal Hackathon",
+   "url": "https://connect.events.workday.com/aiaf",
+   "category": "hackathon",
+   "source": "mlh",
+   "start": "2026-11-30",
+   "end": "2026-12-02",
+   "location": "Pleasanton, CA",
+   "country": "United States",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Software",
+    "MLH"
+   ],
+   "rank": "",
+   "notes": "",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-26",
+   "id": "workday-internal-hackathon-2026",
+   "region": "North America",
+   "state": "California"
+  },
+  {
    "name": "305 CodeFest Edition December 2026 — 305Hackathons.vercel.app",
    "url": "https://305codefestdec2026.devpost.com/",
    "category": "hackathon",
@@ -787,34 +736,6 @@
    "first_seen": "2026-11-07",
    "id": "build-it-summit-2026",
    "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "HackTheFashion Global'26",
-   "url": "https://hackthefashion-global-26.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-12-01",
-   "end": "2027-01-15",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "AR/VR",
-    "Beginner Friendly",
-    "$10,000 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by AI SKILLS LAB KIET",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-24",
-   "id": "hackthefashion-global-26-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -1225,6 +1146,34 @@
    "state": ""
   },
   {
+   "name": "Zero-G Hacks",
+   "url": "https://zero-g-hacks.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-04",
+   "end": "2026-12-07",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Design",
+    "$120 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by Zero-G CAD",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-23",
+   "id": "zero-g-hacks-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "AICD Summit",
    "url": "https://aicommunitydays.ai/events/aicd-summit-2026",
    "category": "industry",
@@ -1379,6 +1328,33 @@
    "dates_auto": false,
    "first_seen": "2026-11-21",
    "id": "hackstead-winterfest-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
+   "name": "TechArenaX Vibe Coding Challenge — Season 01",
+   "url": "https://techarenax-vcc-s01.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-06",
+   "end": "2026-12-09",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "$50 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by TecharenaX",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-26",
+   "id": "techarenax-vibe-coding-challenge-season-01-2026",
    "region": "Online",
    "state": ""
   },
@@ -1659,6 +1635,34 @@
    "id": "fpt-2026",
    "region": "North America",
    "state": "Hawaii"
+  },
+  {
+   "name": "HackTheFashion Global'26",
+   "url": "https://hackthefashion-global-26.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-08",
+   "end": "2026-12-31",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "AR/VR",
+    "Beginner Friendly",
+    "$10,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by AI SKILLS LAB KIET",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-24",
+   "id": "hackthefashion-global-26-2026",
+   "region": "Online",
+   "state": ""
   },
   {
    "name": "droidcon London",
@@ -2191,7 +2195,7 @@
     "Online",
     "Beginner Friendly",
     "Open Ended",
-    "$146,805 in prizes"
+    "$147,105 in prizes"
    ],
    "rank": "",
    "notes": "Hosted by Cosmo Hacks",
@@ -8728,8 +8732,8 @@
    "location": "Shenyang, China",
    "country": "China",
    "online": false,
-   "deadline": "2026-11-25",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "Databases/Data Mining"

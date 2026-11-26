@@ -1,40 +1,41 @@
 # 🌍 Student opportunities — Online
 
-42 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (194) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (159) · [Asia](asia.md) (86) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (42) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
+43 upcoming · [← All regions](../README.md) · Other regions: [North America](north-america.md) (195) · [Latin America & Caribbean](latin-america-caribbean.md) (10) · [Europe](europe.md) (158) · [Asia](asia.md) (85) · [Middle East & Africa](middle-east-africa.md) (6) · [Oceania](oceania.md) (12) · [Online](online.md) (43) · [Location TBA](location-tba.md) (19) · [Other](other.md) (2)
 
-_Last updated: November 25, 2026_
+_Last updated: November 26, 2026_
 
 ## 🏁 Hackathons
 
 | Hackathon | Dates | Location | Deadline | Format & focus |
 |---|---|---|---|---|
 | **[thanksgiving thank you hackathon](https://thanksgiving-hackathon.devpost.com/)** 🆕 | Nov 27 – Dec 1, 2026 | 🌐 Online | — | Online, Low/No Code, Social Good |
-| **[Zero-G Hacks](https://zero-g-hacks.devpost.com/)** 🆕 | Nov 27–30, 2026 | 🌐 Online | — | Online, Beginner Friendly, Design, $120 in prizes |
 | **[Agents that act. Systems that answer.](https://accountable-agents.devpost.com/)** 🆕 | Nov 28 – Dec 1, 2026 | 🌐 Online | — | Online, Education, Machine Learning/AI |
 | **[HACKRISE'26 ](https://hackrise-26.devpost.com/)** | Nov 29, 2026 – Jan 31, 2027 | 🌐 Online | — | Online, DevOps, Machine Learning/AI, ₹ 1,000 in prizes |
 | **[305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](https://305codefestdec2026.devpost.com/)** | Dec 1–31, 2026 | 🌐 Online | — | Online, Beginner Friendly, Cybersecurity |
-| **[HackTheFashion Global'26](https://hackthefashion-global-26.devpost.com/)** 🆕 | Dec 1, 2026 – Jan 15, 2027 | 🌐 Online | — | Online, AR/VR, Beginner Friendly, $10,000 in prizes |
 | **[Zyrelyx Global AI Hackathon](https://zyrelyx-global-ai-hackathon.devpost.com/)** 🆕 | Dec 1–7, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Open Ended, $15,000 in prizes |
 | **[FRONTIER//26](https://frontier26.devpost.com/)** | Dec 4–11, 2026 | 🌐 Online | — | Online, Machine Learning/AI, Beginner Friendly |
+| **[Zero-G Hacks](https://zero-g-hacks.devpost.com/)** 🆕 | Dec 4–7, 2026 | 🌐 Online | — | Online, Beginner Friendly, Design, $120 in prizes |
 | **[BUILD 4 ALL](https://build4all.devpost.com/)** | Dec 5–12, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
 | **[Hackstead: Winterfest](https://hackstead.devpost.com/)** 🆕 | Dec 6–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $2,830 in prizes |
+| **[TechArenaX Vibe Coding Challenge — Season 01](https://techarenax-vcc-s01.devpost.com/)** 🆕 | Dec 6–9, 2026 | 🌐 Online | — | Online, Beginner Friendly, $50 in prizes |
+| **[HackTheFashion Global'26](https://hackthefashion-global-26.devpost.com/)** 🆕 | Dec 8–31, 2026 | 🌐 Online | — | Online, AR/VR, Beginner Friendly, $10,000 in prizes |
 | **[Arioron Think 2026](https://arioron-think-2026.devpost.com/)** | Dec 10–17, 2026 | 🌐 Online | — | Online, Beginner Friendly, Education |
 | **[Ryze Hacks 2026](https://ryzehacks.devpost.com/)** | Dec 10–18, 2026 | 🌐 Online | — | Online, Education, $3,260 in prizes |
 | **[Syntax Hacks 2026](https://syntax-hacks-2026.devpost.com/)** | Dec 14, 2026 – Jan 17, 2027 | 🌐 Online | — | Online, Open Ended |
 | **[OVO Hack 48](https://ovo-hack-48.devpost.com/)** | Dec 18–20, 2026 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[CodeTheCure Winter Hackathon](https://codethecure-winter-hackathon.devpost.com/)** 🆕 | Dec 19, 2026 – Jan 6, 2027 | 🌐 Online | — | Online, Education, Health |
-| **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $146,805 in prizes |
+| **[Cosmo Hacks 2026](https://cosmohacks.devpost.com/)** | Dec 19, 2026 – Jan 18, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $147,105 in prizes |
 | **[CrackleHacks](https://cracklehacks.devpost.com/)** 🆕 | Dec 20–30, 2026 | 🌐 Online | — | Online, Education, Gaming, $20 in prizes |
 | **[evensonarisnord](https://evensonarisnord.devpost.com/)** | Dec 31, 2026 | 🌐 Online | — | Online, Communication, Databases, $150 in prizes |
 | **[JanHacks 2027](https://janhacks-2027.devpost.com/)** 🆕 | Jan 1 – Mar 1, 2027 | 🌐 Online | — | Online, Beginner Friendly, Design |
 | **[MACHINE AGE](https://machineage.devpost.com/)** 🆕 | Jan 1 – Mar 31, 2027 | 🌐 Online | — | Online, Machine Learning/AI, $10,000 in prizes |
 | **[Steel City Codes Healthcare Hackathon](https://scc-healthcare-hackathon.devpost.com/)** 🆕 | Jan 1–15, 2027 | 🌐 Online | — | Online, Beginner Friendly, Health |
 | **[checkpoint 1 — games for good](https://checkpoint-1.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Gaming, Machine Learning/AI, $15,560 in prizes |
-| **[CSAIC Hack-AI-Thon](https://csaic-hackaithon.devpost.com/)** 🆕 | Jan 8–11, 2027 | 🌐 Online | — | Online, Education, Machine Learning/AI |
+| **[CSAIC Hack-AI-Thon](https://csaic-hackaithon.devpost.com/)** | Jan 8–11, 2027 | 🌐 Online | — | Online, Education, Machine Learning/AI |
 | **[United Hacks V8](https://unitedhacksv8.devpost.com/)** | Jan 8–10, 2027 | 🌐 Online | — | Online, Beginner Friendly, Design, $18,700 in prizes |
 | **[SunnyHacks Jan 2027](https://sunnyhacks-jan-2027.devpost.com/)** 🆕 | Jan 25 – Feb 1, 2027 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI |
 | **[GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships & Prizes](https://gnec-hackathon-2027-winter.devpost.com/)** | Jan 26 – Mar 26, 2027 | 🌐 Online | — | Online, Beginner Friendly, Education, $700 in prizes |
-| **[Launchly Project Sprint](https://launchlyapp.devpost.com/)** 🆕 | Jan 27 – Feb 24, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $1,500 in prizes |
+| **[Launchly Project Sprint](https://launchlyapp.devpost.com/)** | Jan 27 – Feb 24, 2027 | 🌐 Online | — | Online, Beginner Friendly, Open Ended, $1,500 in prizes |
 | **[HackTitan](https://hacktitan.devpost.com/)** | Feb 2–4, 2027 | 🌐 Online | — | Online, Beginner Friendly, Databases, $10,000 in prizes |
 | **[AI for Human Impact: A Global BASIS Hackathon](https://basisglobalhackathon.devpost.com/)** | Feb 6–13, 2027 | 🌐 Online | — | Online, Beginner Friendly, Machine Learning/AI, $10,200 in prizes |
 | **[MEGA Hackathon 2027](https://megahackathon-27.devpost.com/)** | Feb 14–21, 2027 | 🌐 Online | — | Online, COVID-19, Health |
