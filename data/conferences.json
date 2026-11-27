@@ -1,60 +1,7 @@
 {
- "updated": "2026-11-26",
- "count": 530,
+ "updated": "2026-11-27",
+ "count": 529,
  "conferences": [
-  {
-   "name": "EdTech Conference",
-   "url": "https://edtechconferences.london",
-   "category": "industry",
-   "source": "confs.tech",
-   "start": "2026-11-26",
-   "end": "2026-11-27",
-   "location": "London, U.K.",
-   "country": "United Kingdom",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "general"
-   ],
-   "rank": "",
-   "notes": "",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-07",
-   "id": "edtech-conference-2026",
-   "region": "Europe",
-   "state": ""
-  },
-  {
-   "name": "KickStart 2026",
-   "url": "https://kickstart-2026.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-26",
-   "end": "2026-11-30",
-   "location": "Vancouver, BC V6T 1Z2, Canada (UBC Sauder (Demo Day))",
-   "country": "Canada )",
-   "online": false,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "In-person",
-    "Beginner Friendly",
-    "Enterprise",
-    "$CAD 1,500 in prizes"
-   ],
-   "rank": "",
-   "notes": "Hosted by BizTech",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-21",
-   "id": "kickstart-2026",
-   "region": "Other",
-   "state": ""
-  },
   {
    "name": "K-Dub Hacks",
    "url": "https://k-dub-hacks.devpost.com/",
@@ -108,33 +55,6 @@
    "first_seen": "2026-11-07",
    "id": "loohacks-2026",
    "region": "North America",
-   "state": ""
-  },
-  {
-   "name": "thanksgiving thank you hackathon",
-   "url": "https://thanksgiving-hackathon.devpost.com/",
-   "category": "hackathon",
-   "source": "devpost",
-   "start": "2026-11-27",
-   "end": "2026-12-01",
-   "location": "",
-   "country": "Online",
-   "online": true,
-   "deadline": null,
-   "deadline_label": "",
-   "deadline_url": "",
-   "topics": [
-    "Online",
-    "Low/No Code",
-    "Social Good"
-   ],
-   "rank": "",
-   "notes": "Hosted by shrimat koti",
-   "funding": "",
-   "dates_auto": false,
-   "first_seen": "2026-11-25",
-   "id": "thanksgiving-thank-you-hackathon-2026",
-   "region": "Online",
    "state": ""
   },
   {
@@ -215,6 +135,34 @@
    "first_seen": "2026-11-07",
    "id": "blackout-2026",
    "region": "Asia",
+   "state": ""
+  },
+  {
+   "name": "Build AI on Kaspa",
+   "url": "https://build-ai-on-kaspa.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-11-28",
+   "end": "2026-11-28",
+   "location": "France (EPITA Kremlin-Bicêtre)",
+   "country": "France",
+   "online": false,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "In-person",
+    "Beginner Friendly",
+    "Blockchain",
+    "€1,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by GDG EPITA",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-27",
+   "id": "build-ai-on-kaspa-2026",
+   "region": "Europe",
    "state": ""
   },
   {
@@ -1716,6 +1664,34 @@
    "state": ""
   },
   {
+   "name": "PromptWarsXSyntaxSquad",
+   "url": "https://promptwarsxsyntaxsquad.devpost.com/",
+   "category": "hackathon",
+   "source": "devpost",
+   "start": "2026-12-09",
+   "end": "2026-12-09",
+   "location": "",
+   "country": "Online",
+   "online": true,
+   "deadline": null,
+   "deadline_label": "",
+   "deadline_url": "",
+   "topics": [
+    "Online",
+    "Beginner Friendly",
+    "Machine Learning/AI",
+    "₹ 30,000 in prizes"
+   ],
+   "rank": "",
+   "notes": "Hosted by syntaxsquad",
+   "funding": "",
+   "dates_auto": false,
+   "first_seen": "2026-11-27",
+   "id": "promptwarsxsyntaxsquad-2026",
+   "region": "Online",
+   "state": ""
+  },
+  {
    "name": "RTSS 2026",
    "url": "http://2026.rtss.org/",
    "category": "academic",
@@ -1809,6 +1785,7 @@
    "topics": [
     "Online",
     "Education",
+    "Beginner Friendly",
     "$3,260 in prizes"
    ],
    "rank": "",
@@ -2278,7 +2255,7 @@
     "$20 in prizes"
    ],
    "rank": "",
-   "notes": "Hosted by Deific Studios",
+   "notes": "Hosted by Hyperlattice",
    "funding": "",
    "dates_auto": false,
    "first_seen": "2026-11-25",
@@ -7323,8 +7300,8 @@
    "location": "Bruges, Belgium and Online",
    "country": "Belgium",
    "online": false,
-   "deadline": "2026-11-26",
-   "deadline_label": "Paper",
+   "deadline": null,
+   "deadline_label": "",
    "deadline_url": "",
    "topics": [
     "AI/ML"
